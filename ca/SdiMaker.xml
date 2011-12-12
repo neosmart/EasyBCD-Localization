@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="OK_Button" value="D'acord" />
-    <string key="Cancel_Button" value="Cancel·la" />
-    <string key="Body" value="Per continuar EasyBCD necessiteu accedir al medi d'instalació de Windows Vista o Windows 7 (normalment un DVD o una imatge en disc). &#xD;&#xA;&#xD;&#xA;Inseriu el DVD o munteu la imatge, i premeu D'acord per continuar." />
-    <string key="SdiMaker" value="Inseriu el medi d'instalació de Windows." />
-    <string key="mediaNotFound" value="No es troba el medi d'instalació de Windows." />
+    <string key="OK_Button" value="D'acord" version="1" />
+    <string key="Cancel_Button" value="Cancel·la" version="1" />
+    <string key="Body" value="Per continuar EasyBCD necessiteu accedir al medi d'instalació de Windows Vista o Windows 7 (normalment un DVD o una imatge en disc). &#xD;&#xA;&#xD;&#xA;Inseriu el DVD o munteu la imatge, i premeu D'acord per continuar." version="1" />
+    <string key="SdiMaker" value="Inseriu el medi d'instalació de Windows." version="1" />
+    <string key="mediaNotFound" value="No es troba el medi d'instalació de Windows." version="1" />
   </strings>
 </localization>

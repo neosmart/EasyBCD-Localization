@@ -1,37 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="numUpdateInterval" value="0" />
-    <string key="rdoWeeks" value="Setmana/es" />
-    <string key="lblLastUpdateCheck" value="Darrera cerca d'actualitzacions:" />
-    <string key="btnOK" value="  OK" />
-    <string key="btnCancel" value="     Cancel·la" />
-    <string key="chkExpertMode" value="Arrencar EasyBCD en Mode Expert" />
-    <string key="chkRememberBackup" value="Recordar el directori de còpia de BCD al sortir" />
-    <string key="lblExpertMode" value="El Mode Expert no pregunta a l'usuari abans de fer accions avançades!" />
-    <string key="chkLoadDefaultBcd" value="Carregar automàticament el següent arxiu a l'arrencar:" />
-    <string key="btnBrowseBcd" value="..." />
-    <string key="chkAutoUpdate" value="Actualitzar cada" />
-    <string key="chkRss" value="Incluir NeoSmart Technologies a Windows RSS Platform" />
-    <string key="rdoDays" value="Dia/es" />
-    <string key="rdoMonths" value="Mes/os" />
-    <string key="tabGeneralSettings" value="Configuració general" />
-    <string key="lblDefaultTab" value="Pestanya per defecte a l'arrencar:" />
-    <string key="lblDefaultDisplay" value="Mode de visualització per defecte:" />
-    <string key="lblOverviewFont" value="Font de resum:" />
-    <string key="lblDetailedFont" value="Font de detall:" />
-    <string key="lblOverviewSize" value="Mida:" />
-    <string key="numFontOverview" value="8" />
-    <string key="lblOverviewPt" value="pt." />
-    <string key="lblDetailedSize" value="Mida:" />
-    <string key="numFontDetailed" value="8" />
-    <string key="lblDetailedPt" value="pt." />
-    <string key="chkWordWrap" value="Ajust de línia activat per defecte" />
-    <string key="chkSaveWindow" value="Mida de la finestra de desar al sortir" />
-    <string key="ResetSize" value="Opcions de pantalla de reiniciar" />
-    <string key="tabDisplayOptions" value="Opcions de pantalla" />
-    <string key="OptionsDialog" value="Configuració d'EasyBCD" />
-    <string key="overview" value="Resum" />
-    <string key="detailed" value="Detall" />
+    <string key="numUpdateInterval" value="0" version="1" />
+    <string key="rdoWeeks" value="Setmana/es" version="1" />
+    <string key="lblLastUpdateCheck" value="Darrera cerca d'actualitzacions:" version="1" />
+    <string key="btnOK" value="  OK" version="1" />
+    <string key="btnCancel" value="     Cancel·la" version="1" />
+    <string key="chkExpertMode" value="Arrencar EasyBCD en Mode Expert" version="1" />
+    <string key="chkRememberBackup" value="Recordar el directori de còpia de BCD al sortir" version="1" />
+    <string key="lblExpertMode" value="El Mode Expert no pregunta a l'usuari abans de fer accions avançades!" version="1" />
+    <string key="chkLoadDefaultBcd" value="Carregar automàticament el següent arxiu a l'arrencar:" version="1" />
+    <string key="btnBrowseBcd" value="..." version="1" />
+    <string key="chkAutoUpdate" value="Actualitzar cada" version="1" />
+    <string key="chkRss" value="Incluir NeoSmart Technologies a Windows RSS Platform" version="1" />
+    <string key="rdoDays" value="Dia/es" version="1" />
+    <string key="rdoMonths" value="Mes/os" version="1" />
+    <string key="tabGeneralSettings" value="Configuració general" version="1" />
+    <string key="lblDefaultTab" value="Pestanya per defecte a l'arrencar:" version="1" />
+    <string key="lblDefaultDisplay" value="Mode de visualització per defecte:" version="1" />
+    <string key="lblOverviewFont" value="Font de resum:" version="1" />
+    <string key="lblDetailedFont" value="Font de detall:" version="1" />
+    <string key="lblOverviewSize" value="Mida:" version="1" />
+    <string key="numFontOverview" value="8" version="1" />
+    <string key="lblOverviewPt" value="pt." version="1" />
+    <string key="lblDetailedSize" value="Mida:" version="1" />
+    <string key="numFontDetailed" value="8" version="1" />
+    <string key="lblDetailedPt" value="pt." version="1" />
+    <string key="chkWordWrap" value="Ajust de línia activat per defecte" version="1" />
+    <string key="chkSaveWindow" value="Mida de la finestra de desar al sortir" version="1" />
+    <string key="ResetSize" value="Opcions de pantalla de reiniciar" version="1" />
+    <string key="tabDisplayOptions" value="Opcions de pantalla" version="1" />
+    <string key="OptionsDialog" value="Configuració d'EasyBCD" version="1" />
+    <string key="overview" value="Resum" version="1" />
+    <string key="detailed" value="Detall" version="1" />
   </strings>
 </localization>

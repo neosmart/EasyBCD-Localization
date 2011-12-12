@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="lblDriveSelect" value="Nou disc d'arrencada" />
-    <string key="lblBody" value="EasyBCD reconfigurarà el seu sistema per arrencar de la partició que seleccioneu més avall.  Aquest procés crearà un magatzem BCD al disc seleccionat, copiarà les entrades BCD actuals i convertirà la partició seleccionada en activa i arrencable." />
-    <string key="OK_Button" value="&amp;D'acord" />
-    <string key="Cancel_Button" value="&amp;Cancel·la" />
-    <string key="DriveSelect" value="Disc seleccionat" />
-    <string key="errorAlreadyBoot" value="El disc que heu seleccionat és l'actual disc d'arrencada. Si us plau, trieu un altre disc per continuar!" />
-    <string key="errorAlreadyBootTitle" value="Si us plau, trieu un altre disc!" />
+    <string key="lblDriveSelect" value="Nou disc d'arrencada" version="1" />
+    <string key="lblBody" value="EasyBCD reconfigurarà el seu sistema per arrencar de la partició que seleccioneu més avall.  Aquest procés crearà un magatzem BCD al disc seleccionat, copiarà les entrades BCD actuals i convertirà la partició seleccionada en activa i arrencable." version="1" />
+    <string key="OK_Button" value="&amp;D'acord" version="1" />
+    <string key="Cancel_Button" value="&amp;Cancel·la" version="1" />
+    <string key="DriveSelect" value="Disc seleccionat" version="1" />
+    <string key="errorAlreadyBoot" value="El disc que heu seleccionat és l'actual disc d'arrencada. Si us plau, trieu un altre disc per continuar!" version="1" />
+    <string key="errorAlreadyBootTitle" value="Si us plau, trieu un altre disc!" version="1" />
   </strings>
 </localization>
