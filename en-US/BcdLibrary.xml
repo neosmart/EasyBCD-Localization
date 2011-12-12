@@ -6,7 +6,7 @@
     <string key="accessDeniedTitle" value="Access Denied" version="1" />
     <string key="accessDeniedFormat" value="Access to {0} was denied. Please check that the file is not in use and that you have permission to delete/modify this location." version="1" />
     <string key="oneEntry" value="There is one entry in the Windows bootloader." version="1" />
-    <string key="multiEntriesFormat" value="There are a total of {0} entries listed in the bootloader.&#xD;&#xA;" version="1" />
+    <string key="multiEntriesFormat" value="There are a total of {0} entries listed in the bootloader." version="1" />
     <string key="entryNum" value="Entry #" version="1" />
     <string key="name" value="Name" version="1" />
     <string key="bcdId" value="BCD ID" version="1" />
