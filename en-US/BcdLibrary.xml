@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="accessViolationFormat" value="Unable to obtain exclusive access to {0}. If this is a removable disk, try ejecting and re-inserting it and then try again." version="1" />
+    <string key="failedSave" value="Failed to save changes!" version="1" />
+    <string key="accessDeniedTitle" value="Access Denied" version="1" />
+    <string key="accessDeniedFormat" value="Access to {0} was denied. Please check that the file is not in use and that you have permission to delete/modify this location." version="1" />
+    <string key="oneEntry" value="There is one entry in the Windows bootloader." version="1" />
+    <string key="multiEntriesFormat" value="There are a total of {0} entries listed in the bootloader.&#xD;&#xA;" version="1" />
+    <string key="entryNum" value="Entry #" version="1" />
+    <string key="name" value="Name" version="1" />
+    <string key="bcdId" value="BCD ID" version="1" />
+    <string key="drive" value="Drive" version="1" />
+    <string key="device" value="Device" version="1" />
+    <string key="path" value="Path" version="1" />
+    <string key="default" value="Default" version="1" />
+    <string key="timeout" value="Timeout" version="1" />
+    <string key="none" value="None" version="1" />
+    <string key="timeoutFormat" value="{0} seconds" version="1" />
+    <string key="skipped" value="Skipped" version="1" />
+    <string key="bootDevice" value="Boot Drive" version="1" />
+    <string key="ebcdBootDevice" value="EasyBCD Boot Device" version="1" />
+    <string key="bootloaderPath" value="Bootloader Path" version="1" />
+    <string key="bcdError" value="BCD Execution Error!" version="1" />
+    <string key="ntNotFoundTitle" value="Valid NT Install Not Found!" version="1" />
+    <string key="ntNotFound" value="EasyBCD failed to detect a valid installation of Windows NT-2003 on all mounted drives and was unable to continue." version="1" />
+    <string key="manuallyLoad" value="Would you like to manually load a BCD registry for EasyBCD to manage? Please note that EasyBCD requires the Windows Vista/7 bootloader, and will not work in XP-only environments." version="1" />
+    <string key="errorBcd" value="Error Opening BCD Registry" version="1" />
+    <string key="locateValid" value="Locate a valid BCD store" version="1" />
+    <string key="bcdRegistry" value="BCD Registry" version="1" />
+    <string key="partition" value="Partition" version="1" />
+    <string key="unknown" value="Unknown" version="1" />
+    <string key="gib" value="GiB" version="1" />
+    <string key="mib" value="MiB" version="1" />
+    <string key="as" value="as" version="1" />
+    <string key="defragFormat" value="Starting defragmentation of file {0}" version="1" />
+    <string key="unnamed" value="Unnamed Entry" version="1" />
+  </strings>
+</localization>

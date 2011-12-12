@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblDriveSelect" value="New Boot Drive:" version="1" />
+    <string key="lblBody" value="EasyBCD will re-configure your system to boot from the partition you select below. This process will set up a BCD store on the selected disk, copy the current BCD entries over, and make the selected partition both active &amp; bootable." version="1" />
+    <string key="OK_Button" value="&amp;OK" version="1" />
+    <string key="Cancel_Button" value="&amp;Cancel" version="1" />
+    <string key="DriveSelect" value="DriveSelect" version="1" />
+    <string key="errorAlreadyBoot" value="The drive you have selected is already the current boot drive. Please select a different drive to continue!" version="1" />
+    <string key="errorAlreadyBootTitle" value="Please select another drive!" version="1" />
+  </strings>
+</localization>

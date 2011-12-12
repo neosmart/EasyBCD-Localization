@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linkLabel" value="This copy of EasyBCD requires the purchase of a commercial license.&#xD;&#xA;&#xD;&#xA;Please enter either the email address or the license number associated with your purchase. Click here to purchase a license, or contact Sales@NeoSmart.net for support." version="1" />
+    <string key="linkClick" value="Click here" version="1" />
+    <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
+    <string key="btnSkip" value="S&amp;kip" version="1" />
+    <string key="btnRegister" value="&amp;Register" version="1" />
+    <string key="lblTitle" value="EasyBCD Commercial Edition" version="1" />
+    <string key="lblLicenseKey" value="Email or License Key:" version="1" />
+    <string key="LicenseDialog" value="EasyBCD Commercial Edition" version="1" />
+    <string key="email" value="Email" version="1" />
+    <string key="licenseKey" value="License Key" version="1" />
+    <string key="seats" value="Seats" version="1" />
+    <string key="regFailTitle" value="Registration Unsuccessful!" version="1" />
+    <string key="regFail" value="Incorrect email or license key. Please try again." version="1" />
+    <string key="regException" value="Error encountered while obtaining license from remote server. Please ensure you are connected to the internet or try again later." version="1" />
+    <string key="regExceptionTitle" value="Unable to Register" version="1" />
+  </strings>
+</localization>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OK_Button" value="OK" version="1" />
+    <string key="Cancel_Button" value="Cancel" version="1" />
+    <string key="Body" value="In order to continue, EasyBCD needs to access the Windows Vista or Windows 7 installation media (usually a DVD or a disc image). &#xD;&#xA;&#xD;&#xA;Please insert the DVD into your optical drive or mount the disc image, then press OK to continue." version="1" />
+    <string key="SdiMaker" value="Insert Windows Installation Media" version="1" />
+    <string key="mediaNotFound" value="Valid Windows installation media not detected." version="1" />
+  </strings>
+</localization>

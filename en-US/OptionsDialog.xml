@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnOK" value="  OK" version="1" />
+    <string key="btnCancel" value="     Cancel" version="1" />
+    <string key="chkExpertMode" value="Run EasyBCD in Expert Mode" version="1" />
+    <string key="chkRememberBackup" value="Remember the BCD Backup directory upon exit" version="1" />
+    <string key="lblExpertMode" value="Expert mode does not prompt user before taking advanced actions!" version="1" />
+    <string key="chkLoadDefaultBcd" value="Automatically load the following BCD file on start:" version="1" />
+    <string key="btnBrowseBcd" value="..." version="1" />
+    <string key="chkAutoUpdate" value="AutoUpdate every " version="1" />
+    <string key="chkRss" value="Include NeoSmart Technologies in Windows RSS Platform" version="1" />
+    <string key="numUpdateInterval" value="0" version="1" />
+    <string key="rdoDays" value="Day(s)" version="1" />
+    <string key="rdoWeeks" value="Week(s)" version="1" />
+    <string key="rdoMonths" value="Month(s)" version="1" />
+    <string key="lblLastUpdateCheck" value="Last automatic check: " version="1" />
+    <string key="tabGeneralSettings" value="General Settings" version="1" />
+    <string key="lblDefaultTab" value="Default tab at startup: " version="1" />
+    <string key="lblDefaultDisplay" value="Default display mode: " version="1" />
+    <string key="lblOverviewFont" value="Overview font:" version="1" />
+    <string key="lblDetailedFont" value="Detailed view font: " version="1" />
+    <string key="lblOverviewSize" value="Size: " version="1" />
+    <string key="numFontOverview" value="8" version="1" />
+    <string key="lblOverviewPt" value="pt." version="1" />
+    <string key="lblDetailedSize" value="Size: " version="1" />
+    <string key="numFontDetailed" value="8" version="1" />
+    <string key="lblDetailedPt" value="pt." version="1" />
+    <string key="chkWordWrap" value="WordWrap enabled by default" version="1" />
+    <string key="chkSaveWindow" value="Save EasyBCD window size on exit" version="1" />
+    <string key="ResetSize" value="Reset Display Options" version="1" />
+    <string key="tabDisplayOptions" value="Display Options" version="1" />
+    <string key="OptionsDialog" value="EasyBCD Settings" version="1" />
+    <string key="overview" value="Overview" version="1" />
+    <string key="detailed" value="Detailed" version="1" />
+  </strings>
+</localization>

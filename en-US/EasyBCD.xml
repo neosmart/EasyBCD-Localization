@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linuxAuto" value="Automatically locate and load" version="1" />
+    <string key="communityText" value="EasyBCD Community Edition is freely licensed for non-commercial use. &#xD;&#xA;If you are using this software in a commercial environment, please click 'Cancel' below to purchase a commercial license. Otherwise, click 'OK' to continue." version="1" />
+    <string key="communityTitle" value="EasyBCD Community Edition" version="1" />
+    <string key="bcdInUse" value="The current file is in use and cannot be opened by EasyBCD. If you're trying to (re)select the system store, press No below and then use the &quot;Load System Store&quot; option from the File menu.&#xD;&#xA;&#xD;&#xA;Would you like to select a different store for use in EasyBCD?" version="1" />
+    <string key="bcdInUseTitle" value="Access Violation Error" version="1" />
+    <string key="accessDenied" value="Access Denied!" version="1" />
+    <string key="uncUnsupported" value="Network paths are not supported for this feature. Please enter a different path and try again." version="1" />
+    <string key="uncUnsupportedTitle" value="UNC Paths Not Supported" version="1" />
+    <string key="invalidPath" value="Invalid file or path name detected. Please enter a valid path to continue." version="1" />
+    <string key="invalidPathTitle" value="Invalid Path!" version="1" />
+    <string key="updateCheck" value="Checking for updates to EasyBCD..." version="1" />
+    <string key="updateFailed" value="Update check failed. Error establishing network connection." version="1" />
+    <string key="updateFailedSB" value="EasyBCD update check failed: " version="1" />
+    <string key="updateFound" value="New version of EasyBCD found!" version="1" />
+    <string key="updateFoundText" value="A new version of EasyBCD has been found. Would you like to go to the EasyBCD download page now to upgrade to the latest version?" version="1" />
+    <string key="updateNone" value="You have the latest version of EasyBCD." version="1" />
+    <string key="install" value="Install" version="1" />
+    <string key="remove" value="Remove" version="1" />
+    <string key="adminLine1" value="EasyBCD requires administrator privileges to run correctly, and cannot continue." version="1" />
+    <string key="adminLine2" value="Please log on or run as an Administrator in order to continue." version="1" />
+    <string key="adminTitle" value="Permission Denied" version="1" />
+    <string key="easybcdBackup" value="EasyBCD Backup" version="1" />
+    <string key="yes" value="Yes" version="1" />
+    <string key="no" value="No" version="1" />
+    <string key="registryFailed" value="Unable to write registry settings" version="1" />
+    <string key="commercialEdition" value="Commercial Edition" version="1" />
+    <string key="communityEdition" value="Community Edition" version="1" />
+    <string key="failedAddTitle" value="Failed to Add Entry!" version="1" />
+    <string key="msdosHelp" value="In order for EasyBCD to boot into MS-DOS 6.x or Windows 3.x, IO.SYS and MSDOS.SYS must be at the start of the active partition.&#xD;&#xA;&#xD;&#xA;For more information on how this is accomplished, press 'Yes' to open the EasyBCD documentation page for DOS-based entries. If you'd rather not view the documentation right now, press 'No' instead." version="1" />
+    <string key="msdosHelpTitle" value="Read EasyBCD's MS-DOS Documentation?" version="1" />
+    <string key="addedFormat" value="{0} added to the boot menu successfully!" version="1" />
+    <string key="neogrubBootloader" value="NeoGrub Bootloader" version="1" />
+    <string key="neogrubRemoved" value="NeoGrub removed successfully!" version="1" />
+    <string key="vhdErrorTitle" value="Error Adding VHD Entry" version="1" />
+    <string key="errorSpaces" value="The image path must not contain any spaces. Please correct this and try again." version="1" />
+    <string key="isoErrorTitle" value="Error Adding ISO Entry" version="1" />
+    <string key="floppyErrorTitle" value="Error Adding Floppy Entry" version="1" />
+    <string key="path" value="Path:" version="1" />
+    <string key="name" value="Name:" version="1" />
+    <string key="drive" value="Drive:" version="1" />
+    <string key="browseFileTitle" value="Browse for File" version="1" />
+    <string key="wimFiles" value="Windows Image Files" version="1" />
+    <string key="vhdFiles" value="Virtual Hard Disk Files" version="1" />
+    <string key="isoFiles" value="ISO Images" version="1" />
+    <string key="imgFiles" value="IMG Files" version="1" />
+    <string key="bcdFiles" value="EasyBCD Backup Files" version="1" />
+    <string key="safeIntro" value="EasyBCD lets you create extra entries to boot into the same OS, but with different options. By creating a new entry and giving it one of the Safe Mode flags, you can use it to quickly debug your system." version="1" />
+    <string key="safeNormal" value="Normal: Disables all recovery options, letting you boot into your OS normally." version="1" />
+    <string key="safeVga" value="Basic VGA: Loads the basic display drivers, resetting the screen resolution." version="1" />
+    <string key="safeNetworking" value="Safe Mode w/ Networking: Boot into safe mode with access to the internet and local network." version="1" />
+    <string key="safeMode" value="Safe Mode: Boot into safe mode with no network access. Useful if the network drivers have been corrupted." version="1" />
+    <string key="safeAD" value="Active Directory Repair: Boots Windows Server 2008 into Active Directory repair mode." version="1" />
+    <string key="safeTitle" value="About Safe Mode Options" version="1" />
+    <string key="paeIntro" value="Physical address extension determines how Windows will map extra memory beyond the 4 GiB memory marker." version="1" />
+    <string key="paeDefault" value="Default: Lets Windows determine how memory will be mapped." version="1" />
+    <string key="paeEnable" value="Force Enable: Forces memory mapping." version="1" />
+    <string key="paeDisable" value="Force Disable: Disables the mapping of extra memory." version="1" />
+    <string key="paeTitle" value="About PAE Options" version="1" />
+    <string key="nxIntro" value="DEP/NoExecute is a hardware-layer malicious script detection system introduced in Windows XP SP2 that can help protect your system from attack, but it is known cause some compatibility problems." version="1" />
+    <string key="nxOptIn" value="OptIn: Windows core is DEP-protected." version="1" />
+    <string key="nxOptOut" value="OptOut: Windows and applications are DEP-protected." version="1" />
+    <string key="nxOn" value="AlwaysOn: DEP is forced for all applications." version="1" />
+    <string key="nxOff" value="AlwaysOff: DEP is disabled for Windows and all applications." version="1" />
+    <string key="nxTitle" value="About DEP/NoExecute" version="1" />
+    <string key="errorNotPrimary" value="The boot partition must be a primary partition.&#xD;&#xA;&#xD;&#xA;Please either select a different drive or convert the selected partition to primary first, then try again." version="1" />
+    <string key="opNotAllowed" value="Operation Not Allowed!" version="1" />
+    <string key="errorNotMounted" value="EasyBCD cannot make unmounted drives bootable. Please assign a letter to the selected drive, restart EasyBCD, and try again." version="1" />
+    <string key="invalidDrive" value="Invalid Drive Operation" version="1" />
+    <string key="bootableSuccess" value="EasyBCD has successfully converted the selected disk into a bootable drive. In order to configure the boot menu entries on the selected partition, you must use 'File | Select BCD Store' and choose the \\boot\\BCD file on the partition you just prepped." version="1" />
+    <string key="mountBcdNow" value="Would you like to automatically load the newly-created BCD store in EasyBCD now?" version="1" />
+    <string key="bootableTitle" value="Bootable Disk Created" version="1" />
+    <string key="accessDeniedText" value="Unable to obtain access to the BCD. Please check and make sure that the BCD store on the selected device is not currently in use." version="1" />
+    <string key="partitionConverted" value="Partition converted to bootable drive" version="1" />
+    <string key="bcdRemove1" value="This is an advanced option that should only be use if you're absolutely sure you wish to uninstall the Windows Vista/7 Bootloader!" version="1" />
+    <string key="bcdRemove2" value="This feature will only boot into Windows XP if the proper boot files are already in place!" version="1" />
+    <string key="bcdRemove3" value="Are you sure you wish to continue?" version="1" />
+    <string key="warning" value="Warning!" version="1" />
+    <string key="mbrSuccess" value="MBR written successfully" version="1" />
+    <string key="bootloaderSuccess" value="Bootloader settings saved successfully" version="1" />
+    <string key="bcdReset" value="The BCD has been successfully reset. All entries have been erased!&#xD;&#xA;&#xD;&#xA;Important: You must add at least one entry or else your PC will not boot!" version="1" />
+    <string key="bcdResetTitle" value="BCD Reset" version="1" />
+    <string key="selectBootTitle" value="Select New Boot Partition" version="1" />
+    <string key="selectBoot" value="EasyBCD will re-configure your system to boot from the partition you select below. This process will set up a BCD store on the selected disk, copy the current BCD entries over, and make the selected partition both active &amp; bootable." version="1" />
+    <string key="errorLogical" value="An attempt was made to change the boot partition to a logical drive, which is not allowed. The boot partition must be a primary partition.&#xD;&#xA;&#xD;&#xA;Please either select a different drive or convert the selected partition to primary first, then try again." version="1" />
+    <string key="bootChangedFormat" value="EasyBCD has successfully made drive {0} the new boot partition, and has loaded the new BCD store for modification, should you wish to make any further changes. If this partition is on your first boot disk, you don't need to take any further action. If it's not, you should now turn off your PC and change the boot drive from the BIOS for the changes to take effect." version="1" />
+    <string key="bootChangedTitle" value="Boot Partition Changed" version="1" />
+    <string key="unsupportedOS" value="This option is only available on Windows Vista, Windows 7, and Windows 8." version="1" />
+    <string key="unsupportedOSTitle" value="Unsupported Operating System!" version="1" />
+    <string key="errorNoRestore" value="Fatal error: Unable to restore selected store." version="1" />
+    <string key="errorNoRestoreTitle" value="Restore Error" version="1" />
+    <string key="confirmDelete" value="Are you sure you want to delete this entry?" version="1" />
+    <string key="confirmDeleteTitle" value="Confirm Delete?" version="1" />
+    <string key="entryDeleted" value="Boot menu entry deleted" version="1" />
+    <string key="thankYou" value="Your support is appreciated!" version="1" />
+    <string key="loadExternal" value="With this feature, EasyBCD will load and use an external BCD database of your choice. Changes will be made to this BCD store and will not affect your default system configuration." version="1" />
+    <string key="loadExternalTitle" value="Selecting a New Store" version="1" />
+    <string key="easybcdFiles" value="EasyBCD Files" version="1" />
+    <string key="errorRO1" value="You either don't have permission to write to the selected file, the file is set to read-only, or is stored on a read-only medium." version="1" />
+    <string key="errorRO2" value="If you choose to proceed, changes made to this BCD store will not be saved. Press 'Yes' to continue and load this BCD store in read-only mode or 'No' to continue using the previous BCD store." version="1" />
+    <string key="errorROTitle" value="Read-Only BCD Store Detected" version="1" />
+    <string key="bcdLoadedFormat" value="BCD information loaded from {0}" version="1" />
+    <string key="noBcd" value="No BCD store loaded. EasyBCD running in limited mode." version="1" />
+    <string key="confirmRestart" value="Are you sure you want to restart your computer?" version="1" />
+    <string key="confirmRestartTitle" value="Confirm Restart" version="1" />
+    <string key="shutdownStarted" value="Shutdown initiated." version="1" />
+    <string key="hiddenBootIni" value="Boot.ini is located on the hidden boot partition and cannot be loaded for user editing by EasyBCD.&#xD;&#xA;&#xD;&#xA;Please either assign a drive letter to the hidden boot partition or use the Windows XP dual-boot auto-configuration feature instead." version="1" />
+    <string key="errorBootIniTitle" value="Unable to load boot.ini!" version="1" />
+    <string key="errorBootIniFormat" value="EasyBCD could not detect an existing boot.ini file on the boot partition {0}.&#xD;&#xA;&#xD;&#xA;Please add a new Windows XP or Windows 2000 entry to use the boot.ini auto-configuration feature instead." version="1" />
+    <string key="errorUtility" value="Error Encountered Running Utility" version="1" />
+    <string key="sysInfo" value="System Information" version="1" />
+    <string key="sysInfoText" value="Displays information regarding your current hardware and software configuration. Useful for pinning down hardware failures and for quickly getting a dump of the current system setup." version="1" />
+    <string key="powerConsole" value="EasyBCD Power Console" version="1" />
+    <string key="powerConsoleText" value="Quick access to a command-line shell with full administrative privileges. Use it for carrying out system functions or quick access to bcdedit and bootsect.exe." version="1" />
+    <string key="sysRestore" value="System Restore" version="1" />
+    <string key="sysRestoreText" value="Opens the System Restore panel, use it to quickly revert/fix any changes that leave your PC in trouble." version="1" />
+    <string key="restoreCds" value="Windows Vista/7 System Restore CDs" version="1" />
+    <string key="restoreCdsText" value="Download a copy of the Windows Vista and Windows 7 system restore CDs to keep at hand in case disaster strikes. You can use EasyBCD to boot into these recovery discs from a USB." version="1" />
+    <string key="controlPanel" value="Control Panel" version="1" />
+    <string key="controlPanelText" value="Launch the Control Panel, and use it to do whatever you like." version="1" />
+    <string key="iRebootText" value="NeoSmart Technologies' helper app for EasyBCD. iReboot sits in your taskbar (taking up only 400KB of memory!) and lets you choose which operating system to reboot into quickly and easily." version="1" />
+    <string key="errorNoEntries" value="EasyBCD has detected that there are no entries currently installed. If you exit EasyBCD and restart your computer, it will not boot.&#xD;&#xA;&#xD;&#xA;Are you sure you want to exit before adding a new entry?" version="1" />
+    <string key="errorNoEntriesTitle" value="No Entries Installed!" version="1" />
+    <string key="errorPathSave" value="EasyBCD failed to save the current backup path as the default backup directory. The option has been disabled." version="1" />
+    <string key="errorPathSaveTitle" value="Default Backup Path Problem" version="1" />
+    <string key="isoHelp1" value="EasyBCD supports loading ISO images in two different modes. Please note that not all ISOs will function correctly; usually Linux setup ISOs will not work." version="1" />
+    <string key="isoHelp2" value="Run from Disk: Loads quicker at boot, but runs slower. Also requires pre-processing by EasyBCD during creation." version="1" />
+    <string key="isoHelp3" value="Load from Memory: Runs faster, but takes time to load upon selection during boot. May fail for larger discs or older PCs." version="1" />
+    <string key="isoHelpTitle" value="About ISO Options" version="1" />
+    <string key="warnDiffDevice" value="The selected file is stored on a different device than the boot files. If you intend on using this entry to boot on a different PC than one you are currently using, you should copy this file to the external drive then try again.&#xD;&#xA;&#xD;&#xA;Would you like to continue anyway?" version="1" />
+    <string key="diffDeviceTitle" value="Non-Portable Entry Detected!" version="1" />
+    <string key="errorNoBcd" value="No BCD registry loaded - running in reduced-functionality mode!" version="1" />
+    <string key="bcdExceptionFormat" value="BCD Exception 0x{0:X3}" version="1" />
+    <string key="userCancel" value="Operation canceled by user." version="1" />
+    <string key="renameSuccess" value="Entry renamed successfully" version="1" />
+    <string key="plop" value="EasyBCD BIOS Extender" version="1" />
+    <string key="entryRemovedFormat" value="{0} has been removed" version="1" />
+    <string key="drive2" value="Drive" version="1" />
+    <string key="bcdResetStatus" value="BCD reset successfully. Please reconfigure now!" version="1" />
+    <string key="bcdRepaired" value="BCD successfully repaired" version="1" />
+    <string key="configSaved" value="Entry configuration saved successfully" version="1" />
+    <string key="backupSuccess" value="BCD backed up successfully" version="1" />
+    <string key="restoreSuccess" value="Restore completed successfully" version="1" />
+    <string key="bcdRefresh" value="Cached BCD data has been successfully refreshed" version="1" />
+    <string key="optionsSaved" value="Options saved successfully!" version="1" />
+    <string key="orderSaved" value="Entry order saved" version="1" />
+    <string key="easybcdStatus" value="EasyBCD Status" version="1" />
+  </strings>
+</localization>
