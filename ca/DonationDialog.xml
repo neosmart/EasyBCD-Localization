@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="chkDontRemind" value="No m'ho torneu a recordar" />
+    <string key="btnCancel" value="No, gràcies" />
+    <string key="btnDonate" value="&amp;Donar" />
+    <string key="lblDonationIntro" value="EasyBCD Community Edition és un programari 100% gratuit, i volem mantenir-lo així. Però que sigui gratuit no vol dir que no tingui despeses per desenvolupar-lo i provar.lo.&#xD;&#xA;&#xD;&#xA;EasyBCD s'ha descarregat sense pagar més de 25 milions de vegades, salvant incomptables ordinadors a prop de la  destrucció." />
+    <string key="donationTitle" value="Ajudeu EasyBCD, ajudeu-vos!" />
+    <string key="lblYouDonate" value="Voleu donar per ajudar EasyBCD a salvar més PCs?" />
+    <string key="DonationDialog" value="Us ha ajudat EasyBCD?" />
+  </strings>
+</localization>

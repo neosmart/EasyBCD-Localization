@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="rdoModeBasic" value="Resum" />
+    <string key="rdoModeDetailed" value="Detall (Mode Depuració)" />
+    <string key="chkWordWrap" value="Ajust de línia" />
+    <string key="grpDisplayMode" value="Mode de Visualització&#xD;&#xA;" />
+    <string key="tabViewSettings" value="1" />
+    <string key="rdoTimeoutCount" value="Esperar durant" />
+    <string key="numTimeout" value="0" />
+    <string key="rdoTimeoutNone" value="Esperar la selecció de l'usuari" />
+    <string key="rdoTimeoutSkip" value="Ometre el menú d'arrencada" />
+    <string key="btnSaveBCD" value="Desar Configuració" />
+    <string key="groupBox2" value="Opcions de Temps d'espera" />
+    <string key="btnUp" value="Amunt" />
+    <string key="btnDown" value="Avall" />
+    <string key="btnRenameEntry" value="Canvia el nom" />
+    <string key="btnDelete" value="Eliminar" />
+    <string key="groupBox1" value="Modificar menú d'entrades" />
+    <string key="tabEditMenu" value="2" />
+    <string key="btnVhdBrowse" value="..." />
+    <string key="lblVhdName" value="Nom:" />
+    <string key="lblVhdType" value="Tipus:" />
+    <string key="txtVhdName" value="NeoSmart VHD Imatge" />
+    <string key="btnAddVhd" value="Afegir entrada" />
+    <string key="tabPage13" value="Imatge de Disc" />
+    <string key="lblIsoName" value="Nom:" />
+    <string key="lblIsoMode" value="Mode:" />
+    <string key="btnIsoBrowse" value="..." />
+    <string key="txtIsoName" value="Entrada ISO NeoSmart" />
+    <string key="lblIsoPath" value="Camí:" />
+    <string key="btnAddIso" value="Afegir Entrada" />
+    <string key="tabPage14" value="ISO" />
+    <string key="btnPeBrowse" value="..." />
+    <string key="lblPeType" value="Tipus:" />
+    <string key="lblPeName" value="Nom:" />
+    <string key="lblWinPE_Path" value="Camí:" />
+    <string key="txtPeName" value="Imatge NST WinPE" />
+    <string key="chkEms" value="EMS Habilitat" />
+    <string key="btnAddPE" value="Afegir Entrada" />
+    <string key="tabPage12" value="WinPE" />
+    <string key="lblFloppyName" value="Nom:" />
+    <string key="txtFloppyName" value="NeoSmart Floppy Imatge" />
+    <string key="lblFloppyPath" value="Camí:" />
+    <string key="btnFloppyBrowse" value="..." />
+    <string key="btnAddFloppy" value="Afegir Entrada" />
+    <string key="tabFloppy" value="Disquet" />
+    <string key="btnPlopInstall" value="Instal·lar PLoP" />
+    <string key="btnPlopRemove" value="Eliminar PLoP" />
+    <string key="lblBiosExtend" value="La extensió de BIOS d'EasyBCD permet arrencar desde xarxa, CD o USB ordinadors que no ho suporten nativament." />
+    <string key="tabPagePlop" value="Extensió de BIOS" />
+    <string key="grpPortable" value="Medi Portàtil/Extern" />
+    <string key="lblWindowsAuto" value="Determinat automàticament" />
+    <string key="btnAddWindows" value="Afegir Entrada" />
+    <string key="chkAutoXp" value="Detectar el Disc correcte automáticament" />
+    <string key="emptyList" value="Cap entrada detectada!" />
+    <string key="lstExtracted" value="Esquema del sistema d'arxius extret" />
+    <string key="lblWinName" value="Nom:" />
+    <string key="lblWinType" value="Tipus:" />
+    <string key="lblWinDrive" value="Disc:" />
+    <string key="txtWinName" value="Microsoft Windows" />
+    <string key="tabPage8" value="Windows" />
+    <string key="btnAddLinux" value="Afegir entrada" />
+    <string key="chkGrub" value="Utilitzar la còpia de GRUB d'EasyBCD" />
+    <string key="lblLinType" value="Tipus:" />
+    <string key="lblLinName" value="Nom:" />
+    <string key="txtLinName" value="NeoSmart Linux" />
+    <string key="lblLinDrive" value="Disc:" />
+    <string key="lblLinAuto" value="Determinat automàticament" />
+    <string key="tabPage9" value="Linux/BSD" />
+    <string key="lblMacName" value="Nom:" />
+    <string key="txtMacName" value="NST Mac OS X" />
+    <string key="lblMacMode" value="Mode:" />
+    <string key="btnAddMac" value="Afegir entrada" />
+    <string key="tabPageMac" value="Mac" />
+    <string key="btnNeoGrub" value="Instal·lar" />
+    <string key="btnNeoGrubConfig" value="Configurar" />
+    <string key="lblNeoGrub" value="El gestor d'arrencada de NeoGrub es pot usar per arrencar en Linux o versions antigues de Windows, o també en discs ocults." />
+    <string key="tabPage11" value="NeoGrub" />
+    <string key="grpOS" value="Sistemes Operatius" />
+    <string key="tabAddEntry" value="3" />
+    <string key="btnSaveSettings" value="Desar configuració" />
+    <string key="lblNewName" value="Nom:" />
+    <string key="lblNewDrive" value="Disc:" />
+    <string key="lblLocale" value="Localització:" />
+    <string key="tabEntryBasic" value="Bàsic" />
+    <string key="lblSafeMode" value="Mode segur:" />
+    <string key="lblPae" value="PAE suport:" />
+    <string key="lblDep" value="NoExecute:" />
+    <string key="chkEntryUnsigned" value="Permetre l'ús de controladors sense signar a Windows 64 bits" />
+    <string key="tabEntryAdvanced" value="Avançat" />
+    <string key="chkEntryKernelDebug" value="Executar Windows en mode de depuració" />
+    <string key="chkEntrySos" value="Executar en SOS/Verbose-Boot Mode" />
+    <string key="chkEntryMemory" value="Deduir" />
+    <string key="numEntryMemory" value="0" />
+    <string key="lblDeduct2" value="MB de memòria física" />
+    <string key="chkEntryCpu" value="Limitar Windows a" />
+    <string key="numEntryCpu" value="0" />
+    <string key="lblLimit2" value="CPUs" />
+    <string key="tabEntryDeveloper" value="Desenvolupador" />
+    <string key="lblAdvancedSettings" value="Algunes configuracions poden no estar disponibles segons la entrada que es modifiqui." />
+    <string key="grpChangeSettings" value="Canviar configuració" />
+    <string key="lblPickLH" value="Triar una entrada de la llista per ajustar." />
+    <string key="grpSelectLH" value="Triar un sistema operatiu" />
+    <string key="tabAdvanced" value="4" />
+    <string key="lblFile1" value="Arxiu:" />
+    <string key="btnBackupBrowse" value="..." />
+    <string key="btnRestoreBrowse" value="..." />
+    <string key="btnBackup" value="Configuració de còpia de seguretat" />
+    <string key="lblFile2" value="Arxiu:" />
+    <string key="btnRestore" value="Restauració de còpia de seguretat" />
+    <string key="grpBackupRestore" value="Còpia i restauració de configuració de bootloader" />
+    <string key="rdoBcdChange" value="Canviar el disc d'arrencada" />
+    <string key="rdoBcdRepair" value="Recrear/arrreglar arxius d'arrencada" />
+    <string key="btnBcdRescue" value="Realitzar l'acció" />
+    <string key="rdoBcdReset" value="Reiniciar la configuració de BCD" />
+    <string key="grpDiagnostics" value="Opcions de gestió de BCD" />
+    <string key="tabBcdInstall" value="5" />
+    <string key="btnMakeBootable" value="Instal·lar BCD" />
+    <string key="lblUsbPartitions" value="Partició:" />
+    <string key="lblCreateBootable" value="EasyBCD pot automatitzar el procés de creació de medis arrencables. Trieu una partició per començar." />
+    <string key="grpCreateBootableExternal" value="Crear medi extern arrencable" />
+    <string key="btnMbrWrite" value="Escriure MBR" />
+    <string key="rdoMbrXP" value="Instal·lar el bootloader de Windows XP al MBR" />
+    <string key="rdoMbrVista" value="Instal·lar el bootloader de Windows Vista/7 al MBR" />
+    <string key="grpBootloader" value="Opcions de configuració del MBR" />
+    <string key="tabMbrSetup" value="6" />
+    <string key="grpUtils" value="Utilitats pràctiques" />
+    <string key="tabUtilities" value="7" />
+    <string key="btnBcdInstall" value="Copiar/Arreglar BCD" />
+    <string key="btnUtilities" value="Utilitats pràctiques" />
+    <string key="btnMbrSetup" value="Desplegament de BCD" />
+    <string key="btnAdvanced" value="Configuració avançada" />
+    <string key="btnAddEntry" value="Afegir entrada" />
+    <string key="btnEditMenu" value="Editar el menú d'arrencada" />
+    <string key="btnViewSettings" value="Veure configuració" />
+    <string key="grpToolbox" value="EasyBCD Toolbox" />
+    <string key="mnuSelectBcd" value="&amp;Seleccionar Magatzem BCD" />
+    <string key="mnuLanguage" value="&amp;Seleccionar idioma" />
+    <string key="mnuLoadSystemBcd" value="Carregar S&amp;ystem BCD" />
+    <string key="mnuRescan" value="Actualitzar magatzem BCD" />
+    <string key="mnuRegister" value="&amp;Registrar" />
+    <string key="mnuDonate" value="&amp;Donar" />
+    <string key="mnuUpdate" value="Buscar actualitzacions" />
+    <string key="mnuExit" value="Sortir" />
+    <string key="mnuFile" value="Arxiu" />
+    <string key="mnuOptions" value="O&amp;pcions" />
+    <string key="mnuEditLegacy" value="Editar entrades antigues" />
+    <string key="mnuRestart" value="&amp;Reiniciar l'ordinador" />
+    <string key="mnuTools" value="Eines" />
+    <string key="mnuDocumentation" value="Doc&amp;umentació" />
+    <string key="mnuSupport" value="Obtenir &amp;Suport" />
+    <string key="mnuBug" value="Informar d'un bug" />
+    <string key="mnuDonate2" value="&amp;Donar" />
+    <string key="mnuAbout" value="Quant a" />
+    <string key="mnuHelp" value="Ajuda" />
+    <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" />
+    <string key="colName" value="Entrada" />
+    <string key="colDefault" value="Per defecte" />
+    <string key="lstVhdEntry" value="Microsoft VHD" />
+    <string key="lstRawHD" value="Imatge RAW de disc dur" />
+    <string key="lstRawPartition" value="Imatge RAW de partició" />
+    <string key="lstRunDisk" value="Executar des de disc" />
+    <string key="lstLoadMem" value="Carregar des de memòria" />
+    <string key="lstWim" value="WIM Imatge (Ramdisk)" />
+    <string key="lstWin7" value="Windows Vista/7" />
+    <string key="lstWinNt" value="Windows NT/2k/XP/2k3" />
+    <string key="lstWin9x" value="Windows 95/98/ME" />
+    <string key="lstWinDos" value="MS-DOS 6.x" />
+    <string key="lstNixGrub" value="GRUB (Antic)" />
+    <string key="lstNixGrub2" value="GRUB 2" />
+    <string key="lstNixLilo" value="LILO/eLILO" />
+    <string key="lstNixBsd" value="FreeBSD/PC-BSD" />
+    <string key="lstNixWubi" value="Wubi" />
+    <string key="lstNixSys" value="SysLinux" />
+    <string key="lstEfi" value="EFI (Defecte)" />
+    <string key="lstMbr" value="MBR" />
+    <string key="lstOptIn" value="OptIn" />
+    <string key="lstOptOut" value="OptOut" />
+    <string key="lstAlwaysOn" value="Sempre On" />
+    <string key="lstAlwaysOff" value="Sempre Off" />
+    <string key="paeDefault" value="Defecte" />
+    <string key="paeEnable" value="Activar" />
+    <string key="paeDisable" value="Desactivar" />
+    <string key="safeNormal" value="Normal" />
+    <string key="safeMode" value="Mode segur" />
+    <string key="safeNetworking" value="Mode segur amb xarxa" />
+    <string key="safeCmd" value="Línia d'ordres/Entorn alternatiu" />
+    <string key="safeVga" value="VGA Bàsic" />
+    <string key="safeAD" value="Reparació de directori actiu" />
+  </strings>
+</localization>

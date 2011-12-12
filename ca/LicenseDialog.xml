@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linkLabel" value="Aquesta còpia d'EasyBCD requereix comprar una llicència comercial.&#xD;&#xA;&#xD;&#xA;Entreu l'adreça de correu electrònic o el número de llicència associat amb la vostre compra. Premeu aquí per comprar una llicència o contactar Sales@NeoSmart.net per suport." />
+    <string key="linkEmail" value="Sales@NeoSmart.net" />
+    <string key="linkClick" value="Premi aquí" />
+    <string key="btnSkip" value="&amp;Ometre" />
+    <string key="btnRegister" value="&amp;Registrar" />
+    <string key="lblTitle" value="EasyBCD Commercial Edition" />
+    <string key="lblLicenseKey" value="Email o clau de llicència:" />
+    <string key="LicenseDialog" value="EasyBCD Commercial Edition" />
+    <string key="email" value="Email" />
+    <string key="licenseKey" value="Clau de llicència" />
+    <string key="seats" value="Seients" />
+    <string key="regFailTitle" value="Ha fallat el registre!" />
+    <string key="regFail" value="Email o clau de llicència incorrecte. Torneu a provar." />
+    <string key="regException" value="Error al obtenir una llicència d'un servidor remot. Assegureu-vos de que esteu connectat a internet o torneu a provar més tard." />
+    <string key="regExceptionTitle" value="Impossible d'enregistrar" />
+  </strings>
+</localization>

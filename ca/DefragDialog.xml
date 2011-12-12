@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnAbort" value="&amp;Abortar" />
+    <string key="CommandWindow" value="Finestra d'oedres d'EasyBCD" />
+  </strings>
+</localization>

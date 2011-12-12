@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linuxAuto" value="Localitzar i carregar automàticament" />
+    <string key="communityText" value="EasyBCD Community Edition és gratuït per ús no comercial. &#xD;&#xA;Si esteu utilitzant el programa en un entorn comercial, si us plau, premeu &quot;Cancel·la&quot; i adquiriu una llicència comercial. Si no és així premeu &quot;D'acord&quot; per continuar." />
+    <string key="communityTitle" value="EasyBCD Community Edition" />
+    <string key="bcdInUse" value="L'arxiu està en ús i no es pot obrir per EasyBCD. Si intenteu (re)seleccionar el magatzem del sistema, premi &quot;No&quot; i utilitzeu la opció &quot;Carregar Magatzem del sistema&quot; del menú Arxiu.&#xD;&#xA;&#xD;&#xA;Voleu triar un magatzem diferent per usar amb EasyBCD?&#xD;&#xA;" />
+    <string key="bcdInUseTitle" value="Error de violació d'accés" />
+    <string key="accessDenied" value="Accés denegat!" />
+    <string key="uncUnsupported" value="Els camíns en xarxa no estan suportats. Si us plau, trieu un camí diferent i torneu a provar." />
+    <string key="uncUnsupportedTitle" value="Camins UNC no suportats" />
+    <string key="invalidPath" value="Arxiu o camí invàlid. Si us plau, trieu un camí vàlid per continuar." />
+    <string key="invalidPathTitle" value="Camí invàlid!" />
+    <string key="updateCheck" value="Cercant actualitzacions per EasyBCD..." />
+    <string key="updateFailed" value="La recerca d'actualitzacions ha fallat. Error de connexió de xarxa." />
+    <string key="updateFailedSB" value="La comprovació d'actualitzacions ha fallat." />
+    <string key="updateFound" value="Hi ha una nova versió d'EasyBCD!" />
+    <string key="updateFoundText" value="S'ha trobat una nova versió d'EasyBCD. Voleu anar a la pàgina de descàrregas per actualitzar a la darrera versió?" />
+    <string key="updateNone" value="Teniu la darrera versió d'EasyBCD." />
+    <string key="install" value="Instal·lar" />
+    <string key="remove" value="Desinstal·lar" />
+    <string key="adminLine1" value="EasyBCD necessita privilegis d'administrador i no pot continuar." />
+    <string key="adminLine2" value="Inicieu sessió o executeu com a administrador per continuar." />
+    <string key="adminTitle" value="Permís denegat" />
+    <string key="easybcdBackup" value="EasyBCD Backup" />
+    <string key="yes" value="Si" />
+    <string key="no" value="No" />
+    <string key="registryFailed" value="No es pot escriure la configuració de registre" />
+    <string key="commercialEdition" value="Edició Comercial" />
+    <string key="communityEdition" value="Community Edition" />
+    <string key="failedAddTitle" value="Error al afegir entrada!" />
+    <string key="msdosHelp" value="Per que EasyBCD arrenqui en MS-DOS 6.x o Windows 3.x, IO.SYS and MSDOS.SYS han de ser al inici de la partició activa.&#xD;&#xA;&#xD;&#xA;Per més informació sobre com complir aquesta condició premi &quot;Si&quot; per obrir la pàgina de documentació d'EasyBCD per entrades basades en DOS. Si prefereix no veure la documentació ara premi &quot;No&quot;." />
+    <string key="msdosHelpTitle" value="Llegir la documentació MS-DOS de EasyBCD?" />
+    <string key="addedFormat" value="{0} afegit al menú d'arrencada!" />
+    <string key="neogrubBootloader" value="NeoGrub Bootloader" />
+    <string key="neogrubRemoved" value="NeoGrub eliminat!" />
+    <string key="vhdErrorTitle" value="Error al afegir entrada VHD" />
+    <string key="errorSpaces" value="El camí de la imatge no pot contenir espais. Correfiu i troneu a provar." />
+    <string key="isoErrorTitle" value="Error al afegir entrada ISO" />
+    <string key="floppyErrorTitle" value="Error al afegir entrada de disquet" />
+    <string key="path" value="Camí:" />
+    <string key="name" value="Nom:" />
+    <string key="drive" value="Disc:" />
+    <string key="browseFileTitle" value="Cercar arxiu" />
+    <string key="wimFiles" value="Arxius d'imatge de Windows" />
+    <string key="vhdFiles" value="Arxius de disc dur virtual" />
+    <string key="isoFiles" value="Imatges ISO" />
+    <string key="imgFiles" value="Arxius IMG" />
+    <string key="bcdFiles" value="Arxius de Backup d'EasyBCD" />
+    <string key="safeIntro" value="EasyBCD us permet crear entrades extra per arrencar des del mateix SO però amb opcions diferents. Creant una entrada en un mode segur la pot utilitzar per depurar ràpidament el seu sistema." />
+    <string key="safeNormal" value="Normal: Desactica totes les opcions de recuperació i us permet arrencar el vostre SO normalment." />
+    <string key="safeVga" value="Basic VGA: Carrega els controladors bàsics de pantalla fent reset de la resolució." />
+    <string key="safeNetworking" value="Mode Segur amb xarxa: Arrenca en mode segur amb accés a internet i xarxa local." />
+    <string key="safeMode" value="Mode Segur: Arrenca en mode segur sense accés a xarxa. Útil si els controladors de xarxa s'han espatllat." />
+    <string key="safeAD" value="Reparació de Directori Actiur: Arrenca Windows Server 2008 en mode Reparació de Directori Actiu." />
+    <string key="safeTitle" value="Quant a les opcions de mode segur" />
+    <string key="paeIntro" value="Extensió d'adreça física determina com Windows mapejarà la memòria extra men enllà del marcdor de 4 GiB." />
+    <string key="paeDefault" value="Defecte: Permet que Windows determini com es mapejarà la memoria." />
+    <string key="paeEnable" value="Força activar: Força el mapeig de memòria." />
+    <string key="paeDisable" value="Força desactivar: Desactiva el mapeig de memòria extra." />
+    <string key="paeTitle" value="Quant a opcions PAE" />
+    <string key="nxIntro" value="DEP/NoExecute és un sistema de detecció de scripts maliciosos a la capa de maquinari introduit a Windows XP SP2 que pot ajudar a protegir el seu sistema d'atacs, però és causa coneguda d'alguns problemes de compatibilitat." />
+    <string key="nxOptIn" value="OptIn: El nucli de Windows està protegit per DEP." />
+    <string key="nxOptOut" value="OptOut: Windows i les aplicacions estan protegides per DEP." />
+    <string key="nxOn" value="Sempre ON: DEP forçat per totes les aplicacions." />
+    <string key="nxOff" value="Sempre OFF: DEP desactivat per Windows i totes les aplicacions." />
+    <string key="nxTitle" value="Quant a DEP/NoExecute" />
+    <string key="errorNotPrimary" value="La partició d'arrencada ha de ser primària.&#xD;&#xA;&#xD;&#xA;Proveu seleccionant un altre disc o convertint la partició seleccionada en primària i torneu a provar." />
+    <string key="opNotAllowed" value="Operació no permesa!" />
+    <string key="errorNotMounted" value="EasyBCD no pot fer arrencable un disc no muntat. Assigneu una lletra al disc seleccionat, reinicieu EasyBCD, i torneu a provar." />
+    <string key="invalidDrive" value="Operació de disc invàlida" />
+    <string key="bootableSuccess" value="EasyBCD ha convertit amb èxit el disc seleccionat en arrencable. Per configurar les entrades del menú d'arrencada a la partició seleccionada heu d'utilitzar &quot;Arxiu | Seleccionar magatzem BCD&quot; i triar l'arxui \\boot\\BCD a la partició que acabeu de preparar." />
+    <string key="mountBcdNow" value="Voleu carregar automàticament ara a EasyBCD el magatzem BCD creat de nou?" />
+    <string key="bootableTitle" value="S'ha creat un disc d'arrencada" />
+    <string key="accessDeniedText" value="Incapaç d'obtenir accés al BCD. Comproveu que el magatzem BCD del dispositiu seleccionat no està actualment en ús." />
+    <string key="partitionConverted" value="Partició convertida en disc arrencable" />
+    <string key="bcdRemove1" value="Això és una opció avançada que només s'ha d'utilitzar si esteu absolutament segur de que voleu desinstalar el bootloader de Windows Vista/7!" />
+    <string key="bcdRemove2" value="Aquesta funció només arrencarà en Windows XP si els arxius d'arrencada adequats son al seu lloc!" />
+    <string key="bcdRemove3" value="Esteu segur de voler continuar?" />
+    <string key="warning" value="Atenció!" />
+    <string key="mbrSuccess" value="MBR escrit amb èxit!" />
+    <string key="bootloaderSuccess" value="Configuració de bootloader desada amb èxit" />
+    <string key="bcdReset" value="El BCD s'ha reiniciat amb èxit. Totes les entrades s'han esborrat!&#xD;&#xA;&#xD;&#xA;Important: Heu d'afegir al menys una entrada o el vostre ordinador no arrencarà!" />
+    <string key="bcdResetTitle" value="Reiniciar BCD" />
+    <string key="selectBootTitle" value="Seleccionar nova partició d'arrencada" />
+    <string key="selectBoot" value="EasyBCD reconfigurarà el seu sistema per arrencar des de la partició que trieu. Aquest procés crearà un magatzem BCD al disc escollit, hi copiarà les actuals entrades BCD i convertirà la partició seleccionada en activa i arrencable." />
+    <string key="errorLogical" value="S'ha intentat canviar la partició d'arrencada a un disc lògic, cosa que no està permesa. La partició d'arrencada ha de ser primària.&#xD;&#xA;&#xD;&#xA;Trieu un disc diferent o convertiu primer la partició seleccionada en primària i torneu a provar." />
+    <string key="bootChangedFormat" value="EasyBCD ha convertit el disc {0} en la nova partició d'arrencada i ha carregat el nou magatzem BCD per modificació per si voleu fer canvis. Si aquesta partició és el vostre primer disc d'arrencada no necessiteu fer cap més acció. Si no ho és heu d'apagar l'ordinador i canviar el disc d'arrencada configurat a la BIOS perquè el canvi sigui efectiu." />
+    <string key="bootChangedTitle" value="Partició d'arrencada canviada" />
+    <string key="unsupportedOS" value="Aquesta opció només està disponible a Windows Vista, Windows 7 i Windows 8." />
+    <string key="unsupportedOSTitle" value="Sistema operatiu no suportat!" />
+    <string key="errorNoRestore" value="Error fatal: Impossible restaurar el magatzem seleccionat." />
+    <string key="errorNoRestoreTitle" value="Error de restauració" />
+    <string key="confirmDelete" value="Segur que voleu esborrar aquesta entrada?" />
+    <string key="confirmDeleteTitle" value="Confirmeu Esborrar?" />
+    <string key="entryDeleted" value="Entrada del menú d'arrencada esborrada" />
+    <string key="thankYou" value="S'agraeix el vostre suport!" />
+    <string key="loadExternal" value="amb aquesta acció EasyBCD carregarà i utilitzarà la base de dades BCD externa que trieu. Els canvis es faran a aquest magatzem BCD i no afectaran la configuració per defecte del vostre sistema." />
+    <string key="loadExternalTitle" value="Seleccionant un nou magatzem" />
+    <string key="easybcdFiles" value="Arxius EasyBCD" />
+    <string key="errorRO1" value="No teniu permisos d'escriptura a l'arxiu seleccionat, l'arxiu és de només lectura, o és a un medi de només lectura." />
+    <string key="errorRO2" value="Si trieu procedir els canvis a aquest magatzem BCD no es desaran. Premi &quot;Si&quot; per continuar i carregar aquest magatzem BCD en mode només lectura o premi &quot;No&quot; per seguir utilitzant el magatzem BCD previ." />
+    <string key="errorROTitle" value="Magatzem BCD de només lectura detectat" />
+    <string key="bcdLoadedFormat" value="Informació BCD carregada des de {0}" />
+    <string key="noBcd" value="No s'ha carregat magatzem BCD. EasyBCD corrent en mode limitat." />
+    <string key="confirmRestart" value="Segur que voleu reiniciar l'ordinador?" />
+    <string key="confirmRestartTitle" value="Confirmeu reinici" />
+    <string key="shutdownStarted" value="S'ha iniciat l'apagada" />
+    <string key="hiddenBootIni" value="Boot.ini és a la partició d'arrencada oculta i i no es pot carregar per edició amb EasyBCD.&#xD;&#xA;&#xD;&#xA;Assigneu una lletra d'unitat a la partició d'arrencada oculta o utilitzi  la prestació d'arrencada dual de Windows XP." />
+    <string key="errorBootIniTitle" value="Impossible carregar boot.ini!" />
+    <string key="errorBootIniFormat" value="EasyBCD no pot detectar un arxiu boot.ini a la partició d'arrencada {0}.&#xD;&#xA;&#xD;&#xA;Afegiu una nova entrada  de Windows XP o Windows 2000 per utilitzar la prestació d'autoconfiguració de boot.ini." />
+    <string key="errorUtility" value="Error corrent la utilitat" />
+    <string key="sysInfo" value="Informació del sistema" />
+    <string key="sysInfoText" value="Mostra informació sobre el maquinari i la configuració del programari. Útil per arreglar fallades del maquinari i obtenir ràpidament un bolcat de l'actual configuració del sistema." />
+    <string key="powerConsole" value="EasyBCD Power Console" />
+    <string key="powerConsoleText" value="Accés ràpid a la línia d'ordres amb privilegis d'administrador Utilitzeu-ho per dur a terme funcions del sistema o accés ràpid a bcdedit i bootsect.exe." />
+    <string key="sysRestore" value="Restauració del sistema" />
+    <string key="sysRestoreText" value="Obre el tauler de restauració del sistema, utilitzeu-ho per revertir  o reparar canvis que provoquin problemes a l'ordinador." />
+    <string key="restoreCds" value="CDs de restauració del sistema de Windows Vista/7" />
+    <string key="restoreCdsText" value="Descarregueu una còpia dels CDs de restauració del sistema de Windows Vista i Windows 7 per tenir a mà en cas de que passi un desastre. Podeu utilitzar EasyBCD per arrencar el disc de recuperació des de USB." />
+    <string key="controlPanel" value="Tauler de Control" />
+    <string key="controlPanelText" value="Arrencar el Tauler de Control i utilitzar-lo per fer el que volgueu." />
+    <string key="iRebootText" value="L'aplicació d'ajuda de NeoSmart Technologies per EasyBCD. iReboot es posa a la barra de tasques (ocupant només 400KB de memòria!)  i us permet de triar fàcilment en quin sistema operatiu arrencar." />
+    <string key="errorNoEntries" value="EasyBCD ha detectat que actualment no hi ha entrades instalades. Si sortiu d'EasyBCD i reinicieu l'ordinador, no arrencarà.&#xD;&#xA;&#xD;&#xA;Esteu segur de que voleu sortir sense afegir una entrada nova?" />
+    <string key="errorNoEntriesTitle" value="Cap entrada instal·lada!" />
+    <string key="errorPathSave" value="EasyBCD no ha pogut desar l'actual camí de backup com a directori de backup per defecte. La opció s'ha desactivat." />
+    <string key="errorPathSaveTitle" value="Problema amb el camí de backup per defecte" />
+    <string key="isoHelp1" value="EasyBCD permet carregar imatges ISO de dues maneres diferents. Tingueu en compte que no totes les imatges ISO funcionaran bé; normalment les ISO d'instal·lació de Linux no funcionaran." />
+    <string key="isoHelp2" value="Executar des de disc: Carrega ràpid a l'arrencada pèro funciona lent. Requereix pre-processament per EasyBCD durant la creació." />
+    <string key="isoHelp3" value="Carregar des de memòria: Funciona ràpid. però triga en carregar durant l'arrencada. Pot fallar amb discs grans o ordinadors vells." />
+    <string key="isoHelpTitle" value="Quant a opcions ISO" />
+    <string key="warnDiffDevice" value="L'arxiu seleccionat està desat a un dispositiu diferent dels arxius d'instal·lació. Si voleu utilitzar aquesta entrada per arrencar a un altre ordinador, haurieu de copiar aquest arxiu al disc extern i tornar a provar.&#xD;&#xA;&#xD;&#xA;Voleu continuar igualment?&#xD;&#xA;" />
+    <string key="diffDeviceTitle" value="Entrada no portàtil detectada!" />
+    <string key="errorNoBcd" value="No s'ha carregat cap registre BCD - corrent en mode de funcionalitat reduida!" />
+    <string key="bcdExceptionFormat" value="Excepció BCD 0x{0:X3}" />
+    <string key="userCancel" value="Operació cancel·lada per l'usuari." />
+    <string key="renameSuccess" value="Entrada reanomenada amb èxit" />
+    <string key="plop" value="Extensió de BIOS d'EasyBCD" />
+    <string key="entryRemovedFormat" value="{0} s'ha eliminat" />
+    <string key="drive2" value="Disc" />
+    <string key="bcdResetStatus" value="BCD tornat als valors inicials. Reconfigureu-lo ara!" />
+    <string key="bcdRepaired" value="BCD reparat amb èxit" />
+    <string key="configSaved" value="Configuració d'entrada desada amb èxit" />
+    <string key="backupSuccess" value="còpia de seguretat de BCD feta amb èxit!" />
+    <string key="restoreSuccess" value="Restauració acabada amb èxit" />
+    <string key="bcdRefresh" value="Les dades BCD en caché s'han actualitzat" />
+    <string key="optionsSaved" value="Opcions desades amb èxit!" />
+    <string key="orderSaved" value="Ordre d'entrades desat" />
+    <string key="easybcdStatus" value="Estat d'EasyBCD" />
+  </strings>
+</localization>

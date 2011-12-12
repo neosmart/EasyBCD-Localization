@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="numUpdateInterval" value="0" />
+    <string key="rdoWeeks" value="Setmana/es" />
+    <string key="lblLastUpdateCheck" value="Darrera cerca d'actualitzacions:" />
+    <string key="btnOK" value="  OK" />
+    <string key="btnCancel" value="     Cancel·la" />
+    <string key="chkExpertMode" value="Arrencar EasyBCD en Mode Expert" />
+    <string key="chkRememberBackup" value="Recordar el directori de còpia de BCD al sortir" />
+    <string key="lblExpertMode" value="El Mode Expert no pregunta a l'usuari abans de fer accions avançades!" />
+    <string key="chkLoadDefaultBcd" value="Carregar automàticament el següent arxiu a l'arrencar:" />
+    <string key="btnBrowseBcd" value="..." />
+    <string key="chkAutoUpdate" value="Actualitzar cada" />
+    <string key="chkRss" value="Incluir NeoSmart Technologies a Windows RSS Platform" />
+    <string key="rdoDays" value="Dia/es" />
+    <string key="rdoMonths" value="Mes/os" />
+    <string key="tabGeneralSettings" value="Configuració general" />
+    <string key="lblDefaultTab" value="Pestanya per defecte a l'arrencar:" />
+    <string key="lblDefaultDisplay" value="Mode de visualització per defecte:" />
+    <string key="lblOverviewFont" value="Font de resum:" />
+    <string key="lblDetailedFont" value="Font de detall:" />
+    <string key="lblOverviewSize" value="Mida:" />
+    <string key="numFontOverview" value="8" />
+    <string key="lblOverviewPt" value="pt." />
+    <string key="lblDetailedSize" value="Mida:" />
+    <string key="numFontDetailed" value="8" />
+    <string key="lblDetailedPt" value="pt." />
+    <string key="chkWordWrap" value="Ajust de línia activat per defecte" />
+    <string key="chkSaveWindow" value="Mida de la finestra de desar al sortir" />
+    <string key="ResetSize" value="Opcions de pantalla de reiniciar" />
+    <string key="tabDisplayOptions" value="Opcions de pantalla" />
+    <string key="OptionsDialog" value="Configuració d'EasyBCD" />
+    <string key="overview" value="Resum" />
+    <string key="detailed" value="Detall" />
+  </strings>
+</localization>

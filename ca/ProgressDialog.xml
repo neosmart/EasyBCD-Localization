@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblApplyingActions" value="EasyBCD està aplicant l'acció seleccionada." />
+    <string key="ProgressDialog" value="Espereu, si us plau" />
+  </strings>
+</localization>
