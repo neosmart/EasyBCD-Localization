@@ -33,5 +33,7 @@
     <string key="OptionsDialog" value="EasyBCD Settings" version="1" />
     <string key="overview" value="Overview" version="1" />
     <string key="detailed" value="Detailed" version="1" />
+    <string key="locateBcd" value="Locate a valid BCD store" version="1" />
+    <string key="never" value="Never" version="1" />
   </strings>
 </localization>
