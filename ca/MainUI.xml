@@ -160,5 +160,6 @@
     <string key="safeCmd" value="Línia d'ordres/Entorn alternatiu" version="1" />
     <string key="safeVga" value="VGA Bàsic" version="1" />
     <string key="safeAD" value="Reparació de directori actiu" version="1" />
+    <string key="btnAddEntry" value="Afegir Entrada" version="1" />
   </strings>
 </localization>
