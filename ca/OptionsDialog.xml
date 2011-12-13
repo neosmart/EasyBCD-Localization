@@ -4,8 +4,8 @@
     <string key="numUpdateInterval" value="0" version="1" />
     <string key="rdoWeeks" value="Setmana/es" version="1" />
     <string key="lblLastUpdateCheck" value="Darrera cerca d'actualitzacions:" version="1" />
-    <string key="btnOK" value="OK" version="1" />
-    <string key="btnCancel" value="Cancel·la" version="1" />
+    <string key="btnOK" value="OK" version="2" />
+    <string key="btnCancel" value="Cancel·la" version="2" />
     <string key="chkExpertMode" value="Arrencar EasyBCD en Mode Expert" version="1" />
     <string key="chkRememberBackup" value="Recordar el directori de còpia de BCD al sortir" version="1" />
     <string key="lblExpertMode" value="El Mode Expert no pregunta a l'usuari abans de fer accions avançades!" version="1" />

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="btnOK" value="OK" version="1" />
-    <string key="btnCancel" value="Cancel" version="1" />
+    <string key="btnOK" value="OK" version="2" />
+    <string key="btnCancel" value="Cancel" version="2" />
     <string key="chkExpertMode" value="Run EasyBCD in Expert Mode" version="1" />
     <string key="chkRememberBackup" value="Remember the BCD Backup directory upon exit" version="1" />
     <string key="lblExpertMode" value="Expert mode does not prompt user before taking advanced actions!" version="1" />
