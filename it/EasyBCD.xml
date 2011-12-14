@@ -2,7 +2,7 @@
 <localization>
   <strings>
     <string key="linuxAuto" value="Individua e carica automaticamente" version="1" />
-    <string key="communityText" value="EasyBCD Community Edition é gratuito per uso non commerciale. &#xA;Se state usando il presente software in ambiente commerciale, per favore cliccate il sottostante pulsante 'Cancella' per acquistare una licenza. Altrimenti, cliccate 'OK' per continuare." version="1" />
+    <string key="communityText" value="EasyBCD Community Edition é gratuito per uso non commerciale. &#xD;&#xA;Se state usando il presente software in ambiente commerciale, per favore cliccate il sottostante pulsante 'Cancella' per acquistare una licenza. Altrimenti, cliccate 'OK' per continuare." version="1" />
     <string key="communityTitle" value="EasyBCD Community Edition" version="1" />
     <string key="bcdInUse" value="Il file corrente é in uso e non può essere aperto da EasyBCD. Se si sta tentando di (ri)selezionare il salvataggio, cliccare il sottostante pulsante No e poi usare il comando &quot;Load System Store&quot; dal menu File.&#xD;&#xA;&#xD;&#xA;Vorresti scegliere un diverso salvataggio in EasyBCD?" version="1" />
     <string key="bcdInUseTitle" value="Errore di Violazione  di Accesso" version="1" />
@@ -65,7 +65,7 @@
     <string key="nxOn" value="AlwaysOn: DEP é abilitato per tutte le applicazioni." version="1" />
     <string key="nxOff" value="AlwaysOff: DEP é disabilitato sia per per Windows che per tutte le applicazioni." version="1" />
     <string key="nxTitle" value="DEP/NoExecute" version="1" />
-    <string key="errorNotPrimary" value="La partizione di avvio deve essere una primaria.&#xA;&#xA;Selezionare un diverso drive o convertire in primo luogo la partizione selezionata in primaria e provare di nuovo." version="1" />
+    <string key="errorNotPrimary" value="La partizione di avvio deve essere una primaria.&#xD;&#xA;&#xD;&#xA;Selezionare un diverso drive o convertire in primo luogo la partizione selezionata in primaria e provare di nuovo." version="1" />
     <string key="opNotAllowed" value="Operazione non consentita!" version="1" />
     <string key="errorNotMounted" value="EasyBCD non può rendere avviabili unità non montate. Assegnare una lettera all'unità selezionata, riavviare EasyBCD e provare di nuovo." version="1" />
     <string key="invalidDrive" value="Operazione su unità non valida" version="1" />
@@ -80,11 +80,11 @@
     <string key="warning" value="Attenzione!" version="1" />
     <string key="mbrSuccess" value="MBR scritto con successo" version="1" />
     <string key="bootloaderSuccess" value="Impostazioni del gestore di boot salvate con successo" version="1" />
-    <string key="bcdReset" value="Il BCD é stato resettato correttamente. Tutte le voci sono state cancellate!&#xA;&#xA;Importante: Si deve aggiungere almeno una voce, altrimenti il PC non potrà avviarsi!" version="1" />
+    <string key="bcdReset" value="Il BCD é stato resettato correttamente. Tutte le voci sono state cancellate!&#xD;&#xA;&#xD;&#xA;Importante: Si deve aggiungere almeno una voce, altrimenti il PC non potrà avviarsi!" version="1" />
     <string key="bcdResetTitle" value="BCD Reset" version="1" />
     <string key="selectBootTitle" value="Scegliere la nuova partizione di avvio" version="1" />
     <string key="selectBoot" value="EasyBCD riconfigurerà il sistema per l'avvio dalla patizione qui di seguito selezionata. Questo processo creerà un BCD store sul disco selezionato, sovrascriverà le voci BCD correnti e renderà la partizione selezionata sia attiva &amp; che bootabile." version="1" />
-    <string key="errorLogical" value="E' stato fatto un tentativo di stabilire come partizione di avvio un'unità logica, il che non é consentito. La partizione di avvio deve essere una primaria.&#xA;&#xA;Scegliere un drive differente oppure convertire in primaria la partizione selezionata, poi provare di nuovo." version="1" />
+    <string key="errorLogical" value="E' stato fatto un tentativo di stabilire come partizione di avvio un'unità logica, il che non é consentito. La partizione di avvio deve essere una primaria.&#xD;&#xA;&#xD;&#xA;Scegliere un drive differente oppure convertire in primaria la partizione selezionata, poi provare di nuovo." version="1" />
     <string key="bootChangedFormat" value="EasyBCD ha configurato con successo il drive {0} come nuova partizione di avvio ed ha caricato il nuovo BCD store per le modifiche, nel caso si desiderino apportare cambiamenti. Se questa partizionesi trova già sul primo disco di avvio, non occorre fare altro. In caso contrario, spegnere il PC e cambiare le impostazioni del disco nel BIOS affinchè le modifiche abbiano effetto." version="1" />
     <string key="bootChangedTitle" value="Partizione di avvio cambiata" version="1" />
     <string key="unsupportedOS" value="Questa opzione é disponibile soltanto con Windows Vista, Windows 7, e Windows 8." version="1" />
@@ -121,7 +121,7 @@
     <string key="controlPanel" value="Pannello di Controllo" version="1" />
     <string key="controlPanelText" value="Lanciare il Pannello di Controllo e da lì eseguire qualsiasi azione si desideri." version="1" />
     <string key="iRebootText" value="Applicazione di aiuto NeoSmart Technologies per EasyBCD. iReboot sta nella taskbar (occupa soltanto 400KB di memoria!) e consente di segliere facilmente e velocemente in quale Sistema Operativo riavviare." version="1" />
-    <string key="errorNoEntries" value="EasyBCD ha scoperto che non vi sono altre voci al momento installate. Se si esce da EasyBCD e si esegue il reboot, il computer non si riavvierà più.&#xA;&#xA;Si é sicuri di voler uscire prima di avere aggiunto una nuova voce?" version="1" />
+    <string key="errorNoEntries" value="EasyBCD ha scoperto che non vi sono altre voci al momento installate. Se si esce da EasyBCD e si esegue il reboot, il computer non si riavvierà più.&#xD;&#xA;&#xD;&#xA;Si é sicuri di voler uscire prima di avere aggiunto una nuova voce?" version="1" />
     <string key="errorNoEntriesTitle" value="No Entries Installed!" version="1" />
     <string key="errorPathSave" value="EasyBCD non é riuscito a salvare il percorso corrente di backup come cartella di default. L'opzione é stata disabilitata." version="1" />
     <string key="errorPathSaveTitle" value="Problema nel percorso di backup di default" version="1" />
@@ -129,7 +129,7 @@
     <string key="isoHelp2" value="Funzionamento da disco: si carica più velocemente all'avvio, ma gira più lentamente. Inoltre richiede il pre-processing di EasyBCD durante la creazione." version="1" />
     <string key="isoHelp3" value="Caricamento da memoria: gira più velocemente, ma richiede più tempo per caricarsi all'avvio. Può anche non funzionare con dischi grandi o con PC datati." version="1" />
     <string key="isoHelpTitle" value="Le opzioni ISO" version="1" />
-    <string key="warnDiffDevice" value="Il file selezionato é archiviato in un dispositivo differente da quello di boot. Se si intende impiegare questa voce per avviare da un PC diverso da quello che si sta usando, si deve copiare questo file sul drive esterno, quindi riprovare.&#xA;&#xA;Si vuole continuare comunque?" version="1" />
+    <string key="warnDiffDevice" value="Il file selezionato é archiviato in un dispositivo differente da quello di boot. Se si intende impiegare questa voce per avviare da un PC diverso da quello che si sta usando, si deve copiare questo file sul drive esterno, quindi riprovare.&#xD;&#xA;&#xD;&#xA;Si vuole continuare comunque?" version="1" />
     <string key="diffDeviceTitle" value="Individuata voce Non-Portatile!" version="1" />
     <string key="errorNoBcd" value="Nessun registro BCD caricato - funzionamento con funzionalità ridotta!" version="1" />
     <string key="bcdExceptionFormat" value="Eccezione BCD 0x{0:X3}" version="1" />
