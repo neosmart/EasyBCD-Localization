@@ -32,8 +32,8 @@
     <string key="gib" value="GiB" version="1" />
     <string key="mib" value="MiB" version="1" />
     <string key="as" value="come" version="1" />
-    <string key="defragFormat" value="Inizio della deframmentazione del file" version="1" />
-    <string key="partition" value="Partition" verfragmentation of file {0}" version="1" />
+    <string key="defragFormat" value="Inizio della deframmentazione del file {0}" version="1" />
+    <string key="partition" value="Partizione" version="1" />
     <string key="unnamed" value="Voce senza nome" version="1" />
   </strings>
 </localization>
