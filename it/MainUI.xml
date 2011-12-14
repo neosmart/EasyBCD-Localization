@@ -189,12 +189,12 @@
     <string key="safeAD" value="Riparazione della Directory attiva" version="1" />
     <string key="emptyList" value="Nessuna voce individuata!" version="1" />
     <string key="btnBrowse" derive="true" />
-    <string key="lblName" value="Nome:" />
-    <string key="lblType" value="Tipo:" />
-    <string key="lblPath" value="Percorso:" />
-    <string key="lblDrive" value="Drive:" />
-    <string key="btnAddNewEntry" value="Aggiungere voce" />
-    <string key="lblMode" value="Modalità:" />
-    <string key="lblFile" value="File:" />
+    <string key="lblName" value="Nome:" version="1" />
+    <string key="lblType" value="Tipo:" version="1" />
+    <string key="lblPath" value="Percorso:" version="1" />
+    <string key="lblDrive" value="Drive:" version="1" />
+    <string key="btnAddNewEntry" value="Aggiungere voce" version="1" />
+    <string key="lblMode" value="Modalità:" version="1" />
+    <string key="lblFile" value="File:" version="1" />
   </strings>
 </localization>
