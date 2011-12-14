@@ -18,33 +18,14 @@
     <string key="btnDelete" value="Eliminar" version="1" />
     <string key="groupBox1" value="Modificar menú de entradas" version="1" />
     <string key="tabEditMenu" value="2" version="1" />
-    <string key="btnVhdBrowse" value="..." version="1" />
-    <string key="lblVhdName" value="Nombre:" version="1" />
-    <string key="lblVhdType" value="Tipo:" version="1" />
     <string key="txtVhdName" value="NeoSmart VHD Imagen" version="1" />
-    <string key="lblVhdPath" value="Ruta:" version="1" />
-    <string key="btnAddVhd" value="Añadir entrada" version="1" />
     <string key="tabPage13" value="Imagen de Disco" version="1" />
-    <string key="lblIsoName" value="Nombre:" version="1" />
-    <string key="lblIsoMode" value="Modo:" version="1" />
-    <string key="btnIsoBrowse" value="..." version="1" />
     <string key="txtIsoName" value="Entrada ISO NeoSmart" version="1" />
-    <string key="lblIsoPath" value="Ruta:" version="1" />
-    <string key="btnAddIso" value="Añadir entrada" version="1" />
     <string key="tabPage14" value="ISO" version="1" />
-    <string key="btnPeBrowse" value="..." version="1" />
-    <string key="lblPeType" value="Tipo:" version="1" />
-    <string key="lblPeName" value="Nombre:" version="1" />
-    <string key="lblWinPE_Path" value="Ruta:" version="1" />
     <string key="txtPeName" value="Imagen NST WinPE" version="1" />
     <string key="chkEms" value="EMS Habilitado" version="1" />
-    <string key="btnAddPE" value="Añadir entrada" version="1" />
     <string key="tabPage12" value="WinPE" version="1" />
-    <string key="lblFloppyName" value="Nombre:" version="1" />
     <string key="txtFloppyName" value="NeoSmart Floppy Imagen" version="1" />
-    <string key="lblFloppyPath" value="Ruta:" version="1" />
-    <string key="btnFloppyBrowse" value="..." version="1" />
-    <string key="btnAddFloppy" value="Añadir entrada" version="1" />
     <string key="tabFloppy" value="Disquete" version="1" />
     <string key="btnPlopInstall" value="Instalar PLoP" version="1" />
     <string key="btnPlopRemove" value="Eliminar PLoP" version="1" />
@@ -52,27 +33,16 @@
     <string key="tabPagePlop" value="Extensión de BIOS" version="1" />
     <string key="grpPortable" value="Medio Portátil/Externo" version="1" />
     <string key="lblWindowsAuto" value="Determinado automáticamente" version="1" />
-    <string key="btnAddWindows" value="Añadir entrada" version="1" />
     <string key="chkAutoXp" value="Detectar el Disco correcto automáticamente" version="1" />
     <string key="emptyList" value="Ninguna entrada detectada!" version="1" />
     <string key="lstExtracted" value="Esquema del sistema de archivos extraido" version="1" />
-    <string key="lblWinName" value="Nombre:" version="1" />
-    <string key="lblWinType" value="Tipo:" version="1" />
-    <string key="lblWinDrive" value="Disco:" version="1" />
     <string key="txtWinName" value="Microsoft Windows" version="1" />
     <string key="tabPage8" value="Windows" version="1" />
-    <string key="btnAddLinux" value="Añadir entrada" version="1" />
     <string key="chkGrub" value="Utilizar la copia de GRUB de EasyBCD" version="1" />
-    <string key="lblLinType" value="Tipo:" version="1" />
-    <string key="lblLinName" value="Nombre:" version="1" />
     <string key="txtLinName" value="NeoSmart Linux" version="1" />
-    <string key="lblLinDrive" value="Disco:" version="1" />
     <string key="lblLinAuto" value="Determinado automáticamente" version="1" />
     <string key="tabPage9" value="Linux/BSD" version="1" />
-    <string key="lblMacName" value="Nombre:" version="1" />
     <string key="txtMacName" value="NST Mac OS X" version="1" />
-    <string key="lblMacMode" value="Modo:" version="1" />
-    <string key="btnAddMac" value="Añadir entrada" version="1" />
     <string key="tabPageMac" value="Mac" version="1" />
     <string key="btnNeoGrub" value="Instalar" version="1" />
     <string key="btnNeoGrubConfig" value="Configurar" version="1" />
@@ -81,8 +51,6 @@
     <string key="grpOS" value="Sistemas Operativos" version="1" />
     <string key="tabAddEntry" value="3" version="1" />
     <string key="btnSaveSettings" value="Guardar configuración" version="1" />
-    <string key="lblNewName" value="Nombre:" version="1" />
-    <string key="lblNewDrive" value="Disco:" version="1" />
     <string key="lblLocale" value="Localización:" version="1" />
     <string key="tabEntryBasic" value="Básico" version="1" />
     <string key="lblSafeMode" value="Modo seguro:" version="1" />
@@ -104,11 +72,7 @@
     <string key="lblPickLH" value="Escoger una entrada de la lista para ajustar." version="1" />
     <string key="grpSelectLH" value="Escoger un sistema operativo" version="1" />
     <string key="tabAdvanced" value="4" version="1" />
-    <string key="lblFile1" value="Arxiu:" version="1" />
-    <string key="btnBackupBrowse" value="..." version="1" />
-    <string key="btnRestoreBrowse" value="..." version="1" />
     <string key="btnBackup" value="Configuración de copia de seguridad" version="1" />
-    <string key="lblFile2" value="Arxiu:" version="1" />
     <string key="btnRestore" value="Restauración de copia de seguridad" version="1" />
     <string key="grpBackupRestore" value="Copia y restauración de configuración de bootloader" version="1" />
     <string key="rdoBcdChange" value="Cambiar el disco de arranque" version="1" />
