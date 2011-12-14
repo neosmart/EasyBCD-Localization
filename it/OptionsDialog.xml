@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="btnOK" value="  OK" version="1" />
-    <string key="btnCancel" value="     Cancella" version="1" />
+    <string key="btnOK" value="OK" version="2" />
+    <string key="btnCancel" value="Cancella" version="2" />
     <string key="chkExpertMode" value="Esegui EasyBCD in Modalità Avanzata" version="1" />
     <string key="chkRememberBackup" value="Ricorda la cartella di backup del BCD all'uscita" version="1" />
     <string key="lblExpertMode" value="In Modalità Avanzata l'utente non viene avvertito prima di intraprendere azioni" version="1" />
