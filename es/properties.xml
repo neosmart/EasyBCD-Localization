@@ -3,6 +3,6 @@
   <locale>
     <name>Español</name>
     <rtl>false</rtl>
-    <parentLocale>ca</parentLocale>
+    <parentLocale>en-US</parentLocale>
   </locale>
 </localization>

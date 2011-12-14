@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="lblDriveSelect" value="Nuevo disco de arranque" />
-    <string key="lblBody" value="EasyBCD reconfigurará su sistema para arrancar desde la partición que seleccione. Este proceso creará un almacén BCD en el disco seleccionado, copiará las entradas BCD actuales y convertirá la partición seleccionada en activa y arrancable." />
-    <string key="OK_Button" value="&amp;De acuerdo" />
-    <string key="Cancel_Button" value="&amp;Cancelar" />
-    <string key="DriveSelect" value="Disco seleccionado" />
-    <string key="errorAlreadyBoot" value="El disco que ha seleccionado es el actual disco de arranque. Por favor, escoja otro disco para continuar!" />
-    <string key="errorAlreadyBootTitle" value="Por favor, escoja otro disco!" />
+    <string key="lblDriveSelect" value="Nuevo disco de arranque" version="1" />
+    <string key="lblBody" value="EasyBCD reconfigurará su sistema para arrancar desde la partición que seleccione. Este proceso creará un almacén BCD en el disco seleccionado, copiará las entradas BCD actuales y convertirá la partición seleccionada en activa y arrancable." version="1" />
+    <string key="OK_Button" value="&amp;De acuerdo" version="1" />
+    <string key="Cancel_Button" value="&amp;Cancelar" version="1" />
+    <string key="DriveSelect" value="Disco seleccionado" version="1" />
+    <string key="errorAlreadyBoot" value="El disco que ha seleccionado es el actual disco de arranque. Por favor, escoja otro disco para continuar!" version="1" />
+    <string key="errorAlreadyBootTitle" value="Por favor, escoja otro disco!" version="1" />
   </strings>
 </localization>

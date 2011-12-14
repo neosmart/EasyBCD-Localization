@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="linkLabel" value="Esta copia de EasyBCD requiere comprar una licencia comercial.&#xD;&#xA;&#xD;&#xA;Entre la dirección de correo electrónico o el número de licencia asociado con su compra. Pulse aquí para comprar una licencia o contactar Sales@NeoSmart.net para soporte." />
-    <string key="linkEmail" value="Sales@NeoSmart.net" />
-    <string key="linkClick" value="Pulse aquí" />
-    <string key="btnSkip" value="&amp;Ometir" />
-    <string key="btnRegister" value="&amp;Registrar" />
-    <string key="lblTitle" value="EasyBCD Commercial Edition" />
-    <string key="lblLicenseKey" value="Email o clave de licencia:" />
-    <string key="LicenseDialog" value="EasyBCD Commercial Edition" />
-    <string key="email" value="Email" />
-    <string key="licenseKey" value="Clave de licencia" />
-    <string key="seats" value="Asientos" />
-    <string key="regFailTitle" value="Ha fallado el registro!" />
-    <string key="regFail" value="Email o clave de licencia incorrecto. Vuelva a probar." />
-    <string key="regException" value="Error al obtener una licencia de un servidor remoto. Asegúrese de que está conectado a internet o vuelva a probar más tarde." />
-    <string key="regExceptionTitle" value="Imposible de registrar" />
+    <string key="linkLabel" value="Esta copia de EasyBCD requiere comprar una licencia comercial.&#xD;&#xA;&#xD;&#xA;Entre la dirección de correo electrónico o el número de licencia asociado con su compra. Pulse aquí para comprar una licencia o contactar Sales@NeoSmart.net para soporte." version="1" />
+    <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
+    <string key="linkClick" value="Pulse aquí" version="1" />
+    <string key="btnSkip" value="&amp;Ometir" version="1" />
+    <string key="btnRegister" value="&amp;Registrar" version="1" />
+    <string key="lblTitle" value="EasyBCD Commercial Edition" version="1" />
+    <string key="lblLicenseKey" value="Email o clave de licencia:" version="1" />
+    <string key="LicenseDialog" value="EasyBCD Commercial Edition" version="1" />
+    <string key="email" value="Email" version="1" />
+    <string key="licenseKey" value="Clave de licencia" version="1" />
+    <string key="seats" value="Asientos" version="1" />
+    <string key="regFailTitle" value="Ha fallado el registro!" version="1" />
+    <string key="regFail" value="Email o clave de licencia incorrecto. Vuelva a probar." version="1" />
+    <string key="regException" value="Error al obtener una licencia de un servidor remoto. Asegúrese de que está conectado a internet o vuelva a probar más tarde." version="1" />
+    <string key="regExceptionTitle" value="Imposible de registrar" version="1" />
   </strings>
 </localization>
