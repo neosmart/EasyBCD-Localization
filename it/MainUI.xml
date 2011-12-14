@@ -188,5 +188,13 @@
     <string key="safeVga" value="Basic VGA" version="1" />
     <string key="safeAD" value="Riparazione della Directory attiva" version="1" />
     <string key="emptyList" value="Nessuna voce individuata!" version="1" />
+    <string key="btnBrowse" derive="true" />
+    <string key="lblName" value="Nome:" />
+    <string key="lblType" value="Tipo:" />
+    <string key="lblPath" value="Percorso:" />
+    <string key="lblDrive" value="Drive:" />
+    <string key="btnAddNewEntry" value="Aggiungere voce" />
+    <string key="lblMode" value="Modalità:" />
+    <string key="lblFile" value="File:" />
   </strings>
 </localization>
