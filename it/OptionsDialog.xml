@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnOK" value="  OK" version="1" />
+    <string key="btnCancel" value="     Cancella" version="1" />
+    <string key="chkExpertMode" value="Esegui EasyBCD in Modalità Avanzata" version="1" />
+    <string key="chkRememberBackup" value="Ricorda la cartella di backup del BCD all'uscita" version="1" />
+    <string key="lblExpertMode" value="In Modalità Avanzata l'utente non viene avvertito prima di intraprendere azioni" version="1" />
+    <string key="chkLoadDefaultBcd" value="Carica automaticamente il seguente file BCD all'avvio:" version="1" />
+    <string key="btnBrowseBcd" value="..." version="1" />
+    <string key="chkAutoUpdate" value="Autoaggiorna ogni " version="1" />
+    <string key="chkRss" value="Includi NeoSmart Technologies nella piattaforma RSS di Windows" version="1" />
+    <string key="numUpdateInterval" value="0" version="1" />
+    <string key="rdoDays" value="Giorno(i)" version="1" />
+    <string key="rdoWeeks" value="Settimana(e)" version="1" />
+    <string key="rdoMonths" value="Mese(i)" version="1" />
+    <string key="lblLastUpdateCheck" value="Ultima verifica automatica: " version="1" />
+    <string key="tabGeneralSettings" value="Impostazioni Generali" version="1" />
+    <string key="lblDefaultTab" value="Etichetta di default all'avvio: " version="1" />
+    <string key="lblDefaultDisplay" value="Modalità di visualizzazione di default: " version="1" />
+    <string key="lblOverviewFont" value="Font per la visione d'insieme:" version="1" />
+    <string key="lblDetailedFont" value="Font per la visualizzazione dettagliata: " version="1" />
+    <string key="lblOverviewSize" value="Dimensione: " version="1" />
+    <string key="numFontOverview" value="8" version="1" />
+    <string key="lblOverviewPt" value="pt." version="1" />
+    <string key="lblDetailedSize" value="Dimensione: " version="1" />
+    <string key="numFontDetailed" value="8" version="1" />
+    <string key="lblDetailedPt" value="pt." version="1" />
+    <string key="chkWordWrap" value="WordWrap abilitato di default" version="1" />
+    <string key="chkSaveWindow" value="Salva le dimensioni della finestra di EasyBCD in uscita" version="1" />
+    <string key="ResetSize" value="Ripristina le Opzioni del Display" version="1" />
+    <string key="tabDisplayOptions" value="Opzioni del display" version="1" />
+    <string key="OptionsDialog" value="Impostazioni di EasyBCD" version="1" />
+    <string key="overview" value="Visione d'insieme" version="1" />
+    <string key="detailed" value="Dettagliata" version="1" />
+  </strings>
+</localization>
