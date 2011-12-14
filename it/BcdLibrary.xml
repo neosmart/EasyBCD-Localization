@@ -6,7 +6,7 @@
     <string key="accessDeniedTitle" value="Accesso negato" version="1" />
     <string key="accessDeniedFormat" value="L'accesso a {0} é stato negato. Controllare che il file non sia in uso e di avere l'autorizzazione a cancellare/modificare in questo spazio." version="1" />
     <string key="oneEntry" value="Esiste una voce nel gestore del boot di Windows." version="1" />
-    <string key="multiEntriesFormat" value="C'é un totale di {0} voci nel gestore del boot.&#xD;&#xA;" version="1" />
+    <string key="multiEntriesFormat" value="C'é un totale di {0} voci nel gestore del boot." version="1" />
     <string key="entryNum" value="Entry #" version="1" />
     <string key="name" value="Nome" version="1" />
     <string key="bcdId" value="BCD ID" version="1" />
