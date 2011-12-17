@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="btnOK" value="  OK" version="1" />
-    <string key="btnCancel" value="   Verwerfen" version="1" />
+    <string key="btnOK" value="OK" version="2" />
+    <string key="btnCancel" value="Verwerfen" version="2" />
     <string key="chkRememberBackup" value="Beim Verlassen an das BCD Backup erinnern" version="1" />
     <string key="chkLoadDefaultBcd" value="Automatisch die folgende BCD-Datei laden:" version="1" />
     <string key="chkRss" value="NeoSmart Technologies in Windows RSS Platform einschließen" version="1" />
