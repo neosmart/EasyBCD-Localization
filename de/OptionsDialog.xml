@@ -1,37 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="btnOK" value="  OK" />
-    <string key="btnCancel" value="   Verwerfen" />
-    <string key="chkRememberBackup" value="Beim Verlassen an das BCD Backup erinnern" />
-    <string key="chkLoadDefaultBcd" value="Automatisch die folgende BCD-Datei laden:" />
-    <string key="chkRss" value="NeoSmart Technologies in Windows RSS Platform einschließen" />
-    <string key="rdoWeeks" value="Woche(n)" />
-    <string key="numUpdateInterval" value="0" />
-    <string key="chkExpertMode" value="EasyBCD im Expertenmodus starten" />
-    <string key="lblExpertMode" value="Expertenmodus warnt nicht vor Durchführung erweiterter Aktionen!" />
-    <string key="btnBrowseBcd" value="..." />
-    <string key="chkAutoUpdate" value="Automatisches Update alle" />
-    <string key="rdoDays" value="Tag(e)" />
-    <string key="rdoMonths" value="Monat(e)" />
-    <string key="lblLastUpdateCheck" value="Letzte automatische Update-Prüfung:" />
-    <string key="tabGeneralSettings" value="Allgemeine Einstellungen" />
-    <string key="lblDefaultTab" value="Anzeige beim Start:" />
-    <string key="lblDefaultDisplay" value="Voreingesteller Anzeige Modus:" />
-    <string key="lblOverviewFont" value="Schriftart für Überblick:" />
-    <string key="lblDetailedFont" value="Schriftart für Details:" />
-    <string key="lblOverviewSize" value="Größe:" />
-    <string key="numFontOverview" value="8" />
-    <string key="lblOverviewPt" value="pt. für Überblick" />
-    <string key="lblDetailedSize" value="Größe:" />
-    <string key="numFontDetailed" value="8" />
-    <string key="lblDetailedPt" value="pt. für Details" />
-    <string key="chkWordWrap" value="Zeilenumbruch voreingestellt" />
-    <string key="chkSaveWindow" value="Beim Verlassen von EasyBCD Fenstergröße speichern" />
-    <string key="ResetSize" value="Standardwerte" />
-    <string key="tabDisplayOptions" value="Anzeigeoptionen" />
-    <string key="OptionsDialog" value="EasyBCD Einstellungen" />
-    <string key="overview" value="Überblick" />
-    <string key="detailed" value="Detailliert" />
+    <string key="btnOK" value="  OK" version="1" />
+    <string key="btnCancel" value="   Verwerfen" version="1" />
+    <string key="chkRememberBackup" value="Beim Verlassen an das BCD Backup erinnern" version="1" />
+    <string key="chkLoadDefaultBcd" value="Automatisch die folgende BCD-Datei laden:" version="1" />
+    <string key="chkRss" value="NeoSmart Technologies in Windows RSS Platform einschließen" version="1" />
+    <string key="rdoWeeks" value="Woche(n)" version="1" />
+    <string key="numUpdateInterval" value="0" version="1" />
+    <string key="chkExpertMode" value="EasyBCD im Expertenmodus starten" version="1" />
+    <string key="lblExpertMode" value="Expertenmodus warnt nicht vor Durchführung erweiterter Aktionen!" version="1" />
+    <string key="btnBrowseBcd" value="..." version="1" />
+    <string key="chkAutoUpdate" value="Automatisches Update alle" version="1" />
+    <string key="rdoDays" value="Tag(e)" version="1" />
+    <string key="rdoMonths" value="Monat(e)" version="1" />
+    <string key="lblLastUpdateCheck" value="Letzte automatische Update-Prüfung:" version="1" />
+    <string key="tabGeneralSettings" value="Allgemeine Einstellungen" version="1" />
+    <string key="lblDefaultTab" value="Anzeige beim Start:" version="1" />
+    <string key="lblDefaultDisplay" value="Voreingesteller Anzeige Modus:" version="1" />
+    <string key="lblOverviewFont" value="Schriftart für Überblick:" version="1" />
+    <string key="lblDetailedFont" value="Schriftart für Details:" version="1" />
+    <string key="lblOverviewSize" value="Größe:" version="1" />
+    <string key="numFontOverview" value="8" version="1" />
+    <string key="lblOverviewPt" value="pt. für Überblick" version="1" />
+    <string key="lblDetailedSize" value="Größe:" version="1" />
+    <string key="numFontDetailed" value="8" version="1" />
+    <string key="lblDetailedPt" value="pt. für Details" version="1" />
+    <string key="chkWordWrap" value="Zeilenumbruch voreingestellt" version="1" />
+    <string key="chkSaveWindow" value="Beim Verlassen von EasyBCD Fenstergröße speichern" version="1" />
+    <string key="ResetSize" value="Standardwerte" version="1" />
+    <string key="tabDisplayOptions" value="Anzeigeoptionen" version="1" />
+    <string key="OptionsDialog" value="EasyBCD Einstellungen" version="1" />
+    <string key="overview" value="Überblick" version="1" />
+    <string key="detailed" value="Detailliert" version="1" />
   </strings>
 </localization>

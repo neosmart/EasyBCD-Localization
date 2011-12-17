@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="OK_Button" value="OK" />
-    <string key="Cancel_Button" value="Verwerfen" />
-    <string key="Body" value="Um fortzufahren braucht EasyBCD Zugriff auf das Windows Vista oder Windows 7  Installationsmedium (normalerweise eine DVD oder ein Disk-Image)&#xD;&#xA;&#xD;&#xA;Bitte die DVD in Ihr optisches Laufwerk einlegen oder das Disk-Image wählen, danach OK drücken um fortzufahren." />
-    <string key="SdiMaker" value="Windows Installations Medium einlegen" />
-    <string key="mediaNotFound" value="Kein gültiges Windows Installations Medium gefunden." />
+    <string key="OK_Button" value="OK" version="1" />
+    <string key="Cancel_Button" value="Verwerfen" version="1" />
+    <string key="Body" value="Um fortzufahren braucht EasyBCD Zugriff auf das Windows Vista oder Windows 7  Installationsmedium (normalerweise eine DVD oder ein Disk-Image)&#xD;&#xA;&#xD;&#xA;Bitte die DVD in Ihr optisches Laufwerk einlegen oder das Disk-Image wählen, danach OK drücken um fortzufahren." version="1" />
+    <string key="SdiMaker" value="Windows Installations Medium einlegen" version="1" />
+    <string key="mediaNotFound" value="Kein gültiges Windows Installations Medium gefunden." version="1" />
   </strings>
 </localization>
