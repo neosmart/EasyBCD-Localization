@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linkLabel" value="Diese Kopie erfordert den Erwerb einer kommerziellen Lizenz.&#xD;&#xA;&#xD;&#xA;Bitte entweder die Emailadresse oder die Lizenznummer entsprechend Ihres Erwerbes eingeben. Hier klicken um eine Lizenz zu erwerben, oder kontaktieren Sie Sales@NeoSmart.net für Unterstützung..&#xD;&#xA;&#xD;&#xA;" />
+    <string key="linkClick" value="Hier klicken" />
+    <string key="linkEmail" value="Sales@NeoSmart.net" />
+    <string key="btnSkip" value="Überspringen" />
+    <string key="btnRegister" value="&amp;Registrieren" />
+    <string key="lblTitle" value="EasyBCD kommerzielle Version" />
+    <string key="lblLicenseKey" value="Emailaresse oder Lizenzschlüssel:" />
+    <string key="LicenseDialog" value="EasyBCD kommerzielle Version" />
+    <string key="email" value="Emailadresse" />
+    <string key="licenseKey" value="Lizenzschlüssel" />
+    <string key="seats" value="Arbeitsplätze" />
+    <string key="regFailTitle" value="Registrierung gescheitert!" />
+    <string key="regFail" value="Ungültige Email-Adresse oder Lizenz-Schlüssel. Bitte versuchen Sie es nocheinmal." />
+    <string key="regException" value="Fehlermeldung aufgetreten während die Lizenzdaten vom Server übertragen wurden. Bitte stellen Sie sicher daß Sie mit dem Internet verbunden sind oder versuchen Sie es später nocheinmal." />
+    <string key="regExceptionTitle" value="Registrierung fehlgeschlagen" />
+  </strings>
+</localization>

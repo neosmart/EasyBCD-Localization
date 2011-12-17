@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnOK" value="  OK" />
+    <string key="btnCancel" value="   Verwerfen" />
+    <string key="chkRememberBackup" value="Beim Verlassen an das BCD Backup erinnern" />
+    <string key="chkLoadDefaultBcd" value="Automatisch die folgende BCD-Datei laden:" />
+    <string key="chkRss" value="NeoSmart Technologies in Windows RSS Platform einschließen" />
+    <string key="rdoWeeks" value="Woche(n)" />
+    <string key="numUpdateInterval" value="0" />
+    <string key="chkExpertMode" value="EasyBCD im Expertenmodus starten" />
+    <string key="lblExpertMode" value="Expertenmodus warnt nicht vor Durchführung erweiterter Aktionen!" />
+    <string key="btnBrowseBcd" value="..." />
+    <string key="chkAutoUpdate" value="Automatisches Update alle" />
+    <string key="rdoDays" value="Tag(e)" />
+    <string key="rdoMonths" value="Monat(e)" />
+    <string key="lblLastUpdateCheck" value="Letzte automatische Update-Prüfung:" />
+    <string key="tabGeneralSettings" value="Allgemeine Einstellungen" />
+    <string key="lblDefaultTab" value="Anzeige beim Start:" />
+    <string key="lblDefaultDisplay" value="Voreingesteller Anzeige Modus:" />
+    <string key="lblOverviewFont" value="Schriftart für Überblick:" />
+    <string key="lblDetailedFont" value="Schriftart für Details:" />
+    <string key="lblOverviewSize" value="Größe:" />
+    <string key="numFontOverview" value="8" />
+    <string key="lblOverviewPt" value="pt. für Überblick" />
+    <string key="lblDetailedSize" value="Größe:" />
+    <string key="numFontDetailed" value="8" />
+    <string key="lblDetailedPt" value="pt. für Details" />
+    <string key="chkWordWrap" value="Zeilenumbruch voreingestellt" />
+    <string key="chkSaveWindow" value="Beim Verlassen von EasyBCD Fenstergröße speichern" />
+    <string key="ResetSize" value="Standardwerte" />
+    <string key="tabDisplayOptions" value="Anzeigeoptionen" />
+    <string key="OptionsDialog" value="EasyBCD Einstellungen" />
+    <string key="overview" value="Überblick" />
+    <string key="detailed" value="Detailliert" />
+  </strings>
+</localization>

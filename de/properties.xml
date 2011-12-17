@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <locale>
+    <name>Deutsch</name>
+    <rtl>false</rtl>
+    <parentLocale>en-US</parentLocale>
+  </locale>
+</localization>
