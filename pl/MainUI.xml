@@ -144,5 +144,22 @@
     <string key="safeVga" value="Basic VGA" version="1" />
     <string key="safeAD" value="Active Directory Repair" version="1" />
     <string key="emptyList" value="Nie wykryto wpisów!" version="1" />
+    <string key="lstVhdEntry" derive="true" />
+    <string key="tabAdvanced" derive="true" />
+    <string key="numEntryMemory" derive="true" />
+    <string key="tabPage11" derive="true" />
+    <string key="tabAddEntry" derive="true" />
+    <string key="tabPageMac" derive="true" />
+    <string key="txtMacName" derive="true" />
+    <string key="tabPage9" derive="true" />
+    <string key="txtLinName" derive="true" />
+    <string key="txtWinName" derive="true" />
+    <string key="tabPage8" derive="true" />
+    <string key="numTimeout" derive="true" />
+    <string key="numEntryCpu" derive="true" />
+    <string key="tabEntryDeveloper" derive="true" />
+    <string key="tabBcdInstall" derive="true" />
+    <string key="tabUtilities" derive="true" />
+    <string key="tabMbrSetup" derive="true" />
   </strings>
 </localization>
