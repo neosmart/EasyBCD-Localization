@@ -5,7 +5,7 @@
     <string key="rdoWeeks" value="Semana/s" version="1" />
     <string key="lblLastUpdateCheck" value="Última búsqueda de actualizaciones:" version="1" />
     <string key="btnOK" value="Aceptar" version="2" />
-    <string key="btnCancel" value="Cancelar" version="1" />
+    <string key="btnCancel" value="Cancelar" version="2" />
     <string key="chkExpertMode" value="Arrancar EasyBCD en Modo Experto" version="1" />
     <string key="chkRememberBackup" value="Recordar el directorio de copia de BCD al salir" version="1" />
     <string key="lblExpertMode" value="El Modo Experto no pregunta al usuario antes de hacer acciones avanzadas!" version="1" />
