@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="OKButton" value="&amp;OK" />
-    <string key="seatsAllowed" value="użytkownicy/urządzenia dozwolone" />
-    <string key="AboutBox" value="O programie" />
-    <string key="unlicensed" value="Kopia nielicencjonowana!" />
-    <string key="version" value="Wersja" />
-    <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - 2011" />
-    <string key="thanksFormat" value="Specjalne podziękowania dla zespołów: Grub4Dos, PLoP, {0} i UltraDefrag!&#xD;&#xA;Ta dystrybucja EasyBCD jest udostępniana z samodzielnymi komponentami (Grub4Dos i UltraDefrag) na warunkach licencji GPLv2. Po więcej informacji, proszę odwiedź plik LICENSE w katalogu instalacyjnym." />
-    <string key="aboutText1" value="EasyBCD jest uniwersalnym bootloaderem i narzędziem do zarządania bootloaderami. Nie dajemy gwarancji, że EasyBCD będzie działał na każdej wersji systemu Windows - zawsze upewnij się, że używasz najnowszej wersji EasyBCD.&#xD;&#xA;&#xD;&#xA;• Główny developer: Mahmoud H. Al-Qudsi&#xD;&#xA;• Aktywni współpracownicy: Sweat, blood, and tears&#xD;&#xA;• Napędzany przez C++, C#, Dr. Pepper, Excedrin, i Visine&#xD;&#xA;• Wszystkie Twoje starty systemu należą do nas!" />
+    <string key="OKButton" value="&amp;OK" version="1" />
+    <string key="seatsAllowed" value="użytkownicy/urządzenia dozwolone" version="1" />
+    <string key="AboutBox" value="O programie" version="1" />
+    <string key="unlicensed" value="Kopia nielicencjonowana!" version="1" />
+    <string key="version" value="Wersja" version="1" />
+    <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - 2011" version="1" />
+    <string key="thanksFormat" value="Specjalne podziękowania dla zespołów: Grub4Dos, PLoP, {0} i UltraDefrag!&#xD;&#xA;Ta dystrybucja EasyBCD jest udostępniana z samodzielnymi komponentami (Grub4Dos i UltraDefrag) na warunkach licencji GPLv2. Po więcej informacji, proszę odwiedź plik LICENSE w katalogu instalacyjnym." version="1" />
+    <string key="aboutText1" value="EasyBCD jest uniwersalnym bootloaderem i narzędziem do zarządania bootloaderami. Nie dajemy gwarancji, że EasyBCD będzie działał na każdej wersji systemu Windows - zawsze upewnij się, że używasz najnowszej wersji EasyBCD.&#xD;&#xA;&#xD;&#xA;• Główny developer: Mahmoud H. Al-Qudsi&#xD;&#xA;• Aktywni współpracownicy: Sweat, blood, and tears&#xD;&#xA;• Napędzany przez C++, C#, Dr. Pepper, Excedrin, i Visine&#xD;&#xA;• Wszystkie Twoje starty systemu należą do nas!" version="1" />
   </strings>
 </localization>

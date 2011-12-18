@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="chkDontRemind" value="Nie przypominaj mi więcej" />
-    <string key="btnCancel" value="Nie &amp;Dziękuję" />
-    <string key="btnDonate" value="&amp;Wsparcie" />
-    <string key="lblDonationIntro" value="Społecznościowa Wersja EasyBCD jest&#xD;&#xA;w 100% darmowym oprogramowaniem&#xD;&#xA; i staramy się, by tak pozostało. &#xD;&#xA;Niestety, &quot;darmowe oprogramowanie&quot; nie znaczy, &#xD;&#xA;że nie kosztuje ono mniej wysiłku&#xD;&#xA;przy tworzeniu i testowaniu.&#xD;&#xA;&#xD;&#xA;Do dziś, EasyBCD zostało bezpłatnie pobrane ponad 25 milionów razy, &#xD;&#xA;ocalając niezliczoną liczbę komputerów na skraju zniszczenia." />
-    <string key="donationTitle" value="Pomóż rozwijać EasyBCD!" />
-    <string key="lblYouDonate" value="Czy chcesz wesprzeć EasyBCD w ratowaniu większej liczby PC?" />
-    <string key="DonationDialog" value="Czy EasyBCD pomogło Tobie?" />
+    <string key="chkDontRemind" value="Nie przypominaj mi więcej" version="1" />
+    <string key="btnCancel" value="Nie &amp;Dziękuję" version="1" />
+    <string key="btnDonate" value="&amp;Wsparcie" version="1" />
+    <string key="lblDonationIntro" value="Społecznościowa Wersja EasyBCD jest&#xD;&#xA;w 100% darmowym oprogramowaniem&#xD;&#xA; i staramy się, by tak pozostało. &#xD;&#xA;Niestety, &quot;darmowe oprogramowanie&quot; nie znaczy, &#xD;&#xA;że nie kosztuje ono mniej wysiłku&#xD;&#xA;przy tworzeniu i testowaniu.&#xD;&#xA;&#xD;&#xA;Do dziś, EasyBCD zostało bezpłatnie pobrane ponad 25 milionów razy, &#xD;&#xA;ocalając niezliczoną liczbę komputerów na skraju zniszczenia." version="1" />
+    <string key="donationTitle" value="Pomóż rozwijać EasyBCD!" version="1" />
+    <string key="lblYouDonate" value="Czy chcesz wesprzeć EasyBCD w ratowaniu większej liczby PC?" version="1" />
+    <string key="DonationDialog" value="Czy EasyBCD pomogło Tobie?" version="1" />
   </strings>
 </localization>

@@ -1,39 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="accessViolationFormat" value="Nie można uzyskać dostępu do {0}. Jeżeli jest to dysk wymienny, to spróbuj usunąć i zamontować go ponownie, a następnie powtórz operację w programie." />
-    <string key="failedSave" value="Nie udało się zapisać zmian!" />
-    <string key="accessDeniedTitle" value="Dostęp wzbroniony" />
-    <string key="accessDeniedFormat" value="Dostęp do {0} został wzbroniony. Proszę, sprawdź czy plik nie jest w użyciu, a także czy posiadasz uprawnienia do jego usuwania/modyfikacji w podanej lokalizacji." />
-    <string key="oneEntry" value="Jest jeden wpis w bootloaderze Windows." />
-    <string key="multiEntriesFormat" value="Jest łącznie {0} wpisów na liście bootloadera." />
-    <string key="entryNum" value="Wpis #" />
-    <string key="name" value="Nazwa" />
-    <string key="bcdId" value="BCD ID" />
-    <string key="drive" value="Napęd" />
-    <string key="device" value="Urządzenie" />
-    <string key="path" value="Ścieżka" />
-    <string key="default" value="Domyślny" />
-    <string key="timeout" value="Czas minął" />
-    <string key="none" value="Brak" />
-    <string key="timeoutFormat" value="{0} sekund" />
-    <string key="skipped" value="Pominięty" />
-    <string key="bootDevice" value="Napęd rozruchowy" />
-    <string key="ebcdBootDevice" value="Napęd rozruchowy EasyBCD" />
-    <string key="bootloaderPath" value="Ścieżka bootloadera" />
-    <string key="bcdError" value="Błąd wykonania BCD!" />
-    <string key="ntNotFoundTitle" value="Poprawna instalacja NT nie została znaleziona!" />
-    <string key="ntNotFound" value="Easy BCD nie wykryło poprawnej instalacji systemu Windows NT-2003 na żadnym z zamontowanych napędów i nie mogło kontynuować." />
-    <string key="manuallyLoad" value="Czy chcesz ręcznie wczytać rejestr BCD dla zarządzania w EasyBCD? Miej na uwadze, że EasyBCD potrzebuje bootloadera Windows Vsta/7 i nie będzie działać w środowisku z wyłącznie Windows XP." />
-    <string key="errorBcd" value="Błąd podczas otwierania rejestru BCD" />
-    <string key="locateValid" value="Zlokalizuj poprawny skład BCD" />
-    <string key="bcdRegistry" value="Rejestr BCD" />
-    <string key="partition" value="Partycja" />
-    <string key="unknown" value="Nieznany" />
-    <string key="gib" value="GiB" />
-    <string key="mib" value="MiB" />
-    <string key="as" value="jako" />
-    <string key="defragFormat" value="Rozpoczynanie defragmentacji pliku {0}" />
-    <string key="unnamed" value="Wpis bez nazwy" />
+    <string key="accessViolationFormat" value="Nie można uzyskać dostępu do {0}. Jeżeli jest to dysk wymienny, to spróbuj usunąć i zamontować go ponownie, a następnie powtórz operację w programie." version="1" />
+    <string key="failedSave" value="Nie udało się zapisać zmian!" version="1" />
+    <string key="accessDeniedTitle" value="Dostęp wzbroniony" version="1" />
+    <string key="accessDeniedFormat" value="Dostęp do {0} został wzbroniony. Proszę, sprawdź czy plik nie jest w użyciu, a także czy posiadasz uprawnienia do jego usuwania/modyfikacji w podanej lokalizacji." version="1" />
+    <string key="oneEntry" value="Jest jeden wpis w bootloaderze Windows." version="1" />
+    <string key="multiEntriesFormat" value="Jest łącznie {0} wpisów na liście bootloadera." version="1" />
+    <string key="entryNum" value="Wpis #" version="1" />
+    <string key="name" value="Nazwa" version="1" />
+    <string key="bcdId" value="BCD ID" version="1" />
+    <string key="drive" value="Napęd" version="1" />
+    <string key="device" value="Urządzenie" version="1" />
+    <string key="path" value="Ścieżka" version="1" />
+    <string key="default" value="Domyślny" version="1" />
+    <string key="timeout" value="Czas minął" version="1" />
+    <string key="none" value="Brak" version="1" />
+    <string key="timeoutFormat" value="{0} sekund" version="1" />
+    <string key="skipped" value="Pominięty" version="1" />
+    <string key="bootDevice" value="Napęd rozruchowy" version="1" />
+    <string key="ebcdBootDevice" value="Napęd rozruchowy EasyBCD" version="1" />
+    <string key="bootloaderPath" value="Ścieżka bootloadera" version="1" />
+    <string key="bcdError" value="Błąd wykonania BCD!" version="1" />
+    <string key="ntNotFoundTitle" value="Poprawna instalacja NT nie została znaleziona!" version="1" />
+    <string key="ntNotFound" value="Easy BCD nie wykryło poprawnej instalacji systemu Windows NT-2003 na żadnym z zamontowanych napędów i nie mogło kontynuować." version="1" />
+    <string key="manuallyLoad" value="Czy chcesz ręcznie wczytać rejestr BCD dla zarządzania w EasyBCD? Miej na uwadze, że EasyBCD potrzebuje bootloadera Windows Vsta/7 i nie będzie działać w środowisku z wyłącznie Windows XP." version="1" />
+    <string key="errorBcd" value="Błąd podczas otwierania rejestru BCD" version="1" />
+    <string key="locateValid" value="Zlokalizuj poprawny skład BCD" version="1" />
+    <string key="bcdRegistry" value="Rejestr BCD" version="1" />
+    <string key="partition" value="Partycja" version="1" />
+    <string key="unknown" value="Nieznany" version="1" />
+    <string key="gib" value="GiB" version="1" />
+    <string key="mib" value="MiB" version="1" />
+    <string key="as" value="jako" version="1" />
+    <string key="defragFormat" value="Rozpoczynanie defragmentacji pliku {0}" version="1" />
+    <string key="unnamed" value="Wpis bez nazwy" version="1" />
   </strings>
 </localization>
