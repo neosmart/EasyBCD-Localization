@@ -26,7 +26,7 @@
     <string key="yes" value="Tak" version="1" />
     <string key="no" value="Nie" version="1" />
     <string key="registryFailed" value="Nie można zapisać ustawień rejestru" version="1" />
-    <string key="commercialEdition" value="Wersja komercyjna" version="1" />
+    <string key="commercialEdition" value="Wersja Komercyjna" version="1" />
     <string key="failedAddTitle" value="Niepowodzenie dodawania wpisu!" version="1" />
     <string key="communityEdition" value="Wersja Społecznościowa" version="1" />
     <string key="msdosHelp" value="Aby EasyBCD mogło uruchomić MS-DOS 6.x lub Windows 3.x, pliki IO.SYS oraz MSDOS.SYS muszą znajdować się na początku aktywnej partycji.&#xD;&#xA;&#xD;&#xA;By uzyskać więcej informacji, o tym jak tego dokonać, wciśnij 'Tak', by otworzyć dokumentację EasyBCD dla wpisów bazujacych na DOSie. Jeśli nie chcesz oglądać teraz tej dokumentacji, wciśnij 'Nie'." version="1" />
