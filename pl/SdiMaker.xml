@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OK_Button" value="OK" />
+    <string key="Cancel_Button" value="Anuluj" />
+    <string key="Body" value="Celem kontynuowania, EasyBCD musi uzyskać dostęp do medium instalacyjnego (zwykle dysk DVD lub jego obraz) Windows Vista/7.&#xD;&#xA;&#xD;&#xA;Proszę umieścić dysk DVD w napędzie optycznym lub zamontować obraz dysku, a następnie wcisnąć OK." />
+    <string key="SdiMaker" value="Umieść nośnik instalacyjny Windows" />
+    <string key="mediaNotFound" value="Nie odnaleziono poprawnego nośnika instalacyjnego Windows." />
+  </strings>
+</localization>

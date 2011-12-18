@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnOK" value="OK" />
+    <string key="btnCancel" value="Anuluj" />
+    <string key="chkExpertMode" value="Uruchom EasyBCD w trybie Eksperta" />
+    <string key="chkRememberBackup" value="Zapamiętaj katalog kopii zapasowej BCD na wyjściu" />
+    <string key="lblExpertMode" value="Tryb Eksperta nie pyta użytkownika przed podjęciem zaawansowanych działań!" />
+    <string key="chkLoadDefaultBcd" value="Automatycznie załaduj następujący plik BCD na starcie:" />
+    <string key="btnBrowseBcd" value="..." />
+    <string key="chkAutoUpdate" value="Automatyczny Update co" />
+    <string key="chkRss" value="Dodaj NeoSmart Technologies do czytnika RSS w Windows" />
+    <string key="numUpdateInterval" value="0" />
+    <string key="rdoDays" value="Dni" />
+    <string key="rdoWeeks" value="Tygodni" />
+    <string key="rdoMonths" value="Miesięcy" />
+    <string key="lblLastUpdateCheck" value="Ostatnie sprawdzenie uaktualnień:" />
+    <string key="tabGeneralSettings" value="Ustawienia ogólne" />
+    <string key="lblDefaultTab" value="Domyślna zakładka na starcie:" />
+    <string key="lblDefaultDisplay" value="Domyślny tryb wyświetlania:" />
+    <string key="lblOverviewFont" value="Czcionka przeglądu:" />
+    <string key="lblDetailedFont" value="Czcionka widoku pełnego:" />
+    <string key="lblOverviewSize" value="Rozmiar:" />
+    <string key="lblOverviewPt" value="pt." />
+    <string key="lblDetailedSize" value="Rozmiar:" />
+    <string key="lblDetailedPt" value="pt." />
+    <string key="chkWordWrap" value="Zawijanie wierszy domyślnie włączone" />
+    <string key="chkSaveWindow" value="Zapisz rozmiar okna EasyBCD na wyjściu" />
+    <string key="ResetSize" value="Zresetuj ustawienia wyświetlania" />
+    <string key="tabDisplayOptions" value="Opcje wyświetlania" />
+    <string key="OptionsDialog" value="Opcje EasyBCD" />
+    <string key="overview" value="Przegląd" />
+    <string key="detailed" value="Pełny" />
+    <string key="locateBcd" value="Zlokalizuj poprawny skład BCD" />
+    <string key="never" value="Nigdy" />
+  </strings>
+</localization>

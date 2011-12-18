@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblDriveSelect" value="Nowy napęd startowy:" />
+    <string key="lblBody" value="EasyBCD dokona ponownej konfiguracji Twojego systemu dla startu z zaznaczonej poniżej partycji. Proces ten spowoduje utworzenie nowego składu BCD na zaznaczonym dysku, skopiuj bieżące wpisy BCD, a następnie ustaw wskazaną partycję jako aktywną i bootującą." />
+    <string key="OK_Button" value="&amp;OK" />
+    <string key="Cancel_Button" value="&amp;Cancel" />
+    <string key="DriveSelect" value="WybórNapędu" />
+    <string key="errorAlreadyBoot" value="Wskazany napęd już jest napędem bootującym. Proszę, wskaż inny napęd, by kontynuować!" />
+    <string key="errorAlreadyBootTitle" value="Proszę wybierz inny napęd!" />
+  </strings>
+</localization>

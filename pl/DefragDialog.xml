@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnAbort" value="&amp;Przerwij" />
+    <string key="CommandWindow" value="Okno poleceń EasyBCD" />
+  </strings>
+</localization>

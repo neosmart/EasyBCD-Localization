@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="rdoModeBasic" value="Przegląd" />
+    <string key="rdoModeDetailed" value="Dokładny (Tryb Debugowania)" />
+    <string key="chkWordWrap" value="Zawijaj wiersze" />
+    <string key="grpDisplayMode" value="Tryb przeglądania" />
+    <string key="tabViewSettings" value="1" />
+    <string key="rdoTimeoutCount" value="Odliczaj od" />
+    <string key="rdoTimeoutNone" value="Czekaj na wybór użytkownika" />
+    <string key="rdoTimeoutSkip" value="Pomiń menu startowe" />
+    <string key="btnSaveBCD" value="Zapisz ustawienia" />
+    <string key="groupBox2" value="Opcje czasu" />
+    <string key="btnUp" value="W górę" />
+    <string key="btnDown" value="W dół" />
+    <string key="btnRenameEntry" value="Przemianuj" />
+    <string key="btnDelete" value="Usuń" />
+    <string key="groupBox1" value="Zmień Menu wpisów" />
+    <string key="tabEditMenu" value="2" />
+    <string key="btnBrowse" value="..." />
+    <string key="lblName" value="Nazwa:" />
+    <string key="lblType" value="Typ:" />
+    <string key="lblPath" value="Ścieżka:" />
+    <string key="lblDrive" value="Napęd:" />
+    <string key="btnAddNewEntry" value="Dodaj wpis" />
+    <string key="lblMode" value="Tryb:" />
+    <string key="lblFile" value="Plik:" />
+    <string key="txtVhdName" value="Obraz NeoSmart VHD" />
+    <string key="tabPage13" value="Obraz dysku" />
+    <string key="txtIsoName" value="Wpis NeoSmart ISO" />
+    <string key="tabPage14" value="ISO" />
+    <string key="txtPeName" value="Obraz NST WinPE" />
+    <string key="chkEms" value="EMS Włączony" />
+    <string key="tabPage12" value="WinPE" />
+    <string key="txtFloppyName" value="Obraz dyskietki NeoSmart" />
+    <string key="tabFloppy" value="Dyskietka" />
+    <string key="btnPlopInstall" value="Instaluj PLoP" />
+    <string key="btnPlopRemove" value="Usuń PLoP" />
+    <string key="lblBiosExtend" value="Rozszerzenie EasyBCD BIOSu może zostać użyte do startu z sieci, płyty CD lub dysku USB na komputerach, które natywnie nie wspierają takich opcji." />
+    <string key="tabPagePlop" value="Rozszerzenie BIOSu" />
+    <string key="grpPortable" value="Przenośny/Zewnętrzny Nośnik" />
+    <string key="lblWindowsAuto" value="Określone automatycznie" />
+    <string key="chkAutoXp" value="Automatycznie wykryj poprawny napęd" />
+    <string key="chkGrub" value="Użyj kopii EasyBCD GRUBa" />
+    <string key="lblLinAuto" value="Określone automatycznie" />
+    <string key="btnNeoGrub" value="Instaluj" />
+    <string key="btnNeoGrubConfig" value="Konfiguruj" />
+    <string key="lblNeoGrub" value="NeoGrub bootloader może zostać użyty do startu Linuksa i starszych wersji Windows, a nawet z ukrytych napędów." />
+    <string key="grpOS" value="Systemy Operacyjne" />
+    <string key="btnSaveSettings" value="Zapisz ustawienia" />
+    <string key="lblLocale" value="Lokalizacja:" />
+    <string key="tabEntryBasic" value="Podstawowe" />
+    <string key="lblSafeMode" value="Tryb bezpieczny:" />
+    <string key="lblPae" value="Wsparcie PAE:" />
+    <string key="lblDep" value="NoExecute (DEP):" />
+    <string key="chkEntryUnsigned" value="Zezwól na niepodpisane sterowniki dla 64-bit Windows" />
+    <string key="tabEntryAdvanced" value="Zaawansowane" />
+    <string key="chkEntryKernelDebug" value="Uruchom Windows w trybie Kernel-Debug" />
+    <string key="chkEntrySos" value="Uruchom w trybie SOS/komunikatów startu" />
+    <string key="chkEntryMemory" value="Ujmij" />
+    <string key="lblDeduct2" value="MB z pamięci fizycznej" />
+    <string key="chkEntryCpu" value="Ogranicz Windows do" />
+    <string key="lblLimit2" value="CPUs (procesorów)" />
+    <string key="lblAdvancedSettings" value="Miej na uwadze, że część ustawień może być niedostępna zależnie od modyfikowanego wpisu." />
+    <string key="lblPickLH" value="Wybierz wpis z listy poniżej do modyfikacji." />
+    <string key="grpChangeSettings" value="Zmień ustawienia" />
+    <string key="grpSelectLH" value="Wybierz system operacyjny" />
+    <string key="btnBackup" value="Backup ustawień" />
+    <string key="btnRestore" value="Przywróć Backup" />
+    <string key="grpBackupRestore" value="Kopiuj i przywróć ustawienia bootloadera" />
+    <string key="rdoBcdChange" value="Zmień napęd startowy" />
+    <string key="rdoBcdRepair" value="Odtwórz/napraw pliki startowe" />
+    <string key="btnBcdRescue" value="Wybierz akcję" />
+    <string key="rdoBcdReset" value="Zresetuj konfigurację BCD" />
+    <string key="grpDiagnostics" value="Opcje zarządzania BCD" />
+    <string key="btnMakeBootable" value="Zainstaluj BCD" />
+    <string key="lblUsbPartitions" value="Partycja:" />
+    <string key="lblCreateBootable" value="EasyBCD może automazować proces tworzenia starowego nośnika. Wybierz partycję by rozpocząć." />
+    <string key="grpCreateBootableExternal" value="Utwórz zewnętrzny nośnik startowy" />
+    <string key="btnMbrWrite" value="Zapisz MBR" />
+    <string key="rdoMbrXP" value="Zainstaluj bootloader Windows XP do MBR" />
+    <string key="rdoMbrVista" value="Zainstaluj bootloader Windows Vista/7 do MBR" />
+    <string key="grpBootloader" value="Opcje konfiguracji MBR" />
+    <string key="grpUtils" value="Przydatne narzędzia" />
+    <string key="btnBcdInstall" value="BCD Backup/Naprawa" />
+    <string key="btnUtilities" value="Przydatne narzędzia" />
+    <string key="btnMbrSetup" value="Rozmieszczenie BCD" />
+    <string key="btnAdvanced" value="Ustawienia zaawansowane" />
+    <string key="btnAddEntry" value="Dodaj nowy wpis" />
+    <string key="btnEditMenu" value="Edytuj menu startowe" />
+    <string key="btnViewSettings" value="Ustawienia widoku" />
+    <string key="grpToolbox" value="EasyBCD Toolbox" />
+    <string key="mnuSelectBcd" value="Wybierz &amp;skład BCD" />
+    <string key="mnuLanguage" value="Wybierz język" />
+    <string key="mnuLoadSystemBcd" value="Wczytaj systemowy BCD" />
+    <string key="mnuRescan" value="Odśwież skład BCD" />
+    <string key="mnuRegister" value="Za&amp;rejestruj" />
+    <string key="mnuDonate" value="Wesprzyj" />
+    <string key="mnuUpdate" value="Sprawdź &amp;uaktualnienia" />
+    <string key="mnuExit" value="Wyjdź" />
+    <string key="mnuFile" value="&amp;Plik" />
+    <string key="mnuOptions" value="Opcje" />
+    <string key="mnuEditLegacy" value="Edytuj starsze wpisy" />
+    <string key="mnuRestart" value="Uruchom ponownie komputer" />
+    <string key="mnuTools" value="Narzędzia" />
+    <string key="mnuDocumentation" value="Dokumentacja" />
+    <string key="mnuSupport" value="Wsparcie" />
+    <string key="mnuBug" value="Zgłoś błąd" />
+    <string key="mnuDonate2" value="Wesprzyj" />
+    <string key="mnuHelp" value="Pomoc" />
+    <string key="mnuAbout" value="O aplikacji" />
+    <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" />
+    <string key="colName" value="Wpis" />
+    <string key="colDefault" value="Domyślny" />
+    <string key="lstRawHD" value="Obraz dysku twardego Raw" />
+    <string key="lstRawPartition" value="Obraz partycji Raw" />
+    <string key="lstRunDisk" value="Uruchom z dysku" />
+    <string key="lstLoadMem" value="Załaduj z pamięci" />
+    <string key="lstWim" value="Obraz WIM (RAMdisk)" />
+    <string key="lstExtracted" value="Wyodrębniony układ systemu plików" />
+    <string key="lstWin7" value="Windows Vista/7" />
+    <string key="lstWinNt" value="Windows NT/2k/XP/2k3" />
+    <string key="lstWin9x" value="Windows 95/98/ME" />
+    <string key="lstWinDos" value="MS-DOS 6.x&#xD;&#xA;" />
+    <string key="lstNixGrub" value="GRUB (Legacy)" />
+    <string key="lstNixGrub2" value="GRUB 2" />
+    <string key="lstNixLilo" value="LILO/eLILO" />
+    <string key="lstNixBsd" value="FreeBSD/PC-BSD" />
+    <string key="lstNixWubi" value="Wubi" />
+    <string key="lstNixSys" value="SysLinux" />
+    <string key="lstEfi" value="EFI (domyślny)" />
+    <string key="lstMbr" value="MBR" />
+    <string key="lstOptIn" value="OptIn" />
+    <string key="lstOptOut" value="OptOut" />
+    <string key="lstAlwaysOn" value="Always On" />
+    <string key="lstAlwaysOff" value="Always Off" />
+    <string key="paeDefault" value="Default (domyślny)" />
+    <string key="paeEnable" value="Enable" />
+    <string key="paeDisable" value="Disable" />
+    <string key="safeNormal" value="Normal" />
+    <string key="safeMode" value="Safe Mode" />
+    <string key="safeNetworking" value="Safe Mode w/ Networking" />
+    <string key="safeCmd" value="Command Line/Alternate Shell" />
+    <string key="safeVga" value="Basic VGA" />
+    <string key="safeAD" value="Active Directory Repair" />
+    <string key="emptyList" value="Nie wykryto wpisów!" />
+  </strings>
+</localization>
