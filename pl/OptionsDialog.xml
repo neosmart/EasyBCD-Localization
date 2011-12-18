@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="btnOK" value="OK" version="1" />
+    <string key="btnOK" value="OK" version="2" />
     <string key="btnCancel" value="Anuluj" version="2" />
     <string key="chkExpertMode" value="Uruchom EasyBCD w trybie Eksperta" version="1" />
     <string key="chkRememberBackup" value="Zapamiętaj katalog kopii zapasowej BCD na wyjściu" version="1" />
@@ -33,5 +33,7 @@
     <string key="detailed" value="Pełny" version="1" />
     <string key="locateBcd" value="Zlokalizuj poprawny skład BCD" version="1" />
     <string key="never" value="Nigdy" version="1" />
+    <string key="numFontOverview" derive="true" />
+    <string key="numFontDetailed" derive="true" />
   </strings>
 </localization>
