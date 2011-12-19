@@ -7,9 +7,9 @@
     <string key="bcdInUse" value="Bieżący plik jest w użyciu i nie może zostać otwarty przez EasyBCD. Jeśli próbujesz zaznaczyć systemowy skład wciśnij 'Nie' poniżej, a następnie wskaż &quot;Załaduj skład systemowy&quot; z menu 'Plik'&#xD;&#xA;&#xD;&#xA;Czy chcesz wskazać inny skład dla użycia w EasyBCD?" version="1" />
     <string key="bcdInUseTitle" value="Błąd naruszenia zasad dostępu!" version="1" />
     <string key="accessDenied" value="Dostęp wzbroniony!" version="1" />
-    <string key="uncUnsupported" value="Ścieżki sieciowe nie są obsługiwane przez tę funkcję. Proszę, wskaż inną ścieżkę i spróbuj ponownie." version="1" />
+    <string key="uncUnsupported" value="Ścieżki sieciowe nie są obsługiwane przez tę funkcję. &#xD;&#xA;Proszę, wskaż inną ścieżkę i spróbuj ponownie." version="1" />
     <string key="uncUnsupportedTitle" value="UNC Ścieżki nie wspierane" version="1" />
-    <string key="invalidPath" value="Wykryto niewłaściwy plik lub nazwę ścieżki. Proszę, wprowadź poprawną ścieżkę, by kontynuować." version="1" />
+    <string key="invalidPath" value="Wykryto niewłaściwy plik lub nazwę ścieżki. &#xD;&#xA;Proszę, wprowadź poprawną ścieżkę, by kontynuować." version="1" />
     <string key="invalidPathTitle" value="Niewłaściwa ścieżka!" version="1" />
     <string key="updateCheck" value="Sprawdzanie dostępności uaktualnień dla EasyBCD..." version="1" />
     <string key="updateFailed" value="Błąd sprawdzania dostępności uaktualnienia. Nie można nawiązać połączenia sieciowego." version="1" />

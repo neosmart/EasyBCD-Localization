@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="linkLabel" value="Ta kopia EasyBCD wymaga zakupienia komercyjnej licencji.&#xD;&#xA;&#xD;&#xA;Proszę, wprowadź adres email lub numer licencji przypisany do Twojego zakupu. Kliknij tutaj by zakupić licencję lub skontaktuj się z działem sprzedaży: Sales@NeoSmart.net" version="1" />
+    <string key="linkLabel" value="Ta kopia EasyBCD wymaga zakupienia komercyjnej licencji.&#xD;&#xA;&#xD;&#xA;Proszę, wprowadź adres email lub numer licencji przypisany do Twojego zakupu. &#xD;&#xA;Kliknij tutaj by zakupić licencję lub skontaktuj się z działem sprzedaży: Sales@NeoSmart.net" version="1" />
     <string key="linkClick" value="Kliknij tutaj" version="1" />
     <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
     <string key="btnSkip" value="Pomiń" version="1" />
@@ -11,10 +11,10 @@
     <string key="LicenseDialog" value="EasyBCD Edycja Komercyjna" version="1" />
     <string key="email" value="Email" version="1" />
     <string key="licenseKey" value="Klucz licencyjny" version="1" />
-    <string key="seats" value="Liczba miejsc" version="1" />
+    <string key="seats" value="Liczba licencji" version="1" />
     <string key="regFailTitle" value="Rejestracja zakończona niepowodzeniem!" version="1" />
     <string key="regFail" value="Niepoprawny email lub klucz licencyjny. Spróbuj ponownie." version="1" />
-    <string key="regException" value="Napotkano błąd podczas pozyskiwania licencji ze zdalnego serwera. Proszę, upewnij się, że jesteś połączony z Internetem lub spróbuj ponownie." version="1" />
+    <string key="regException" value="Napotkano błąd podczas pozyskiwania licencji ze zdalnego serwera. &#xD;&#xA;Proszę, upewnij się, że jesteś połączony z Internetem lub spróbuj ponownie." version="1" />
     <string key="regExceptionTitle" value="Nie można zarejestrować" version="1" />
   </strings>
 </localization>
