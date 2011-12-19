@@ -7,7 +7,7 @@
     <string key="unlicensed" value="Copia senza licenza!" version="1" />
     <string key="version" value="Versione" version="1" />
     <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - 2011" version="1" />
-    <string key="aboutText1" value="EasyBCD é uno strumento avanzato e di ultima generazione per la gestore del boot. Tuttavia non vi é alcuna garanzia che EasyBCD funzioni con tutte le versioni di Windows - accertatevi sempre di usare l'ultima versione di EasyBCD disponibile. &#xD;&#xA;&#xD;&#xA;• Capo sviluppatore: Mahmoud H. Al-Qudsi&#xD;&#xA;• Ingredienti impiegati: sudore, lacrime e sangue&#xD;&#xA;• Powered by C++, C#, Dr. Pepper, Excedrin, and Visine&#xD;&#xA;• Tutti i vostri boot sono affar nostro!" version="1" />
+    <string key="aboutText1" value="EasyBCD é uno strumento avanzato e di ultima generazione per la gestore del boot. Tuttavia non vi é alcuna garanzia che EasyBCD funzioni con tutte le versioni di Windows - accertatevi sempre di usare l'ultima versione di EasyBCD disponibile. &#xD;&#xA;&#xD;&#xA;• Capo sviluppatore: Mahmoud H. Al-Qudsi&#xD;&#xA;• Traduzione italiana: Paolo Viappiani&#xD;&#xA;• Ingredienti impiegati: sudore, lacrime e sangue&#xD;&#xA;• Powered by C++, C#, Dr. Pepper, Excedrin, and Visine&#xD;&#xA;• Tutti i vostri boot sono affar nostro!" version="1" />
     <string key="thanksFormat" value="Ringraziamenti particolari ai team Grub4Dos, PLoP,{0} ed UltraDefrag!&#xD;&#xA;&#xD;&#xA;Questa distribuzione di EasyBCD fa uso di alcuni componenti(Grub4Dos and UltraDefrag) licenziati nei termini della licenza GPLv2. Per ulteriori informazioni consultare il file LICENSE nella cartella di installazione." version="1" />
   </strings>
 </localization>
