@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linkLabel" value="На эту копию EasyBCD необходимо приобрести коммерческую лицензию .&#xD;&#xA;&#xD;&#xA;Пожалуйста, введите любой адрес электронной почты или номер лицензии, связанные с покупкой. Нажмите сюда, чтобы купить лицензию, или обратитесь за поддержкой Sales@NeoSmart.net." version="1" />
+    <string key="linkClick" value="Кликните здесь" version="1" />
+    <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
+    <string key="btnSkip" value="П&amp;ропустить" version="1" />
+    <string key="btnRegister" value="&amp;Регистрация" version="1" />
+    <string key="lblTitle" value="EasyBCD Коммерческий выпуск" version="1" />
+    <string key="lblLicenseKey" value="Электронную почта или Ключ Лицензии:" version="1" />
+    <string key="LicenseDialog" value="EasyBCD Коммерческий выпуск" version="1" />
+    <string key="email" value="Электронная почта" version="1" />
+    <string key="licenseKey" value="Ключ лицензии" version="1" />
+    <string key="seats" value="Места" version="1" />
+    <string key="regFailTitle" value="Неудачная регистрация!" version="1" />
+    <string key="regFail" value="Неправильная электронная почта или ключ лицензии. Пожалуйста, попробуйте еще раз." version="1" />
+    <string key="regException" value="Произошла ошибка при получении лицензии от удаленного сервера. Пожалуйста, убедитесь, что вы подключены к Интернету или повторите попытку позже." version="1" />
+    <string key="regExceptionTitle" value="Не удалось зарегистрировать" version="1" />
+  </strings>
+</localization>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OKButton" value="&amp;ДА" version="1" />
+    <string key="AboutBox" value="Оказать помощь проекту" version="1" />
+    <string key="seatsAllowed" value="пользователям/устройства разрешается" version="1" />
+    <string key="unlicensed" value="Нелицензируемая копия!" version="1" />
+    <string key="version" value="Версия" version="1" />
+    <string key="copyright" value="Авторское право © NeoSmart Technologies 2006 - 2011" version="1" />
+    <string key="aboutText1" value="EasyBCD является основным загрузчным инструментом управления загрузчика. Нет никакой гарантии, что EasyBCD будет работать со всеми версиями Windows - проверьте сейчас, что Вы используете последнюю доступную версию. &#xD;&#xA;&#xD;&#xA;• Ведущий разработчик: Махмуд Х. Аль-Кудси&#xD;&#xA;• Активные ингредиенты: Пот, кровь, и слезы&#xD;&#xA;•Программа разработана на C++, C#, доктор Пеппер, Excedrin, и Visine&#xD;&#xA;• Вся Ваша начальная загрузка, принадлежыт нам!" version="1" />
+    <string key="thanksFormat" value="Особая благодарность к Grub4Dos, PLoP,{0} И UltraDefrag командам!&#xD;&#xA;&#xD;&#xA;Программа EasyBCD поставляется с автономными компонентами (Grub4Dos и UltraDefrag) лицензируемые в соответствии с лицензией GPLv2. Для получения дополнительной информации, пожалуйста, см. файл ЛИЦЕНЗИИ в каталоге установки." version="1" />
+  </strings>
+</localization>

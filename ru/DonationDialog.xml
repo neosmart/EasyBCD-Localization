@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="chkDontRemind" value="Не напоминать мне больше" version="1" />
+    <string key="btnCancel" value="Нет &amp;Спасибо" version="1" />
+    <string key="btnDonate" value="&amp;Пожертвовать" version="1" />
+    <string key="lblDonationIntro" value="Выпуск Сообщества EasyBCD является 100%-ым бесплатным программным обеспечением, и мы намерены продолжать в том же духе. Но только потому, что это програмное обеспечение  бесплатно, не означает, что его затраты малы, для разработки и тестирования.&#xD;&#xA;&#xD;&#xA;До настоящего времени EasyBCD был загружен бесплатно более чем 25 миллионов раз, сохраняя бесчисленные компьютеры от края разрушения." version="1" />
+    <string key="donationTitle" value="Помогая нам Помогаешь Себе!" version="1" />
+    <string key="lblYouDonate" value="Вы хотите пожертвовать EasyBCD и спасти больше ПК?" version="1" />
+    <string key="DonationDialog" value="Вы помогли EasyBCD?" version="1" />
+  </strings>
+</localization>
