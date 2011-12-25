@@ -62,33 +62,33 @@
     <string key="lblFile" value="Файл:" version="1" />
     <string key="lblFile1" clone="lblFile" />
     <string key="lblFile2" clone="lblFile" />
-    <string key="txtVhdName" value="NeoSmart образ ВЖД" version="1" />
-    <string key="tabPage13" value="образ диска" version="1" />
-    <string key="txtIsoName" value="NeoSmart Запись ISO" version="1" />
+    <string key="txtVhdName" value="NeoSmart образ VHD" version="1" />
+    <string key="tabPage13" value="Образ диска" version="1" />
+    <string key="txtIsoName" value="NeoSmart образ ISO" version="1" />
     <string key="tabPage14" value="ISO" version="1" />
     <string key="txtPeName" value="NST WinPE образ" version="1" />
     <string key="chkEms" value="EMS Включено" version="1" />
     <string key="tabPage12" value="WinPE" version="1" />
-    <string key="txtFloppyName" value="Образ Гибкого диска NeoSmart" version="1" />
-    <string key="tabFloppy" value="Гибкий диск" version="1" />
-    <string key="btnPlopInstall" value="Установить с PLoP" version="1" />
+    <string key="txtFloppyName" value="Образ дискеты NeoSmart" version="1" />
+    <string key="tabFloppy" value="дискета" version="1" />
+    <string key="btnPlopInstall" value="Установить  PLoP" version="1" />
     <string key="btnPlopRemove" value="Удалить PLoP" version="1" />
     <string key="lblBiosExtend" value="Расширитель BIOS EasyBCD может использоваться, чтобы загрузиться от сети, CD, или USB на компьютерах, которые исходно это не поддерживают." version="1" />
-    <string key="tabPagePlop" value="расширитель BIOS " version="1" />
+    <string key="tabPagePlop" value="Расширитель BIOS " version="1" />
     <string key="grpPortable" value="Портативные/Внешние Носители" version="1" />
-    <string key="lblWindowsAuto" value="Автоматически определяеть" version="1" />
+    <string key="lblWindowsAuto" value="Определить автоматически" version="1" />
     <string key="chkAutoXp" value="Автоматически определить нужный диск" version="1" />
     <string key="txtWinName" value="Microsoft Windows" version="1" />
     <string key="tabPage8" value="Windows" version="1" />
-    <string key="chkGrub" value="Сделать копию GRUB" version="1" />
+    <string key="chkGrub" value="Скопировать  GRUB" version="1" />
     <string key="txtLinName" value="NeoSmart Linux" version="1" />
-    <string key="lblLinAuto" value="Автоматически определить" version="1" />
+    <string key="lblLinAuto" value="Определить автоматически" version="1" />
     <string key="tabPage9" value="Linux/BSD" version="1" />
     <string key="txtMacName" value="NST Mac OS X" version="1" />
     <string key="tabPageMac" value="Mac" version="1" />
     <string key="btnNeoGrub" value="установить" version="1" />
     <string key="btnNeoGrubConfig" value="Настройки" version="1" />
-    <string key="lblNeoGrub" value="NeoGrub загрузчик можно использовать, чтобы загрузиться в Linux и ранними версиями Windows, или даже скрыть диски." version="1" />
+    <string key="lblNeoGrub" value="Загрузчик NeoGrub возможно  использовать, чтобы загрузиться в Linux или в раннии версии Windows, или даже скрыть диски." version="1" />
     <string key="tabPage11" value="NeoGrub   " version="1" />
     <string key="grpOS" value="Операционные системы" version="1" />
     <string key="tabAddEntry" value="3" version="1" />
@@ -98,13 +98,13 @@
     <string key="lblSafeMode" value="Безопасный режим:" version="1" />
     <string key="lblPae" value="Поддержка PAE: " version="1" />
     <string key="lblDep" value="Не выполнять: " version="1" />
-    <string key="chkEntryUnsigned" value="Использовать неподписанные драйвера на Windows 64" version="1" />
-    <string key="tabEntryAdvanced" value="Продвинутый" version="1" />
-    <string key="chkEntryKernelDebug" value="Запустить Windows в Режиме отладки ядра" version="1" />
+    <string key="chkEntryUnsigned" value="Использовать неподписанные драйвера на Windows 64 б" version="1" />
+    <string key="tabEntryAdvanced" value="Расширенный" version="1" />
+    <string key="chkEntryKernelDebug" value="Запустить Windows в Режиме отладки ядра (Не рекомендуется)" version="1" />
     <string key="chkEntrySos" value="Запуск в SOS/Подробный режим загрузки" version="1" />
     <string key="chkEntryMemory" value="Удержать" version="1" />
     <string key="numEntryMemory" value="0" version="1" />
-    <string key="lblDeduct2" value="MB от физической памяти" version="1" />
+    <string key="lblDeduct2" value="Mб от физической памяти" version="1" />
     <string key="chkEntryCpu" value="Ограничить Windows" version="1" />
     <string key="numEntryCpu" value="0" version="1" />
     <string key="lblLimit2" value="ЦП" version="1" />
@@ -118,10 +118,10 @@
     <string key="btnRestore" value="Восстановить Бэкап загрузки" version="1" />
     <string key="grpBackupRestore" value="Резервное Копирование/Восстановление Загрузчика" version="1" />
     <string key="rdoBcdChange" value="Изменить загрузочный диск" version="1" />
-    <string key="rdoBcdRepair" value="Восстановить загрузочные файлы" version="1" />
+    <string key="rdoBcdRepair" value="Восстановить BCD загрузочных файлов" version="1" />
     <string key="btnBcdRescue" value="Выполнить Действие" version="1" />
     <string key="rdoBcdReset" value="Сброс конфигурации BCD" version="1" />
-    <string key="grpDiagnostics" value="Варианты управления BCD" version="1" />
+    <string key="grpDiagnostics" value="Панель управления BCD" version="1" />
     <string key="tabBcdInstall" value="5" version="1" />
     <string key="btnMakeBootable" value="Установить BCD" version="1" />
     <string key="lblUsbPartitions" value="Раздел:" version="1" />
@@ -136,8 +136,8 @@
     <string key="tabUtilities" value="7" version="1" />
     <string key="btnBcdInstall" value="Резервное копирование/Восстановление BCD" version="1" />
     <string key="btnUtilities" value="Полезные Утилиты" version="1" />
-    <string key="btnMbrSetup" value="Развертывание BCD" version="1" />
-    <string key="btnAdvanced" value="Продвинутые Настройки" version="1" />
+    <string key="btnMbrSetup" value="Действия с BCD" version="1" />
+    <string key="btnAdvanced" value="Расширенные Настройки" version="1" />
     <string key="btnAddEntry" value="Добавить Новую Запись" version="1" />
     <string key="btnEditMenu" value="Отредактировать Меню загрузки" version="1" />
     <string key="btnViewSettings" value="Настройки просмотра" version="1" />
@@ -152,7 +152,7 @@
     <string key="mnuExit" value="В&amp;ыход" version="1" />
     <string key="mnuFile" value="&amp;Файл" version="1" />
     <string key="mnuOptions" value="O&amp;пции" version="1" />
-    <string key="mnuEditLegacy" value="Просмотр &amp; и редактирование boot.ini(для старых ОС)" version="1" />
+    <string key="mnuEditLegacy" value="Просмотр &amp; и редактирование boot.ini (для старых ОС)" version="1" />
     <string key="mnuRestart" value="&amp;Перезагрузить Компьютер" version="1" />
     <string key="mnuTools" value="&amp;Инструменты" version="1" />
     <string key="mnuDocumentation" value="Док&amp;ументация" version="1" />
@@ -165,11 +165,11 @@
     <string key="colName" value="Запись" version="1" />
     <string key="colDefault" value="Значение по умолчанию" version="1" />
     <string key="lstVhdEntry" value="Microsoft VHD" version="1" />
-    <string key="lstRawHD" value="Необработанный ОЖД" version="1" />
-    <string key="lstRawPartition" value="Необработанный ОР " version="1" />
+    <string key="lstRawHD" value="Raw OHD" version="1" />
+    <string key="lstRawPartition" value="Raw ОР " version="1" />
     <string key="lstRunDisk" value="Загрузка с диска" version="1" />
     <string key="lstLoadMem" value="Загрузка из памяти" version="1" />
-    <string key="lstWim" value="WIM образ (ВД)" version="1" />
+    <string key="lstWim" value="WIM образ (VD)" version="1" />
     <string key="lstExtracted" value="Извлеченное Расположение Файловой системы" version="1" />
     <string key="lstWin7" value="Windows Vista/7" version="1" />
     <string key="lstWinNt" value="Windows NT/2k/XP/2k3" version="1" />
@@ -189,13 +189,13 @@
     <string key="lstAlwaysOff" value="Всегда Выкл" version="1" />
     <string key="paeDefault" value="По умолчанию" version="1" />
     <string key="paeEnable" value="Включить" version="1" />
-    <string key="paeDisable" value="Отключить" version="1" />
+    <string key="paeDisable" value="Выключить" version="1" />
     <string key="safeNormal" value="Нормальный" version="1" />
     <string key="safeMode" value="Безопасный режим" version="1" />
     <string key="safeNetworking" value="Безопасный режим /Сети" version="1" />
     <string key="safeCmd" value="Командная строка / заместитель Shell" version="1" />
     <string key="safeVga" value="Основной VGA" version="1" />
-    <string key="safeAD" value="Активный Ремонт Каталог" version="1" />
+    <string key="safeAD" value="Активный Ремонт Каталога" version="1" />
     <string key="emptyList" value="Не найденно Записей!" version="1" />
   </strings>
 </localization>

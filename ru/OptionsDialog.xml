@@ -5,22 +5,19 @@
     <string key="btnCancel" value="Отмена" version="2" />
     <string key="chkExpertMode" value="Управляйть EasyBCD в Опытном Режиме" version="1" />
     <string key="chkRememberBackup" value="Запомнить каталог BCD резервного копирования при выходе" version="1" />
-    <string key="lblExpertMode" value="Экспертный режим не запрашивает пользователя перед 
-          началом своих действий!" version="1" />
+    <string key="lblExpertMode" value="Экспертный режим не запрашивает пользователя перед &#xD;&#xA;          началом своих действий!" version="1" />
     <string key="chkLoadDefaultBcd" value="Автоматически загружать файл BCD при старте:" version="1" />
     <string key="btnBrowseBcd" value="..." version="1" />
     <string key="chkAutoUpdate" value="Автоматическое обновление каждые " version="1" />
     <string key="chkRss" value="Включить NeoSmart технологию в платформе Windows RSS" version="1" />
     <string key="numUpdateInterval" value="0" version="1" />
-    <string key="rdoDays" value="День" version="1" />
+    <string key="rdoDays" value="День(й)" version="1" />
     <string key="rdoWeeks" value="Неделю" version="1" />
-    <string key="rdoMonths" value="Месяц" version="1" />
+    <string key="rdoMonths" value="Месяц(в)" version="1" />
     <string key="lblLastUpdateCheck" value="Последняя автоматическая проверка: " version="1" />
     <string key="tabGeneralSettings" value="Общие Установки" version="1" />
-    <string key="lblDefaultTab" value="Вкладка по умолчанию 
-          при запуске: " version="1" />
-    <string key="lblDefaultDisplay" value="Режим отображения 
-          по умолчанию: " version="1" />
+    <string key="lblDefaultTab" value="Вкладка по умолчанию &#xD;&#xA;          при запуске: " version="1" />
+    <string key="lblDefaultDisplay" value="Режим отображения &#xD;&#xA;          по умолчанию: " version="1" />
     <string key="lblOverviewFont" value="Шрифт краткого обзора:" version="1" />
     <string key="lblDetailedFont" value="Шрифт подробного вида: " version="1" />
     <string key="lblOverviewSize" value="Размер: " version="1" />
@@ -29,7 +26,7 @@
     <string key="lblDetailedSize" value="Размер: " version="1" />
     <string key="numFontDetailed" value="8" version="1" />
     <string key="lblDetailedPt" value="pt." version="1" />
-    <string key="chkWordWrap" value="Автоперенос включен по умолчанию" version="1" />
+    <string key="chkWordWrap" value="Включить автоперенос по умолчанию" version="1" />
     <string key="chkSaveWindow" value="Сохранить размер окна EasyBCD при запуске" version="1" />
     <string key="ResetSize" value="Сброс Опций просмотра" version="1" />
     <string key="tabDisplayOptions" value="Опции просмотра" version="1" />

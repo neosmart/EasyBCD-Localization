@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="lblApplyingActions" value="Программа EasyBCD применяет выбранное действие.." version="1" />
+    <string key="lblApplyingActions" value="Программа EasyBCD применяет выбранное Вами действие.." version="1" />
     <string key="ProgressDialog" value="Пожалуйста, Ожидайте" version="1" />
   </strings>
 </localization>
