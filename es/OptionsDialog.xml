@@ -33,5 +33,7 @@
     <string key="OptionsDialog" value="Configuración d'EasyBCD" version="1" />
     <string key="overview" value="Resúmen" version="1" />
     <string key="detailed" value="Detalle" version="1" />
+    <string key="locateBcd" value="Localizar un almacén BCD válido" />
+    <string key="never" value="Nunca" />
   </strings>
 </localization>
