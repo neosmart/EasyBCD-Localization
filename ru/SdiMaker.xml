@@ -3,8 +3,8 @@
   <strings>
     <string key="OK_Button" value="Да" version="1" />
     <string key="Cancel_Button" value="Отмена" version="1" />
-    <string key="Body" value="Для того, чтобы продолжыть, EasyBCD нужен доступ к установочным носителям Windows Vista или Windows 7  (обычно DVD или образ диска). &#xD;&#xA;&#xD;&#xA;Пожалуйста, вставьте DVD в ваш оптический диск или скопируте образ диска в корень диска, затем нажмите ДА для продолжения." version="1" />
-    <string key="SdiMaker" value="Вставьте установочный диск Windows" version="1" />
-    <string key="mediaNotFound" value="Установочный диск Windows не обнаружен." version="1" />
+    <string key="Body" value="Для того, чтобы продолжыть, EasyBCD нужен доступ к установочным носителям Windows Vista или Windows 7  (обычно DVD или образ диска или ISO ). &#xD;&#xA;&#xD;&#xA;Пожалуйста, вставьте DVD в ваш оптический диск или укажите путь к ISO образу, затем нажмите ДА для продолжения." version="1" />
+    <string key="SdiMaker" value="Вставьте диск установки Windows" version="1" />
+    <string key="mediaNotFound" value="Диск установки  Windows не обнаружен." version="1" />
   </strings>
 </localization>

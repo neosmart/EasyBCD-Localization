@@ -13,8 +13,10 @@
     <string key="licenseKey" value="Ключ лицензии" version="1" />
     <string key="seats" value="Место" version="1" />
     <string key="regFailTitle" value="Регистрация не удачна!" version="1" />
-    <string key="regFail" value="Неправильная электронная почта или ключ лицензии. Пожалуйста, попробуйте еще раз." version="1" />
+    <string key="regFail" value="Нверная электронная почта или ключ лицензии. Пожалуйста, попробуйте еще раз." version="1" />
     <string key="regException" value="Произошла ошибка при получении лицензии от удаленного сервера. Пожалуйста, убедитесь, что вы подключены к Интернету или повторите попытку позже." version="1" />
     <string key="regExceptionTitle" value="Не удалось зарегистрировать" version="1" />
+    <string key="btnContinue" value="Продолжить" version="1" />
+    <string key="regSuccess" value="Регистрация Завершена" version="1" />
   </strings>
 </localization>
