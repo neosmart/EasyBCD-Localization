@@ -4,7 +4,7 @@
     <string key="chkDontRemind" value="No m'ho torneu a recordar" version="1" />
     <string key="btnCancel" value="No, gràcies" version="1" />
     <string key="btnDonate" value="&amp;Donar" version="1" />
-    <string key="lblDonationIntro" value="EasyBCD Community Edition és un programari 100% gratuit, i volem mantenir-lo així. Però que sigui gratuit no vol dir que no tingui despeses per desenvolupar-lo i provar.lo.&#xD;&#xA;&#xD;&#xA;EasyBCD s'ha descarregat sense pagar més de 25 milions de vegades, salvant incomptables ordinadors a prop de la  destrucció." version="1" />
+    <string key="lblDonationIntro" value="EasyBCD Community Edition és un programari 100% gratuït, i volem mantenir-lo així. Però que sigui gratuït no vol dir que no tingui despeses per desenvolupar-lo i provar.lo.&#xD;&#xA;&#xD;&#xA;EasyBCD s'ha descarregat sense pagar més de 25 milions de vegades, salvant incomptables ordinadors a prop de la  destrucció." version="1" />
     <string key="donationTitle" value="Ajudeu EasyBCD, ajudeu-vos!" version="1" />
     <string key="lblYouDonate" value="Voleu donar per ajudar EasyBCD a salvar més PCs?" version="1" />
     <string key="DonationDialog" value="Us ha ajudat EasyBCD?" version="1" />

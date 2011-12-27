@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="accessViolationFormat" value="Impossible d'obtenir accés exclusiu a {0}. Si és un disc estraïble proveu d'extreure'l i tornar-lo a connectar, i torneu a provar. " version="1" />
+    <string key="accessViolationFormat" value="Impossible d'obtenir accés exclusiu a {0}. Si és un disc extraïble proveu d'extreure'l i tornar-lo a connectar, i torneu a provar. " version="1" />
     <string key="failedSave" value="No es poden desar els canvis!" version="1" />
     <string key="accessDeniedTitle" value="Accés denegat" version="1" />
     <string key="accessDeniedFormat" value="Accés a {0} denegat. Comproveu que l'arxiu no estigui en ús i que teniu permisos d'esborrar/modificar en aquest lloc." version="1" />
@@ -22,8 +22,8 @@
     <string key="ebcdBootDevice" value="Disc d'arrencada EasyBCD" version="1" />
     <string key="bootloaderPath" value="Camí d'arrencada" version="1" />
     <string key="bcdError" value="Error d'execució BCD!" version="1" />
-    <string key="ntNotFoundTitle" value="No es trova cap instalació de NT!" version="1" />
-    <string key="ntNotFound" value="EasyBCD no trova cap intalació vàlida de Windows NT-2003 a cap dels discs muntats i no pot continuar." version="1" />
+    <string key="ntNotFoundTitle" value="No es troba cap instalació de NT!" version="1" />
+    <string key="ntNotFound" value="EasyBCD no troba cap intalació vàlida de Windows NT-2003 a cap dels discs muntats i no pot continuar." version="1" />
     <string key="manuallyLoad" value="Vol carregar manualment un registre BCD per gestionar? Si us plau, tingui en compte que EasyBCD necessita el bootloader de Windows Vista/7 i no pot treballar en entorns només amb XP." version="1" />
     <string key="errorBcd" value="Error obrint el registre BCD" version="1" />
     <string key="locateValid" value="Tobar un magatzem vàlid BCD" version="1" />

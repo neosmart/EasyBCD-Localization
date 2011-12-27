@@ -2,8 +2,8 @@
 <localization>
   <strings>
     <string key="lblDriveSelect" value="Nou disc d'arrencada" version="1" />
-    <string key="lblBody" value="EasyBCD reconfigurarà el seu sistema per arrencar de la partició que seleccioneu més avall.  Aquest procés crearà un magatzem BCD al disc seleccionat, copiarà les entrades BCD actuals i convertirà la partició seleccionada en activa i arrencable." version="1" />
-    <string key="OK_Button" value="&amp;D'acord" version="1" />
+    <string key="lblBody" value="EasyBCD reconfigurarà el seu sistema per arrencar des de la partició que seleccioneu més avall.  Aquest procés crearà un magatzem BCD al disc seleccionat, copiarà les entrades BCD actuals i convertirà la partició seleccionada en activa i arrencable." version="1" />
+    <string key="OK_Button" value="D'ac&amp;ord" version="1" />
     <string key="Cancel_Button" value="&amp;Cancel·la" version="1" />
     <string key="DriveSelect" value="Disc seleccionat" version="1" />
     <string key="errorAlreadyBoot" value="El disc que heu seleccionat és l'actual disc d'arrencada. Si us plau, trieu un altre disc per continuar!" version="1" />

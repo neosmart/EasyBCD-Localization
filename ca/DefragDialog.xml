@@ -2,6 +2,6 @@
 <localization>
   <strings>
     <string key="btnAbort" value="&amp;Abortar" version="1" />
-    <string key="CommandWindow" value="Finestra d'oedres d'EasyBCD" version="1" />
+    <string key="CommandWindow" value="Finestra d'ordres d'EasyBCD" version="1" />
   </strings>
 </localization>

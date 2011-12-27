@@ -4,7 +4,7 @@
     <string key="linuxAuto" value="Localitzar i carregar automàticament" version="1" />
     <string key="communityText" value="EasyBCD Community Edition és gratuït per ús no comercial. &#xD;&#xA;Si esteu utilitzant el programa en un entorn comercial, si us plau, premeu &quot;Cancel·la&quot; i adquiriu una llicència comercial. Si no és així premeu &quot;D'acord&quot; per continuar." version="1" />
     <string key="communityTitle" value="EasyBCD Community Edition" version="1" />
-    <string key="bcdInUse" value="L'arxiu està en ús i no es pot obrir per EasyBCD. Si intenteu (re)seleccionar el magatzem del sistema, premi &quot;No&quot; i utilitzeu la opció &quot;Carregar Magatzem del sistema&quot; del menú Arxiu.&#xD;&#xA;&#xD;&#xA;Voleu triar un magatzem diferent per usar amb EasyBCD?&#xD;&#xA;" version="1" />
+    <string key="bcdInUse" value="L'arxiu està en ús i no es pot obrir per EasyBCD. Si intenteu (re)seleccionar el magatzem del sistema, premeu &quot;No&quot; i utilitzeu la opció &quot;Carregar Magatzem del sistema&quot; del menú Arxiu.&#xD;&#xA;&#xD;&#xA;Voleu triar un magatzem diferent per usar amb EasyBCD?&#xD;&#xA;" version="1" />
     <string key="bcdInUseTitle" value="Error de violació d'accés" version="1" />
     <string key="accessDenied" value="Accés denegat!" version="1" />
     <string key="uncUnsupported" value="Els camíns en xarxa no estan suportats. Si us plau, trieu un camí diferent i torneu a provar." version="1" />
@@ -15,12 +15,12 @@
     <string key="updateFailed" value="La recerca d'actualitzacions ha fallat. Error de connexió de xarxa." version="1" />
     <string key="updateFailedSB" value="La comprovació d'actualitzacions ha fallat." version="1" />
     <string key="updateFound" value="Hi ha una nova versió d'EasyBCD!" version="1" />
-    <string key="updateFoundText" value="S'ha trobat una nova versió d'EasyBCD. Voleu anar a la pàgina de descàrregas per actualitzar a la darrera versió?" version="1" />
+    <string key="updateFoundText" value="S'ha trobat una nova versió d'EasyBCD. Voleu anar a la pàgina de descàrreges per actualitzar a la darrera versió?" version="1" />
     <string key="updateNone" value="Teniu la darrera versió d'EasyBCD." version="1" />
     <string key="install" value="Instal·lar" version="1" />
     <string key="remove" value="Desinstal·lar" version="1" />
     <string key="adminLine1" value="EasyBCD necessita privilegis d'administrador i no pot continuar." version="1" />
-    <string key="adminLine2" value="Inicieu sessió o executeu com a administrador per continuar." version="1" />
+    <string key="adminLine2" value="Inicieu sessió o executeu com a Administrador per continuar." version="1" />
     <string key="adminTitle" value="Permís denegat" version="1" />
     <string key="easybcdBackup" value="EasyBCD Backup" version="1" />
     <string key="yes" value="Si" version="1" />
@@ -29,13 +29,13 @@
     <string key="commercialEdition" value="Edició Comercial" version="1" />
     <string key="communityEdition" value="Community Edition" version="1" />
     <string key="failedAddTitle" value="Error al afegir entrada!" version="1" />
-    <string key="msdosHelp" value="Per que EasyBCD arrenqui en MS-DOS 6.x o Windows 3.x, IO.SYS and MSDOS.SYS han de ser al inici de la partició activa.&#xD;&#xA;&#xD;&#xA;Per més informació sobre com complir aquesta condició premi &quot;Si&quot; per obrir la pàgina de documentació d'EasyBCD per entrades basades en DOS. Si prefereix no veure la documentació ara premi &quot;No&quot;." version="1" />
+    <string key="msdosHelp" value="Per que EasyBCD arrenqui en MS-DOS 6.x o Windows 3.x, IO.SYS and MSDOS.SYS han de ser al inici de la partició activa.&#xD;&#xA;&#xD;&#xA;Per més informació sobre com complir aquesta condició premeu &quot;Si&quot; per obrir la pàgina de documentació d'EasyBCD per entrades basades en DOS. Si preferiu no veure la documentació ara premeu &quot;No&quot;." version="1" />
     <string key="msdosHelpTitle" value="Llegir la documentació MS-DOS de EasyBCD?" version="1" />
     <string key="addedFormat" value="{0} afegit al menú d'arrencada!" version="1" />
     <string key="neogrubBootloader" value="NeoGrub Bootloader" version="1" />
     <string key="neogrubRemoved" value="NeoGrub eliminat!" version="1" />
     <string key="vhdErrorTitle" value="Error al afegir entrada VHD" version="1" />
-    <string key="errorSpaces" value="El camí de la imatge no pot contenir espais. Correfiu i troneu a provar." version="1" />
+    <string key="errorSpaces" value="El camí de la imatge no pot contenir espais. Corregiu i torneu a probar." version="1" />
     <string key="isoErrorTitle" value="Error al afegir entrada ISO" version="1" />
     <string key="floppyErrorTitle" value="Error al afegir entrada de disquet" version="1" />
     <string key="path" value="Camí:" version="1" />
@@ -47,27 +47,27 @@
     <string key="isoFiles" value="Imatges ISO" version="1" />
     <string key="imgFiles" value="Arxius IMG" version="1" />
     <string key="bcdFiles" value="Arxius de Backup d'EasyBCD" version="1" />
-    <string key="safeIntro" value="EasyBCD us permet crear entrades extra per arrencar des del mateix SO però amb opcions diferents. Creant una entrada en un mode segur la pot utilitzar per depurar ràpidament el seu sistema." version="1" />
-    <string key="safeNormal" value="Normal: Desactica totes les opcions de recuperació i us permet arrencar el vostre SO normalment." version="1" />
-    <string key="safeVga" value="Basic VGA: Carrega els controladors bàsics de pantalla fent reset de la resolució." version="1" />
+    <string key="safeIntro" value="EasyBCD us permet crear entrades extra per arrencar des del mateix SO però amb opcions diferents. Creant una entrada en un mode segur la podeu utilitzar per depurar ràpidament el vostre sistema." version="1" />
+    <string key="safeNormal" value="Normal: Desactiva totes les opcions de recuperació i us permet arrencar el vostre SO normalment." version="1" />
+    <string key="safeVga" value="Basic VGA: Carrega els controladors bàsics de pantalla reiniciant la resolució." version="1" />
     <string key="safeNetworking" value="Mode Segur amb xarxa: Arrenca en mode segur amb accés a internet i xarxa local." version="1" />
     <string key="safeMode" value="Mode Segur: Arrenca en mode segur sense accés a xarxa. Útil si els controladors de xarxa s'han espatllat." version="1" />
     <string key="safeAD" value="Reparació de Directori Actiur: Arrenca Windows Server 2008 en mode Reparació de Directori Actiu." version="1" />
     <string key="safeTitle" value="Quant a les opcions de mode segur" version="1" />
-    <string key="paeIntro" value="Extensió d'adreça física determina com Windows mapejarà la memòria extra men enllà del marcdor de 4 GiB." version="1" />
-    <string key="paeDefault" value="Defecte: Permet que Windows determini com es mapejarà la memoria." version="1" />
+    <string key="paeIntro" value="Extensió d'adreça física determina com Windows mapejarà la memòria extra mes enllà del marcador de 4 GiB." version="1" />
+    <string key="paeDefault" value="Defecte: Permet que Windows determini com es mapejarà la memòria." version="1" />
     <string key="paeEnable" value="Força activar: Força el mapeig de memòria." version="1" />
     <string key="paeDisable" value="Força desactivar: Desactiva el mapeig de memòria extra." version="1" />
     <string key="paeTitle" value="Quant a opcions PAE" version="1" />
-    <string key="nxIntro" value="DEP/NoExecute és un sistema de detecció de scripts maliciosos a la capa de maquinari introduit a Windows XP SP2 que pot ajudar a protegir el seu sistema d'atacs, però és causa coneguda d'alguns problemes de compatibilitat." version="1" />
+    <string key="nxIntro" value="DEP/NoExecute és un sistema de detecció de scripts maliciosos a la capa de maquinari introduït a Windows XP SP2 que pot ajudar a protegir el seu sistema d'atacs, però és causa coneguda d'alguns problemes de compatibilitat." version="1" />
     <string key="nxOptIn" value="OptIn: El nucli de Windows està protegit per DEP." version="1" />
     <string key="nxOptOut" value="OptOut: Windows i les aplicacions estan protegides per DEP." version="1" />
-    <string key="nxOn" value="Sempre ON: DEP forçat per totes les aplicacions." version="1" />
+    <string key="nxOn" value="Sempre ON: DEP forçat per a totes les aplicacions." version="1" />
     <string key="nxOff" value="Sempre OFF: DEP desactivat per Windows i totes les aplicacions." version="1" />
     <string key="nxTitle" value="Quant a DEP/NoExecute" version="1" />
     <string key="errorNotPrimary" value="La partició d'arrencada ha de ser primària.&#xD;&#xA;&#xD;&#xA;Proveu seleccionant un altre disc o convertint la partició seleccionada en primària i torneu a provar." version="1" />
     <string key="opNotAllowed" value="Operació no permesa!" version="1" />
-    <string key="errorNotMounted" value="EasyBCD no pot fer arrencable un disc no muntat. Assigneu una lletra al disc seleccionat, reinicieu EasyBCD, i torneu a provar." version="1" />
+    <string key="errorNotMounted" value="EasyBCD no pot fer arrencable un disc no muntat. Assigneu una lletra al disc seleccionat, reinicieu EasyBCD, i torneu a probar." version="1" />
     <string key="invalidDrive" value="Operació de disc invàlida" version="1" />
     <string key="bootableSuccess" value="EasyBCD ha convertit amb èxit el disc seleccionat en arrencable. Per configurar les entrades del menú d'arrencada a la partició seleccionada heu d'utilitzar &quot;Arxiu | Seleccionar magatzem BCD&quot; i triar l'arxui \\boot\\BCD a la partició que acabeu de preparar." version="1" />
     <string key="mountBcdNow" value="Voleu carregar automàticament ara a EasyBCD el magatzem BCD creat de nou?" version="1" />

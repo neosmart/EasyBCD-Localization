@@ -16,5 +16,7 @@
     <string key="regFail" value="Email o clau de llicència incorrecte. Torneu a provar." version="1" />
     <string key="regException" value="Error al obtenir una llicència d'un servidor remot. Assegureu-vos de que esteu connectat a internet o torneu a provar més tard." version="1" />
     <string key="regExceptionTitle" value="Impossible d'enregistrar" version="1" />
+    <string key="btnContinue" value="Continuar" />
+    <string key="regSuccess" value="Registre Complert!" />
   </strings>
 </localization>

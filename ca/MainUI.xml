@@ -37,7 +37,7 @@
     <string key="tabPagePlop" value="Extensió de BIOS" version="1" />
     <string key="grpPortable" value="Medi Portàtil/Extern" version="1" />
     <string key="lblWindowsAuto" value="Determinat automàticament" version="1" />
-    <string key="chkAutoXp" value="Detectar el Disc correcte automáticament" version="1" />
+    <string key="chkAutoXp" value="Detectar el Disc correcte automàticament" version="1" />
     <string key="emptyList" value="Cap entrada detectada!" version="1" />
     <string key="lstExtracted" value="Esquema del sistema d'arxius extret" version="1" />
     <string key="lblDrive" value="Disc:" version="1" />
@@ -108,7 +108,7 @@
     <string key="btnViewSettings" value="Veure configuració" version="1" />
     <string key="grpToolbox" value="EasyBCD Toolbox" version="1" />
     <string key="mnuSelectBcd" value="&amp;Seleccionar Magatzem BCD" version="1" />
-    <string key="mnuLanguage" value="&amp;Seleccionar idioma" version="1" />
+    <string key="mnuLanguage" value="&amp;Triar idioma" version="1" />
     <string key="mnuLoadSystemBcd" value="Carregar S&amp;ystem BCD" version="1" />
     <string key="mnuRescan" value="Actualitzar magatzem BCD" version="1" />
     <string key="mnuRegister" value="&amp;Registrar" version="1" />
