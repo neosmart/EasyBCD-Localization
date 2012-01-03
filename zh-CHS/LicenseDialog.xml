@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linkLabel" value="This copy of EasyBCD requires the purchase of a commercial license.&#xD;&#xA;&#xD;&#xA;Please enter either the email address or the license number associated with your purchase. Click here to purchase a license, or contact Sales@NeoSmart.net for support." version="1" />
+    <string key="linkClick" value="点击这里" version="1" />
+    <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
+    <string key="btnSkip" value="跳过" version="1" />
+    <string key="btnRegister" value="注册" version="1" />
+    <string key="lblTitle" value="EasyBCD商业版" version="1" />
+    <string key="lblLicenseKey" value="电子邮件或许可证密钥：" version="1" />
+    <string key="LicenseDialog" value="EasyBCD商业版" version="1" />
+    <string key="email" value="邮件" version="1" />
+    <string key="licenseKey" value="许可证密钥" version="1" />
+    <string key="seats" value="位置" version="1" />
+    <string key="regFailTitle" value="注册不成功！" version="1" />
+    <string key="regFail" value="不正确的电子邮件或许可证密钥。请再试一次。" version="1" />
+    <string key="regException" value="从远程服务器获取许可证时遇到错误。请确保您连接到互联网，或稍后再试。" version="1" />
+    <string key="regExceptionTitle" value="无法注册" version="1" />
+    <string key="btnContinue" value="继续" version="1" />
+    <string key="regSuccess" value="注册完成！" version="1" />
+  </strings>
+</localization>

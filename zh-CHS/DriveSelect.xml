@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblDriveSelect" value="新的引导驱动器：" version="1" />
+    <string key="lblBody" value="EasyBCD将重新配置你的系统引导您选择的下面分区。这一过程将在选定的磁盘上建立一个BCD存储，复制当前BCD项，激活与引导所选的分区。" version="1" />
+    <string key="OK_Button" value="确定" version="1" />
+    <string key="Cancel_Button" value="取消" version="1" />
+    <string key="DriveSelect" value="驱动器选择" version="1" />
+    <string key="errorAlreadyBoot" value="您所选择的驱动器已经是当前的引导驱动器。请选择不同的驱动器继续！" version="1" />
+    <string key="errorAlreadyBootTitle" value="请选择另一个驱动器！" version="1" />
+  </strings>
+</localization>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OKButton" value="确定" version="1" />
+    <string key="AboutBox" value="关于信息" version="1" />
+    <string key="seatsAllowed" value="允许用户/设备" version="1" />
+    <string key="unlicensed" value="未授权副本!" version="1" />
+    <string key="version" value="版本" version="1" />
+    <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - 2011" version="1" />
+    <string key="aboutText1" value="EasyBCD是最终的引导加载器(bootloader)和引导加载器的管理工具。但并不保证EasyBCD与所有版本的Windows相兼容 - 请确保您使用最新的版本。&#xD;&#xA;&#xD;&#xA;• 软件作者：Mahmoud H. Al-Qudsi&#xD;&#xA;• 简单汉化：Dancing Zhao , Soly He&#xD;&#xA;• Active Ingredients: Sweat, blood, and tears&#xD;&#xA;• Powered by C++, C#, Dr. Pepper, Excedrin, and Visine&#xD;&#xA;• All your boot are belong to us!" version="1" />
+    <string key="thanksFormat" value="Special thanks to the Grub4Dos, PLoP,{0} and UltraDefrag teams!&#xD;&#xA;&#xD;&#xA;This EasyBCD distribution ships with standalone components (Grub4Dos and UltraDefrag) licensed under the terms of the GPLv2 license. For more information, please see the LICENSE file in the installation directory." version="1" />
+  </strings>
+</localization>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OK_Button" value="确定" version="1" />
+    <string key="Cancel_Button" value="取消" version="1" />
+    <string key="Body" value="为了继续，EasyBCD需要访问Windows Vista或Windows 7安装媒体（通常使用DVD或光盘映像）。&#xD;&#xA;请把您的光盘插入到DVD驱动器或装载光盘映像，然后按确定继续。" version="1" />
+    <string key="SdiMaker" value="插入windows多媒体安装" version="1" />
+    <string key="mediaNotFound" value="没有检测到有效的Windows安装媒体。" version="1" />
+  </strings>
+</localization>

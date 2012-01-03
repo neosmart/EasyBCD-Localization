@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linuxAuto" value="自动定位和加载" version="1" />
+    <string key="communityText" value="EasyBCD个人版 是免费的，可用于非商业用途。&#xD;&#xA;如果你是在商业环境中使用这个软件，请点击“取消”购买一个商业许可。否则，请单击“确定”继续。" version="1" />
+    <string key="communityTitle" value="EasyBCD 个人版本" version="1" />
+    <string key="bcdInUse" value="目前文件正在使用中，不能被EasyBCD打开。如果你想（重新）选择系统存储，按&quot;否&quot;，然后使用“文件”菜单上的“加载系统存储”选项。&#xD;&#xA;&#xD;&#xA;你想选择使用不同的EasyBCD存储设置吗？" version="1" />
+    <string key="bcdInUseTitle" value="访问冲突错误" version="1" />
+    <string key="accessDenied" value="访问被拒绝！" version="1" />
+    <string key="uncUnsupported" value="网络路径不支持此功能。请输入一个不同的路径，然后再试一次。" version="1" />
+    <string key="uncUnsupportedTitle" value="不支持UNC路径" version="1" />
+    <string key="invalidPath" value="检测到无效的文件或路径名。请输入一个有效的路径继续。" version="1" />
+    <string key="invalidPathTitle" value="无效的路径！" version="1" />
+    <string key="updateCheck" value="检查EasyBCD升级..." version="1" />
+    <string key="updateFailed" value="检查更新失败。建立网络连接时出错。" version="1" />
+    <string key="updateFailedSB" value="EasyBCD更新检查失败：" version="1" />
+    <string key="updateFound" value="找到新版本EasyBCD！" version="1" />
+    <string key="updateFoundText" value="已发现一个新的EasyBCD版本。你愿意去的EasyBCD下载页面马上升级到最新版本吗？" version="1" />
+    <string key="updateNone" value="您的EasyBCD是最新版本。" version="1" />
+    <string key="install" value="安装" version="1" />
+    <string key="remove" value="删除" version="1" />
+    <string key="adminLine1" value="EasyBCD需要管理员权限才能正确运行，无法继续。" version="1" />
+    <string key="adminLine2" value="请登录或以管理员身份运行。" version="1" />
+    <string key="adminTitle" value="权限被拒绝" version="1" />
+    <string key="easybcdBackup" value="EasyBCD_Backup" version="1" />
+    <string key="yes" value="是" version="1" />
+    <string key="no" value="否" version="1" />
+    <string key="registryFailed" value="无法写入注册表设置" version="1" />
+    <string key="commercialEdition" value="商业版本" version="1" />
+    <string key="communityEdition" value="个人版本" version="1" />
+    <string key="failedAddTitle" value="新增项目失败！" version="1" />
+    <string key="msdosHelp" value="为了EasyBCD引导到MS - DOS6.x或Windows 3.x中，IO.SYS和MSDOS.SYS，必须在活动分区启动。&#xD;&#xA;&#xD;&#xA;查看更多信息，按“是”关于DOS的条目打开的EasyBCD文档页面。如果你暂时不查看帮助文档，按“否”取消。" version="1" />
+    <string key="msdosHelpTitle" value="读取EasyBCD的MS - DOS文件？" version="1" />
+    <string key="addedFormat" value="{0}已成功添加到启动菜单！" version="1" />
+    <string key="neogrubBootloader" value="NeoGrub引导加载器" version="1" />
+    <string key="neogrubRemoved" value="NeoGrub删除成功！" version="1" />
+    <string key="vhdErrorTitle" value="错误添加VHD条目" version="1" />
+    <string key="errorSpaces" value="图像路径不能包含任何空格。请正确设置并再试一次。" version="1" />
+    <string key="isoErrorTitle" value="错误添加ISO条目" version="1" />
+    <string key="floppyErrorTitle" value="错误添加Floppy条目" version="1" />
+    <string key="path" value="路径：" version="1" />
+    <string key="name" value="名称：" version="1" />
+    <string key="drive" value="驱动器：" version="1" />
+    <string key="browseFileTitle" value="浏览文件" version="1" />
+    <string key="wimFiles" value="Windows映像文件" version="1" />
+    <string key="vhdFiles" value="虚拟硬盘文件" version="1" />
+    <string key="isoFiles" value="ISO镜像" version="1" />
+    <string key="imgFiles" value="IMG文件" version="1" />
+    <string key="bcdFiles" value="EasyBCD备份文件" version="1" />
+    <string key="safeIntro" value="EasyBCD，您可以创建额外的条目，引导到相同的操作系统，但使用不同的选项。通过创建一个新的条目，并给它安全模式的标志之一，你可以使用它来快速调试您的系统。" version="1" />
+    <string key="safeNormal" value="正常：禁止所有的恢复选项，让您进入您的操作系统正常启动。" version="1" />
+    <string key="safeVga" value="基本VGA：载入基本的显示驱动程序，重新设置屏幕分辨率。" version="1" />
+    <string key="safeNetworking" value=" 安全网络模式：启动到安全模式允许访问互联网和本地网络。" version="1" />
+    <string key="safeMode" value="安全模式：引导到安全模式，没有网络接入。如果网络驱动程序已损坏使用。" version="1" />
+    <string key="safeAD" value="Active Directory修复模式：启动Windows Server 2008到Active Directory修复模式。" version="1" />
+    <string key="safeTitle" value="关于安全模式" version="1" />
+    <string key="paeIntro" value="物理地址扩展决定Windows如何将额外的内存超过4GB的内存标记映射。" version="1" />
+    <string key="paeDefault" value="默认：让Windows确定如何将映射内存。" version="1" />
+    <string key="paeEnable" value="启用队列：强制内存映射。" version="1" />
+    <string key="paeDisable" value="禁用队列：禁用额外的内存映射。" version="1" />
+    <string key="paeTitle" value="关于PAE选项" version="1" />
+    <string key="nxIntro" value="DEP/ NoExecute是在Windows XP SP2推出的硬件层恶意脚本检测系统，可以帮助保护您的系统免受攻击，但它会导致一些兼容性问题。" version="1" />
+    <string key="nxOptIn" value="启用选择：Windows核心使用DEP保护。" version="1" />
+    <string key="nxOptOut" value="禁用选择：Windows和应用程序使用DEP保护。" version="1" />
+    <string key="nxOn" value="总是：所有应用程序使用DEP保护。" version="1" />
+    <string key="nxOff" value="始终关闭：Windows和所有应用程序禁用DEP保护。" version="1" />
+    <string key="nxTitle" value="关于DEP/NoExecute" version="1" />
+    <string key="errorNotPrimary" value="启动分区必须是一个主分区。&#xD;&#xA;&#xD;&#xA;请选择一个不同的驱动器或转换所选分区为第一主分区，然后再试一次。" version="1" />
+    <string key="opNotAllowed" value="不允许操作！" version="1" />
+    <string key="errorNotMounted" value="EasyBCD不能卸载驱动器的引导。请选定一个驱动器号，重新启动的EasyBCD，并再次尝试。" version="1" />
+    <string key="invalidDrive" value="无效的驱动器操作" version="1" />
+    <string key="bootableSuccess" value="EasyBCD已成功地将选定的磁盘转化为可引导驱动器。为了配置所选分区的启动菜单项，你必须使用“文件|选择BCD存储和使用你刚才选择分区上的\\boot\\BCD文件。" version="1" />
+    <string key="mountBcdNow" value="你想自动加载新创建的BCD存储到EasyBCD中吗？" version="1" />
+    <string key="bootableTitle" value="磁盘引导已创建" version="1" />
+    <string key="accessDeniedText" value="无法获取BCD。请检查并确保所选设备上的BCD存储目前未使用。" version="1" />
+    <string key="partitionConverted" value="转换到可启动的磁盘分区" version="1" />
+    <string key="bcdRemove1" value="这是一个高级选项，只应用于卸载Windows Vista/7的Bootloader！" version="1" />
+    <string key="bcdRemove2" value="如果正确的引导文件已经到位，此功能只能启动到Windows XP！" version="1" />
+    <string key="bcdRemove3" value="你确定要继续吗？" version="1" />
+    <string key="warning" value="警告！" version="1" />
+    <string key="mbrSuccess" value="MBR写入成功" version="1" />
+    <string key="bootloaderSuccess" value="Bootloader的设置保存成功" version="1" />
+    <string key="bcdReset" value="BCD已成功重置。所有条目已被删除！&#xD;&#xA;&#xD;&#xA;重要：您必须至少添加一个条目，否则你的电脑将无法启动！" version="1" />
+    <string key="bcdResetTitle" value="BCD重置" version="1" />
+    <string key="selectBootTitle" value="选择新的引导分区" version="1" />
+    <string key="selectBoot" value="EasyBCD将重新配置您所选分区系统引导。这一过程将在所选磁盘上建立一个BCD存储，复制当前BCD项，使所选的分区激活可引导。" version="1" />
+    <string key="errorLogical" value="试图改变逻辑驱动器为引导分区，这是不允许的。启动分区必须是一个主分区。&#xD;&#xA;&#xD;&#xA;请选择一个不同的驱动器或转换所选分区为主分区，然后再试一次。" version="1" />
+    <string key="bootChangedFormat" value="EasyBCD已成功将驱动器{0}建立新的引导分区，并加载了新的BCD存储，你可以进一步的设置。如果这个分区是你的第一个引导盘，你不需要采取任何进一步的操作。如果不是，你现在应该关闭你的电脑，让更改生效。" version="1" />
+    <string key="bootChangedTitle" value="引导分区已更改" version="1" />
+    <string key="unsupportedOS" value="此选项仅适用于Windows Vista，Windows 7和Windows 8" version="1" />
+    <string key="unsupportedOSTitle" value="不支持的操作系统！" version="1" />
+    <string key="errorNoRestore" value="致命错误：无法还原选定的存储。" version="1" />
+    <string key="errorNoRestoreTitle" value="恢复错误" version="1" />
+    <string key="confirmDelete" value="你确定要删除此项吗？" version="1" />
+    <string key="confirmDeleteTitle" value="确认删除吗？" version="1" />
+    <string key="entryDeleted" value="删除启动菜单" version="1" />
+    <string key="thankYou" value="感谢您的支持！" version="1" />
+    <string key="loadExternal" value="有了这个功能，EasyBCD将加载和使用您所选择的外部的BCD数据。将只对此BCD存储修改，并不会影响您的默认系统配置。" version="1" />
+    <string key="loadExternalTitle" value="选择一个新存储" version="1" />
+    <string key="easybcdFiles" value="EasyBCD文件" version="1" />
+    <string key="errorRO1" value="您可能没有权限写入到所选的文件，该文件设置为只读，或者是在只读介质上存储。" version="1" />
+    <string key="errorRO2" value="如果选择继续，这BCD存储所做的更改不会被保存。按“是”在只读模式继续加载BCD存储，或按“否”继续使用以前的的BCD存储。" version="1" />
+    <string key="errorROTitle" value="检测到只读BCD存储" version="1" />
+    <string key="bcdLoadedFormat" value="{0}的BCD信息载入" version="1" />
+    <string key="noBcd" value="没有BCD存储加载。EasyBCD在限制模式下运行。" version="1" />
+    <string key="confirmRestart" value="您确定要重新启动您的计算机吗？" version="1" />
+    <string key="confirmRestartTitle" value="确认重新启动" version="1" />
+    <string key="shutdownStarted" value="关闭进程。" version="1" />
+    <string key="hiddenBootIni" value="BOOT.INI是位于隐藏的引导分区，并不能加载到EasyBCD为用户编辑。&#xD;&#xA;&#xD;&#xA;请分配一个驱动器号到隐藏引导分区或不是使用Windows XP的双启动自动配置功能。" version="1" />
+    <string key="errorBootIniTitle" value="无法加载BOOT.INI！" version="1" />
+    <string key="errorBootIniFormat" value="EasyBCD在启动分区{0}上无法检测到现有的Boot.ini文件。&#xD;&#xA;&#xD;&#xA;请添加一个新的Windows XP或Windows2000项，而不是使用的boot.ini自动配置功能。" version="1" />
+    <string key="errorUtility" value="错误的运行实例" version="1" />
+    <string key="sysInfo" value="系统信息" version="1" />
+    <string key="sysInfoText" value="显示您当前的硬件和软件配置的信息。为牵制硬件故障，并迅速得到当前系统设置的转储。" version="1" />
+    <string key="powerConsole" value="EasyBCD电源控制台" version="1" />
+    <string key="powerConsoleText" value="快速访问具有完全管理权限的命令行外壳。使用它进行系统的功能或快速访问BCDEDIT和bootsect.exe" version="1" />
+    <string key="sysRestore" value="系统还原" version="1" />
+    <string key="sysRestoreText" value="打开“系统还原”面板，用它来快速恢复/修复任何更改使你的电脑告别烦恼。" version="1" />
+    <string key="restoreCds" value="Windows Vista /7系统恢复光盘" version="1" />
+    <string key="restoreCdsText" value="万一灾难发生可下载Windows Vista和Windows7系统恢复光盘的副本。您可以从USB启动使用EasyBCD加载这些恢复光盘。" version="1" />
+    <string key="controlPanel" value="控制面板" version="1" />
+    <string key="controlPanelText" value="启动控制面板，并用它做任何你喜欢的。" version="1" />
+    <string key="iRebootText" value="NeoSmart技术为EasyBCD的辅助应用程序。 iReboot放置于任务栏（只占用400KB的内存），并允许您可以将操作系统快速轻松地重新启动。" version="1" />
+    <string key="errorNoEntries" value="EasyBCD已检测目前没有何启动条目。如果退出的EasyBCD，并重新启动计算机，将无法启动。&#xD;&#xA;&#xD;&#xA;你确定加入一个新的条目之前要退出吗？" version="1" />
+    <string key="errorNoEntriesTitle" value="没有条目安装" version="1" />
+    <string key="errorPathSave" value="EasyBCD未能保存当前的备份路径为默认的备份目录。该选项已被禁用。" version="1" />
+    <string key="errorPathSaveTitle" value="默认备份路径问题" version="1" />
+    <string key="isoHelp1" value="EasyBCD支持ISO映像加载在两种不同的模式。请注意，并非所有的ISO文件将正常工作;通常Linux安装ISO文件将无法正常工作。" version="1" />
+    <string key="isoHelp2" value="从磁盘运行：引导加载速度更快，但运行速度较慢。还需要EasyBCD创建过程的预先处理。" version="1" />
+    <string key="isoHelp3" value="从内存加载：运行速度更快，但引导过程需要一定的时间。可能会因大容量光盘或旧电脑而引导失败。" version="1" />
+    <string key="isoHelpTitle" value="关于ISO选项" version="1" />
+    <string key="warnDiffDevice" value="所选引导文件可存储于不同的设备。如果你打算使用你当前启动存储条目到不同的电脑上启动，你应该把这个文件复制到外部驱动器然后再试一次。&#xD;&#xA;&#xD;&#xA;您想继续吗？" version="1" />
+    <string key="diffDeviceTitle" value="非便携式检测！" version="1" />
+    <string key="errorNoBcd" value="没有BCD注册表加载 - 在精简功能模式运行！" version="1" />
+    <string key="bcdExceptionFormat" value="BCD异常 0x{0:X3}" version="1" />
+    <string key="userCancel" value="用户取消了操作。" version="1" />
+    <string key="renameSuccess" value="条目改名成功" version="1" />
+    <string key="plop" value="EasyBCD BIOS扩展" version="1" />
+    <string key="entryRemovedFormat" value="{0} 已被删除" version="1" />
+    <string key="drive2" value="驱动器" version="1" />
+    <string key="bcdResetStatus" value="BCD重置成功。现在请重新配置！" version="1" />
+    <string key="bcdRepaired" value="BCD成功修复" version="1" />
+    <string key="configSaved" value="条目配置保存成功" version="1" />
+    <string key="backupSuccess" value="BCD备份成功" version="1" />
+    <string key="restoreSuccess" value="还原成功" version="1" />
+    <string key="bcdRefresh" value="BCD缓存数据已成功刷新" version="1" />
+    <string key="optionsSaved" value="选项保存成功！" version="1" />
+    <string key="orderSaved" value="条目已保存" version="1" />
+    <string key="easybcdStatus" value="EasyBCD状态" version="1" />
+  </strings>
+</localization>

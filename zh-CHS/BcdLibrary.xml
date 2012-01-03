@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="accessViolationFormat" value="无法获得独占访问{0}. 如果这是一个可移动磁盘，请尝试退出并重新插入，然后再试一次。" version="1" />
+    <string key="failedSave" value="无法保存更改！" version="1" />
+    <string key="accessDeniedTitle" value="访问被拒绝" version="1" />
+    <string key="accessDeniedFormat" value="{0}访问被拒绝。请检查该文件是不使用时，您有权限删除/修改这个位置。" version="1" />
+    <string key="oneEntry" value="Windows的引导程序中有一个条目。" version="1" />
+    <string key="multiEntriesFormat" value="有一个{0}项已列入bootloader." version="1" />
+    <string key="entryNum" value="条目 #" version="1" />
+    <string key="name" value="名称" version="1" />
+    <string key="bcdId" value="BCD ID" version="1" />
+    <string key="drive" value="驱动器" version="1" />
+    <string key="device" value="设备" version="1" />
+    <string key="path" value="路径" version="1" />
+    <string key="default" value="默认" version="1" />
+    <string key="timeout" value="超时" version="1" />
+    <string key="none" value="无" version="1" />
+    <string key="timeoutFormat" value="{0} 秒" version="1" />
+    <string key="skipped" value="跳过" version="1" />
+    <string key="bootDevice" value="引导驱动器" version="1" />
+    <string key="ebcdBootDevice" value="EasyBCD引导设备" version="1" />
+    <string key="bootloaderPath" value="Bootloader的路径" version="1" />
+    <string key="bcdError" value="BCD执行错误！" version="1" />
+    <string key="ntNotFoundTitle" value="未找到有效的NT安装！" version="1" />
+    <string key="ntNotFound" value="EasyBCD在所有驱动器上未能检测到有效的Windows NT- 2003安装程序，无法继续。" version="1" />
+    <string key="manuallyLoad" value="你想手动加载的BCD注册表至EasyBCD进行管理吗？请注意EasyBCD需要在Windows Vista/7的引导加载程序，并不会在XP的环境中工作。" version="1" />
+    <string key="errorBcd" value="错误的BCD注册表" version="1" />
+    <string key="locateValid" value="找到一个有效的BCD存储" version="1" />
+    <string key="bcdRegistry" value="BCD注册表" version="1" />
+    <string key="partition" value="分区" version="1" />
+    <string key="unknown" value="未知" version="1" />
+    <string key="gib" value="GiB" version="1" />
+    <string key="mib" value="MiB" version="1" />
+    <string key="as" value="作为" version="1" />
+    <string key="defragFormat" value="开始整理{0}文件碎片" version="1" />
+    <string key="unnamed" value="未命名条目" version="1" />
+  </strings>
+</localization>
