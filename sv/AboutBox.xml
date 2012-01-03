@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OKButton" derive="true" />
+    <string key="AboutBox" value="Om" version="1" />
+    <string key="seatsAllowed" value="Tillåtna användare/enheter" version="1" />
+    <string key="unlicensed" value="Olicensierad kopia!" version="1" />
+    <string key="version" derive="true" />
+    <string key="copyright" derive="true" />
+    <string key="aboutText1" derive="true" />
+    <string key="thanksFormat" derive="true" />
+  </strings>
+</localization>

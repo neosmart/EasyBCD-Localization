@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblDriveSelect" value="Ny boot-enhet:" version="1" />
+    <string key="lblBody" derive="true" />
+    <string key="OK_Button" derive="true" />
+    <string key="Cancel_Button" value="&amp;Avbryt" version="1" />
+    <string key="DriveSelect" value="Enhetsval" version="1" />
+    <string key="errorAlreadyBoot" value="Den enhet du valt är redan aktiv boot-enhet. Välj en annan disk för att fortsätta!" version="1" />
+    <string key="errorAlreadyBootTitle" value="Välj en annan enhet!" version="1" />
+  </strings>
+</localization>

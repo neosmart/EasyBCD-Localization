@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linkLabel" value="Den här kopian av EasyBCD, kräver en betald kommerciell licens.&#xD;&#xA;&#xD;&#xA;Ange antingen den e-postadress eller det licensnummer som förknippas med köpet. Klicka här för att köpa en licens, eller kontakta oss på Sales@NeoSmart.net för support." version="1" />
+    <string key="linkClick" value="Klicka här" version="1" />
+    <string key="linkEmail" derive="true" />
+    <string key="btnSkip" value="&amp;Hoppa över" version="1" />
+    <string key="btnRegister" value="&amp;Registrera" version="1" />
+    <string key="lblLicenseKey" value="E-postadress eller licensnyckel:" version="1" />
+    <string key="lblTitle" value="EasyBCD kommersiell version" version="1" />
+    <string key="LicenseDialog" value="EasyBCD kommersiell version" version="1" />
+    <string key="email" value="E-post" version="1" />
+    <string key="licenseKey" value="Licensnyckel" version="1" />
+    <string key="seats" value="Säten" />
+    <string key="regFailTitle" value="Registreringen misslyckades!" version="1" />
+    <string key="regFail" value="Fel e-postadress eller licensnyckel. Försök igen." version="1" />
+    <string key="regException" value="Ett fel uppstod vid licensöverföring från fjärrservern. Tillse att du är uppkopplad mot Internet, eller försök igen senare." version="1" />
+    <string key="regExceptionTitle" value="Kunde inte registrera licensen" version="1" />
+    <string key="btnContinue" value="Fortsätt" version="1" />
+    <string key="regSuccess" value="Registreringen slutförd!" version="1" />
+  </strings>
+</localization>

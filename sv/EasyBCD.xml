@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linuxAuto" value="Hitta och läs in automatiskt" version="1" />
+    <string key="communityText" value="EasyBCD community-version är gratis för icke kommersiellt bruk.&#xD;&#xA;Om du tänker använda programmet i kommersiell miljö, kan du klicka 'Avbryt' för att köpa en kommersiell licens. Annars klickar du 'OK' för att fortsätta." version="1" />
+    <string key="communityTitle" value="EasyBCD community-version" version="1" />
+    <string key="bcdInUse" value="Den aktuella filen används och kan inte öppnas av EasyBCD. Om du försöker (åter)välja systemets lagringsplats, kan du trycka 'Nej' nedan, och sedan välja 'Läs in systemets lagringsplats' från arkiv-menyn.&#xD;&#xA;&#xD;&#xA;Vill du välja en annan lagringsplats för användning i EasyBCD?" version="1" />
+    <string key="bcdInUseTitle" value="Åtkomstfel" version="1" />
+    <string key="accessDenied" value="Åtkomst nekad!" version="1" />
+    <string key="uncUnsupported" value="Den här funktionen saknar stöd för nätverksplatser. Ange en annan sökväg och försök igen." version="1" />
+    <string key="uncUnsupportedTitle" value="UNC-sökvägar stöds ej" version="1" />
+    <string key="invalidPath" value="Ogiltigt fil- eller mappnamn. Ange en giltig sökväg för att fortsätta." version="1" />
+    <string key="invalidPathTitle" value="Ogiltig sökväg!" version="1" />
+    <string key="updateCheck" value="Söker uppdateringar för EasyBCD..." version="1" />
+    <string key="updateFailed" value="Uppdateringskontroll misslyckades. Kunde inte ansluta till nätverket." version="1" />
+    <string key="updateFailedSB" value="EasyBCD uppdateringskontroll misslyckades:" version="1" />
+    <string key="updateFound" value="Ny version av EasyBCD hittades!" version="1" />
+    <string key="updateFoundText" value="En ny version av EasyBCD finns tillgänglig. Vill du besöka nedladdningssidan för att uppgradera?" version="1" />
+    <string key="updateNone" value="Du har den senaste versionen av EasyBCD." version="1" />
+    <string key="install" value="Installera" version="1" />
+    <string key="remove" value="Ta bort" version="1" />
+    <string key="adminLine1" value="EasyBCD kräver administratörsrättigheter för att fungera korrekt, och kan inte fortsätta." version="1" />
+    <string key="adminLine2" value="Starta om programmet som Administratör, för att fortsätta." version="1" />
+    <string key="adminTitle" value="Åtkomst nekad" version="1" />
+    <string key="easybcdBackup" value="EasyBCD säkerhetskopiering" version="1" />
+    <string key="yes" value="Ja" version="1" />
+    <string key="no" value="Nej" version="1" />
+    <string key="registryFailed" value="Kunde inte skriva registerinställningar" version="1" />
+    <string key="commercialEdition" value="Kommersiell version" version="1" />
+    <string key="communityEdition" value="Community-version" version="1" />
+    <string key="failedAddTitle" value="Kunde inte lägga till post!" version="1" />
+    <string key="msdosHelp" value="För att EasyBCD skall kunna starta MS-DOS 6.x eller Windows 3.x, måste IO.SYS och MSDOS.SYS finnas i början på den aktiva partitionen.&#xD;&#xA;&#xD;&#xA;Tryck 'Ja' för mer information om DOS-baserade poster. Vill du inte se dokumentationen just nu, trycker du 'Nej' istället." version="1" />
+    <string key="floppyErrorTitle" value="Kunde inte lägga till Floppy-post" version="1" />
+    <string key="msdosHelpTitle" value="Vill du läsa EasyBCDs MSDOS-dokumentation?" version="1" />
+    <string key="addedFormat" value="{0} korrekt tillagt i startmenyn!" version="1" />
+    <string key="neogrubBootloader" derive="true" />
+    <string key="neogrubRemoved" value="NeoGrub borttagen!" version="1" />
+    <string key="vhdErrorTitle" value="Kunde inte lägga till VHD-post." version="1" />
+    <string key="errorSpaces" value="Sökvägen kan inte innehålla några blanksteg. Korrigera felet och försök igen." version="1" />
+    <string key="isoErrorTitle" value="Kunde inte lägga till ISO-post" version="1" />
+    <string key="path" value="Sökväg:" version="1" />
+    <string key="name" value="Namn:" version="1" />
+    <string key="drive" value="Diskenhet:" version="1" />
+    <string key="browseFileTitle" value="Bläddra efter fil" version="1" />
+    <string key="wimFiles" value="Windows avbildsfiler (WIM)" version="1" />
+    <string key="vhdFiles" value="Virtuella hårddiskfiler (VHD)" version="1" />
+    <string key="isoFiles" value="ISO-filer" version="1" />
+    <string key="imgFiles" value="IMG-filer" version="1" />
+    <string key="bcdFiles" value="EasyBCD backup-filer" version="1" />
+    <string key="safeIntro" value="EasyBCD låter dig skapa flera olika startalternativ för ett och samma operativsystem. Genom att skapa ett nytt startalternativ och förse det med en växel för felsäkert läge, kan du snabbt starta datorn i felsökningsläge." version="1" />
+    <string key="safeNormal" value="Normal: Startar datorn i normalläge" version="1" />
+    <string key="safeVga" value="Enkel grafik: Startar med basdrivrutin för grafiken, och återställer skärmupplösningen till standard." version="1" />
+    <string key="safeNetworking" value="Felsäker start med nätverk: Startar i felsäkert läge med åtkomst till Internet och lokalt nätverk." version="1" />
+    <string key="safeMode" value="Felsäker start: Startar i felsäkert läge utan nätverksåtkomst. Användbart då nätverksdrivrutiner blivit korrupta." version="1" />
+    <string key="safeAD" value="Active Directory-reparation: Startar Windows server 2008 i Active Directory reparationsläge." version="1" />
+    <string key="safeTitle" value="Om felsäkra startalternativ" version="1" />
+    <string key="paeIntro" value="Physical address extension (PAE) avgör hur Windows skall adressera den minnesmängd som överstiger 4 GB." version="1" />
+    <string key="paeDefault" value="Standard: Låter Windows avgöra hur minnet skall adresseras." version="1" />
+    <string key="paeEnable" value="Aktiverat: Tvingad minnesadressering" version="1" />
+    <string key="paeDisable" value="Inaktiverat: Inaktiverar adressering av extra minne" version="1" />
+    <string key="paeTitle" value="Om PAE-alternativ" version="1" />
+    <string key="nxIntro" value="DEP - Dataexekveringsskyddet är en säkerhetsfunktion som kan förhindra att virus och annan skadlig kod kan skada ditt system. Det är känt att DEP i vissa sällsynta fall kan orsaka kompatibilitetsproblem." version="1" />
+    <string key="nxOptIn" value="OptIn: Windows kärna är skyddad av DEP" version="1" />
+    <string key="nxOptOut" value="OptOut: Windows och Program är skyddade av DEP" version="1" />
+    <string key="nxOn" value="Alltid på: DEP är aktiverat för Windows och program" version="1" />
+    <string key="nxOff" value="Alltid av: DEP är inaktiverat för Windows och program" version="1" />
+    <string key="opNotAllowed" value="Förbjuden åtgärd!" version="1" />
+    <string key="nxTitle" value="Om DEP/Dataexekveringsskydd" version="1" />
+    <string key="errorNotPrimary" value="Startpartitionen måste vara en primär partition.&#xD;&#xA;&#xD;&#xA;Välj en annan partition eller gör den valda partitionen till primär partition, och försök sedan igen." version="1" />
+    <string key="errorNotMounted" value="EasyBCD kan inte göra omonterade diskenheter startbara. Tilldela den aktuella enheten en enhetsbokstav, starta om EasyBCD och försök igen." version="1" />
+    <string key="invalidDrive" value="Ogiltig enhetsåtgärd" version="1" />
+    <string key="bootableSuccess" value="EasyBCD har konverterat den aktuella disken till en startbar enhet. För att konfigurera startmenyposterna på den aktuella enheten, måste du gå till 'Arkiv/Välj BCD-adress' och välja \\boot\\BCD på den partition du just förberett." version="1" />
+    <string key="mountBcdNow" value="Vill du läsa in den nyskapade BCD-platsen i EasyBCD nu?" version="1" />
+    <string key="bootableTitle" value="Startbar diskenhet skapad" version="1" />
+    <string key="accessDeniedText" value="Tillträde till BCD nekades. Kontrollera att BCD-platsen på den aktuella enheten inte används." version="1" />
+    <string key="partitionConverted" value="Partition konverterad till startbar enhet" version="1" />
+    <string key="bcdRemove1" value="Avancerat alternativ som endast bör användas om du är absolut säker på att du vill avinstallera Windows Vista/7 starthanterare." version="1" />
+    <string key="bcdRemove2" value="Det här alternativet startar bara Windows XP, om de korrekta startfilerna redan finns på sin plats!" version="1" />
+    <string key="bcdRemove3" value="Vill du verkligen fortsätta?" version="1" />
+    <string key="warning" value="Varning!" version="1" />
+    <string key="mbrSuccess" value="MBR skrevs utan problem" version="1" />
+    <string key="bootloaderSuccess" value="Starthanteringsinställningar sparades" version="1" />
+    <string key="bcdReset" value="BCD har nollställts! Alla startposter har raderats!&#xD;&#xA;&#xD;&#xA;Viktigt! Du måste lägga till minst en startpost, annars kommer din dator inte att kunna starta." version="1" />
+    <string key="bcdResetTitle" value="BCD-återställning" version="1" />
+    <string key="selectBootTitle" value="Välj en ny startpartition" version="1" />
+    <string key="selectBoot" value="EasyBCD kommer att konfigurera om ditt system till att starta från den partition du väljer här. Processen skapar en BCD-adress på den aktuella diskenheten, kopierar befintliga BCD-poster dit, och gör den valda partitionen både aktiv och startbar." version="1" />
+    <string key="errorLogical" value="Du försökte ändra startpartitionen, till en logisk enhet, vilket inte är tillåtet. Startpartitionen måste vara en primär partition.&#xD;&#xA;&#xD;&#xA;Välj en annan enhet eller konvertera den valda partitionen till en primär partition, och försök sedan igen." version="1" />
+    <string key="bootChangedFormat" value="EasyBCD har gjort enhet {0} till ny startpartition, och läst in den nya BCD-platsen för konfiguration, om du vill göra ytterligare ändringar. Om denna partition ligger på den första startenheten, behöver du inte göra något mer. Om inte, behöver du nu starta om datorn till BIOS och ändra första startenheten, för att den nya startpartitionen skall fungera." version="1" />
+    <string key="bootChangedTitle" value="Startpartitionen ändrad" version="1" />
+    <string key="unsupportedOS" value="Det här alternativet fungerar endast i Windows Vista, Windows 7 och Windows 8." version="1" />
+    <string key="unsupportedOSTitle" value="Operativsystemet stöds ej!" version="1" />
+    <string key="errorNoRestore" value="Allvarligt fel! Kunde inte återställa den valda BCD-platsen." version="1" />
+    <string key="errorNoRestoreTitle" value="Återställningsfel" version="1" />
+    <string key="confirmDelete" value="Vill du verkligen ta bort den här platsen?" version="1" />
+    <string key="confirmDeleteTitle" value="Bekräfta borttagning?" version="1" />
+    <string key="entryDeleted" value="Startmenyposten borttagen!" version="1" />
+    <string key="thankYou" value="Ditt stöd uppskattas!" version="1" />
+    <string key="loadExternal" value="Det här alternativet låter EasyBCD läsa in och använda en valfri extern BCD-databas. Alla ändringar kommer att verkställas på den aktuella BCD-platsen, och påverkar inte din vanliga systemkonfiguration." version="1" />
+    <string key="loadExternalTitle" value="Välj en ny plats" version="1" />
+    <string key="easybcdFiles" value="EasyBCD-filer" version="1" />
+    <string key="errorRO1" value="Antingen saknar du behörighet att skriva till den aktuella filen, eller så är filen skrivskydd och/eller lagrad på ett skrivskyddat medium." version="1" />
+    <string key="errorRO2" value="Om du väljer att fortsätta, kommer ändringar på BCD-platsen inte att sparas. Tryck 'Ja' för att fortsätta, och läsa in den här BCD-platsen i skrivskyddat läge, eller 'Nej' för att fortsätta använda föregående BCD-adress." version="1" />
+    <string key="errorROTitle" value="Skrivskyddad BCD-adress upptäckt" version="1" />
+    <string key="noBcd" value="Ingen BCD-adress inläst. EasyBCD körs i begränsat läge." version="1" />
+    <string key="bcdLoadedFormat" value="BCD-information inläst från {0}" version="1" />
+    <string key="confirmRestart" value="Vill du verkligen starta om datorn?" version="1" />
+    <string key="confirmRestartTitle" value="Bekräfta omstart" version="1" />
+    <string key="shutdownStarted" value="Nedstängning påbörjad" version="1" />
+    <string key="errorUtility" value="Ett fel påträffades vid körning av verktyget." version="1" />
+    <string key="hiddenBootIni" value="Boot.ini är lagrad på den dolda startpartitionen och kan inte läsas in för redigering i EasyBCD.&#xD;&#xA;&#xD;&#xA;Ange enhetsbokstaven för den dolda startpartitionen, eller använd funktionen för automatisk konfiguration av Windows XP dual-boot, istället." version="1" />
+    <string key="errorBootIniTitle" value="Kunde inte läsa in boot.ini!" version="1" />
+    <string key="errorBootIniFormat" value="EasyBCD kunde inte hitta någon boot.ini på startpartition {0}.&#xD;&#xA;&#xD;&#xA;Lägg till en ny Windows XP eller Windows 2000 startpost, om du vill använda funktionen för automatisk boot.ini-konfiguration, istället." version="1" />
+    <string key="sysInfo" value="Systeminformation" version="1" />
+    <string key="sysInfoText" value="Visar information om din aktuella hård- och mjukvarukonfiguration. Användbart för att lokalisera hårdvarufel och för snabb översikt på aktuella systeminställningar." version="1" />
+    <string key="powerConsole" value="EasyBCD Power-konsoll" version="1" />
+    <string key="powerConsoleText" value="Snabb tillgång till kommandotolk med full administrativ behörighet. Använd den för att verkställa systemfunktioner eller snabb tillgång till bcdedit och bootsect.exe" version="1" />
+    <string key="sysRestore" value="Systemåterställning" version="1" />
+    <string key="sysRestoreText" value="Öppnar sytemåterställningsdialogen. Använd den för att snabbt rulla tillbaka ändringar och reparera felaktigheter." version="1" />
+    <string key="restoreCds" value="Windows Vista/7 systemreparationsskiva" version="1" />
+    <string key="restoreCdsText" value="Ladda ner en kopia av Windows Vista och Windows 7 systemreparations-CD. Du kan använda EasyBCD till att skapa USB-minne med dessa systemreparations-CDs." version="1" />
+    <string key="controlPanel" value="Kontrollpanelen" version="1" />
+    <string key="controlPanelText" value="Öppna kontrollpanelen och använd den efter behov." version="1" />
+    <string key="iRebootText" value="NeoSmart Technologies hjälpprogram för EasyBCD. iReboot ligger i meddelandefältet (tar ensdast 400 KB minne), och låter dig snabbt och enkelt, välja vilket operativsystem du vill starta om datorn till." version="1" />
+    <string key="errorNoEntries" value="EasyBCD har upptäckt att det inte finns några fungerande startposter installerade. Om du avslutar EasyBCD och försöker starta om din dator, kommer den inte att kunna starta igen.&#xD;&#xA;&#xD;&#xA;Vill du verkligen avsluta EasyBCD innan du lagt till en ny startpost?" version="1" />
+    <string key="errorNoEntriesTitle" value="Inga startposter installerade!" version="1" />
+    <string key="errorPathSave" value="EasyBCD kunde inte spara aktuell adress, som ordinarie säkerhetskopieringsadress. Funktionen har inaktiverats" version="1" />
+    <string key="errorPathSaveTitle" value="Problem med säkerhetskopieringsadressen" version="1" />
+    <string key="isoHelp1" value="EasyBCD stöder iso-inläsning i 2 olika lägen. Notera att inte alla iso-avbilder fungerar korrekt. Linux installationsavbilder fungerar vanligen inte." version="1" />
+    <string key="isoHelp2" value="Kör från disk:  Startar snabbare, men opererar långsammare. Kräver också förbearbetning av EasyBCD, under tillverkningen." version="1" />
+    <string key="isoHelp3" value="Kör från minnet: Opererar snabbare, men tar lite tid att starta. Kan misslyckas för stora avbilder eller äldre datorer." version="1" />
+    <string key="isoHelpTitle" value="Om ISO-alternativ" version="1" />
+    <string key="warnDiffDevice" value="Den valda filen är lagrad på en annan enhet än startfilerna. Om du tänker använda den här startposten för att starta en annan dator än den aktuella, bör du kopiera filen till en extern diskenhet ochy försöka igen.&#xD;&#xA;&#xD;&#xA;Vill du fortsätta ändå?" version="1" />
+    <string key="diffDeviceTitle" value="Icke-portabel startpost upptäckt!" version="1" />
+    <string key="errorNoBcd" value="Inget BCD-register inläst - Kör med reducerad funktionalitet!" version="1" />
+    <string key="bcdExceptionFormat" value="BCD-undantag 0x{0:X3}" version="1" />
+    <string key="userCancel" value="Aktiviteten avbruten av användaren." version="1" />
+    <string key="renameSuccess" value="Namnbyte utfört." version="1" />
+    <string key="plop" value="EasyBCD BIOS-utökning" version="1" />
+    <string key="entryRemovedFormat" value="{0} har flyttats" version="1" />
+    <string key="drive2" value="Diskenhet" version="1" />
+    <string key="bcdResetStatus" value="BCD återställd. Konfigurera om nu!" version="1" />
+    <string key="bcdRepaired" value="BCD reparerad" version="1" />
+    <string key="configSaved" value="Startpostkonfigurationen sparad" version="1" />
+    <string key="backupSuccess" value="BCD säkerhetskopierad" version="1" />
+    <string key="restoreSuccess" value="Återställning slutförd" version="1" />
+    <string key="bcdRefresh" value="Cachelagrad BCD-data har uppdaterats" version="1" />
+    <string key="optionsSaved" value="Inställningar sparade!" version="1" />
+    <string key="orderSaved" value="Startpostordning sparad" version="1" />
+    <string key="easybcdStatus" derive="true" />
+  </strings>
+</localization>

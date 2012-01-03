@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnOK" derive="true" />
+    <string key="btnCancel" value="Avbryt" version="2" />
+    <string key="chkExpertMode" value="Kör EasyBCD i expertläge" version="1" />
+    <string key="chkRememberBackup" value="Kom ihåg lagringsplatsen för säkerhetskopior vid avslut" version="1" />
+    <string key="lblExpertMode" value="Expertläge varnar inte användaren innan avancerade åtgärder verkställs!" version="1" />
+    <string key="chkLoadDefaultBcd" value="Läs in följande BCD-fil automatiskt, vid start:" version="1" />
+    <string key="btnBrowseBcd" derive="true" />
+    <string key="chkAutoUpdate" value="Uppdatera automatiskt varje" version="1" />
+    <string key="chkRss" value="Inkludera NeoSmart Technologies i Windows RSS-plattform" version="1" />
+    <string key="numUpdateInterval" derive="true" />
+    <string key="rdoDays" value="Dag" version="1" />
+    <string key="rdoWeeks" value="Vecka" version="1" />
+    <string key="rdoMonths" value="Månad" version="1" />
+    <string key="lblLastUpdateCheck" value="Senaste auto-kontroll:" version="1" />
+    <string key="tabGeneralSettings" value="Allmäna inställningar" version="1" />
+    <string key="lblDefaultTab" value="Standardflik vid uppstart:" version="1" />
+    <string key="lblDefaultDisplay" value="Standardvisningsläge:" version="1" />
+    <string key="lblOverviewFont" value="Teckensnit t- Översikt:" version="1" />
+    <string key="lblDetailedFont" value="Teckensnitt - Detaljerat:" version="1" />
+    <string key="lblOverviewSize" value="Storlek:" version="1" />
+    <string key="numFontOverview" derive="true" />
+    <string key="lblOverviewPt" derive="true" />
+    <string key="lblDetailedSize" value="Storlek:" version="1" />
+    <string key="numFontDetailed" derive="true" />
+    <string key="lblDetailedPt" derive="true" />
+    <string key="chkWordWrap" value="Radbrytning aktiverad som standard" version="1" />
+    <string key="chkSaveWindow" value="Spara fönsterstorlek vid avslut" version="1" />
+    <string key="ResetSize" value="Återställ visningsalternativ" version="1" />
+    <string key="tabDisplayOptions" value="Visningsalternativ" version="1" />
+    <string key="OptionsDialog" value="EasyBCD inställningar" version="1" />
+    <string key="overview" value="Översikt" version="1" />
+    <string key="detailed" value="Detaljerat" version="1" />
+    <string key="locateBcd" value="Hitta en giltig BCD-adress" version="1" />
+    <string key="never" value="Aldrig" version="1" />
+  </strings>
+</localization>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="chkDontRemind" value="Påminn mig inte igen" version="1" />
+    <string key="btnCancel" value="Nej &amp;tack!" version="1" />
+    <string key="btnDonate" value="&amp;Donera" version="1" />
+    <string key="lblDonationIntro" value="EasyBCD community-version är 100% gratis, och vi tänker låta det förbli så. Men att det är gratis innebär inte att det är mindre kostsamt att utveckla och testa.&#xD;&#xA;&#xD;&#xA;I dag har EasyBCD laddats ner mer än 25 miljoner gånger, och räddat otaliga datorer från totalhaveri." version="1" />
+    <string key="donationTitle" value="Hjälp EasyBCD att hjälpa dig!" version="1" />
+    <string key="lblYouDonate" value="Vill du donera för att hjälpa EasyBCD, rädda fler datorer?" version="1" />
+    <string key="DonationDialog" value="Har EasyBCD hjälpt dig?" version="1" />
+  </strings>
+</localization>

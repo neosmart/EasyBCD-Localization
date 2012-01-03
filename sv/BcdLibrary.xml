@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="unknown" derive="true" />
+    <string key="gib" value="GB" version="1" />
+    <string key="mib" value="MB" version="1" />
+    <string key="unnamed" value="Namnlös post" version="1" />
+    <string key="defragFormat" value="Påbörjar defragmentering av fil {0}" version="1" />
+    <string key="as" value="som" version="1" />
+    <string key="partition" derive="true" />
+    <string key="accessViolationFormat" value="Åtkomst till {0} nekades. Om detta är en flyttbar enhet, kan du prova att mata ut och sedan återansluta enheten innan du försöker igen." version="1" />
+    <string key="failedSave" value="Kunde inte spara ändringarna!" version="1" />
+    <string key="accessDeniedTitle" value="Åtkomst nekad" version="1" />
+    <string key="accessDeniedFormat" value="Åtkomst till {0} nekades. Kontrollera att filen inte används, och att du har full behörighet för mappen." version="1" />
+    <string key="oneEntry" value="Det finns en post i Windows starthanterare." version="1" />
+    <string key="multiEntriesFormat" value="Det finns totalt {0} poster i starthanteraren." version="1" />
+    <string key="drive" value="Diskenhet" version="1" />
+    <string key="device" value="Enhet" version="1" />
+    <string key="entryNum" value="Post #" version="1" />
+    <string key="name" value="Namn" version="1" />
+    <string key="bcdId" value="BCD-ID" version="1" />
+    <string key="path" value="Sökväg" version="1" />
+    <string key="default" value="Standard" version="1" />
+    <string key="timeout" derive="true" />
+    <string key="none" derive="true" />
+    <string key="timeoutFormat" value="{0} sekunder" version="1" />
+    <string key="skipped" value="Överhoppad" version="1" />
+    <string key="bootDevice" value="Boot-enhet" version="1" />
+    <string key="ebcdBootDevice" value="EasyBCD boot-enhet" version="1" />
+    <string key="bootloaderPath" value="Starthanterarens sökväg" version="1" />
+    <string key="bcdError" value="BCD utförandefel!" version="1" />
+    <string key="ntNotFoundTitle" value="Ingen giltig NT-installation funnen!" version="1" />
+    <string key="ntNotFound" value="EasyBCD kunde inte hitta någon giltig installation av Windows NT-2003 på monterade enheter, och kunde därför inte fortsätta." version="1" />
+    <string key="manuallyLoad" value="Vill du läsa in ett BCD-register manuellt? Notera att EasyBCD kräver Windows Vista/7 starthanterare, och kommer inte att fungera i XP-miljö." version="1" />
+    <string key="errorBcd" value="Kunde inte öppna BCD-register" version="1" />
+    <string key="locateValid" value="Lokalisera en giltig BCD-adress" version="1" />
+    <string key="bcdRegistry" value="BCD-register" version="1" />
+  </strings>
+</localization>

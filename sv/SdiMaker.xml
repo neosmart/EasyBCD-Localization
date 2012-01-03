@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OK_Button" derive="true" />
+    <string key="Cancel_Button" value="Avbryt" version="1" />
+    <string key="Body" value="För att kunna fortsätta behöver EasyBCD åtkomst till Windows Vista- eller Windows 7-installationsmediet (vanligen en DVD eller en skivavbild).&#xD;&#xA;&#xD;&#xA;Mata in din DVD i den optiska enheten, eller montera skivavbilden och tryck 'OK' för att fortsätta." version="1" />
+    <string key="mediaNotFound" value="Kan inte hitta giltigt Windows-installationsmedie." version="1" />
+    <string key="SdiMaker" value="Mata in Windows-installationsmediet" version="1" />
+  </strings>
+</localization>

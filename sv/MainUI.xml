@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="rdoModeBasic" value="Översikt" version="1" />
+    <string key="rdoModeDetailed" value="Detaljerat (Felsökningsläge)" version="1" />
+    <string key="chkWordWrap" value="Radbrytning" version="1" />
+    <string key="grpDisplayMode" value="Visningsläge" version="1" />
+    <string key="tabViewSettings" derive="true" />
+    <string key="rdoTimeoutCount" value="Räkna ned från" version="1" />
+    <string key="numTimeout" derive="true" />
+    <string key="rdoTimeoutNone" value="Vänta på användarval" version="1" />
+    <string key="rdoTimeoutSkip" value="Hoppa över startmenyn" version="1" />
+    <string key="btnSaveBCD" value="Spara inställningar" version="1" />
+    <string key="groupBox2" value="Timeout-alternativ" version="1" />
+    <string key="btnUp" value="Upp" version="1" />
+    <string key="btnDown" value="Ner" version="1" />
+    <string key="btnRenameEntry" value="Byt namn" version="1" />
+    <string key="btnDelete" value="Ta bort" version="1" />
+    <string key="groupBox1" value="Ändra menyposter" version="1" />
+    <string key="tabEditMenu" derive="true" />
+    <string key="btnVhdBrowse" derive="true" />
+    <string key="lblVhdName" value="Namn:" version="1" />
+    <string key="lblVhdType" value="Typ:" version="1" />
+    <string key="txtVhdName" derive="true" />
+    <string key="lblVhdPath" value="Sökväg:" version="1" />
+    <string key="btnAddVhd" value="Lägg till" version="1" />
+    <string key="tabPage13" value="Disk-avbild" version="1" />
+    <string key="lblIsoName" value="Namn:" version="1" />
+    <string key="lblIsoMode" value="Läge:" version="1" />
+    <string key="btnIsoBrowse" derive="true" />
+    <string key="txtIsoName" value="NeoSmart ISO-start" version="1" />
+    <string key="lblIsoPath" value="Sökväg:" version="1" />
+    <string key="btnAddIso" value="Lägg till" version="1" />
+    <string key="tabPage14" derive="true" />
+    <string key="btnPeBrowse" derive="true" />
+    <string key="lblPeType" value="Typ:" version="1" />
+    <string key="lblPeName" value="Namn:" version="1" />
+    <string key="btnBrowse" derive="true" />
+    <string key="lblName" value="Namn:" version="1" />
+    <string key="lblType" value="Typ:" version="1" />
+    <string key="lblPath" value="Sökväg:" version="1" />
+    <string key="lblDrive" value="Enhet:" version="1" />
+    <string key="btnAddNewEntry" value="Lägg till" version="1" />
+    <string key="lblMode" value="Läge:" version="1" />
+    <string key="lblFile" value="Fil:" version="1" />
+    <string key="txtPeName" value="NST WinPE-avbild" version="1" />
+    <string key="chkEms" value="EMS aktiverad" version="1" />
+    <string key="tabPage12" derive="true" />
+    <string key="txtFloppyName" value="NeoSmart Floppy-avbild" version="1" />
+    <string key="tabFloppy" derive="true" />
+    <string key="btnPlopInstall" value="Installera PLoP" version="1" />
+    <string key="btnPlopRemove" value="Ta bort PLoP" version="1" />
+    <string key="lblBiosExtend" value="EasyBCDs BIOS-utökning kan användas för att starta från nätverk, CD eller USB, på datorer som saknar inbyggt stöd för det." version="1" />
+    <string key="tabPagePlop" value="BIOS-utökning" version="1" />
+    <string key="grpPortable" value="Portabelt/Externt Media" version="1" />
+    <string key="lblWindowsAuto" value="Automatisk detektion" version="1" />
+    <string key="chkAutoXp" value="Hitta korrekt enhet automatiskt" version="1" />
+    <string key="txtWinName" derive="true" />
+    <string key="tabPage8" derive="true" />
+    <string key="chkGrub" value="Använd EasyBCDs kopia av GRUB" version="1" />
+    <string key="txtLinName" derive="true" />
+    <string key="lblLinAuto" value="Automatisk detektion" version="1" />
+    <string key="tabPage9" derive="true" />
+    <string key="txtMacName" derive="true" />
+    <string key="tabPageMac" derive="true" />
+    <string key="btnNeoGrub" value="Installera" version="1" />
+    <string key="btnNeoGrubConfig" value="Konfigurera" version="1" />
+    <string key="lblNeoGrub" value="NeoGrub starthanterare kan användas för att starta Linux-system och äldre versioner av Windows, eller till och med dölja enheter." version="1" />
+    <string key="tabPage11" derive="true" />
+    <string key="grpOS" value="Operativsystem" version="1" />
+    <string key="tabAddEntry" derive="true" />
+    <string key="btnSaveSettings" value="Spara inställningar" version="1" />
+    <string key="lblLocale" value="Språk:" version="1" />
+    <string key="tabEntryBasic" value="Allmänt" version="1" />
+    <string key="lblSafeMode" value="Startläge:" version="1" />
+    <string key="lblPae" value="PAE-stöd:" version="1" />
+    <string key="lblDep" derive="true" />
+    <string key="chkEntryUnsigned" value="Tillåt osignerade drivrutiner i 64-bitars Windows" version="1" />
+    <string key="tabEntryAdvanced" value="Avancerat" version="1" />
+    <string key="chkEntrySos" value="Starta i SOS/Verbose-läge" version="1" />
+    <string key="chkEntryKernelDebug" value="Starta Windows i felsökningsläge" version="1" />
+    <string key="chkEntryMemory" value="Dra av" version="1" />
+    <string key="numEntryMemory" derive="true" />
+    <string key="lblDeduct2" value="MB från fysiskt minne" version="1" />
+    <string key="chkEntryCpu" value="Begränsa Windows till" version="1" />
+    <string key="numEntryCpu" derive="true" />
+    <string key="lblLimit2" value="CPU:er" version="1" />
+    <string key="tabEntryDeveloper" value="Utvecklare" version="1" />
+    <string key="lblAdvancedSettings" value="Notera att vissa inställningar kan vara otillgängliga, beroende på den startpost som modifieras." version="1" />
+    <string key="grpChangeSettings" value="Ändra inställningar" version="1" />
+    <string key="lblPickLH" value="Välj en startpost från listan, för modifiering." version="1" />
+    <string key="grpSelectLH" value="Välj ett operativsystem" version="1" />
+    <string key="tabAdvanced" derive="true" />
+    <string key="btnBackup" value="Säkerhetskopiera" version="1" />
+    <string key="btnRestore" value="Återställ säkerhetskopia" version="1" />
+    <string key="grpBackupRestore" value="Säkerhetskopiera och återställ starthanteringsinställningar" version="1" />
+    <string key="rdoBcdChange" value="Ändra startenhet" version="1" />
+    <string key="rdoBcdRepair" value="Återskapa/Reparera startfiler" version="1" />
+    <string key="btnBcdRescue" value="Verkställ åtgärd" version="1" />
+    <string key="rdoBcdReset" value="Återställ BCD-konfiguration" version="1" />
+    <string key="grpDiagnostics" value="BCD-hanteringsalternativ" version="1" />
+    <string key="tabBcdInstall" derive="true" />
+    <string key="btnMakeBootable" value="Installera BCD" version="1" />
+    <string key="lblUsbPartitions" derive="true" />
+    <string key="lblCreateBootable" value="EasyBCD kan skapa startbara media automatiskt. Välj en enhet för att börja." version="1" />
+    <string key="grpCreateBootableExternal" value="Skapa startbar extern media" version="1" />
+    <string key="btnMbrWrite" value="Skriv MBR" version="1" />
+    <string key="safeNormal" derive="true" />
+    <string key="mnuSelectBcd" value="Välj &amp;BCD-adress" version="1" />
+    <string key="rdoMbrXP" value="Installera Windows XP starthanterare i MBR" version="1" />
+    <string key="rdoMbrVista" value="Installera Windows Vista/7 starhanterare i MBR" version="1" />
+    <string key="grpBootloader" value="MBR konfigurationsalternativ" version="1" />
+    <string key="tabMbrSetup" derive="true" />
+    <string key="grpUtils" value="Verktyg" version="1" />
+    <string key="tabUtilities" derive="true" />
+    <string key="btnBcdInstall" value="Säkerhetskopiering" version="1" />
+    <string key="btnUtilities" value="Verktyg" version="1" />
+    <string key="btnMbrSetup" value="BCD Driftsättning" version="1" />
+    <string key="btnAdvanced" value="Avancerat" version="1" />
+    <string key="btnAddEntry" value="Lägg till startpost" version="1" />
+    <string key="btnEditMenu" value="Redigera startmeny" version="1" />
+    <string key="btnViewSettings" value="Visa inställningar" version="1" />
+    <string key="grpToolbox" value="EasyBCD Verktyg" version="1" />
+    <string key="mnuLanguage" value="Välj s&amp;pråk" version="1" />
+    <string key="mnuLoadSystemBcd" value="&amp;Läs in system-BCD" version="1" />
+    <string key="mnuRescan" value="&amp;Uppdatera BCD-adress" version="1" />
+    <string key="mnuRegister" value="&amp;Registrera" version="1" />
+    <string key="mnuDonate" value="&amp;Donera" version="1" />
+    <string key="mnuUpdate" value="&amp;Sök efter uppdateringar" version="1" />
+    <string key="mnuExit" value="A&amp;vsluta" version="1" />
+    <string key="mnuFile" value="&amp;Arkiv" version="1" />
+    <string key="mnuOptions" value="A&amp;lternativ" version="1" />
+    <string key="lstVhdEntry" derive="true" />
+    <string key="mnuEditLegacy" value="&amp;Redigera äldre startposter" version="1" />
+    <string key="mnuRestart" value="&amp;Starta om datorn" version="1" />
+    <string key="mnuTools" value="&amp;Verktyg" version="1" />
+    <string key="mnuDocumentation" value="Do&amp;kumentation" version="1" />
+    <string key="mnuSupport" value="&amp;Support" version="1" />
+    <string key="mnuBug" value="Rapportera &amp;fel" version="1" />
+    <string key="mnuDonate2" value="&amp;Donera" version="1" />
+    <string key="mnuAbout" value="&amp;Om" version="1" />
+    <string key="mnuHelp" value="&amp;Hjälp" version="1" />
+    <string key="MainUI" derive="true" />
+    <string key="colName" value="Startpost" version="1" />
+    <string key="colDefault" value="Standard" version="1" />
+    <string key="lstRawHD" value="Raw hårddiskavbild" version="1" />
+    <string key="lstRawPartition" value="Raw partitionsavbild" version="1" />
+    <string key="lstRunDisk" value="Kör från disk" version="1" />
+    <string key="lstLoadMem" value="Kör i minnet" version="1" />
+    <string key="lstWim" value="VIM-avbild (Ramdisk)" version="1" />
+    <string key="lstExtracted" value="Extraherad filsystem-layout" version="1" />
+    <string key="lstWin7" derive="true" />
+    <string key="lstWinNt" derive="true" />
+    <string key="lstWin9x" derive="true" />
+    <string key="lstWinDos" derive="true" />
+    <string key="lstNixGrub" value="GRUB (befintlig)" version="1" />
+    <string key="lstNixGrub2" derive="true" />
+    <string key="lstNixLilo" derive="true" />
+    <string key="lstNixBsd" derive="true" />
+    <string key="lstNixWubi" derive="true" />
+    <string key="lstNixSys" derive="true" />
+    <string key="lstEfi" value="EFI (Standard)" version="1" />
+    <string key="lstMbr" derive="true" />
+    <string key="lstOptIn" derive="true" />
+    <string key="lstOptOut" derive="true" />
+    <string key="lstAlwaysOn" value="Alltid på" version="1" />
+    <string key="lstAlwaysOff" value="Alltid av" version="1" />
+    <string key="paeDefault" value="Standard" version="1" />
+    <string key="paeEnable" value="Aktivera" version="1" />
+    <string key="paeDisable" value="Inaktivera" version="1" />
+    <string key="safeMode" value="Felsäkert läge" version="1" />
+    <string key="safeNetworking" value="Felsäkert läge m. nätverk" version="1" />
+    <string key="safeCmd" value="Alternativt gränssnitt" version="1" />
+    <string key="safeVga" value="Enkel grafik" version="1" />
+    <string key="safeAD" value="Active Directory-reparation" version="1" />
+    <string key="emptyList" value="Inga startposter hittades!" version="1" />
+  </strings>
+</localization>
