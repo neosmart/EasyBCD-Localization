@@ -1,39 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="accessViolationFormat" value="Не возможно получить прямой доступ к {0}. тому, Если это - съемный диск, попытайтесь его извлечь и повторно вставить и  попробуйте еще раз." version="1" />
-    <string key="failedSave" value="Не удалось сохранить запись!" version="1" />
-    <string key="accessDeniedTitle" value="Доступ запрещен" version="1" />
-    <string key="accessDeniedFormat" value="В доступе к {0} отказанно. Пожалуйста проверьте, что этот файл не используется  и что вы имеете разрешение на удалять/изменять его местоположение." version="1" />
-    <string key="oneEntry" value="В загрузчике Windows есть один вход." version="1" />
-    <string key="multiEntriesFormat" value="Всего имеем {0} записи в загрузчике." version="1" />
-    <string key="entryNum" value="Вход #" version="1" />
-    <string key="name" value="ОС" version="1" />
-    <string key="bcdId" value="Идентификатор BCD" version="1" />
+    <string key="accessViolationFormat" value="Нет доступа к {0}. Если это съемный диск, переустановите его и попробуйте снова." version="1" />
+    <string key="failedSave" value="Не удалось сохранить изменения!" version="1" />
+    <string key="accessDeniedTitle" value="Отказано в доступе" version="1" />
+    <string key="accessDeniedFormat" value="Отказано в доступе к {0}. Файл или уже используется, или у Вас недостаточно прав." version="1" />
+    <string key="oneEntry" value="Сейчас в загрузчике одна запись." version="1" />
+    <string key="multiEntriesFormat" value="В загрузчике {0} записи об операционных системах." version="1" />
+    <string key="entryNum" value="Запись #" version="1" />
+    <string key="name" value="Имя" version="1" />
+    <string key="bcdId" value="BCD ID" version="1" />
     <string key="drive" value="Диск" version="1" />
     <string key="device" value="Устройство" version="1" />
     <string key="path" value="Путь" version="1" />
-    <string key="default" value="Загружается по умолчанию в" version="1" />
+    <string key="default" value="По умолчанию" version="1" />
     <string key="timeout" value="Пауза" version="1" />
     <string key="none" value="Нет" version="1" />
-    <string key="timeoutFormat" value="{0} секунд(ы)" version="1" />
-    <string key="skipped" value="Пропустить" version="1" />
+    <string key="timeoutFormat" value="{0} секунд" version="1" />
+    <string key="skipped" value="Пропустить меню" version="1" />
     <string key="bootDevice" value="Диск начальной загрузки" version="1" />
-    <string key="ebcdBootDevice" value="Хранилище  EasyBCD" version="1" />
+    <string key="ebcdBootDevice" value="Расположение BCD" version="1" />
     <string key="bootloaderPath" value="Путь к загрузчику" version="1" />
-    <string key="bcdError" value="Ошибка Выполнения BCD!" version="1" />
-    <string key="ntNotFoundTitle" value="Не удалось обнаружить утановленную Windows, Установка Не Найдена!" version="1" />
-    <string key="ntNotFound" value="EasyBCD не удалось обнаружить установленную  Windows NT 2003 на всех смонтированных дисках,продолжение не возможно." version="1" />
-    <string key="manuallyLoad" value="Вы хотите вручную загрузить BCD конфигурацию в EasyBCD для справления? Помните, что EasyBCD требует загрузчик Windows Vista/7  и не будет работать в ХР ." version="1" />
-    <string key="errorBcd" value="Ошибка Открытия BCD конфигурации" version="1" />
-    <string key="locateValid" value="Укажите правильное местоположение хранилища BCD" version="1" />
-    <string key="bcdRegistry" value="Конфигурация BCD" version="1" />
+    <string key="bcdError" value="Ошибка выполнения BCD!" version="1" />
+    <string key="ntNotFoundTitle" value="Не удалось обнаружить установленную Windows NT!" version="1" />
+    <string key="ntNotFound" value="Не удалось обнаружить действующую Windows NT-2003 на всех имеющихся дисках. Выполнение остановлено." version="1" />
+    <string key="manuallyLoad" value="Вы хотите загрузить BCD конфигурацию в EasyBCD для ручной правки? Обратите внимание: EasyBCD требуется загрузчик Windows Vista/7, и он не будет работать в XP средах." version="1" />
+    <string key="errorBcd" value="Ошибка открытия BCD конфигурации" version="1" />
+    <string key="locateValid" value="Укажите допустимое расположение BCD" version="1" />
+    <string key="bcdRegistry" value="BCD конфигурация" version="1" />
     <string key="partition" value="Раздел" version="1" />
     <string key="unknown" value="Неизвестный" version="1" />
-    <string key="gib" value="ГБ" version="1" />
-    <string key="mib" value="MБ" version="1" />
+    <string key="gib" value="Гб" version="1" />
+    <string key="mib" value="Мб" version="1" />
     <string key="as" value="как" version="1" />
     <string key="defragFormat" value="Запуск дефрагментации файла {0}" version="1" />
-    <string key="unnamed" value="Вход без имени " version="1" />
+    <string key="unnamed" value="Запись без имени" version="1" />
   </strings>
 </localization>

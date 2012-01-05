@@ -2,11 +2,11 @@
 <localization>
   <strings>
     <string key="lblDriveSelect" value="Новый диск начальной загрузки:" version="1" />
-    <string key="lblBody" value="EasyBCD сменит конфигурацию загрузки Вашей систеы, чтобы загрузиться от раздела, который Вы выбираете ниже. Этим процессом будет создано хранилище BCD на выбранном диске, скопирует текущии записи BCD и сделает выбранный раздел как активным так&amp; и загрузочным." version="1" />
-    <string key="OK_Button" value="&amp;ДА" version="1" />
+    <string key="lblBody" value="Чтобы загружаться с выбранного Вами раздела, EasyBCD внесет изменения в конфигурацию Вашей системы. Этот процесс установит BCD на выбранном диске, скопирует BCD записи и сделает раздел и активным, и загрузочным." version="1" />
+    <string key="OK_Button" value="&amp;OK" version="1" />
     <string key="Cancel_Button" value="&amp;Отмена" version="1" />
-    <string key="DriveSelect" value="Выбрать диск" version="1" />
-    <string key="errorAlreadyBoot" value="Диск, который Вы выбрали, уже является загрузочным . Для  продолжения, пожалуйста выбирите другой диск!" version="1" />
-    <string key="errorAlreadyBootTitle" value="Пожалуйста, выберите другой диск!" version="1" />
+    <string key="DriveSelect" value="Выбор диска" version="1" />
+    <string key="errorAlreadyBoot" value="Диск, который Вы выбрали это текущий диск начальной загрузки. Пожалуйста выберите другой диск!" version="1" />
+    <string key="errorAlreadyBootTitle" value="Пожалуйста выберите другой диск!" version="1" />
   </strings>
 </localization>
