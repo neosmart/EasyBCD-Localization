@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnOK" value="Гаразд" version="2" />
+    <string key="btnCancel" value="Скасувати" version="2" />
+    <string key="chkExpertMode" value="Запуск EasyBCD в режимі 'Експерт'" version="1" />
+    <string key="chkRememberBackup" value="Запам'ятовувати каталог резервної копії BCD при виході" version="1" />
+    <string key="lblExpertMode" value="Користувач не попереджується перед застосуванням попередніх дій!" version="1" />
+    <string key="chkLoadDefaultBcd" value="При старті автоматично завантажувати наступний файл BCD:" version="1" />
+    <string key="btnBrowseBcd" value="..." version="1" />
+    <string key="chkAutoUpdate" value="Автоматичне оновлення кожні " version="1" />
+    <string key="chkRss" value="Включити NeoSmart Technologies до платформи Windows RSS" version="1" />
+    <string key="numUpdateInterval" value="0" version="1" />
+    <string key="rdoDays" value="Дні(в)" version="1" />
+    <string key="rdoWeeks" value="Тиждень(ів)" version="1" />
+    <string key="rdoMonths" value="Місяць(ів)" version="1" />
+    <string key="lblLastUpdateCheck" value="Остання автоматична перевірка: " version="1" />
+    <string key="tabGeneralSettings" value="Загальні параметри" version="1" />
+    <string key="lblDefaultTab" value="Вкладка при старті:" version="1" />
+    <string key="lblDefaultDisplay" value="Режим відображення:" version="1" />
+    <string key="lblOverviewFont" value="Шрифт режиму Базовий:" version="1" />
+    <string key="lblDetailedFont" value="Шрифт режиму Детальний:" version="1" />
+    <string key="lblOverviewSize" value="Кегль:" version="1" />
+    <string key="numFontOverview" value="8" version="1" />
+    <string key="lblOverviewPt" value="pt." version="1" />
+    <string key="lblDetailedSize" value="Кегль:" version="1" />
+    <string key="numFontDetailed" value="8" version="1" />
+    <string key="lblDetailedPt" value="pt." version="1" />
+    <string key="chkWordWrap" value="Включити 'Переніс слів' за замовчуванням" version="1" />
+    <string key="chkSaveWindow" value="Зберегти розмір вікна EasyBCD при виході" version="1" />
+    <string key="ResetSize" value="Відновити опції відображення" version="1" />
+    <string key="tabDisplayOptions" value="Опції відображення" version="1" />
+    <string key="OptionsDialog" value="Налаштування EasyBCD" version="1" />
+    <string key="overview" value="Базовий" version="1" />
+    <string key="detailed" value="Детальний" version="1" />
+    <string key="locateBcd" value="Вкажіть існуючий файл BCD" version="1" />
+    <string key="never" value="Ніколи" version="1" />
+  </strings>
+</localization>

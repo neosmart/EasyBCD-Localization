@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="accessViolationFormat" value="Не вдається отримати прямий доступ до {0}. Якщо це знімний диск, спробуйте вийняти і знову вставити його, а потім повторіть спробу." version="1" />
+    <string key="failedSave" value="Не вдалося зберегти зміни!" version="1" />
+    <string key="accessDeniedTitle" value="Доступ заборонено" version="1" />
+    <string key="accessDeniedFormat" value="Відмовлено у доступі до {0}. Будь ласка, перевірте, що файл не використовується, і що у вас є дозвіл на видалення/правку в цьому місці." version="1" />
+    <string key="oneEntry" value="Є один пункт в меню завантаження Windows." version="1" />
+    <string key="multiEntriesFormat" value="Загалом є {0} пункти(ів) у меню завантаження." version="1" />
+    <string key="entryNum" value="Запис #" version="1" />
+    <string key="name" value="Ім'я" version="1" />
+    <string key="bcdId" value="Ідентифікатор BCD" version="1" />
+    <string key="drive" value="Диск" version="1" />
+    <string key="device" value="Пристрій" version="1" />
+    <string key="path" value="Шлях" version="1" />
+    <string key="default" value="За замовчуванням" version="1" />
+    <string key="timeout" value="Затримка" version="1" />
+    <string key="none" value="Відсутня" version="1" />
+    <string key="timeoutFormat" value="{0} секунд(и)" version="1" />
+    <string key="skipped" value="Пропустити" version="1" />
+    <string key="bootDevice" value="Диск завантаження" version="1" />
+    <string key="ebcdBootDevice" value="Пристрій завантаження EasyBCD" version="1" />
+    <string key="bootloaderPath" value="Шлях до завантажувача" version="1" />
+    <string key="bcdError" value="Помилка виконання BCD!" version="1" />
+    <string key="ntNotFoundTitle" value="Не знайдено встановленої NT-системи!" version="1" />
+    <string key="ntNotFound" value="EasyBCD не вдалося виявити встановленої ОС Windows NT-2003 на жодному зі змонтованих дисків, продовження неможливе." version="1" />
+    <string key="manuallyLoad" value="Чи хочете ви вручну завантажити реєстр BCD для редагування в програмі EasyBCD? Пам'ятайте, EasyBCD потребує наявності завантажувача Windows Vista/7 і не працюватиме в середовищі ОС Windows XP." version="1" />
+    <string key="errorBcd" value="Помилка при відкритті реєстру BCD" version="1" />
+    <string key="locateValid" value="Вкажіть правильне розташування BCD" version="1" />
+    <string key="bcdRegistry" value="Реєстр BCD" version="1" />
+    <string key="partition" value="Розділ" version="1" />
+    <string key="unknown" value="Невідомий" version="1" />
+    <string key="gib" value="Гб" version="1" />
+    <string key="mib" value="Мб" version="1" />
+    <string key="as" value="як" version="1" />
+    <string key="defragFormat" value="Початок дефрагментації файлу {0}" version="1" />
+    <string key="unnamed" value="Безіменний запис" version="1" />
+  </strings>
+</localization>

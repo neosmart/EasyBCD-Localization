@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OKButton" value="&amp;Гаразд" version="1" />
+    <string key="AboutBox" value="Довідка" version="1" />
+    <string key="seatsAllowed" value="користувачам/пристроям дозволено" version="1" />
+    <string key="unlicensed" value="Незареестрована копія!" version="1" />
+    <string key="version" value="Версія" version="1" />
+    <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - 2011" version="1" />
+    <string key="aboutText1" value="EasyBCD - це потужний менеджер завантаження операційних систем. Ми не гарантуємо, що EasyBCD працюватиме з усіма версіямі ОС сімейства Windows - завжди перевіряйте, що ви користуєтеся найновішою версією. &#xD;&#xA;&#xD;&#xA;• Провідний розробник: Махмуд Х. Аль-Кудсі&#xD;&#xA;• Активні складові: Піт, кров і сльози&#xD;&#xA;• Розроблено на C + +, C #, Dr. Pepper, Excedrin та Visine&#xD;&#xA;• Ми працюємо для Вас!" version="1" />
+    <string key="thanksFormat" value="Особлива подяка проектам Grub4Dos, PLoP​​, {0} та UltraDefrag!&#xD;&#xA;&#xD;&#xA;Програма EasyBCD розповсюджується разом з автономними компонентами (Grub4Dos та UltraDefrag), що ліцензовані відповідно до умов ліцензії GPLv2. Для отримання додаткової інформації дивіться файл ЛІЦЕНЗІЇ в каталозі установки.&#xD;&#xA;&#xD;&#xA;• Український переклад: z_mashine (z_mashine@i.ua)" version="1" />
+  </strings>
+</localization>

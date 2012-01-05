@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnAbort" value="&amp;Відмінити" version="1" />
+    <string key="CommandWindow" value="Вікно команд EasyBCD" />
+  </strings>
+</localization>
