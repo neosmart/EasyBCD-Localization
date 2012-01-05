@@ -1,40 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="btnOK" value="OK" version="2" />
+    <string key="btnOK" value="Да" version="2" />
     <string key="btnCancel" value="Отмена" version="2" />
-    <string key="chkExpertMode" value="Запускать EasyBCD в экспертном режиме" version="1" />
-    <string key="chkRememberBackup" value="Запоминать расположение резервной копии BCD при выходе" version="1" />
-    <string key="lblExpertMode" value="В этом режиме пользователь не переcпрашивается
- перед выполнением выбранных действий!" version="1" />
-    <string key="chkLoadDefaultBcd" value="Автоматически загружать следующий BCD файл при старте:" version="1" />
+    <string key="chkExpertMode" value="Запускать EasyBCD в режиме 'Експерт'" version="1" />
+    <string key="chkRememberBackup" value="Запоминать каталог резервной копии BCD при выходе" version="1" />
+    <string key="lblExpertMode" value="Пользователь не уведомляется о применении предыдущих действий!" version="1" />
+    <string key="chkLoadDefaultBcd" value="При старте автоматически загружать следующий файл BCD:" version="1" />
     <string key="btnBrowseBcd" value="..." version="1" />
-    <string key="chkAutoUpdate" value="Проверять обновления через: " version="1" />
-    <string key="chkRss" value="Включить NeoSmart Technologies в ленту новостей(RSS)" version="1" />
+    <string key="chkAutoUpdate" value="Автоматически обновлять каждые " version="1" />
+    <string key="chkRss" value="Включить NeoSmart Technologies в платформу Windows RSS" version="1" />
     <string key="numUpdateInterval" value="0" version="1" />
-    <string key="rdoDays" value="Дней" version="1" />
-    <string key="rdoWeeks" value="Недель" version="1" />
-    <string key="rdoMonths" value="Месяцев" version="1" />
-    <string key="lblLastUpdateCheck" value="Последняя проверка: " version="1" />
-    <string key="tabGeneralSettings" value="Общие настройки" version="1" />
-    <string key="lblDefaultTab" value="При запуске открывать: " version="1" />
-    <string key="lblDefaultDisplay" value="В режиме отображения: " version="1" />
-    <string key="lblOverviewFont" value="Краткий обзор:" version="1" />
-    <string key="lblDetailedFont" value="Детальный обзор: " version="1" />
+    <string key="rdoDays" value="День(й)" version="1" />
+    <string key="rdoWeeks" value="Неделю" version="1" />
+    <string key="rdoMonths" value="Месяц(ев)" version="1" />
+    <string key="lblLastUpdateCheck" value="Последняя автоматическая проверка: " version="1" />
+    <string key="tabGeneralSettings" value="Общие Настройки" version="1" />
+    <string key="lblDefaultTab" value="Вкладка при запуске: " version="1" />
+    <string key="lblDefaultDisplay" value="Режим отображения: " version="1" />
+    <string key="lblOverviewFont" value="Шрифт режима Базовый:" version="1" />
+    <string key="lblDetailedFont" value="Шрифт режима Детальный: " version="1" />
     <string key="lblOverviewSize" value="Размер: " version="1" />
     <string key="numFontOverview" value="8" version="1" />
     <string key="lblOverviewPt" value="pt." version="1" />
     <string key="lblDetailedSize" value="Размер: " version="1" />
     <string key="numFontDetailed" value="8" version="1" />
     <string key="lblDetailedPt" value="pt." version="1" />
-    <string key="chkWordWrap" value="Автоперенос включен по умолчанию" version="1" />
-    <string key="chkSaveWindow" value="Сохранять размер окна EasyBCD при выходе" version="1" />
-    <string key="ResetSize" value="Сброс настроек окна" version="1" />
-    <string key="tabDisplayOptions" value="Настройки окна" version="1" />
+    <string key="chkWordWrap" value="Включить автоперенос по умолчанию" version="1" />
+    <string key="chkSaveWindow" value="Сохранить размер окна EasyBCD при выходе" version="1" />
+    <string key="ResetSize" value="Сбросить опции просмотра" version="1" />
+    <string key="tabDisplayOptions" value="Опции просмотра" version="1" />
     <string key="OptionsDialog" value="Настройки EasyBCD" version="1" />
-    <string key="overview" value="Краткий" version="1" />
+    <string key="overview" value="Базовый" version="1" />
     <string key="detailed" value="Детальный" version="1" />
-    <string key="locateBcd" value="Находить работающее BCD-хранилище" version="1" />
+    <string key="locateBcd" value="Укажите существующий файл BCD" version="1" />
     <string key="never" value="Никогда" version="1" />
   </strings>
 </localization>

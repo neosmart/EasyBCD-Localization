@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="OK_Button" value="OK" version="1" />
+    <string key="OK_Button" value="Да" version="1" />
     <string key="Cancel_Button" value="Отмена" version="1" />
-    <string key="Body" value="EasyBCD должен обратиться к средству установки Windows Vista\7 (DVD диск или ISO-образ).&#xD;&#xA;&#xD;&#xA;Вставьте DVD диск  или укажите путь к ISO-образу, нажмите OK для продолжения." version="1" />
+    <string key="Body" value="Для того, чтобы продолжыть, EasyBCD нужен доступ к установочным носителям Windows Vista или Windows 7 (обычно DVD или образ диска).&#xD;&#xA;&#xD;&#xA;Пожалуйста, вставьте DVD в оптический привод или смонтируйте образу, а затем нажмите 'Да' для продолжения." version="1" />
     <string key="SdiMaker" value="Вставьте диск установки Windows" version="1" />
-    <string key="mediaNotFound" value="Допустимые средства установки Windows не обнаружены!." version="1" />
+    <string key="mediaNotFound" value="Диск установки  Windows не обнаружен." version="1" />
   </strings>
 </localization>

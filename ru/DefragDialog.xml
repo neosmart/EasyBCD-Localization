@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="btnAbort" value="Прервать" version="1" />
-    <string key="CommandWindow" value="EasyBCD Command Window" version="1" />
+    <string key="btnAbort" value="&amp;Прервать" version="1" />
+    <string key="CommandWindow" value="Окно команд EasyBCD" version="1" />
   </strings>
 </localization>

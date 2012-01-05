@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="OKButton" value="&amp;OK" version="1" />
-    <string key="AboutBox" value="О программеBox" version="1" />
-    <string key="seatsAllowed" value="users/devices allowed" version="1" />
-    <string key="unlicensed" value="Не лицензионная копия!" version="1" />
+    <string key="OKButton" value="ДА" version="1" />
+    <string key="AboutBox" value="Справка" version="1" />
+    <string key="seatsAllowed" value="пользователям/устройства разрешается" version="1" />
+    <string key="unlicensed" value="Нелицензируемая копия!" version="1" />
     <string key="version" value="Версия" version="1" />
-    <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - 2011" version="1" />
-    <string key="aboutText1" value="EasyBCD является универсальным инструментом управления загрузкой компьютера. Нет никакой гарантии, что данная версия EasyBCD будет устойчиво работать со всеми версиями Windows - всегда убедитесь, что вы используете последнюю доступную версию.  &#xD;&#xA;&#xD;&#xA;• Ведущий разработчик: Mahmoud H. Al-Qudsi&#xD;&#xA;• Active Ingredients: Sweat, blood, and tears&#xD;&#xA;•Разробатывалась на C++, C#, Dr. Pepper, Excedrin, и Visine&#xD;&#xA;• Мы работаем на вас!" version="1" />
-    <string key="thanksFormat" value="Особая благодарность командам Grub4Dos, PLoP,{0} и UltraDefrag!&#xD;&#xA;В эту версию EasyBCD включены в качестве самостоятельных модулей Grub4Dos и UltraDefrag, распространяемых на условиях лицензии GPLv2. Для получения дополнительной информации см. файл лицензии в корневом каталоге.&#xD;&#xA;• Русский перевод: Старов Дэн, Dobryansky, niknikch45." version="1" />
+    <string key="copyright" value="Авторское право © NeoSmart Technologies 2006 - 2011" version="1" />
+    <string key="aboutText1" value="EasyBCD - это мощный менеджер загрузки операционных систем. Нет никакой гарантии, что EasyBCD будет работать со всеми версиями Windows - всегда проверяйте, что Вы используете последнюю доступную версию. &#xD;&#xA;&#xD;&#xA;• Ведущий разработчик: Махмуд Х. Аль-Кудси&#xD;&#xA;• Активные ингредиенты: Пот, кровь, и слезы&#xD;&#xA;• Разработано на C++, C#, Dr. Pepper, Excedrin и Visine&#xD;&#xA;• Мы работаем для Вас!" version="1" />
+    <string key="thanksFormat" value="Особая благодарность проектам Grub4Dos, PLoP,{0} и UltraDefrag!&#xD;&#xA;&#xD;&#xA;Программа EasyBCD поставляется с автономными компонентами (Grub4Dos и UltraDefrag), лицензированными в соответствии с лицензией GPLv2. Для получения дополнительной информации, пожалуйста, смотрите файл ЛИЦЕНЗИИ в каталоге установки.&#xD;&#xA;&#xD;&#xA;• Русский перевод: Старов Дэн, Dobryansky, niknikch45." version="1" />
   </strings>
 </localization>
