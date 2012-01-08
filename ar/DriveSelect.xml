@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblDriveSelect" value="سواقة الإقلاع الجديدة:" version="1" />
+    <string key="lblBody" value="سيقوم EasyBCD بإعداد نظامك لكي يقوم بالإقلاع من التقسيم الذي اخترته ادناه. هذه العملية ستقوم بإنشاء مخزن BCD  على القرص المختار, قم بنسخ إدخالات BCD الحالية, واجعل التقسيم المختار كـ فعّال وقابل للإقلاع." version="1" />
+    <string key="OK_Button" value="&amp;موافق" version="1" />
+    <string key="Cancel_Button" value="&amp;إلغاء" version="1" />
+    <string key="DriveSelect" value="اختيار السواقة" version="1" />
+    <string key="errorAlreadyBoot" value="السواقة التي اخترتها هي قرص الإقلاع الحالي. رجاءاً اختر سواقة اخرى للمتابعة!" version="1" />
+    <string key="errorAlreadyBootTitle" value="رجاءاً إختر سواقة اخرى!" version="1" />
+  </strings>
+</localization>

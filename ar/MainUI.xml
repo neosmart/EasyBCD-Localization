@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="rdoModeBasic" value="نظرة عامة" version="1" />
+    <string key="rdoModeDetailed" value="مُفَصّل (وضع التصحيح)" version="1" />
+    <string key="chkWordWrap" value="إلتفاف النص" version="1" />
+    <string key="grpDisplayMode" value="وضع الشاشة" version="1" />
+    <string key="tabViewSettings" value="1" version="1" />
+    <string key="rdoTimeoutCount" value="عَد تنازلي من" version="1" />
+    <string key="numTimeout" value="0" version="1" />
+    <string key="rdoTimeoutNone" value="إنتظر لإختيار المستخدم" version="1" />
+    <string key="rdoTimeoutSkip" value="تخطى قائمة الإقلاع" version="1" />
+    <string key="btnSaveBCD" value="حفظ التغييرات" version="1" />
+    <string key="groupBox2" value="خيارات زمن الإنتظار" version="1" />
+    <string key="btnUp" value="أعلى" version="1" />
+    <string key="btnDown" value="أسفل" version="1" />
+    <string key="btnRenameEntry" value="إعادة تسمية" version="1" />
+    <string key="btnDelete" value="حذف" version="1" />
+    <string key="groupBox1" value="تعديل إدخالات القائمة" version="1" />
+    <string key="tabEditMenu" value="2" version="1" />
+    <string key="btnBrowse" derive="true" />
+    <string key="lblName" value="الإسم:" version="1" />
+    <string key="lblType" value="النوع:" version="1" />
+    <string key="lblPath" value="المسار:" version="1" />
+    <string key="lblDrive" value="السواقة:" version="1" />
+    <string key="btnAddNewEntry" value="أضف إدخال" version="1" />
+    <string key="lblMode" value="الوضع:" version="1" />
+    <string key="lblFile" value="الملف:" version="1" />
+    <string key="txtVhdName" value="صورة NeoSmart VHD" version="1" />
+    <string key="tabPage13" value="صورة القرص" version="1" />
+    <string key="txtIsoName" value="إدخال NeoSmart ISO" version="1" />
+    <string key="tabPage14" derive="true" />
+    <string key="txtPeName" value="صورة NST WinPE" version="1" />
+    <string key="chkEms" value="تم تفعيل EMS" version="1" />
+    <string key="tabPage12" derive="true" />
+    <string key="txtFloppyName" value="صورة NeoSmart المرنة" version="1" />
+    <string key="tabFloppy" value="المرن" version="1" />
+    <string key="btnPlopInstall" value="تنصيب PLoP" version="1" />
+    <string key="btnPlopRemove" value="إزالة PLoP" version="1" />
+    <string key="lblBiosExtend" value="مطوِّل BIOS الـ EasyBCD  يمكن إستخدامه للإقلاع من شبكة او قرص مدمج او USB على الحواسيب التي لا تدعمها اصلاً." version="1" />
+    <string key="tabPagePlop" value="مطوِّل الـ BIOS" version="1" />
+    <string key="grpPortable" value="الوسيط المتنقل/الخارجي" version="1" />
+    <string key="lblWindowsAuto" value="محدد ذاتياً" version="1" />
+    <string key="chkAutoXp" value="إكتشف السواقة الصحيحة ذاتياً" version="1" />
+    <string key="txtWinName" derive="true" />
+    <string key="tabPage8" derive="true" />
+    <string key="chkGrub" value="إستخدم نسخة GRUB من EasyBCD" version="1" />
+    <string key="txtLinName" derive="true" />
+    <string key="lblLinAuto" value="محدد ذاتياً" version="1" />
+    <string key="tabPage9" derive="true" />
+    <string key="txtMacName" derive="true" />
+    <string key="tabPageMac" derive="true" />
+    <string key="btnNeoGrub" value="تنصيب" version="1" />
+    <string key="btnNeoGrubConfig" value="تعديل" version="1" />
+    <string key="lblNeoGrub" value="مُحمِّل إقلاع NeoGRUB  يمكن استخدامه لإقلاع Linux و الإصدارات الأقدم من Windows او حتى السواقات المخفية." version="1" />
+    <string key="tabPage11" derive="true" />
+    <string key="grpOS" value="أنظمة التشغيل" version="1" />
+    <string key="tabAddEntry" value="3" version="1" />
+    <string key="btnSaveSettings" value="حفظ التغييرات" version="1" />
+    <string key="lblLocale" value="المحلي:" version="1" />
+    <string key="tabEntryBasic" value="الأساسي" version="1" />
+    <string key="lblSafeMode" value="الوضع الآمن:" version="1" />
+    <string key="lblPae" value="دعم PAE:" version="1" />
+    <string key="lblDep" value="لا تنفيذ:" version="1" />
+    <string key="chkEntryUnsigned" value="السماح باستخدام التعاريف الغير موقعة على Windows 64-بت" version="1" />
+    <string key="tabEntryAdvanced" value="متقدم" version="1" />
+    <string key="chkEntryKernelDebug" value="تشغيل Windows في وضع النواة-التصحيح" version="1" />
+    <string key="chkEntrySos" value="تشغيل في وضع SOS/الإقلاع المسهب" version="1" />
+    <string key="chkEntryMemory" value="اقتطع" version="1" />
+    <string key="numEntryMemory" value="0" version="1" />
+    <string key="lblDeduct2" value="ميغا بايت من الذاكرة المادية" version="1" />
+    <string key="chkEntryCpu" value="قيد Windows الى" version="1" />
+    <string key="numEntryCpu" value="0" version="1" />
+    <string key="lblLimit2" value="المعالِجات" version="1" />
+    <string key="tabEntryDeveloper" value="المطوِّر" version="1" />
+    <string key="lblAdvancedSettings" value="إنتبه الى أنه بعض الإعدادات قد تكون غير متوفرة اعتماداً على الإدخال الذي يتم تعديله." version="1" />
+    <string key="grpChangeSettings" value="غيّر الإعدادات" version="1" />
+    <string key="lblPickLH" value="إختر إدخال من القائمة أدناه للتعديل" version="1" />
+    <string key="grpSelectLH" value="إختر نظام تشغيل" version="1" />
+    <string key="tabAdvanced" value="4" version="1" />
+    <string key="btnBackup" value="إعدادات النسخ الاحتياطي" version="1" />
+    <string key="btnRestore" value="إستعادة النسخ الاحتياطي" version="1" />
+    <string key="grpBackupRestore" value="النسخ الإحتياطي و استعادة اعدادات مُحمِّل الإقلاع" version="1" />
+    <string key="rdoBcdChange" value="غيّر سواقة الإقلاع" version="1" />
+    <string key="rdoBcdRepair" value="إعادة إنشاء/تصليح ملفات الإقلاع" version="1" />
+    <string key="btnBcdRescue" value="نفّذ الإجراء" version="1" />
+    <string key="rdoBcdReset" value="إعادة تعيين تعديلات BCD" version="1" />
+    <string key="grpDiagnostics" value="خيارات إدارة BCD" version="1" />
+    <string key="tabBcdInstall" value="5" version="1" />
+    <string key="btnMakeBootable" value="تنصيب BCD" version="1" />
+    <string key="lblUsbPartitions" value="التقسيم:" version="1" />
+    <string key="lblCreateBootable" value="يستطيع EasyBCD جعل عملية صنع وسيط إقلاعي تتم بصورة ذاتية. اختر تقسيم ادناه للبدء." version="1" />
+    <string key="grpCreateBootableExternal" value="إصنع وسيط إقلاعي خارجي" version="1" />
+    <string key="btnMbrWrite" value="أكتب MBR" version="1" />
+    <string key="rdoMbrXP" value="تثبيت مُحمِّل إقلاع Windows الى MBR" version="1" />
+    <string key="rdoMbrVista" value="تثبيت مُحمِّل إقلاع Windows الى MBR" version="1" />
+    <string key="grpBootloader" value="خيارات تعديل MBR" version="1" />
+    <string key="tabMbrSetup" value="6" version="1" />
+    <string key="grpUtils" value="أدوات مفيدة" version="1" />
+    <string key="emptyList" value="لم يتم الكشف عن أية إدخالات!" version="1" />
+    <string key="safeAD" value="تصليح المجلد الفعّال" version="1" />
+    <string key="safeVga" value="VGA أساسي" version="1" />
+    <string key="safeNetworking" value="الوضع الآمن مع الشبكة" version="1" />
+    <string key="safeMode" value="الوضع الآمن" version="1" />
+    <string key="safeNormal" value="عادي" version="1" />
+    <string key="paeDisable" value="معطّل" version="1" />
+    <string key="paeEnable" value="مفعّل" version="1" />
+    <string key="paeDefault" value="الإفتراضي" version="1" />
+    <string key="lstAlwaysOff" value="دائماً مطفئ" version="1" />
+    <string key="lstAlwaysOn" value="دائماً مشغّل" version="1" />
+    <string key="lstMbr" derive="true" />
+    <string key="lstEfi" value="EFI (إفتراضي)" version="1" />
+    <string key="lstNixSys" derive="true" />
+    <string key="lstNixWubi" derive="true" />
+    <string key="lstNixBsd" derive="true" />
+    <string key="lstNixLilo" derive="true" />
+    <string key="lstNixGrub2" derive="true" />
+    <string key="lstNixGrub" value="GRUB (قديم)&#xD;&#xA;" version="1" />
+    <string key="lstWinDos" derive="true" />
+    <string key="lstWin9x" derive="true" />
+    <string key="lstWinNt" derive="true" />
+    <string key="lstWin7" derive="true" />
+    <string key="lstExtracted" value="مخطط ملف النظام المستخرج" version="1" />
+    <string key="lstWim" value="صورة WIM (Ramdisk)" version="1" />
+    <string key="lstLoadMem" value="تحميل من الذاكرة" version="1" />
+    <string key="lstRunDisk" value="تشغيل من القرص" version="1" />
+    <string key="lstVhdEntry" derive="true" />
+    <string key="colDefault" value="الإفتراضي" version="1" />
+    <string key="colName" value="إدخال" version="1" />
+    <string key="MainUI" derive="true" />
+    <string key="mnuHelp" value="&amp;مساعدة" version="1" />
+    <string key="mnuAbout" value="ع&amp;ن" version="1" />
+    <string key="mnuDonate2" value="&amp;تبرع" version="1" />
+    <string key="mnuSupport" value="إحصل على الد&amp;عم" version="1" />
+    <string key="mnuDocumentation" value="التو&amp;ثيق" version="1" />
+    <string key="mnuTools" value="الأد&amp;وات" version="1" />
+    <string key="mnuRestart" value="إعادة تشغيل الحا&amp;سوب" version="1" />
+    <string key="mnuEditLegacy" value="تعديل الإ&amp;دخالات القديمة" version="1" />
+    <string key="mnuOptions" value="ال&amp;خيارات" version="1" />
+    <string key="mnuFile" value="الم&amp;لف" version="1" />
+    <string key="mnuExit" value="خ&amp;روج" version="1" />
+    <string key="mnuUpdate" value="ابحث عن الت&amp;حديثات" version="1" />
+    <string key="mnuDonate" value="&amp;تبرع" version="1" />
+    <string key="mnuRegister" value="التسج&amp;يل" version="1" />
+    <string key="mnuRescan" value="إنع&amp;اش مخزن BCD" version="1" />
+    <string key="mnuLoadSystemBcd" value="تحميل BCD الن&amp;ظام" version="1" />
+    <string key="mnuLanguage" value="&amp;إختر لغة" version="1" />
+    <string key="mnuSelectBcd" value="&amp;إختر مخزن BCD" version="1" />
+    <string key="grpToolbox" value="صندوق أدوات EasyBCD" version="1" />
+    <string key="btnViewSettings" value="عرض الإعدادات" version="1" />
+    <string key="btnEditMenu" value="تعديل قائمة الإقلاع" version="1" />
+    <string key="btnAddEntry" value="أضف إدخال جديد" version="1" />
+    <string key="btnAdvanced" value="إعدادات متقدمة" version="1" />
+    <string key="btnMbrSetup" value="نشر BCD" version="1" />
+    <string key="btnUtilities" value="أدوات مفيدة" version="1" />
+    <string key="btnBcdInstall" value="نسخ إحتياطي/تصليح MBR" version="1" />
+    <string key="tabUtilities" value="7" version="1" />
+    <string key="mnuBug" value="أرسِل الخ&amp;طأ" version="1" />
+    <string key="safeCmd" value="خط الأوامر/ الشِل البديل" version="1" />
+    <string key="lstRawPartition" value="صورة التقسيم الأولي" version="1" />
+    <string key="lstRawHD" value="صورة القرص الصلب الأولية" version="1" />
+    <string key="lstOptIn" derive="true" />
+    <string key="lstOptOut" derive="true" />
+  </strings>
+</localization>

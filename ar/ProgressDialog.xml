@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="ProgressDialog" value="رجاءاً إنتظر" version="1" />
+    <string key="lblApplyingActions" value=" يقوم EasyBCD بتطبيق الإجراء المختار.." version="1" />
+  </strings>
+</localization>

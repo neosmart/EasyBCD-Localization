@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="chkDontRemind" value="لا تذكرّني مجدداً" version="1" />
+    <string key="btnCancel" value="لا &amp;شكراً" version="1" />
+    <string key="btnDonate" value="&amp;تبرع" version="1" />
+    <string key="lblDonationIntro" value="EasyBCD إصدارة المجتمع هي 100% مجانية, وننوي ابقائها بهذا الشكل. لكن لإنها مجانية  لا يعني ذلك انها لا تكلف شيئا لتطويرها وتجربتها.&#xD;&#xA;&#xD;&#xA;لحد اليوم, تم تحميل EasyBCD مجاناً اكثر من 25 مليون مرة, منقذاً عدداً لا يحصى من الحواسيب من حافة الانهيار." version="1" />
+    <string key="DonationDialog" value="هل ساعدك EasyBCD ؟" version="1" />
+    <string key="lblYouDonate" value="هل ستتبرع لمساعدة EasyBCD على إنقاذ المزيد من الحواسيب الشخصية؟" version="1" />
+    <string key="donationTitle" value="ساعد EasyBCD ليساعدك!" version="1" />
+  </strings>
+</localization>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linkLabel" value="هذه النسخة من EasyBCD تتطلب شراء رخصة تجارية.&#xD;&#xA;&#xD;&#xA;رجاءاً أدخل إما البريد الالكتروني او رقم الرخصة المرفق مع الشراء. اإغط هنا لشراء رخصة, أو اتصل ب Sales@NeoSmart.net للحصول على الدعم." version="1" />
+    <string key="linkClick" value="إضغط هنا" version="1" />
+    <string key="linkEmail" derive="true" />
+    <string key="btnSkip" value="ت&amp;خطي" version="1" />
+    <string key="btnRegister" value="&amp;سجِّل" version="1" />
+    <string key="lblTitle" value="EasyBCD الإصدارة التجارية" version="1" />
+    <string key="lblLicenseKey" value="البريد الكتروني أو رقم الرخصة:" version="1" />
+    <string key="LicenseDialog" value="EasyBCD الإصدارة التجارية &#xD;&#xA;" version="1" />
+    <string key="email" value="البريد الالكتروني" version="1" />
+    <string key="licenseKey" value="رقم الرخصة" version="1" />
+    <string key="seats" value="عدد الأجهزة" version="1" />
+    <string key="regFailTitle" value="التسجيل غير ناجح!" version="1" />
+    <string key="regFail" value="البريد الكتروني أو رقم الرخصة غير صحيح. حاول مجدداَ رجاءاَ." version="1" />
+    <string key="regException" value="حصل خطأ خلال الحصول على الرخصة من المخدم البعيد. رجاءاً تأكد من أنك متصل بالانترنت أو حاول مجدداً لاحقاً." version="1" />
+    <string key="regExceptionTitle" value="غير قادر على التسجيل" version="1" />
+  </strings>
+</localization>

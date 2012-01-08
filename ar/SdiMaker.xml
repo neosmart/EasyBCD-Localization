@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="mediaNotFound" value="لم يتم الكشف عن وسيط  تنصيب Windows صالح " version="1" />
+    <string key="SdiMaker" value="أدخل وسيط تنصيب Windows" version="1" />
+    <string key="Body" value="للإستمرار, EasyBCD يحتاج للوصول الي وسيط تنصيب Windows Vista او Windows 7 (عادةً قرص DVD او صورة عن قرص).&#xD;&#xA;&#xD;&#xA;رجاءاً ادخل ال DVD الى السواقة الضوئية  أو قم بتركيب صورة القرص, ثم إضغط على موافق للمتابعة." version="1" />
+    <string key="Cancel_Button" value="إلغاء" version="1" />
+    <string key="OK_Button" value="موافق" version="1" />
+  </strings>
+</localization>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="accessViolationFormat" value="غير قادر على الوصول الحصري الى {0}. اذا كان هذا قرص قابل للإزالة. جرب إزالته ومن ثم ربطه مرة اخرى ثم حاول من جديد." version="1" />
+    <string key="failedSave" value="فشل في حفظ التغييرات!" version="1" />
+    <string key="accessDeniedTitle" value="الوصول مرفوض" version="1" />
+    <string key="accessDeniedFormat" value="الوصول الى {0} قد رُفِض. رجاءاً تحقق من أن الملف غير مستخدم ولديك الإذن ل حذف/تعديل هذا الموقع." version="1" />
+    <string key="oneEntry" value="هناك إدخال وحيد في مُحمِّل إقلاع Windows ." version="1" />
+    <string key="multiEntriesFormat" value="هناك اجمالي {0}  إدخالات في مُحمِّل الإقلاع." version="1" />
+    <string key="entryNum" value="إدخال رقم" version="1" />
+    <string key="name" value="الإسم" version="1" />
+    <string key="bcdId" value="مُعرِّف BCD" version="1" />
+    <string key="drive" value="السواقة" version="1" />
+    <string key="device" value="الجهاز" version="1" />
+    <string key="path" value="المسار" version="1" />
+    <string key="default" value="الوضع الإفتراضي" version="1" />
+    <string key="timeout" value="زمن الانتظار" version="1" />
+    <string key="none" value="لا يوجد" version="1" />
+    <string key="timeoutFormat" value="{0} ثانية" version="1" />
+    <string key="skipped" value="تم تخطيه" version="1" />
+    <string key="bootDevice" value="سواقة الإقلاع" version="1" />
+    <string key="ebcdBootDevice" value="جهاز إقلاع EasyBCD" version="1" />
+    <string key="bootloaderPath" value="مسار مُحمِّل الإقلاع" version="1" />
+    <string key="unnamed" value="إدخال غير مسمى" version="1" />
+    <string key="defragFormat" value="بدء إلغاء تجزئة الملف {0}" version="1" />
+    <string key="as" value="كـ" version="1" />
+    <string key="mib" value="ميغا بايت" version="1" />
+    <string key="gib" value="غيغا بايت" version="1" />
+    <string key="unknown" value="غير معروف" version="1" />
+    <string key="partition" value="التقسيم" version="1" />
+    <string key="bcdRegistry" value="سِجل BCD" version="1" />
+    <string key="locateValid" value="حدد مخزن BCD صالح " version="1" />
+    <string key="errorBcd" value="خطأ في فتح سِجل BCD ." version="1" />
+    <string key="manuallyLoad" value="هل ترغب في تحميل سِجل BCD يدويا لإدارته من قبل EasyBCD ؟ رجاءاً انتبه أنه  EasyBCD يحتاج الى مُحمِّل إقلاع Windows Vista/7, وأنه لن يعمل في بيئة تدعم Windows XP فقط." version="1" />
+    <string key="ntNotFound" value=" فشل EasyBCD في الكشف عن تثبيت WindowsNT-2003 صالح على كل السواقات المركبة ولم يتمكن من المتابعة." version="1" />
+    <string key="ntNotFoundTitle" value="لم يتم العثور على تثبيت NT صالح !" version="1" />
+    <string key="bcdError" value="خطأ في تنفيذ BCD !" version="1" />
+  </strings>
+</localization>
