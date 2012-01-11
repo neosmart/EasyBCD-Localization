@@ -7,7 +7,7 @@
     <string key="accessDeniedFormat" value="الوصول الى {0} قد رُفِض. رجاءاً تحقق من أن الملف غير مستخدم ولديك الإذن ل حذف/تعديل هذا الموقع." version="1" />
     <string key="oneEntry" value="هناك إدخال وحيد في مُحمِّل إقلاع Windows ." version="1" />
     <string key="multiEntriesFormat" value="هناك اجمالي {0}  إدخالات في مُحمِّل الإقلاع." version="1" />
-    <string key="entryNum" value="إدخال رقم" version="1" />
+    <string key="entryNum" value="إدخال رقم " version="1" />
     <string key="name" value="الإسم" version="1" />
     <string key="bcdId" value="مُعرِّف BCD" version="1" />
     <string key="drive" value="السواقة" version="1" />
