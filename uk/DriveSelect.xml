@@ -2,7 +2,7 @@
 <localization>
   <strings>
     <string key="lblDriveSelect" value="Новий завантажувальний диск:" version="1" />
-    <string key="lblBody" value="EasyBCD знову налаштує Вашу систему для завантаження з розділу, який Ви оберете нижче. Цей процес створить BCD реєст на обраному диску, скопіює поточні записи BCD та зробить обраний розділ як Активним так і Завантажувальним." version="1" />
+    <string key="lblBody" value="EasyBCD переналаштує систему для завантаження з розділу, який Ви оберете нижче. Цей процес створить BCD реєст на обраному диску, скопіює поточні записи BCD та зробить обраний розділ Активним і Завантажувальним." version="1" />
     <string key="OK_Button" value="Гаразд" version="1" />
     <string key="Cancel_Button" value="Скасувати" version="1" />
     <string key="DriveSelect" value="Вибрати диск" version="1" />

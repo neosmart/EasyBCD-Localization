@@ -3,7 +3,7 @@
   <strings>
     <string key="OK_Button" value="Гаразд" version="1" />
     <string key="Cancel_Button" value="Скасувати" version="1" />
-    <string key="Body" value="Для того, щоб продовжити, EasyBCD необхідно отримати доступ до носіїв установки Windows Vista або Windows 7 (як правило, DVD або образ диска).&#xD;&#xA;&#xD;&#xA;Будь ласка, вставте DVD в оптичний привід або змонтуйте образ, а потім натисніть 'Гаразд' для продовження." version="1" />
+    <string key="Body" value="Для продовження EasyBCD необхідно отримати доступ до носіїв установки Windows Vista/7 (як правило, DVD або образ диска).&#xD;&#xA;&#xD;&#xA;Будь ласка, вставте DVD в оптичний привід або змонтуйте образ, а потім натисніть 'Гаразд' для продовження." version="1" />
     <string key="SdiMaker" value="Вставте диск установки Windows" version="1" />
     <string key="mediaNotFound" value="Диск встановлення Windows не знайдено." version="1" />
   </strings>

@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="linkLabel" value="Для цієї копії EasyBCD необхідно придбати комерційну ліцензію.&#xD;&#xA;&#xD;&#xA;Будь ласка, введіть адресу Е-мейл або номер ліцензії, отриманий при покупці. Натисніть сюди, щоб купити ліцензію, або зв'яжіться з Sales@NeoSmart.net за довідкою." version="1" />
+    <string key="linkLabel" value="Для цієї копії EasyBCD необхідно придбати комерційну ліцензію.&#xD;&#xA;&#xD;&#xA;Будь ласка, введіть адресу E-mail або номер ліцензії, отриманий при покупці. Натисніть сюди, щоб купити ліцензію, або зв'яжіться з Sales@NeoSmart.net за довідкою." version="1" />
     <string key="linkClick" value="Натисніть сюди" version="1" />
     <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
-    <string key="btnSkip" value="П&amp;ропустити" version="1" />
-    <string key="btnRegister" value="&amp;Реєстрація" version="1" />
+    <string key="btnSkip" value="Пропустити" version="1" />
+    <string key="btnRegister" value="Реєстрація" version="1" />
     <string key="lblTitle" value="EasyBCD Commercial Edition" version="1" />
-    <string key="lblLicenseKey" value="Е-мейл чи ключ ліцензії:" version="1" />
+    <string key="lblLicenseKey" value="E-mail чи ключ ліцензії:" version="1" />
     <string key="LicenseDialog" value="EasyBCD Commercial Edition" version="1" />
-    <string key="email" value="Е-мейл" version="1" />
+    <string key="email" value="E-mail" version="1" />
     <string key="licenseKey" value="Ключ ліцензії" version="1" />
     <string key="seats" value="Місце" version="1" />
     <string key="regFailTitle" value="Невдала реєстрація!" version="1" />
-    <string key="regFail" value="Невірний Е-мейл чи ключ ліцензії. Будь ласка, повторіть спробу." version="1" />
-    <string key="regException" value="Сталася помилка при отриманні ліцензії на віддаленому сервері. Будь ласка, переконайтеся, що ви підключені до Інтернету або спробуйте пізніше." version="1" />
-    <string key="regExceptionTitle" value="Неможливо зареєструватися" />
+    <string key="regFail" value="Невірний E-mail чи ключ ліцензії. Будь ласка, повторіть спробу." version="1" />
+    <string key="regException" value="Сталася помилка при підключенні до віддаленого сервера. Будь ласка, переконайтеся, що ви підключені до мережі Інтернет або спробуйте пізніше." version="1" />
+    <string key="regExceptionTitle" value="Неможливо зареєструватися" version="1" />
     <string key="btnContinue" value="Продовжити" version="1" />
-    <string key="regSuccess" value="Реєстрацію завершено" version="1" />
+    <string key="regSuccess" value="Реєстрацію завершено!" version="1" />
   </strings>
 </localization>

@@ -2,8 +2,8 @@
 <localization>
   <strings>
     <string key="chkDontRemind" value="Більше не нагадувати" version="1" />
-    <string key="btnCancel" value="Ні, &amp;дякую" version="1" />
-    <string key="btnDonate" value="&amp;Пожертвувати" version="1" />
+    <string key="btnCancel" value="Ні, дякую" version="1" />
+    <string key="btnDonate" value="Пожертвувати" version="1" />
     <string key="lblDonationIntro" value="EasyBCD Community Edition на 100% безкоштовне програмне забезпечення і ми маємо намір зберегти його таким. Але це не значить, що його розробка і тестування обходяться дешево.&#xD;&#xA;&#xD;&#xA;EasyBCD вже завантажили більше 25 мільйонів разів, вберігаючи безліч комп'ютерів від краху системи." version="1" />
     <string key="donationTitle" value="Help EasyBCD Help You!" version="1" />
     <string key="lblYouDonate" value="Ви хочете пожертвувати EasyBCD і вберегти більше ПК?" version="1" />
