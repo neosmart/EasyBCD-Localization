@@ -2,7 +2,7 @@
 <localization>
   <strings>
     <string key="chkDontRemind" value="Больше не напоминать об этом" version="1" />
-    <string key="btnCancel" value="Отмена" version="1" />
+    <string key="btnCancel" value="Нет, спасибо" version="1" />
     <string key="btnDonate" value="Пожертвовать" version="1" />
     <string key="lblDonationIntro" value="EasyBCD - на 100% бесплатная программа, и мы намерены сохранить это. Но ее дальнейшее совершенствование что-нибудь, да стоит.&#xD;&#xA;EasyBCD скачана уже более 25 млн раз, что спасло множество компьютеров, находящихся на грани краха." version="1" />
     <string key="donationTitle" value="Help EasyBCD Help You!" version="1" />

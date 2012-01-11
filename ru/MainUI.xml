@@ -11,7 +11,7 @@
     <string key="rdoTimeoutNone" value="Ждать выбора пользователя" version="1" />
     <string key="rdoTimeoutSkip" value="Пропустить меню начальной загрузки" version="1" />
     <string key="btnSaveBCD" value="Сохранить" version="1" />
-    <string key="groupBox2" value="Время выбора операционной системы" version="1" />
+    <string key="groupBox2" value="Время ожидания" version="1" />
     <string key="btnUp" value="Вверх" version="1" />
     <string key="btnDown" value="Вниз" version="1" />
     <string key="btnRenameEntry" value="Переименовать" version="1" />
@@ -75,12 +75,12 @@
     <string key="btnPlopRemove" value="Удалить PLoP" version="1" />
     <string key="lblBiosExtend" value="Расширение BIOS от EasyBCD может быть использовано для загрузки по сети, с CD/DVD/USB на компьютерах, которые не поддерживают этого." version="1" />
     <string key="tabPagePlop" value="Расширение BIOS" version="1" />
-    <string key="grpPortable" value="USB-внешний носитель" version="1" />
+    <string key="grpPortable" value="Съемный\внешний носитель" version="1" />
     <string key="lblWindowsAuto" value="Определяется автоматически" version="1" />
     <string key="chkAutoXp" value="Автопоиск диска с исправной ОС" version="1" />
     <string key="txtWinName" derive="true" />
     <string key="tabPage8" derive="true" />
-    <string key="chkGrub" derive="true" />
+    <string key="chkGrub" value="Use EasyBCD-s copy of GRUB" version="1" />
     <string key="txtLinName" derive="true" />
     <string key="lblLinAuto" value="Определяется автоматически" version="1" />
     <string key="tabPage9" derive="true" />
@@ -94,12 +94,12 @@
     <string key="tabAddEntry" derive="true" />
     <string key="btnSaveSettings" value="Сохранить" version="1" />
     <string key="lblLocale" value="Язык:" version="1" />
-    <string key="tabEntryBasic" value="Basic:" version="1" />
+    <string key="tabEntryBasic" value="Основные" version="1" />
     <string key="lblSafeMode" value="Safe Mode:" version="1" />
     <string key="lblPae" value="Поддержка PAE: " version="1" />
     <string key="lblDep" value="NoExecute: " version="1" />
     <string key="chkEntryUnsigned" value="Установка неподписанных драйверов в 64-Bit Windows" version="1" />
-    <string key="tabEntryAdvanced" value="Расширенные" version="1" />
+    <string key="tabEntryAdvanced" value="Дополнительные" version="1" />
     <string key="chkEntryKernelDebug" value="Запуск в режиме отладки ядра" version="1" />
     <string key="chkEntrySos" value="Запуск в режиме SOS/Verbose-Boot Mode" version="1" />
     <string key="chkEntryMemory" value="Удерживать" version="1" />
@@ -117,10 +117,10 @@
     <string key="btnBackup" value="Архивировать" version="1" />
     <string key="btnRestore" value="Восстановить" version="1" />
     <string key="grpBackupRestore" value="Архивация\Восстановление настроек загрузчика" version="1" />
-    <string key="rdoBcdChange" value="Изменить диск начальной загрузки" version="1" />
-    <string key="rdoBcdRepair" value="Обновление текущих настроек BCD" version="1" />
+    <string key="rdoBcdChange" value="Изменить диск загрузки" version="1" />
+    <string key="rdoBcdRepair" value="Обновить файлы загрузки" version="1" />
     <string key="btnBcdRescue" value="Выполнить" version="1" />
-    <string key="rdoBcdReset" value="Сброс BCD конфигурации" version="1" />
+    <string key="rdoBcdReset" value="Сброс конфигурации BCD" version="1" />
     <string key="grpDiagnostics" value="Опции настройки BCD" version="1" />
     <string key="tabBcdInstall" derive="true" />
     <string key="btnMakeBootable" value="Установить BCD" version="1" />
@@ -136,7 +136,7 @@
     <string key="tabUtilities" value="7" version="1" />
     <string key="btnBcdInstall" value="Архивация и восстановление BCD" version="1" />
     <string key="btnUtilities" value="Полезные утилиты" version="1" />
-    <string key="btnMbrSetup" value="Место для установки BCD" version="1" />
+    <string key="btnMbrSetup" value="Установка BCD" version="1" />
     <string key="btnAdvanced" value="Дополнительные настройки" version="1" />
     <string key="btnAddEntry" value="Добавить запись" version="1" />
     <string key="btnEditMenu" value="Редактировать меню загрузки" version="1" />
@@ -187,9 +187,9 @@
     <string key="lstOptOut" derive="true" />
     <string key="lstAlwaysOn" derive="true" />
     <string key="lstAlwaysOff" derive="true" />
-    <string key="paeDefault" derive="true" />
-    <string key="paeEnable" derive="true" />
-    <string key="paeDisable" derive="true" />
+    <string key="paeDefault" value="По умолчанию" version="1" />
+    <string key="paeEnable" value="PAE включено" version="1" />
+    <string key="paeDisable" value="PAE выключено" version="1" />
     <string key="safeNormal" derive="true" />
     <string key="safeMode" derive="true" />
     <string key="safeNetworking" derive="true" />

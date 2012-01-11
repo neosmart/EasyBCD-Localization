@@ -3,8 +3,9 @@
   <strings>
     <string key="OK_Button" value="OK" version="1" />
     <string key="Cancel_Button" value="Отмена" version="1" />
-    <string key="Body" value="EasyBCD должен обратиться к средству установки Windows Vista\7 (DVD диск или ISO-образ).&#xD;&#xA;&#xD;&#xA;Вставьте DVD диск  или укажите путь к ISO-образу, нажмите OK для продолжения." version="1" />
+    <string key="Body" value="EasyBCD должен обратиться к дистрибутиву Windows Vista\7 (DVD диск или ISO-образ).&#xD;&#xA;&#xD;&#xA;Вставьте DVD диск  или укажите путь к ISO-образу, нажмите OK для продолжения." version="1" />
     <string key="SdiMaker" value="Вставьте диск установки Windows" version="1" />
-    <string key="mediaNotFound" value="Допустимые средства установки Windows не обнаружены!." version="1" />
+    <string key="mediaNotFound" value="Дистрибутив Windows не обнаружен!." version="1" />
   </strings>
 </localization>
+

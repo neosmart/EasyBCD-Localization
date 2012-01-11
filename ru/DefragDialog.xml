@@ -2,6 +2,15 @@
 <localization>
   <strings>
     <string key="btnAbort" value="Прервать" version="1" />
-    <string key="CommandWindow" value="EasyBCD Command Window" version="1" />
+    <string key="CommandWindow" value="Командная строка EasyBCD" version="1" />
   </strings>
 </localization>
+
+
+
+
+
+
+
+
+

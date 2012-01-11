@@ -16,7 +16,7 @@
     <string key="default" value="По умолчанию" version="1" />
     <string key="timeout" value="Пауза" version="1" />
     <string key="none" value="Нет" version="1" />
-    <string key="timeoutFormat" value="{0} секунд" version="1" />
+    <string key="timeoutFormat" value="{0} секунд (ы)" version="1" />
     <string key="skipped" value="Пропустить меню" version="1" />
     <string key="bootDevice" value="Диск начальной загрузки" version="1" />
     <string key="ebcdBootDevice" value="Расположение BCD" version="1" />
@@ -24,7 +24,7 @@
     <string key="bcdError" value="Ошибка выполнения BCD!" version="1" />
     <string key="ntNotFoundTitle" value="Не удалось обнаружить установленную Windows NT!" version="1" />
     <string key="ntNotFound" value="Не удалось обнаружить действующую Windows NT-2003 на всех имеющихся дисках. Выполнение остановлено." version="1" />
-    <string key="manuallyLoad" value="Вы хотите загрузить BCD конфигурацию в EasyBCD для ручной правки? Обратите внимание: EasyBCD требуется загрузчик Windows Vista/7, и он не будет работать в XP средах." version="1" />
+    <string key="manuallyLoad" value="Вы хотите загрузить конфигурацию BCD для редактирования в EasyBCD? Обратите внимание: EasyBCD требуется загрузчик Windows Vista/7, и он не будет работать в XP средах." version="1" />
     <string key="errorBcd" value="Ошибка открытия BCD конфигурации" version="1" />
     <string key="locateValid" value="Укажите допустимое расположение BCD" version="1" />
     <string key="bcdRegistry" value="BCD конфигурация" version="1" />
@@ -37,3 +37,6 @@
     <string key="unnamed" value="Запись без имени" version="1" />
   </strings>
 </localization>
+
+
+

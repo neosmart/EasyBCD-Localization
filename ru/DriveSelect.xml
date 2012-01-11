@@ -2,7 +2,7 @@
 <localization>
   <strings>
     <string key="lblDriveSelect" value="Новый диск начальной загрузки:" version="1" />
-    <string key="lblBody" value="Чтобы загружаться с выбранного Вами раздела, EasyBCD внесет изменения в конфигурацию Вашей системы. Этот процесс установит BCD на выбранном диске, скопирует BCD записи и сделает раздел и активным, и загрузочным." version="1" />
+    <string key="lblBody" value="Чтобы загружаться с выбранного Вами раздела, EasyBCD внесет изменения в конфигурацию Вашей системы. Этот процесс установит BCD на выбранном диске, скопирует BCD записи и сам сделает выбранный Вами раздел и активным, и загрузочным." version="1" />
     <string key="OK_Button" value="&amp;OK" version="1" />
     <string key="Cancel_Button" value="&amp;Отмена" version="1" />
     <string key="DriveSelect" value="Выбор диска" version="1" />

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="linkLabel" value="На эту копию EasyBCD необходимо приобрести коммерческую лицензию .&#xD;&#xA;&#xD;&#xA;Пожалуйста, введите или приобретенный номер лицензии, или Ваш адрес электронной почты и нажмите сюда, чтобы купить лицензию. Или обратитесь за поддержкой Sales@NeoSmart.net." version="1" />
+    <string key="linkLabel" value="На эту копию EasyBCD необходимо приобрести коммерческую лицензию .&#xD;&#xA;&#xD;&#xA;Пожалуйста, введите приобретенный номер лицензии, или Ваш адрес электронной почты и нажмите сюда, чтобы купить лицензию. Или обратитесь за поддержкой Sales@NeoSmart.net." version="1" />
     <string key="linkClick" value="Нажать здесь" version="1" />
     <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
     <string key="btnSkip" value="Пропустить" version="1" />
