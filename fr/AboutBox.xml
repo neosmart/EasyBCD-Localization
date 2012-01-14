@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OKButton" derive="true" />
+    <string key="AboutBox" value="A propos" />
+    <string key="seatsAllowed" value="Utilisateurs/Périphériques autorisés" />
+    <string key="unlicensed" value="Copie non licenciée!" />
+    <string key="version" derive="true" />
+    <string key="copyright" derive="true" />
+    <string key="aboutText1" value="EasyBCD est l'outil ultime de gestion du démarrage et du chargeur de démarrage. Il n'y a aucune garantie que EasyBCD fonctionnera avec toutes les versions de Windows - assurez-vous de toujours utiliser la dernière version disponible.&#xD;&#xA;&#xD;&#xA;• Chef de devellopement : Mahmoud H. Al-Qudsi &#xD;&#xA;• Ingrédients actifs: sueur, sang et larmes &#xD;&#xA;• Ecrit en C + +, C #, Dr Pepper, Excedrin et Visine &#xD;&#xA;• Tous vos démarrage nous appartiennent!&#xD;&#xA;&#xD;&#xA;" />
+    <string key="thanksFormat" value="Remerciements spéciaux aux équipes de grub4dos, plouf, {0} et UltraDefrag!&#xD;&#xA;Cette distribution de EasyBCD est livrée avec des composants autonomes (grub4dos et UltraDefrag) sous les termes de la licence GPLv2. Pour plus d'information, voir le fichier de licence dans le répertoire d'installation." />
+  </strings>
+</localization>
