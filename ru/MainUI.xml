@@ -80,7 +80,7 @@
     <string key="chkAutoXp" value="Автопоиск диска с исправной ОС" version="1" />
     <string key="txtWinName" derive="true" />
     <string key="tabPage8" derive="true" />
-    <string key="chkGrub" value="Use EasyBCD-s copy of GRUB" version="1" />
+    <string key="chkGrub" value="Использовать GRUB из EasyBCD" version="1" />
     <string key="txtLinName" derive="true" />
     <string key="lblLinAuto" value="Определяется автоматически" version="1" />
     <string key="tabPage9" derive="true" />
@@ -98,7 +98,7 @@
     <string key="lblSafeMode" value="Safe Mode:" version="1" />
     <string key="lblPae" value="Поддержка PAE: " version="1" />
     <string key="lblDep" value="NoExecute: " version="1" />
-    <string key="chkEntryUnsigned" value="Установка неподписанных драйверов в 64-Bit Windows" version="1" />
+    <string key="chkEntryUnsigned" value="Установка не подписанных драйверов в 64-Bit Windows" version="1" />
     <string key="tabEntryAdvanced" value="Дополнительные" version="1" />
     <string key="chkEntryKernelDebug" value="Запуск в режиме отладки ядра" version="1" />
     <string key="chkEntrySos" value="Запуск в режиме SOS/Verbose-Boot Mode" version="1" />
@@ -121,7 +121,7 @@
     <string key="rdoBcdRepair" value="Обновить файлы загрузки" version="1" />
     <string key="btnBcdRescue" value="Выполнить" version="1" />
     <string key="rdoBcdReset" value="Сброс конфигурации BCD" version="1" />
-    <string key="grpDiagnostics" value="Опции настройки BCD" version="1" />
+    <string key="grpDiagnostics" value="Параметры настройки BCD" version="1" />
     <string key="tabBcdInstall" derive="true" />
     <string key="btnMakeBootable" value="Установить BCD" version="1" />
     <string key="lblUsbPartitions" value="Раздел:" version="1" />
@@ -130,7 +130,7 @@
     <string key="btnMbrWrite" value="Записать  MBR" version="1" />
     <string key="rdoMbrXP" value="Установить загрузчик Windows XP в MBR" version="1" />
     <string key="rdoMbrVista" value="Установить загрузчик Windows Vista/7 в MBR" version="1" />
-    <string key="grpBootloader" value="Опции MBR" version="1" />
+    <string key="grpBootloader" value="Параметры MBR" version="1" />
     <string key="tabMbrSetup" value="6" version="1" />
     <string key="grpUtils" value="Полезные утилиты" version="1" />
     <string key="tabUtilities" value="7" version="1" />
