@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linkLabel" value="這個 EasyBCD 副本需要購買商業授權。
+
+請輸入購買時關聯的電子郵件或授權碼。 按一下此購買授權或聯絡 Sales@NeoSmart.net 取得支援。" version="1" />
+    <string key="linkClick" value="按一下此" version="1" />
+    <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
+    <string key="btnSkip" value="略過(&amp;K)" version="1" />
+    <string key="btnRegister" value="註冊(&amp;R)" version="1" />
+    <string key="lblTitle" value="EasyBCD 商業版" version="1" />
+    <string key="lblLicenseKey" value="電子郵件或授權碼:" version="1" />
+    <string key="LicenseDialog" value="EasyBCD 商業版" version="1" />
+    <string key="email" value="電子郵件" version="1" />
+    <string key="licenseKey" value="授權碼" version="1" />
+    <string key="seats" value="Seats" version="1" />
+    <string key="regFailTitle" value="註冊成功!" version="1" />
+    <string key="regFail" value="電子郵件或註冊碼不正確，請重試。" version="1" />
+    <string key="regException" value="嘗試從遠端伺服器取得授權時發生錯誤。 請確認您已連線 Internet 或稍後重試。" version="1" />
+    <string key="regExceptionTitle" value="無法註冊" version="1" />
+    <string key="btnContinue" value="繼續" version="1"/>
+    <string key="regSuccess" value="註冊完成!" version="1" />
+  </strings>
+</localization>

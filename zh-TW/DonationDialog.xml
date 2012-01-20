@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="chkDontRemind" value="不要再次提醒我" version="1" />
+    <string key="btnCancel" value="不，謝謝(&amp;T)" version="1" />
+    <string key="btnDonate" value="贊助(&amp;D)" version="1" />
+    <string key="lblDonationIntro" value="EasyBCD 社群版是 100% 的免費軟體，且我們打算持續此方式。 但僅僅是因為免費，並不代表不需花費在開發和測試上。
+
+至今，EasyBCD 已免費下載超過 25 萬次，拯救無數瀕臨毀滅的電腦。" version="1" />
+    <string key="donationTitle" value="協助 EasyBCD 幫助您!" version="1" />
+    <string key="lblYouDonate" value="您要贊助以協助 EasyBCD 拯救更多 PC 嗎?" version="1" />
+    <string key="DonationDialog" value="EasyBCD 有助於您嗎?" version="1" />
+  </strings>
+</localization>

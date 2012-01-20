@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="accessViolationFormat" value="Unable to obtain exclusive access to {0}. If this is a removable disk, try ejecting and re-inserting it and then try again." version="1" />
+    <string key="failedSave" value="儲存變更失敗!" version="1" />
+    <string key="accessDeniedTitle" value="存取拒絕" version="1" />
+    <string key="accessDeniedFormat" value="存取拒絕 {0}。 請檢查檔案未使用中並且您有此位置的刪除/修改權限。" version="1" />
+    <string key="oneEntry" value="1 個項目在 Windows Bootloader 中。" version="1" />
+    <string key="multiEntriesFormat" value="總計 {0} 項在 Bootloader 中。" version="1" />
+    <string key="entryNum" value="項目 #" version="1" />
+    <string key="name" value="名稱" version="1" />
+    <string key="bcdId" value="BCD ID" version="1" />
+    <string key="drive" value="磁碟機" version="1" />
+    <string key="device" value="裝置" version="1" />
+    <string key="path" value="路徑" version="1" />
+    <string key="default" value="預設" version="1" />
+    <string key="timeout" value="逾時" version="1" />
+    <string key="none" value="無" version="1" />
+    <string key="timeoutFormat" value="{0} 秒" version="1" />
+    <string key="skipped" value="略過" version="1" />
+    <string key="bootDevice" value="開機磁碟機" version="1" />
+    <string key="ebcdBootDevice" value="EasyBCD 開機裝置" version="1" />
+    <string key="bootloaderPath" value="Bootloader 路徑" version="1" />
+    <string key="bcdError" value="BCD 執行錯誤!" version="1" />
+    <string key="ntNotFoundTitle" value="找不到有效的 NT 安裝!" version="1" />
+    <string key="ntNotFound" value="EasyBCD 在所有掛載的磁碟機偵測有效的 Windows NT-2003 安裝失敗且無法繼續。" version="1" />
+    <string key="manuallyLoad" value="您希望手動載入要管理的 EasyBCD BCD 登錄檔嗎? 請注意，EasyBCD 需要 Windows Vista/7 Bootloader，且無法在只有 XP 的環境動作。" version="1" />
+    <string key="errorBcd" value="開啟 BCD 登錄檔錯誤" version="1" />
+    <string key="locateValid" value="尋找有效的 BCD 存放" version="1" />
+    <string key="bcdRegistry" value="BCD 登錄檔" version="1" />
+    <string key="partition" value="分割區" version="1" />
+    <string key="unknown" value="未知" version="1" />
+    <string key="gib" value="GiB" version="1" />
+    <string key="mib" value="MiB" version="1" />
+    <string key="as" value="以" version="1" />
+    <string key="defragFormat" value="開始重組檔案 {0}" version="1" />
+    <string key="unnamed" value="未命名項目" version="1" />
+  </strings>
+</localization>

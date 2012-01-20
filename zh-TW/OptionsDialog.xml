@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnOK" value="確定" version="2" />
+    <string key="btnCancel" value="取消" version="2" />
+    <string key="chkExpertMode" value="以專家模式執行 EasyBCD" version="1" />
+    <string key="chkRememberBackup" value="結束時記住 BCD 備份目錄" version="1" />
+    <string key="lblExpertMode" value="專家模式在進行進階動作時不提示使用者!" version="1" />
+    <string key="chkLoadDefaultBcd" value="啟動時自動載入以下 BCD 檔案:" version="1" />
+    <string key="btnBrowseBcd" value="..." version="1" />
+    <string key="chkAutoUpdate" value="自動更新間隔 " version="1" />
+    <string key="chkRss" value="包含 NeoSmart Technologies 在 Windows RSS 平台" version="1" />
+    <string key="numUpdateInterval" value="0" version="1" />
+    <string key="rdoDays" value="天" version="1" />
+    <string key="rdoWeeks" value="星期" version="1" />
+    <string key="rdoMonths" value="月" version="1" />
+    <string key="lblLastUpdateCheck" value="上次自動檢查: " version="1" />
+    <string key="tabGeneralSettings" value="一般設定" version="1" />
+    <string key="lblDefaultTab" value="啟動時預設索引標籤: " version="1" />
+    <string key="lblDefaultDisplay" value="預設顯示模式: " version="1" />
+    <string key="lblOverviewFont" value="概觀字型:" version="1" />
+    <string key="lblDetailedFont" value="詳細資料檢視字型: " version="1" />
+    <string key="lblOverviewSize" value="大小: " version="1" />
+    <string key="numFontOverview" value="8" version="1" />
+    <string key="lblOverviewPt" value="pt." version="1" />
+    <string key="lblDetailedSize" value="大小: " version="1" />
+    <string key="numFontDetailed" value="8" version="1" />
+    <string key="lblDetailedPt" value="pt." version="1" />
+    <string key="chkWordWrap" value="預設啟用自動換行" version="1" />
+    <string key="chkSaveWindow" value="結束時儲存 EasyBCD 視窗大小" version="1" />
+    <string key="ResetSize" value="重設顯示選項" version="1" />
+    <string key="tabDisplayOptions" value="顯示選項" version="1" />
+    <string key="OptionsDialog" value="EasyBCD 設定" version="1" />
+    <string key="overview" value="概觀" version="1" />
+    <string key="detailed" value="詳細資料" version="1" />
+    <string key="locateBcd" value="尋找有效的 BCD 存放" version="1" />
+    <string key="never" value="永不" version="1" />
+  </strings>
+</localization>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblDriveSelect" value="新增開機磁碟機:" version="1" />
+    <string key="lblBody" value="EasyBCD 將重新組態您的系統為從以下您選取的分割區開機。 此程序將設定 BCD 存放在選取的磁碟，複製目前 BCD 項目，並使選取的分割區啟用 &amp; 可開機。" version="1" />
+    <string key="OK_Button" value="確定(&amp;O)" version="1" />
+    <string key="Cancel_Button" value="取消(&amp;C)" version="1" />
+    <string key="DriveSelect" value="選取磁碟機" version="1" />
+    <string key="errorAlreadyBoot" value="您選取的磁碟機已經是目前開機磁碟機。 請選取不同磁碟機繼續!" version="1" />
+    <string key="errorAlreadyBootTitle" value="請選取另一個磁碟機!" version="1" />
+  </strings>
+</localization>

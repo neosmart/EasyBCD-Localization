@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnAbort" value="關於(&amp;A)" version="1" />
+    <string key="CommandWindow" value="EasyBCD 命令視窗" version="1" />
+  </strings>
+</localization>
