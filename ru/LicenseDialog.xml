@@ -11,8 +11,8 @@
     <string key="LicenseDialog" value="Коммерческая версия EasyBCD" version="1" />
     <string key="email" value="Email" version="1" />
     <string key="licenseKey" value="Лицензионный ключ" version="1" />
-    <string key="seats" value="Seats" version="1" />
-    <string key="regFailTitle" value="Неудачная регистрацияl!" version="1" />
+    <string key="seats" value="Количество" version="1" />
+    <string key="regFailTitle" value="Неудачная регистрация!" version="1" />
     <string key="regFail" value="Неверный email или ключ лицензии. Пожалуйста, попробуйте снова." version="1" />
     <string key="regException" value="Ошибка подключения к удаленному серверу для получения лицензии. Пожалуйста, проверьте Ваше Интернет-соединение или попробуйте позже." version="1" />
     <string key="regExceptionTitle" value="Невозможно зарегистрироваться" version="1" />

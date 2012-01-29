@@ -6,7 +6,7 @@
     <string key="accessDeniedTitle" value="Отказано в доступе" version="1" />
     <string key="accessDeniedFormat" value="Отказано в доступе к {0}. Файл или уже используется, или у Вас недостаточно прав." version="1" />
     <string key="oneEntry" value="Сейчас в загрузчике одна запись." version="1" />
-    <string key="multiEntriesFormat" value="В загрузчике {0} записи об операционных системах." version="1" />
+    <string key="multiEntriesFormat" value="В загрузчике {0} записей об операционных системах." version="1" />
     <string key="entryNum" value="Запись #" version="1" />
     <string key="name" value="Имя" version="1" />
     <string key="bcdId" value="BCD ID" version="1" />

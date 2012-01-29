@@ -6,7 +6,7 @@
     <string key="OK_Button" value="&amp;OK" version="1" />
     <string key="Cancel_Button" value="&amp;Отмена" version="1" />
     <string key="DriveSelect" value="Выбор диска" version="1" />
-    <string key="errorAlreadyBoot" value="Диск, который Вы выбрали это текущий диск начальной загрузки. Пожалуйста выберите другой диск!" version="1" />
-    <string key="errorAlreadyBootTitle" value="Пожалуйста выберите другой диск!" version="1" />
+    <string key="errorAlreadyBoot" value="Диск, который Вы выбрали - это текущий диск начальной загрузки. Пожалуйста, выберите другой диск!" version="1" />
+    <string key="errorAlreadyBootTitle" value="Пожалуйста, выберите другой диск!" version="1" />
   </strings>
 </localization>
