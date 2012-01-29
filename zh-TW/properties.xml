@@ -1,9 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <locale>
-    <name>Traditional Chinese</name>
+    <name>繁體中文</name>
     <rtl>false</rtl>
-    <parentLocale>
-    </parentLocale>
+    <parentLocale>en-US</parentLocale>
   </locale>
 </localization>
