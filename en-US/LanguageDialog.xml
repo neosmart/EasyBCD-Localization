@@ -2,5 +2,6 @@
 <localization>
   <strings>
     <string key="title" value="Choose a Language" version="1" />
+    <string key="btnGo" value="Go" version="1" />
   </strings>
 </localization>
