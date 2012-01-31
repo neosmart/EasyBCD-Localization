@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="accessViolationFormat" value="Unable to obtain exclusive access to {0}. If this is a removable disk, try ejecting and re-inserting it and then try again." version="1" />
+    <string key="accessViolationFormat" value="無法取得獨佔存取 {0}。 如果這是卸除式磁碟，嘗試退出並重新插入然後重試。" version="1" />
     <string key="failedSave" value="儲存變更失敗!" version="1" />
     <string key="accessDeniedTitle" value="存取拒絕" version="1" />
-    <string key="accessDeniedFormat" value="存取拒絕 {0}。 請檢查檔案未使用中並且您有此位置的刪除/修改權限。" version="1" />
-    <string key="oneEntry" value="1 個項目在 Windows Bootloader 中。" version="1" />
-    <string key="multiEntriesFormat" value="總計 {0} 項在 Bootloader 中。" version="1" />
+    <string key="accessDeniedFormat" value="拒絕存取 {0}。 請檢查檔案未使用中並且您有此位置的刪除/修改權限。" version="1" />
+    <string key="oneEntry" value="1 個項目在 Windows Bootloader。" version="1" />
+    <string key="multiEntriesFormat" value="總計 {0} 個項目在 Bootloader。" version="1" />
     <string key="entryNum" value="項目 #" version="1" />
     <string key="name" value="名稱" version="1" />
     <string key="bcdId" value="BCD ID" version="1" />

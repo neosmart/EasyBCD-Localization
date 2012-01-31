@@ -9,7 +9,7 @@
 
 您希望選取不同的存放作為 EasyBCD 使用嗎?" version="1" />
     <string key="bcdInUseTitle" value="存取衝突錯誤" version="1" />
-    <string key="accessDenied" value="存取拒絕!" version="1" />
+    <string key="accessDenied" value="拒絕存取!" version="1" />
     <string key="uncUnsupported" value="此功能不支援網路路徑，請輸入不同路徑並重試。" version="1" />
     <string key="uncUnsupportedTitle" value="UNC 路徑不支援" version="1" />
     <string key="invalidPath" value="偵測到檔案或路徑名稱無效，請輸入有效的路徑繼續。" version="1" />
@@ -23,7 +23,7 @@
     <string key="install" value="安裝" version="1" />
     <string key="remove" value="移除" version="1" />
     <string key="adminLine1" value="EasyBCD 需要系統管理員特殊權限以正確執行，且無法繼續。" version="1" />
-    <string key="adminLine2" value="請使用系統管理員登入或執行以便繼續。" version="1" />
+    <string key="adminLine2" value="請使用系統管理員身份登入或執行以便繼續。" version="1" />
     <string key="adminTitle" value="權限拒絕" version="1" />
     <string key="easybcdBackup" value="EasyBCD 備份" version="1" />
     <string key="yes" value="是" version="1" />
@@ -126,11 +126,11 @@
 請新增 Windows XP 或 Windows 2000 項目以使用 boot.ini 自動組態功能替代。" version="1" />
     <string key="errorUtility" value="執行公用程式發生錯誤" version="1" />
     <string key="sysInfo" value="系統資訊" version="1" />
-    <string key="sysInfoText" value="顯示有關您目前硬體和軟體組態的資訊。 作為掌握硬體失敗和快速取得目前系統設定的傾印是有用的。" version="1" />
+    <string key="sysInfoText" value="顯示有關您目前硬體和軟體組態的資訊。 有助於掌握硬體失敗和快速取得目前系統設定的傾印。" version="1" />
     <string key="powerConsole" value="EasyBCD Power Console" version="1" />
-    <string key="powerConsoleText" value="快速存取命令列殼層以完整系統管理員特殊權限。 使用此進行系統功能或快速存取 bcdedit 和 bootsect.exe。" version="1" />
+    <string key="powerConsoleText" value="以完整系統管理員特殊權限快速存取命令列提示字元。 使用此進行系統功能或快速存取 bcdedit 和 bootsect.exe。" version="1" />
     <string key="sysRestore" value="系統還原" version="1" />
-    <string key="sysRestoreText" value="開啟系統還原面板，用其快速恢復/修復任何留在您 PC 的麻煩變更。" version="1" />
+    <string key="sysRestoreText" value="開啟系統還原面板，用其快速恢復/修復任何留在您 PC 造成問題的變更。" version="1" />
     <string key="restoreCds" value="Windows Vista/7 系統還原光碟" version="1" />
     <string key="restoreCdsText" value="下載 Windows Vista 和 Windows 7 系統還原 CD 副本在手以防災難發生。 您可以使用 EasyBCD 從 USB 開機到這些還原光碟。" version="1" />
     <string key="controlPanel" value="控制台" version="1" />

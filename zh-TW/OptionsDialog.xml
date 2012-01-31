@@ -13,7 +13,7 @@
     <string key="numUpdateInterval" value="0" version="1" />
     <string key="rdoDays" value="天" version="1" />
     <string key="rdoWeeks" value="星期" version="1" />
-    <string key="rdoMonths" value="月" version="1" />
+    <string key="rdoMonths" value="個月" version="1" />
     <string key="lblLastUpdateCheck" value="上次自動檢查: " version="1" />
     <string key="tabGeneralSettings" value="一般設定" version="1" />
     <string key="lblDefaultTab" value="啟動時預設索引標籤: " version="1" />
