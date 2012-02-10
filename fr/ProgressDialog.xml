@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblApplyingActions" value="EasyBCD applique l'action sélectionnée.." version="1" />
+    <string key="ProgressDialog" value="Patientez s'il vous plaît" version="1" />
+  </strings>
+</localization>

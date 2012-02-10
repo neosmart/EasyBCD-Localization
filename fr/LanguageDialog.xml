@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="title" value="Choisir une Langue" version="1" />
+    <string key="btnGo" value="Go" version="1" />
+  </strings>
+</localization>
