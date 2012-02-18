@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linuxAuto" value="자동 위치확인및 탑재" />
+    <string key="communityText" value="이지비씨디 커뮤니티판은 비상업적 사용시 자유롭게 허가된다&#xD;&#xA;만약 상업적 환경에서 이 소프트웨어를 사용한다면, 상업적 라이센스를 구입하기 위해&#xD;&#xA;아래의 `취소`를 눌러주세요. 그렇지않으면 `확인`을 누르세요&#xD;&#xA;" />
+    <string key="communityTitle" value="이지비씨디 컴뮤니티판" />
+    <string key="updateFailed" value="업데이트 조사 실패. 네트워크 연결 설치 에러" />
+    <string key="bcdInUse" value="현재 파일이 사용중이어서 이지비씨디에서 열 수 없다. 만약에 다시 시스템 store를&#xD;&#xA;선택한다면, 아래의 아니오를 누르고 파일 메뉴에서 &quot;시스템 store 탑재&quot; 옵션을 사용" />
+    <string key="bcdInUseTitle" value="접속 위반 에러" />
+    <string key="accessDenied" value="접속 거부" />
+    <string key="uncUnsupported" value="이 경우에는 네트워크 경로가 진원 안됨. 다른 경로를 입력하여 다시 해 보세요" />
+    <string key="uncUnsupportedTitle" value="UNC 경로 지원 안됨" />
+    <string key="invalidPath" value="부정확한 파일 또는 경로 이름 발견됨. 계속할려면 정확한 경로를 입력하세요" />
+    <string key="invalidPathTitle" value="부정확한 경로 !" />
+    <string key="updateCheck" value="이지비씨디 업데이트 조사중 ..." />
+    <string key="updateFailedSB" value="이지비씨디 업데이트 조사 실패:" />
+    <string key="updateFound" value="새로운 이지비씨디 발견 !" />
+    <string key="updateFoundText" value="새로운 이지비씨디가 발견됨. 이지비씨디 다운로드 페이지로 가서 지금 최신판으로&#xD;&#xA;업그레이드 하시겠습니까?" />
+    <string key="updateNone" value="이지비씨디 최신판임" />
+    <string key="install" value="설치" />
+    <string key="remove" value="제거" />
+    <string key="adminLine1" value="이지비씨디는 제대로 작동하기위해서는 관리자권한이 필요, 따라서 계속할 수 없습니다" />
+    <string key="adminLine2" value="계속할려면 관리자로 로그온하여 실행하세요" />
+    <string key="adminTitle" value="허가 거부" />
+    <string key="easybcdBackup" value="이지비씨디 백업" />
+    <string key="yes" value="예" />
+    <string key="registryFailed" value="레지스트리 설정을 기록할 수 없음" />
+    <string key="commercialEdition" value="상업용판" />
+    <string key="communityEdition" value="커뮤니티판" />
+    <string key="failedAddTitle" value="부팅 추가 실패" />
+    <string key="msdosHelp" value="이지비씨디로 MS-DOS 6.x 또는 윈도우즈 3.x로 부팅할려면 &#xD;&#xA;활성 파티션에 반드시 IO.SYS와 MSDOS.SYS가 있어야한다&#xD;&#xA;&#xD;&#xA;더 자세한 정보가 필요하면, DOS-based entries에 관한  이지비씨디 자료 페이지를&#xD;&#xA;열기 위해 `예`를 누르세요.&#xD;&#xA;지금 당장에 자료를 보지않을 경우에는 , 대신에 `아니오`를 누르세요." />
+    <string key="msdosHelpTitle" value="이지비씨디의 MS-DOS 자료를 읽었나요?" />
+    <string key="addedFormat" value="{0} 성공적으로 부트 메뉴에 추가됨 !" />
+    <string key="neogrubBootloader" value="NeoGrub 부트로더" />
+    <string key="neogrubRemoved" value="NeoGrub 성공적으로 제거됨" />
+    <string key="vhdErrorTitle" value="VHD 부팅 명단 추가 실패" />
+    <string key="errorSpaces" value="이미지 경로는 어떤 빈공간도 포함할 수 없음.이것을 수정하여 다시 시도하세요." />
+    <string key="isoErrorTitle" value="ISO부팅 명단 추가 에러" />
+    <string key="floppyErrorTitle" value="플로피 부팅 명단 추가 에러" />
+    <string key="path" value="경로:" />
+    <string key="name" value="이름:" />
+    <string key="drive" value="드라이브:" />
+    <string key="browseFileTitle" value="파일을 찾으러" />
+    <string key="wimFiles" value="윈도우즈 이미지 파일" />
+    <string key="vhdFiles" value="가상 하드 디스크 파일" />
+    <string key="isoFiles" value="ISO 이미지" />
+    <string key="imgFiles" value="IMG 파일" />
+    <string key="bcdFiles" value="이지비씨디 백업 파일" />
+    <string key="safeIntro" value="다른 옵션의 경우에 같은 OS로 다른 부팅 명단을 이지비씨는 만들 수 있다.&#xD;&#xA;새로운 부팅 명단을 만들면 하나의 안전 모드 Frags가 생겨서&#xD;&#xA;당신의 시스템을 재빨리 디버그하는 데 사용할 수 있다." />
+    <string key="safeNormal" value="보통: 모든 리커버리 옵션 사용불가, 보통의 당신 OS로 부팅하도록 함" />
+    <string key="safeVga" value="기본 VGA: 기본 표시 드라이버를 탑재하여,화면 해상도를 리셋함" />
+    <string key="safeNetworking" value="안전 모드 w/ 네트워킹:인터넷 접속이 가능한 안전모드로 부팅" />
+    <string key="safeMode" value="안전모드: 인터넷 접속이 안되는 안전모드로 부팅&#xD;&#xA;네트워크 드라이버가 없을 경우에 유용하다." />
+    <string key="safeAD" value="활성 디렉토리 수리: 윈도우 서버 2008을 활성 디렉토리 수리 모드로 부팅" />
+    <string key="safeTitle" value="안전모드 옵션에 대해" />
+    <string key="paeIntro" value="실제 주소 확장(PAE)은 4 기가바이트 메모리 marker이상의 여분의 메모리를 윈도우가&#xD;&#xA;어떻게 map할 것인지를 결정한다." />
+    <string key="paeDefault" value="디폴트: 윈도우가 메모리를 어떻게 map할 것 인지를 결정하도록 둔다." />
+    <string key="paeEnable" value="강제 가능:강제로  메모리 mapping" />
+    <string key="paeDisable" value="강제 불가능: 여분의 메모리를 mapping하는 것을 못하게 함" />
+    <string key="paeTitle" value="PAE 옵션에 대해" />
+    <string key="nxIntro" value="DEP/NoExecute는 당신의 시스템을 침입으로부터 보호하기위해 윈도우즈 XP SP2에&#xD;&#xA;도입된 hardware-layer 악의적 스크립트 조사 시스템이다." />
+    <string key="nxOptIn" value="Optln: 윈도우즈 코어가 DEP 보호된다" />
+    <string key="nxOptOut" value="OptOut: 윈도우즈와 응용프로그램이 DEP 보호됨" />
+    <string key="nxOn" value="항상 On: DEP가 모든 응용프로그램에대해 강제로 적용" />
+    <string key="nxOff" value="항상 Off: DEP가 윈도우즈와 모든 응용프로그램에 대해 적용 안됨" />
+    <string key="errorNotPrimary" value="부트 파티션은 주 파티션이어야 한다.&#xD;&#xA;&#xD;&#xA;다른 파티션을 선택하든 지 선택된 파티션을 먼저 주 파티션으로 변경하고&#xD;&#xA;다시 시도하시오." />
+    <string key="opNotAllowed" value="작동 허가 안됨 !" />
+    <string key="errorNotMounted" value="이지비씨디는 unmounted 드라이브를 부팅가능하게 할 수 없다.&#xD;&#xA;선택된 드라이브를 마운트하고 나서 이지비씨디를 재시작하여 다시 시도" />
+    <string key="invalidDrive" value="부정확한 드라이브 작동" />
+    <string key="bootableSuccess" value="이지비씨디가 선택된 디스크를 부팅가능 디스크로 성공적으로 변환하였다.&#xD;&#xA;선택된 파티션에 부트메뉴 명단을 구성하기위해서는, 'File l Select BCD Dtore' 사용하고&#xD;&#xA;당신이 바로 준비한 파티션에 있는 \\boot\\BCD 파일을 선택하라." />
+    <string key="mountBcdNow" value="지금 이지비씨디로 새로 작성된 BCD store를 자동적으로 탑재하시겠습니까?" />
+    <string key="bootableTitle" value="부팅가능한 디스크 생성" />
+    <string key="accessDeniedText" value="BCD로 접속할 수없음. 선택된 장치의 BCD store가 현재 사용중이 아닌 지를 &#xD;&#xA;조사하고 확인하시오." />
+    <string key="partitionConverted" value="파티션이 부팅가능한 드라이브로 변환됨" />
+    <string key="bcdRemove1" value="이것은  윈도우즈 비스타/7 부트로더를 확실히 제거하고자 할 때만 &#xD;&#xA;사용하는 고급 옵션이다 !" />
+    <string key="bcdRemove2" value="이 feature는 적당한 부팅 파일이 이미 제자리에 있을 경우에&#xD;&#xA;윈도우즈 XP로만 부팅하도록 한다" />
+    <string key="bcdRemove3" value="계속하기를 정말로 원합니까?" />
+    <string key="errorROTitle" value="읽기만 가능한 BCD Store 발견됨" />
+    <string key="errorNoRestoreTitle" value="Restore 에러" />
+    <string key="bootloaderSuccess" value="부트로더 설정 저장 성공" />
+    <string key="warning" value="경고!" />
+    <string key="mbrSuccess" value="MBR 기록 성공" />
+    <string key="bcdReset" value="BCD가 성공적으로 리셋되었습니다.모든 부팅 명단이 제거되었습니다!&#xD;&#xA;중요:당신은 최소한 하나의 부팅 명단을 추가해야합니다 &#xD;&#xA;그렇치않으면 당신의 컴퓨터는 부팅이 되지 않습니다." />
+    <string key="bcdResetTitle" value="BCD 리셋" />
+    <string key="selectBootTitle" value="새로운 부트 파티션을 선택" />
+    <string key="selectBoot" value="이지비씨디는 아래의 당신이 선택한 파티션으로부터 당신 시스템을 부팅하게 합니다.&#xD;&#xA;이 과정으로 선택된 디스크에 BCD store가 설치되고,현재의 BCD 부팅명단이 복사되어&#xD;&#xA;선택된 파티션이 활성및 부팅가능하게 됩니다." />
+    <string key="errorLogical" value="부트 파티션을 로직칼 드라이브로 변경하려고 했다,이것은 허용되지 않는다.&#xD;&#xA;부트 파티션은 주 파티션이어야한다.&#xD;&#xA;&#xD;&#xA;다른 드라이브를 선택하든지 또는 선택된 파티션을 먼저 주파티션으로 변경한 후&#xD;&#xA;다시 시도하세요." />
+    <string key="bootChangedFormat" value="이지비씨디가 {0} 드라이브를 새 부트 파티션으로 성공적으로 만들었다. 그리고&#xD;&#xA;변경된 새 BCD store를 탑재하였고, 당신이 어떤 다른 변화를 원할 경우&#xD;&#xA;이 파티션이 당신의 첫번째 부트 디스크에 있다면, 더이상 어떤 일도 할 필요가 없다.&#xD;&#xA;만약 그렇지않으면, 지금 컴퓨터를 끄고 변화를 주기위해 부트 드라이브를 BIOS에서&#xD;&#xA;변경하라." />
+    <string key="bootChangedTitle" value="부트 파티션 변경됨" />
+    <string key="unsupportedOS" value="이 옵션은 윈도우즈 비스타,윈도우즈 7및 윈도우즈 8에서만 가능하다." />
+    <string key="unsupportedOSTitle" value="지원되지않는 작동 시스템(OS)" />
+    <string key="errorNoRestore" value="tlarkrgks dpfj: 선택된 store를 restore할 수 없다." />
+    <string key="confirmDelete" value="이 부팅명단을 지우기를 정말로 원합니까?" />
+    <string key="confirmDeleteTitle" value="지우기 확인?" />
+    <string key="entryDeleted" value="부트 메뉴 명단 제거" />
+    <string key="thankYou" value="당신의 지원에 감사합니다!" />
+    <string key="loadExternal" value="이 feature로 이지비시디는 당신이 선택한 외부 BCD 데이타베이스를 탑재하고 사용한다&#xD;&#xA;이 BCD store에 변경이 되지만&#xD;&#xA; 당신의 디폴트 시스템 구성설정에는 영향을 미치지않는다." />
+    <string key="loadExternalTitle" value="새로운 Store를 선택" />
+    <string key="easybcdFiles" value="이지비씨디 파일" />
+    <string key="errorRO1" value="당신이 선택된 파일을 기록할 수 있는 허가권이 없든지,이 파일이 읽기만 가능하든지&#xD;&#xA;또는 읽기만되는 매체에 저장되어 있다." />
+    <string key="errorRO2" value="당신이 진행하고자한다면, 이 BCD store에 한 변경은 저장되지 않을 것이다&#xD;&#xA; 읽기만가능한 모드로, 계속하고자하면 `예`를 누르면 BCD store를 탑재한다&#xD;&#xA;또는 그전에 BCD store를 사용하고자하면 `아니오`를 누르시오." />
+    <string key="bcdLoadedFormat" value="{0} 로부터 탑재된 BCD 정보" />
+    <string key="noBcd" value="BCD store 탑재 않됨.이지비씨디가 제한된 모드로 작동중" />
+    <string key="confirmRestart" value="컴퓨터를 재시작하기를 정말로 원합니까?" />
+    <string key="confirmRestartTitle" value="재시작 확인" />
+    <string key="shutdownStarted" value="종료 시작됨" />
+    <string key="hiddenBootIni" value="Boot.ini가 숨겨진 파티션에 있어서 이지비씨디로 편집하기위해 답재할 수 없습니다.&#xD;&#xA;&#xD;&#xA;숨견진 파티션을 탑재하든지 또는 윈도우즈 XP dual-boot 자동구성설정을 사용하세요." />
+    <string key="errorBootIniTitle" value="Boot.ini를 탑재할 수 없음!" />
+    <string key="errorBootIniFormat" value="이지비씨디가 {0} 부트 파티션에서 존재하는 boot.ini 파일을 발견할 수 없다.&#xD;&#xA;&#xD;&#xA;자동 구성설정 feature로 boot.ini를 사용하기위해 새 윈도우즈 XP 또는 윈도우즈 2000 부팅명단을 추가하세요." />
+    <string key="errorUtility" value="작동 유틸리티 에러" />
+    <string key="sysInfo" value="시스템 정보" />
+    <string key="sysInfoText" value="당신의 현재 하드웨어및 소프트웨어 구성설정에 관한 정보를 표시&#xD;&#xA;하드웨어 실패를 pinning down하거나 현재 시스템 설치상황을 재빨리 dump하는데&#xD;&#xA;유용하다" />
+    <string key="powerConsole" value="이지비씨디 전력 콘솔" />
+    <string key="powerConsoleText" value="모든 관리자권한으로 command-line shell에 재빨리 접속&#xD;&#xA;시스템 기능을 수행하든지 bcdedit및 bootsect.exe를 재빨리 접속할 때 사용하라" />
+    <string key="sysRestore" value="시스템 Restore" />
+    <string key="sysRestoreText" value="시스템 Restore 판넬을 열고,고장중인 당신 PC를 벗어나기위해 revert/fix 를 하느데&#xD;&#xA;사용하라" />
+    <string key="restoreCds" value="윈도우즈 비스타/7 시스템 Restore CDs" />
+    <string key="restoreCdsText" value="재앙이 닥쳤을 때 대비하기위해 윈도우즈 비스타와 윈도우즈 7 시스템 Restore CDs&#xD;&#xA;복사본을 다운로드하세요. USB에서 이 복구 디스크로 부팅하여 이지비씨디를 사용할&#xD;&#xA;수 있다." />
+    <string key="controlPanel" value="제어판" />
+    <string key="controlPanelText" value="제어판을 열고 당신이 원하는 것을 사용하라." />
+    <string key="iRebootText" value="이지비씨디용 네오스마트 테크놀로지의 도움 프로그램. iReboots는 taskbar에 상주한다&#xD;&#xA; (400KB 메모리만 사용!) 그리고 어떤 OS(작동시스템)로 재빨리 쉽게 재부팅하는 것을&#xD;&#xA;선택하게 한다." />
+    <string key="errorNoEntries" value="현재 설치된 부팅명단이 없습니다. 만약 이지비씨를 종료하고 컴퓨터를 재시작하면&#xD;&#xA;부팅이 되지 않을 것이다.&#xD;&#xA;&#xD;&#xA;새로운 부팅명단을 추가하기전에 프로그램을 종료하겠습니까?" />
+    <string key="errorNoEntriesTitle" value="설치된 부팅명단이 없음" />
+    <string key="errorPathSave" value="이지비씨디가 현재의 백업경로를 디폴트 백업 디레토리로 저장하는데 실패했다.&#xD;&#xA;옵션을 사용할 수 없다." />
+    <string key="errorPathSaveTitle" value="디폴트 백업 경로 문제" />
+    <string key="isoHelp1" value="이지비씨디는 두가지 다른 모드로 ISO 이미지를 탑재하는 것을 지원한다.&#xD;&#xA;모든 ISO가 정확하게 작동되지 않느다. 보통 리눅스 setup ISO는 작동하지않는다" />
+    <string key="isoHelp2" value="디스크로부터 구동: 부팅시 더빨리 탑재되지만 더늦게 구동된다.&#xD;&#xA;또한 이지비씨로 만들 때 전처리가 필요하다." />
+    <string key="isoHelp3" value="메모리로부터 탑재: 더빨리 구동하지만 부팅시 탑재하는데 시간이 걸린다.&#xD;&#xA;대용량 디스크나 오래된 PC에서는 실패할 수도 있다." />
+    <string key="isoHelpTitle" value="ISO 옵션에 대해" />
+    <string key="warnDiffDevice" value="선택된 파일이 부트 파일이  다른 장치에 저장된다. 만약에 현재 사용중인 PC말고 &#xD;&#xA;다른 PC에 이 부팅명단을 사용하여 부팅하고자하면, 이 파일을 외부 드라이브에 복사하고&#xD;&#xA;다시 시도하라&#xD;&#xA;&#xD;&#xA;어쨌든지 계속하겠습니까?" />
+    <string key="diffDeviceTitle" value="Non-Portable 부팅명단 발견됨" />
+    <string key="errorNoBcd" value="BCD 레지스트리 탑재않됨 - 적은 기능의 모드로 작동중 !" />
+    <string key="bcdExceptionFormat" value="BCD 예외 0x{0:X3}" />
+    <string key="userCancel" value="유저에의해 작동 취소" />
+    <string key="renameSuccess" value="부팅명단 성공적으로 개명됨" />
+    <string key="entryRemovedFormat" value="{0} 제거됨" />
+    <string key="drive2" value="드라이브" />
+    <string key="bcdResetStatus" value="BCD 성공적으로 리셋됨. 지금 재구성설정하세요 !" />
+    <string key="bcdRepaired" value="BCD 성공적으로 수리됨" />
+    <string key="configSaved" value="부팅 구성설정 저장 성공함" />
+    <string key="backupSuccess" value="BCD 백업 성공" />
+    <string key="restoreSuccess" value="Restore 성공적으로 수행됨" />
+    <string key="bcdRefresh" value="Cashed BCD 데이타 성공적으로 refresh됨" />
+    <string key="optionsSaved" value="옵션 저장 성공" />
+    <string key="orderSaved" value="부팅명단 순서 저장됨" />
+    <string key="easybcdStatus" value="이지비씨디 상태" />
+  </strings>
+</localization>

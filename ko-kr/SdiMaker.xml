@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OK_Button" value="확인" />
+    <string key="Cancel_Button" value="취소" />
+    <string key="Body" value="계속하기위해서는, 이지비씨디는 윈도우즈 비스타 또는 윈도우즈 7 설치미디어 (보통&#xD;&#xA; DVD 또는 디스크 이미지) 가 필요합니다.&#xD;&#xA;&#xD;&#xA;DVD를 광학 드라이브에 넣거나 디스크 이미지를 마운트시킨 후,&#xD;&#xA;계속하기위해 확인을 누르세요." />
+    <string key="SdiMaker" value="윈도우즈 설치 미디어를 넣으세요" />
+    <string key="mediaNotFound" value="유효한 윈도우즈 설치 미디어가 발견되지 않음." />
+  </strings>
+</localization>

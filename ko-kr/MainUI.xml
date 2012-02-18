@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="rdoModeBasic" value="개요" />
+    <string key="rdoModeDetailed" value="상세 (디버그 모드)" />
+    <string key="chkWordWrap" value="자동 줄바꿈" />
+    <string key="grpDisplayMode" value="표시 모드" />
+    <string key="tabViewSettings" value="1" />
+    <string key="rdoTimeoutCount" value="카운트 다운 시작" />
+    <string key="numTimeout" value="0" />
+    <string key="rdoTimeoutNone" value="사용자 선택을 기다린다" />
+    <string key="rdoTimeoutSkip" value="부트 메뉴를 생략한다" />
+    <string key="btnSaveBCD" value="설정 저장" />
+    <string key="groupBox2" value="타임아웃 옵션" />
+    <string key="btnUp" value="위" />
+    <string key="btnDown" value="아래" />
+    <string key="btnRenameEntry" value="개명" />
+    <string key="btnDelete" value="삭제" />
+    <string key="groupBox1" value="메뉴 시작을 수정" />
+    <string key="tabEditMenu" value="2" />
+    <string key="btnBrowse" value="..." />
+    <string key="lblName" value="이름:" />
+    <string key="lblType" value="형식:" />
+    <string key="lblPath" value="경로:" />
+    <string key="lblDrive" value="드라이브:" />
+    <string key="btnAddNewEntry" value="부팅 추가" />
+    <string key="lblMode" value="모드:" />
+    <string key="lblFile" value="파일:" />
+    <string key="txtVhdName" value="네오스마트 VHD 이미지" />
+    <string key="tabPage13" value="디스크 이미지" />
+    <string key="txtIsoName" value="네오스마트 ISO 명단" />
+    <string key="tabPage14" value="ISO" />
+    <string key="txtPeName" value="NST WinPE 이미지" />
+    <string key="chkEms" value="EMS 허용" />
+    <string key="txtFloppyName" value="네오스마트 플로피 이미지" />
+    <string key="tabFloppy" value="플로피" />
+    <string key="btnPlopInstall" value="PLoP 설치" />
+    <string key="btnPlopRemove" value="PLoP 제거" />
+    <string key="lblBiosExtend" value="이지비씨디의 BIOS 확장자는 본래 지원하지않는 컴퓨터의 &#xD;&#xA;네트워크,CD, 또는 USB로 부터 부팅하는데 사용될 수 있다." />
+    <string key="tabPagePlop" value="BIOS 확장자" />
+    <string key="grpPortable" value="포터블/외부 미디어" />
+    <string key="lblWindowsAuto" value="자동적으로 결정된" />
+    <string key="chkAutoXp" value="자동적으로 정확한 드라이브를 탐지한다" />
+    <string key="txtWinName" value="마이크로소프트 윈도우즈" />
+    <string key="tabPage8" value="윈도우즈" />
+    <string key="chkGrub" value="GRUB의 EasyBCD 복사를 사용" />
+    <string key="txtLinName" value="네오스마트 리눅스" />
+    <string key="lblLinAuto" value="자동적으로 결정된" />
+    <string key="tabPage9" value="리눅스/BSD" />
+    <string key="txtMacName" value="NST Mac OS X" />
+    <string key="tabPageMac" value="Mac" />
+    <string key="btnNeoGrub" value="설치" />
+    <string key="btnNeoGrubConfig" value="시스템 구성을 정하다" />
+    <string key="lblNeoGrub" value="네오그루브 부트로더는 리눅스와 구형 윈도우 또는 숨은 드라이브로 부팅하는 데&#xD;&#xA;사용될 수 있다." />
+    <string key="grpOS" value="운영 시스템" />
+    <string key="tabAddEntry" value="3" />
+    <string key="btnSaveSettings" value="설정 저장" />
+    <string key="lblLocale" value="지역:" />
+    <string key="tabEntryBasic" value="기본" />
+    <string key="lblSafeMode" value="안전 모드:" />
+    <string key="lblPae" value="PAE 지원" />
+    <string key="lblDep" value="실행중지" />
+    <string key="chkEntryUnsigned" value="64비트 윈도우에서 unsigned 드라이버의 사용을 허락" />
+    <string key="tabEntryAdvanced" value="고급" />
+    <string key="chkEntryKernelDebug" value="kernel 디버그 모드에서 윈도우를 실행" />
+    <string key="chkEntrySos" value="SOS/Verbose-Boot 모드에서 실행" />
+    <string key="chkEntryMemory" value="공제" />
+    <string key="numEntryMemory" value="0" />
+    <string key="lblDeduct2" value="실제 메모리로 부터 MB" />
+    <string key="numEntryCpu" value="0" />
+    <string key="lblLimit2" value="CPUs" />
+    <string key="tabEntryDeveloper" value="개발자" />
+    <string key="lblAdvancedSettings" value="약간의 설정들은 수정된 entry에 따라 사용할 수 없을 수도 있음을 주의" />
+    <string key="grpChangeSettings" value="설정 변경" />
+    <string key="lblPickLH" value="트윅을 하기위해 아래 리스트에서 entry를 선택" />
+    <string key="grpSelectLH" value="OS를 선택" />
+    <string key="tabAdvanced" value="4" />
+    <string key="btnBackup" value=" 설정 백업" />
+    <string key="btnRestore" value="Restore 백업" />
+    <string key="grpBackupRestore" value="백업및 리스토어 부트로더 설정" />
+    <string key="rdoBcdChange" value="부트 드라이브 변경" />
+    <string key="rdoBcdRepair" value="부트 파일 재생산및 수리" />
+    <string key="btnBcdRescue" value="실행한다" />
+    <string key="rdoBcdReset" value="BCD 환경설정 리셋" />
+    <string key="grpDiagnostics" value="BCD 관리 옾션" />
+    <string key="tabBcdInstall" value="5" />
+    <string key="btnMakeBootable" value="BCD 설치" />
+    <string key="lblUsbPartitions" value="파티션:" />
+    <string key="lblCreateBootable" value="EasyBCD는 부팅가능한 미디어을 만드는 과정을 자동화할 수있다&#xD;&#xA;시작할 파티션을 선택하시오" />
+    <string key="grpCreateBootableExternal" value="부팅가능한 외부 미디어를 만든다" />
+    <string key="btnMbrWrite" value="MBR를 기록" />
+    <string key="rdoMbrXP" value="MBR에 윈도우 XP 부트로더를 설치" />
+    <string key="rdoMbrVista" value="MBR에 윈도우 Vista/7 부트로더를 설치" />
+    <string key="grpBootloader" value="MBR 환경설정 옵션" />
+    <string key="tabMbrSetup" value="6" />
+    <string key="grpUtils" value="유용한 유틸리티" />
+    <string key="tabUtilities" value="7" />
+    <string key="btnBcdInstall" value="BCD 백업/수리" />
+    <string key="btnUtilities" value="유용한 유틸리티&#xD;&#xA;" />
+    <string key="btnMbrSetup" value="BCD 배치" />
+    <string key="btnAdvanced" value="고급 설정" />
+    <string key="btnAddEntry" value="새로운 부팅 추가" />
+    <string key="btnEditMenu" value="부트 메뉴 수정" />
+    <string key="btnViewSettings" value="설정 보기" />
+    <string key="grpToolbox" value="이지비씨디 Toolbox" />
+    <string key="mnuSelectBcd" value="BCD 저장 선택" />
+    <string key="mnuLanguage" value="언어 선택" />
+    <string key="mnuLoadSystemBcd" value="시스템 BCD 탑재" />
+    <string key="mnuRescan" value="BCD 저장 Refresh" />
+    <string key="mnuRegister" value="레지스터" />
+    <string key="mnuDonate" value="기부" />
+    <string key="mnuUpdate" value="업데이트 확인" />
+    <string key="mnuExit" value="나가기" />
+    <string key="mnuFile" value="파일" />
+    <string key="mnuOptions" value="옵션" />
+    <string key="mnuEditLegacy" value="레거시 엔트리 수정" />
+    <string key="mnuRestart" value="컴퓨터 재시작" />
+    <string key="mnuTools" value="도구" />
+    <string key="mnuDocumentation" value="문서" />
+    <string key="mnuSupport" value="구입 &amp; 지원" />
+    <string key="mnuBug" value="버그 보내기" />
+    <string key="mnuDonate2" value="기부" />
+    <string key="mnuAbout" value="에 관해" />
+    <string key="mnuHelp" value="도움" />
+    <string key="MainUI" value="이지비씨디 2.0 - 네오스마트 테크놀로지" />
+    <string key="colName" value="엔트리" />
+    <string key="colDefault" value="디폴트" />
+    <string key="lstVhdEntry" value="마이크로소프트 VHD" />
+    <string key="lstRawHD" value="Raw 하드 디스크 이미지" />
+    <string key="lstRawPartition" value="Raw 파티션 이미지" />
+    <string key="lstRunDisk" value="디스크로 부터 실행" />
+    <string key="lstLoadMem" value="메모리에서 탑재" />
+    <string key="lstWim" value="WIM 이미지(램디스크)" />
+    <string key="lstExtracted" value="추출된 파일시스템 레이아웃" />
+    <string key="lstWin7" value="윈도우즈 비스타/7" />
+    <string key="lstWinNt" value="윈도우즈 NT/2k/XP/2k3" />
+    <string key="lstWin9x" value="윈도우즈 95/98/ME" />
+    <string key="lstWinDos" value="MS 도스 6.x" />
+    <string key="lstNixGrub" value="GRUB (레거시)" />
+    <string key="lstNixGrub2" value="GRUB 2" />
+    <string key="paeEnable" value="가능" />
+    <string key="paeDisable" value="불가능" />
+    <string key="safeNormal" value="보통" />
+    <string key="safeMode" value="안전 모드" />
+    <string key="safeNetworking" value="안전 모드 w/네트워킹" />
+    <string key="safeVga" value="기본 VGA" />
+    <string key="safeAD" value="활동 디렉토리 수리" />
+    <string key="emptyList" value="엔트리가 없음 !" />
+  </strings>
+</localization>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnOK" value="확인" />
+    <string key="btnCancel" value="취소" />
+    <string key="chkExpertMode" value="전문가 모드로 이지비씨디를 실행" />
+    <string key="chkRememberBackup" value="프로그램 종료시 BCD 백업 디렉토리를 기억" />
+    <string key="lblExpertMode" value="전문가 모드에서는 고급실행을 하기전에 사용자에게 prompt표시를 안함" />
+    <string key="chkLoadDefaultBcd" value="시작시 다음의 BCD 파일을 자동적으로 탑재" />
+    <string key="btnBrowseBcd" value="..." />
+    <string key="chkAutoUpdate" value="매번 자동 업데이트" />
+    <string key="chkRss" value="윈도우즈  RSS 플랫폼에 네오스마트 테크놀로지를 포함" />
+    <string key="numUpdateInterval" value="0" />
+    <string key="rdoDays" value="일" />
+    <string key="rdoWeeks" value="주" />
+    <string key="rdoMonths" value="달" />
+    <string key="lblLastUpdateCheck" value="마지막 자동 조사:" />
+    <string key="tabGeneralSettings" value="일반적 설정" />
+    <string key="lblDefaultTab" value="시작시 디폴트 tab" />
+    <string key="lblDefaultDisplay" value="디폴트 표시 모드" />
+    <string key="lblOverviewFont" value="개요 폰트" />
+    <string key="lblDetailedFont" value="상세 개요 폰트" />
+    <string key="lblOverviewSize" value="크기:" />
+    <string key="lblDetailedSize" value="크기:" />
+    <string key="chkWordWrap" value="디폴트로 자동줄바꿈 가능" />
+    <string key="chkSaveWindow" value="종료시 이지비씨디 창크기 저장" />
+    <string key="ResetSize" value="표시 옵션 리셋" />
+    <string key="tabDisplayOptions" value="표시 옵션" />
+    <string key="OptionsDialog" value="이지비씨디 설정" />
+    <string key="overview" value="개요" />
+    <string key="detailed" value="상세" />
+    <string key="locateBcd" value="유효한 BCD store 두다" />
+  </strings>
+</localization>
