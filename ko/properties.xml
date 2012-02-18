@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <locale>
-    <name>Korea</name>
+    <name>한국어</name>
     <rtl>false</rtl>
     <parentLocale>en-US</parentLocale>
   </locale>
