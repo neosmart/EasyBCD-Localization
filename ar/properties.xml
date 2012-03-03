@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <locale>
-    <name>Arabic</name>
+    <name>العربية</name>
     <rtl>true</rtl>
     <parentLocale>en-US</parentLocale>
   </locale>
