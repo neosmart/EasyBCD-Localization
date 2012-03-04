@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="linkLabel" value="Cette copie de EasyBCD mécessite l'achat d'une licence commerciale.&#xD;&#xA;&#xD;&#xA;Veuillez entrer votre adresse email ou votre numéro de licence associé à votre achat. Cliquez ici pour acheter une licence ou contactez Sales@NeoSmart.net pour obtenir de l'aide." />
-    <string key="linkClick" value="Cliquez ici" />
-    <string key="linkEmail" value="Sales@NeoSmart.net" />
-    <string key="btnSkip" value="S&amp;auter" />
-    <string key="btnRegister" value="S'e&amp;nregistrer" />
-    <string key="lblTitle" value="EasyBCD Edition Commerciale" />
-    <string key="lblLicenseKey" value="Adresse email ou numéro de licence :" />
-    <string key="LicenseDialog" value="EasyBCD Edition Commerciale" />
-    <string key="licenseKey" value="Numéro de licence" />
-    <string key="email" value="Adresse email" />
-    <string key="seats" value="Quantité :" />
-    <string key="regFailTitle" value="L' enregistrement a échoué !" />
-    <string key="regFail" value="Adresse email ou numéro de licence erronés. Veuillez réessayer." />
-    <string key="regException" value="Une erreur est survenue durant l'obtention de la licence auprès du serveur distant. Veuillez vous assurer d'être connecté à internet ou réessayez plus tard." />
-    <string key="regExceptionTitle" value="Impossible de s'enregistrer" />
+    <string key="linkLabel" value="Cette copie de EasyBCD mécessite l'achat d'une licence commerciale.&#xD;&#xA;&#xD;&#xA;Veuillez entrer votre adresse email ou votre numéro de licence associé à votre achat. Cliquez ici pour acheter une licence ou contactez Sales@NeoSmart.net pour obtenir de l'aide." version="1" />
+    <string key="linkClick" value="Cliquez ici" version="1" />
+    <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
+    <string key="btnSkip" value="S&auter" version="1" />
+    <string key="btnRegister" value="S'e&nregistrer" version="1" />
+    <string key="lblTitle" value="EasyBCD Edition Commerciale" version="1" />
+    <string key="lblLicenseKey" value="Adresse email ou numéro de licence :" version="1" />
+    <string key="LicenseDialog" value="EasyBCD Edition Commerciale" version="1" />
+    <string key="licenseKey" value="Numéro de licence" version="1" />
+    <string key="email" value="Adresse email" version="1" />
+    <string key="seats" value="Quantité :" version="1" />
+    <string key="regFailTitle" value="L' enregistrement a échoué !" version="1" />
+    <string key="regFail" value="Adresse email ou numéro de licence erronés. Veuillez réessayer." version="1" />
+    <string key="regException" value="Une erreur est survenue durant l'obtention de la licence auprès du serveur distant. Veuillez vous assurer d'être connecté à internet ou réessayez plus tard." version="1" />
+    <string key="regExceptionTitle" value="Impossible de s'enregistrer" version="1" />
     <string key="btnContinue" value="Continuer" />
-    <string key="regSuccess" value="Enregistrement terminé !" />
+    <string key="regSuccess" value="Enregistrement terminé !" version="1" />
   </strings>
 </localization>
