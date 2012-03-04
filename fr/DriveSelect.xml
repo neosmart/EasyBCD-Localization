@@ -2,7 +2,7 @@
 <localization>
   <strings>
     <string key="lblDriveSelect" value="Nouveau disque de démarrage :" version="1" />
-    <string key="lblBody" value="EasyBCD reconfigurera votre system pour qu'il demarre de la partition que vous avez choisi. Ce processus installera un magasin BCD sur le disque sélectionné, y copiera les entrées BCD inscrite et rendra la partition active et démarrable." version="1" />
+    <string key="lblBody" value="EasyBCD reconfigurera votre système pour qu'il demarre de la partition que vous avez choisi. Ce processus installera un magasin BCD sur le disque sélectionné, y copiera les entrées BCD inscrites et rendra la partition active et démarrable." version="1" />
     <string key="OK_Button" value="&amp;OK" version="1" />
     <string key="Cancel_Button" value="&amp;Annuler" version="1" />
     <string key="DriveSelect" value="Disque sélectionné" version="1" />
