@@ -8,5 +8,7 @@
     <string key="DriveSelect" value="DriveSelect" version="1" />
     <string key="errorAlreadyBoot" value="The drive you have selected is already the current boot drive. Please select a different drive to continue!" version="1" />
     <string key="errorAlreadyBootTitle" value="Please select another drive!" version="1" />
+    <string key="MinimumWidth" value="518" />
+    <string key="MinimumHeight" value="199" />
   </strings>
 </localization>
