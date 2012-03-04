@@ -3,8 +3,8 @@
   <strings>
     <string key="OK_Button" value="OK" version="1" />
     <string key="Cancel_Button" value="Annuler" version="1" />
-    <string key="Body" value="Afin de continuer , EasyBCD a besoin d'accéder au support d'installation de Windows Vista ou Windows 7  (généralement un DVD ou une image disque). &#xD;&#xA;&#xD;&#xA;S'il vous plaît insérez le DVD dans votre lecteur optique ou monter l'image disque, puis appuyez sur OK pour continuer." version="1" />
-    <string key="SdiMaker" value="Inserrer média d'installation Windows" version="1" />
-    <string key="mediaNotFound" value="Média d'installation Windows valide non détecté." version="1" />
+    <string key="Body" value="Afin de continuer , EasyBCD a besoin d'accéder au support d'installation de Windows Vista ou Windows 7  (généralement un DVD ou une image disque). Veuillez insérer le DVD dans votre lecteur optique ou monter l'image disque, puis appuyez sur OK pour continuer." version="1" />
+    <string key="SdiMaker" value="Insérer le disque d'installation de Windows" version="1" />
+    <string key="mediaNotFound" value="Aucun disque d'installation de Windows valide détecté." version="1" />
   </strings>
 </localization>
