@@ -35,7 +35,5 @@
     <string key="detailed" value="Detailed" version="1" />
     <string key="locateBcd" value="Locate a valid BCD store" version="1" />
     <string key="never" value="Never" version="1" />
-    <string key="MinimumWidth" value="452" />
-    <string key="MinimumHeight" value="359" />
   </strings>
 </localization>

@@ -197,7 +197,5 @@
     <string key="safeVga" value="Basic VGA" version="1" />
     <string key="safeAD" value="Active Directory Repair" version="1" />
     <string key="emptyList" value="No entries detected!" version="1" />
-    <string key="MinimumWidth" value="583" />
-    <string key="MinimumHeight" value="456" version="2" />
   </strings>
 </localization>
