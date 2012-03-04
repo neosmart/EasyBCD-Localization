@@ -16,7 +16,9 @@
     <string key="regFail" value="Incorrect email or license key. Please try again." version="1" />
     <string key="regException" value="Error encountered while obtaining license from remote server. Please ensure you are connected to the internet or try again later." version="1" />
     <string key="regExceptionTitle" value="Unable to Register" version="1" />
-    <string key="btnContinue" value="Continue" version="1"/>
+    <string key="btnContinue" value="Continue" version="1" />
     <string key="regSuccess" value="Registration Complete!" version="1" />
+    <string key="MinimumWidth" value="511" />
+    <string key="MinimumHeight" value="334" />
   </strings>
 </localization>
