@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="lblDriveSelect" value="Nouveau Disque de Boot:" version="1" />
-    <string key="lblBody" value="EasyBCD will re-configure your system to boot from the partition you select below. This process will set up a BCD store on the selected disk, copy the current BCD entries over, and make the selected partition both active &amp; bootable." version="1" />
+    <string key="lblDriveSelect" value="Nouveau disque de démarrage :" version="1" />
+    <string key="lblBody" value="EasyBCD reconfigurera votre system pour qu'il demarre de la partition que vous avez choisi. Ce processus installera un magasin BCD sur le disque sélectionné, y copiera les entrées BCD inscrite et rendra la partition active et démarrable." version="1" />
     <string key="OK_Button" value="&amp;OK" version="1" />
     <string key="Cancel_Button" value="&amp;Annuler" version="1" />
-    <string key="DriveSelect" value="DriveSelect" version="1" />
-    <string key="errorAlreadyBoot" value="Le lecteur que vous avez sélectionné est déjà le disque de démarrage actuel. S'il vous plaît sélectionner un autre lecteur pour continuer!" version="1" />
-    <string key="errorAlreadyBootTitle" value="S'il vous plaît sélectionner un autre lecteur!" version="1" />
+    <string key="DriveSelect" value="Disque sélectionné" version="1" />
+    <string key="errorAlreadyBoot" value="Le disque que vous avez sélectionné est déjà le disque de démarrage actuel. Veuillez sélectionner un autre disque pour continuer !" version="1" />
+    <string key="errorAlreadyBootTitle" value="Veuillez sélectionner un autre disque !" version="1" />
   </strings>
 </localization>
