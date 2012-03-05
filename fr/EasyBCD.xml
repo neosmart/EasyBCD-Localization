@@ -131,7 +131,7 @@
     <string key="isoHelpTitle" value="A propos des options ISO" />
     <string key="warnDiffDevice" value="Le fichier sélectionné est stocké sur un périphérique différent de celui des fichiers de démarrage. Si vous comptez utiliser cette entrée pour démarrer sur un autre PC, vous devrez copier ce fichier sur un disque externe puis réessayez.&#xD;&#xA;&#xD;&#xA;Voulez-vous continuer malgré tout ?" />
     <string key="diffDeviceTitle" value="Entrée non portable détectée !" />
-    <string key="errorNoBcd" value="Aucun registre BCD chargée - éxécution en mode fonctionnalité réduite !" />
+    <string key="errorNoBcd" value="Aucun registre BCD chargé - éxécution en mode fonctionnalité réduite !" />
     <string key="bcdExceptionFormat" value="Exception BCD 0x{0:X3}" />
     <string key="userCancel" value="Opération annulée par l'utilisateur" />
     <string key="renameSuccess" value="Entrée renommée avec succès" />
@@ -140,12 +140,12 @@
     <string key="drive2" value="Disque" />
     <string key="bcdResetStatus" value="BCD réinitialisée avec succès. Veuillez maintenant la reconfigurer !" />
     <string key="bcdRepaired" value="BCD réparée avec succès" />
-    <string key="configSaved" value="Configuration de l'entrée sauvegarder avec succès" />
+    <string key="configSaved" value="Configuration de l'entrée sauvegardée avec succès" />
     <string key="backupSuccess" value="BCD sauvegardée avec succès" />
     <string key="restoreSuccess" value="Restauration effectuée avec succès" />
     <string key="bcdRefresh" value="Données du cache BCD rafraîchies avec succès" />
     <string key="optionsSaved" value="Options sauvegardées avec succès !" />
-    <string key="orderSaved" value="Ordre des entrées enregistrées" />
+    <string key="orderSaved" value="Ordre des entrées enregistré" />
     <string key="easybcdStatus" value="Statut d'EasyBCD" />
   </strings>
 </localization>
