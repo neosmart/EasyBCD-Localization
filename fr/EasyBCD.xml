@@ -7,19 +7,19 @@
     <string key="bcdInUse" value="Le fichier actuel est en cours d'utilisation et ne peut pas être ouvert par EasyBCD. Si vous essayez de (re)choisir le magasin système, cliquez sur «Non» ci-dessous puis utilisez l'option «Charger un magasin Système» dans le menu Fichier.&#xD;&#xA;Voulez-vous sélectionner un autre magasin pour une utilisation dans EasyBCD" />
     <string key="bcdInUseTitle" value="Erreur de violation d'accès" />
     <string key="accessDenied" value="Accès refusé !" />
-    <string key="uncUnsupported" value="Les chemins réseaux ne sont pas pris en charge pour cette fonctionnalité. Veuillez entrer un chemin différent et réessayez.&#xD;&#xA;" />
-    <string key="uncUnsupportedTitle" value="Chemins d'accès UNC non pris en charge&#xD;&#xA;" />
+    <string key="uncUnsupported" value="Les chemins réseaux ne sont pas pris en charge pour cette fonctionnalité. Veuillez entrer un chemin différent et réessayez." />
+    <string key="uncUnsupportedTitle" value="Chemins d'accès UNC non pris en charge" />
     <string key="invalidPath" value="Nom de fichier ou chemin invalide. Entrez un chemin valide pour continuer." />
     <string key="invalidPathTitle" value="Chemin invalide !" />
-    <string key="updateCheck" value="Vérification des mises à jour de EasyBCD ...&#xD;&#xA;" />
-    <string key="updateFailed" value="Échec de la vérification des mises à jour. Impossible d'établir une connexion réseau.&#xD;&#xA;" />
-    <string key="updateFailedSB" value="Échec de la vérification des mises à jour EasyBCD :&#xD;&#xA;" />
+    <string key="updateCheck" value="Vérification des mises à jour de EasyBCD ..." />
+    <string key="updateFailed" value="Échec de la vérification des mises à jour. Impossible d'établir une connexion réseau." />
+    <string key="updateFailedSB" value="Échec de la vérification des mises à jour EasyBCD :" />
     <string key="updateFound" value="Une nouvelle version de EasyBCD est disponible !" />
     <string key="updateFoundText" value="Une nouvelle version de EasyBCD a été trouvée. Souhaitez-vous aller à la page de téléchargement de EasyBCD pour passer à la dernière version ?" />
     <string key="updateNone" value="Vous avez la dernière version de EasyBCD" />
     <string key="install" value="Installer" />
     <string key="remove" value="Supprimer" />
-    <string key="adminLine1" value="EasyBCD nécessite des privilèges d'administrateur pour fonctionner correctement et ne peut pas continuer&#xD;&#xA;" />
+    <string key="adminLine1" value="EasyBCD nécessite des privilèges d'administrateur pour fonctionner correctement et ne peut pas continuer" />
     <string key="adminLine2" value="Veuillez vous connecter ou lancer EasyBCD en tant qu'administrateur pour continuer" />
     <string key="adminTitle" value="Permission refusée" />
     <string key="easybcdBackup" value="Sauvegarde EasyBCD" />
