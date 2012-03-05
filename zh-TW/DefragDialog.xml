@@ -3,5 +3,7 @@
   <strings>
     <string key="btnAbort" value="關於(&amp;A)" version="1" />
     <string key="CommandWindow" value="EasyBCD 命令視窗" version="1" />
+    <string key="MinimumWidth" value="427" />
+    <string key="MinimumHeight" value="279" version="6" />
   </strings>
 </localization>

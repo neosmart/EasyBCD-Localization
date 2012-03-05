@@ -35,5 +35,7 @@
     <string key="detailed" value="詳細資料" version="1" />
     <string key="locateBcd" value="尋找有效的 BCD 存放" version="1" />
     <string key="never" value="永不" version="1" />
+    <string key="MinimumWidth" value="452" />
+    <string key="MinimumHeight" value="359" />
   </strings>
 </localization>

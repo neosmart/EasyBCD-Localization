@@ -18,7 +18,9 @@
     <string key="regFail" value="電子郵件或註冊碼不正確，請重試。" version="1" />
     <string key="regException" value="嘗試從遠端伺服器取得授權時發生錯誤。 請確認您已連線 Internet 或稍後重試。" version="1" />
     <string key="regExceptionTitle" value="無法註冊" version="1" />
-    <string key="btnContinue" value="繼續" version="1"/>
+    <string key="btnContinue" value="繼續" version="1" />
     <string key="regSuccess" value="註冊完成!" version="1" />
+    <string key="MinimumWidth" value="511" />
+    <string key="MinimumHeight" value="334" />
   </strings>
 </localization>

@@ -197,5 +197,7 @@
     <string key="safeVga" value="基本 VGA" version="1" />
     <string key="safeAD" value="Active Directory 修復" version="1" />
     <string key="emptyList" value="偵測不到項目!" version="1" />
+    <string key="MinimumWidth" value="583" />
+    <string key="MinimumHeight" value="456" version="2" />
   </strings>
 </localization>

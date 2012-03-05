@@ -10,5 +10,7 @@
     <string key="donationTitle" value="協助 EasyBCD 幫助您!" version="1" />
     <string key="lblYouDonate" value="您要贊助以協助 EasyBCD 挽救更多 PC 嗎?" version="1" />
     <string key="DonationDialog" value="EasyBCD 有助於您嗎?" version="1" />
+    <string key="MinimumWidth" value="481" />
+    <string key="MinimumHeight" value="342" version="5" />
   </strings>
 </localization>

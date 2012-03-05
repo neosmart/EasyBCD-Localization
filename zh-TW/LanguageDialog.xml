@@ -2,5 +2,8 @@
 <localization>
   <strings>
     <string key="title" value="選擇語言" version="1" />
+    <string key="btnGo" value="確定" version="1" />
+    <string key="MinimumWidth" value="317" />
+    <string key="MinimumHeight" value="87" version="3" />
   </strings>
 </localization>
