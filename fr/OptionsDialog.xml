@@ -5,7 +5,7 @@
     <string key="btnCancel" value="Annuler" version="2" />
     <string key="chkExpertMode" value="lancer EasyBCD en mode expert" version="1" />
     <string key="chkRememberBackup" value="Se souvenir du dossier de sauvegarde de la BCD en quittant" version="1" />
-    <string key="lblExpertMode" value="Le mode expert n'est pas la pour guider l'utilisateur avant une action !" version="1" />
+    <string key="lblExpertMode" value="Le mode expert n'est pas la pour guider l'utilisateur avant une action avancée !" version="1" />
     <string key="chkLoadDefaultBcd" value="Charger automatiquement le fichier BCD suivant au démarrage :" version="1" />
     <string key="btnBrowseBcd" value="..." version="1" />
     <string key="chkAutoUpdate" value="Vérifier les mises à jour chaque" version="1" />
@@ -16,10 +16,10 @@
     <string key="rdoMonths" value="mois" version="1" />
     <string key="lblLastUpdateCheck" value="Dernière vérification le : " version="1" />
     <string key="tabGeneralSettings" value="Réglages généraux" version="1" />
-    <string key="lblDefaultTab" value="Onglet par défaut :" version="1" />
-    <string key="lblDefaultDisplay" value="Affichage par défaut :" version="1" />
-    <string key="lblOverviewFont" value="Police du mode simple :" version="1" />
-    <string key="lblDetailedFont" value="Police du mode détaillé :" version="1" />
+    <string key="lblDefaultTab" value="Onglet par défaut au démarrage :" version="1" />
+    <string key="lblDefaultDisplay" value="Mode d'affichage par défaut au démarrage :" version="1" />
+    <string key="lblOverviewFont" value="Police du mode d'affichage simple :" version="1" />
+    <string key="lblDetailedFont" value="Police du mode d'affichage détaillé :" version="1" />
     <string key="lblOverviewSize" value="Taille : " version="1" />
     <string key="numFontOverview" value="8" version="1" />
     <string key="lblOverviewPt" value="pt." version="1" />
@@ -35,5 +35,7 @@
     <string key="detailed" value="Détaillé" version="1" />
     <string key="locateBcd" value="Localiser un magasin BCD valide" version="1" />
     <string key="never" value="Jamais" version="1" />
+    <string key="MinimumWidth" value="550" />
+    <string key="MinimumHeight" value="360" />
   </strings>
 </localization>
