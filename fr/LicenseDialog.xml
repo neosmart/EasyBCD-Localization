@@ -18,5 +18,7 @@
     <string key="regExceptionTitle" value="Impossible de s'enregistrer" version="1" />
     <string key="btnContinue" value="Continuer" />
     <string key="regSuccess" value="Enregistrement terminé !" version="1" />
+    <string key="MinimumWidth" value="511" />
+    <string key="MinimumHeight" value="334" />
   </strings>
 </localization>
