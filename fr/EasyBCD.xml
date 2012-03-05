@@ -95,22 +95,22 @@
     <string key="confirmDeleteTitle" value="Confirmer la suppression ?" />
     <string key="entryDeleted" value="Entrée du menu de démarrage supprimée" />
     <string key="thankYou" value="Votre soutien est apprécié !" />
-    <string key="loadExternal" value="Avec cette fonctionnalité, EasyBCD va charger et utiliser une base de données BCD externe de votre choix. Des modifications seront apportées à ce magasin BCD et n'affectera pas la configuration par défaut de votre système.&#xD;&#xA;" />
-    <string key="loadExternalTitle" value="Sélection d'un nouveau magasin&#xD;&#xA;" />
-    <string key="easybcdFiles" value="Fichiers EasyBCD&#xD;&#xA;" />
-    <string key="errorRO1" value="Soit vous n'avez pas la permission d'écrire sur le fichier sélectionné, soit le fichier est défini en lecture seule, ou est stocké sur un support en lecture seule.&#xD;&#xA;" />
-    <string key="errorRO2" value="Si vous choisissez de continuer, les modifications apportées à ce magasin BCD ne seront pas sauvées. Appuyez sur 'Oui' pour continuer et charger ce magasin BCD dans le mode lecture seule ou «Non» pour continuer à utiliser le magasin BCD précédent.&#xD;&#xA;" />
-    <string key="errorROTitle" value="Magasin BCD en lecture seule détecté&#xD;&#xA;" />
-    <string key="bcdLoadedFormat" value="Informations BCD chargés de {0}&#xD;&#xA;" />
-    <string key="noBcd" value="Aucun magasin BCD chargé. EasyBCD fonctionne en mode restreint.&#xD;&#xA;" />
-    <string key="confirmRestart" value="Etes-vous sûr de vouloir redémarrer votre ordinateur?&#xD;&#xA;" />
-    <string key="confirmRestartTitle" value="Confirmer le redémarrage&#xD;&#xA;" />
-    <string key="shutdownStarted" value="Arrêt déclenché.&#xD;&#xA;" />
-    <string key="hiddenBootIni" value="Boot.ini est situé sur la partition de démarrage cachée et ne peut être chargé pour l'édition utilisateur par EasyBCD. Assigner une lettre de lecteur à la partition de démarrage cachées ou utiliser la fonctionnalité d'auto-configuration du double boot de Windows XP  à la place.&#xD;&#xA;" />
-    <string key="errorBootIniTitle" value="Impossible de charger le fichier boot.ini!&#xD;&#xA;" />
-    <string key="errorBootIniFormat" value="EasyBCD ne pouvait pas détecter un fichier boot.ini existant sur la partition de démarrage {0}. Ajoutez une nouvelle entrée Windows XP ou Windows 2000 pour utiliser la fonction d'auto-configuration boot.ini à la place.&#xD;&#xA;" />
-    <string key="errorUtility" value="Erreur rencontrée au lancement de l'utilitaire&#xD;&#xA;" />
-    <string key="sysInfo" value="Information Systeme" />
+    <string key="loadExternal" value="Avec cette fonctionnalité, EasyBCD va charger et utiliser une base de données BCD externe de votre choix. Des modifications seront apportées à ce magasin BCD et n'affectera pas la configuration par défaut de votre système." />
+    <string key="loadExternalTitle" value="Sélection d'un nouveau magasin" />
+    <string key="easybcdFiles" value="Fichier EasyBCD" />
+    <string key="errorRO1" value="Soit vous n'avez pas la permission d'écrire sur le fichier sélectionné, soit le fichier est défini ou stocké sur un support en lecture seule.&#xD;&#xA;" />
+    <string key="errorRO2" value="Si vous choisissez de continuer, les modifications apportées à ce magasin BCD ne seront pas sauvées. Appuyez sur «Oui» pour continuer et charger ce magasin BCD en mode lecture seule ou «Non» pour continuer à utiliser le magasin BCD précédent.&#xD;&#xA;" />
+    <string key="errorROTitle" value="Magasin BCD en lecture seule détecté" />
+    <string key="bcdLoadedFormat" value="Informations BCD chargées de {0}" />
+    <string key="noBcd" value="Aucun magasin BCD chargé. EasyBCD fonctionne en mode restreint." />
+    <string key="confirmRestart" value="Etes-vous sûr de vouloir redémarrer votre ordinateur ?" />
+    <string key="confirmRestartTitle" value="Confirmer le redémarrage" />
+    <string key="shutdownStarted" value="Arrêt déclenché." />
+    <string key="hiddenBootIni" value="Boot.ini est situé sur la partition de démarrage cachée et ne peut être chargé pour l'édition utilisateur par EasyBCD.&#xD;&#xA;&#xD;&#xA;Veuillez assigner une lettre de lecteur à la partition de démarrage cachées ou utiliser la fonctionnalité d'auto-configuration du double boot de Windows XP à la place." />
+    <string key="errorBootIniTitle" value="Impossible de charger le fichier boot.ini !" />
+    <string key="errorBootIniFormat" value="EasyBCD n'a pas pu détecter un fichier boot.ini existant sur la partition de démarrage {0}.&#xD;&#xA;&#xD;&#xA;Veuillez ajouter une nouvelle entrée Windows XP ou Windows 2000 pour utiliser la fonction d'auto-configuration boot.ini à la place." />
+    <string key="errorUtility" value="Erreur rencontrée au lancement de l'utilitaire" />
+    <string key="sysInfo" value="Informations système" />
     <string key="sysInfoText" value="Affiche les informations concernant votre matériel et logicielle actuelle. Utile pour mettre le doigt sur les défaillances matérielles et pour obtenir rapidement un dump de la configuration du système actuelle.&#xD;&#xA;" />
     <string key="powerConsole" value="Console avancée EasyBCD" />
     <string key="powerConsoleText" value="Accès rapide à un shell en ligne de commande avec des privilèges administratifs complets. Utilisez-le pour lancer des fonctions du système ou pour un accès rapide à bcdedit et bootsect.exe.&#xD;&#xA;" />
