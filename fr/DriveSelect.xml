@@ -8,5 +8,7 @@
     <string key="DriveSelect" value="Disque sélectionné" version="1" />
     <string key="errorAlreadyBoot" value="Le disque que vous avez sélectionné est déjà le disque de démarrage actuel. Veuillez sélectionner un autre disque pour continuer !" version="1" />
     <string key="errorAlreadyBootTitle" value="Veuillez sélectionner un autre disque !" version="1" />
+    <string key="MinimumWidth" value="518" />
+    <string key="MinimumHeight" value="199" />
   </strings>
 </localization>
