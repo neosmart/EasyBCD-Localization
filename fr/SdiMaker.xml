@@ -6,5 +6,7 @@
     <string key="Body" value="Afin de continuer, EasyBCD a besoin d'accéder au support d'installation de Windows Vista ou Windows 7 (généralement un DVD ou une image disque). Veuillez insérer le DVD dans votre lecteur optique ou monter l'image disque, puis cliquez sur OK pour continuer." version="1" />
     <string key="SdiMaker" value="Insérer le disque d'installation de Windows" version="1" />
     <string key="mediaNotFound" value="Aucun disque d'installation de Windows valide détecté." version="1" />
+    <string key="MinimumWidth" value="381" />
+    <string key="MinimumHeight" value="196" />
   </strings>
 </localization>
