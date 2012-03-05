@@ -58,7 +58,7 @@
     <string key="paeDefault" value="Par défaut : laisse Windows déterminer comment gérer la mémoire." />
     <string key="paeEnable" value="Activée : force la prise en charge de la PAE." />
     <string key="paeDisable" value="Désactivée : force la non prise en charge de la PAE." />
-    <string key="paeTitle" value="A propos des options du support de la PAE" />
+    <string key="paeTitle" value="A propos du support de la PAE" />
     <string key="nxIntro" value="La DEP est une couche matérielle de système de détection de scripts malveillants introduit dans Windows XP SP2. Elle peut aider à protéger votre système contre des attaques mais peut aussi causer des problèmes de compatibilité.&#xD;&#xA;" />
     <string key="nxOptIn" value="OptIn : la DEP est activée pour Windows et les applications compatibles." />
     <string key="nxOptOut" value="OptOut : la DEP est activée pour tout le système à l'exclusion des applications spécifiées." />
@@ -111,24 +111,24 @@
     <string key="errorBootIniFormat" value="EasyBCD n'a pas pu détecter un fichier boot.ini existant sur la partition de démarrage {0}.&#xD;&#xA;&#xD;&#xA;Veuillez ajouter une nouvelle entrée Windows XP ou Windows 2000 pour utiliser la fonction d'auto-configuration boot.ini à la place." />
     <string key="errorUtility" value="Erreur rencontrée au lancement de l'utilitaire" />
     <string key="sysInfo" value="Informations système" />
-    <string key="sysInfoText" value="Affiche les informations concernant votre matériel et logicielle actuelle. Utile pour mettre le doigt sur les défaillances matérielles et pour obtenir rapidement un dump de la configuration du système actuelle.&#xD;&#xA;" />
+    <string key="sysInfoText" value="Affiche les informations concernant votre configuration matérielle et logicielle actuelle. Utile pour mettre le doigt sur les défaillances matérielles et pour obtenir rapidement un instantané de la configuration du système." />
     <string key="powerConsole" value="Console avancée EasyBCD" />
-    <string key="powerConsoleText" value="Accès rapide à un shell en ligne de commande avec des privilèges administratifs complets. Utilisez-le pour lancer des fonctions du système ou pour un accès rapide à bcdedit et bootsect.exe.&#xD;&#xA;" />
-    <string key="sysRestore" value="restauration du système&#xD;&#xA;" />
-    <string key="sysRestoreText" value="Ouvre le panneau de restauration du système, utilisez le pour revenir rapidement / corriger tout changement qui met votre PC en difficulté.&#xD;&#xA;" />
-    <string key="restoreCds" value="CD de restauration système Windows Vista / 7 &#xD;&#xA;" />
-    <string key="restoreCdsText" value="Téléchargez une copie du CD de restauration système Windows Vista et Windows 7 pour le garder à portée de main en cas de sinistre. Vous pouvez utiliser EasyBCD pour démarrer depuis disques de récupération à partir d'un périphérique USB.&#xD;&#xA;" />
+    <string key="powerConsoleText" value="Accès rapide à un shell en ligne de commande avec des privilèges administrateurs complets. Utilisez-le pour lancer des fonctions du système ou pour un accès rapide à bcdedit et bootsect.exe." />
+    <string key="sysRestore" value="restauration du système" />
+    <string key="sysRestoreText" value="Ouvre le panneau de restauration du système, utilisez le pour rapidement annuler/corriger tout changement qui met votre PC en difficulté." />
+    <string key="restoreCds" value="CD de restauration système Windows Vista/7" />
+    <string key="restoreCdsText" value="Téléchargez une copie du CD de restauration système Windows Vista et Windows 7 pour le garder à portée de main en cas de sinistre. Vous pouvez utiliser EasyBCD pour démarrer du disque de récupération à partir d'un périphérique USB." />
     <string key="controlPanel" value="Panneau de configuration" />
-    <string key="controlPanelText" value="Lancez le Panneau de configuration, et l'utiliser pour faire ce que vous voulez.&#xD;&#xA;" />
-    <string key="iRebootText" value="Application d'aide de NeoSmart Technologies pour EasyBCD. iReboot se trouve dans votre barre des tâches (se contente de 400KB de mémoire!) et vous permet de choisir  rapidement et facilement quel système d'exploitation à redémarrer.&#xD;&#xA;" />
-    <string key="errorNoEntries" value="EasyBCD a détecté qu'il n'y a pas d'entrées actuellement installées. Si vous quittez EasyBCD et redémarrez votre ordinateur, il ne démarrera pas.&#xD;&#xA;Etes-vous sûr de vouloir quitter avant d'ajouter une nouvelle entrée?&#xD;&#xA;" />
-    <string key="errorNoEntriesTitle" value="Aucune entrée installée!&#xD;&#xA;" />
-    <string key="errorPathSave" value="EasyBCD n'a pas réussi à sauver le chemin de sauvegarde en cours en tant que répertoire de sauvegarde par défaut. L'option a été désactivée.&#xD;&#xA;" />
-    <string key="errorPathSaveTitle" value="Problème de chemin de sauvegarde par défaut&#xD;&#xA;" />
-    <string key="isoHelp1" value="EasyBCD supporte le chargement des images ISO en deux modes différents. S'il vous plaît notez que tous les ISO ne fonctionnent pas correctement, habituellement ISO de Linux ne fonctionneront pas.&#xD;&#xA;&#xD;&#xA;" />
-    <string key="isoHelp2" value="Exécuter à partir du disque: Se charge plus rapidement au démarrage, mais s'exécute plus lentement. Exige également un pré-traitement par EasyBCD lors de la création.&#xD;&#xA;" />
-    <string key="isoHelp3" value="Charger à partir de la mémoire: s'éxécute plus vite, mais prend du temps à charger lors de la sélection au démarrage. Peut échouer pour de grands disques ou sur les PC plus anciens.&#xD;&#xA;" />
-    <string key="isoHelpTitle" value="A propos des options ISO&#xD;&#xA;" />
-    <string key="warnDiffDevice" value="Le fichier sélectionné est stocké sur un périphérique différent de celui des fichiers de démarrage. Si vous comptez utiliser cette entrée pour démarrer sur un autre PC que celui que vous utilisez actuellement, vous devez copier ce fichier sur le disque externe, puis essayez à nouveau. &#xD;&#xA;Voulez-vous continuer malgré tout? &#xD;&#xA;" />
+    <string key="controlPanelText" value="Lancez le Panneau de configuration et utiliser le pour faire ce que vous voulez." />
+    <string key="iRebootText" value="Application d'aide de NeoSmart Technologies pour EasyBCD. iReboot se place dans votre barre des tâches (il se contente de 400 Ko de mémoire !) et vous permet de choisir  rapidement et facilement sur quel système d'exploitation redémarrer." />
+    <string key="errorNoEntries" value="EasyBCD n'a détecté aucune entrées actuellement installées. Si vous quittez EasyBCD et redémarrez votre ordinateur, aucun système d'exploitation ne se lancera.&#xD;&#xA;&#xD;&#xA;Etes-vous sûr de vouloir quitter sans ajouter une nouvelle entrée ?" />
+    <string key="errorNoEntriesTitle" value="Aucune entrée installée !" />
+    <string key="errorPathSave" value="EasyBCD n'a pas réussi à enregistrer le chemin de sauvegarde en cours en tant que répertoire de sauvegarde par défaut. L'option a été désactivée." />
+    <string key="errorPathSaveTitle" value="Problème de chemin de sauvegarde par défaut" />
+    <string key="isoHelp1" value="EasyBCD gére le chargement des images ISO de deux manières différents. Veuillez notez que tous les ISO ne fonctionnent pas correctement ; habituellement les ISO d'installation Linux ne fonctionnent pas.&#xD;&#xA;&#xD;&#xA;" />
+    <string key="isoHelp2" value="Exécuter à partir du disque : se charge plus rapidement au démarrage, mais s'exécute plus lentement. Exige également un pré-traitement par EasyBCD lors de la création.&#xD;&#xA;" />
+    <string key="isoHelp3" value="Charger à partir de la mémoire : s'éxécute plus vite, mais prend du temps à charger lors de la sélection au démarrage. Peut échouer pour de grands disques ou sur les PC plus anciens." />
+    <string key="isoHelpTitle" value="A propos des options ISO" />
+    <string key="warnDiffDevice" value="Le fichier sélectionné est stocké sur un périphérique différent de celui des fichiers de démarrage. Si vous comptez utiliser cette entrée pour démarrer sur un autre PC, vous devrez copier ce fichier sur un disque externe puis réessayez.&#xD;&#xA;&#xD;&#xA;Voulez-vous continuer malgré tout ?" />
   </strings>
 </localization>
