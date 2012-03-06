@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="lblApplyingActions" value="EasyBCD applique l'action sélectionnée.." version="1" />
-    <string key="ProgressDialog" value="Patientez s'il vous plaît" version="1" />
+    <string key="lblApplyingActions" value="EasyBCD applique l'action sélectionnée..." version="1" />
+    <string key="ProgressDialog" value="Veuillez patienter" version="1" />
+    <string key="MinimumWidth" value="371" />
+    <string key="MinimumHeight" value="110" />
   </strings>
 </localization>
