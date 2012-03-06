@@ -1,39 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="accessViolationFormat" value="Impossible d'obtenir un accès exclusif à {0}. Si c'est un disque amovible, veuillez l'éjecter puis le réinsérer et réessayer." version="1" />
+    <string key="accessViolationFormat" value="Impossible d'obtenir un accès exclusif à {0}. S'il s'agit d'un disque amovible, veuillez l'éjecter puis le réinsérer et réessayer." version="1" />
     <string key="failedSave" value="Impossible d'enregistrer les modifications !" version="1" />
-    <string key="accessDeniedTitle" value="Accès refusé" version="1" />
-    <string key="accessDeniedFormat" value="L'accès à {0} a été refusée. Veuillez vérifier que le fichier n'est pas utilisé et que vous êtes autorisé à le supprimer/modifier à cet emplacement." version="1" />
+    <string key="accessDeniedTitle" value="Accès Refusé" version="1" />
+    <string key="accessDeniedFormat" value="L'accès à {0} a été refusée. Veuillez vérifiez que le fichier n'est pas utilisé et que vous êtes autorisé à le supprimer/modifier à cet emplacement." version="1" />
     <string key="oneEntry" value="Il y a une entrée dans le chargeur d'amorçage de Windows." version="1" />
-    <string key="multiEntriesFormat" value="Il y a {0} entrées dans le chargeur d'amorçage de Windows." version="1" />
+    <string key="multiEntriesFormat" value="Il y a {0} entrées dans le chargeur d'amorçage de Windows" version="1" />
     <string key="entryNum" value="Entrée #" version="1" />
-    <string key="name" value="Nom" version="1" />
-    <string key="bcdId" value="Identifiant BCD" version="1" />
-    <string key="drive" value="Disque" version="1" />
-    <string key="device" value="Périphérique" version="1" />
-    <string key="path" value="Chemin" version="1" />
-    <string key="default" value="Entrée par défaut" version="1" />
-    <string key="timeout" value="Délai d'attente" version="1" />
-    <string key="none" value="Aucun" version="1" />
+    <string key="name" value="Nom " version="1" />
+    <string key="bcdId" value="Identifiant BCD " version="1" />
+    <string key="drive" value="Disque " version="1" />
+    <string key="device" value="Périphérique " version="1" />
+    <string key="path" value="Chemin " version="1" />
+    <string key="default" value="Entrée par défaut " version="1" />
+    <string key="timeout" value="Compte à rebours " version="1" />
+    <string key="none" value="En attente" version="1" />
     <string key="timeoutFormat" value="{0} seconde(s)" version="1" />
-    <string key="skipped" value="Sauté" version="1" />
+    <string key="skipped" value="Aucun" version="1" />
     <string key="bootDevice" value="Disque d'amorçage " version="1" />
     <string key="ebcdBootDevice" value="Disque d'amorçage EasyBCD " version="1" />
     <string key="bootloaderPath" value="Chemin du chargeur d'amorçage " version="1" />
     <string key="bcdError" value="Erreur d'exécution BCD !" version="1" />
     <string key="ntNotFoundTitle" value="Installation NT valide non trouvée !" version="1" />
-    <string key="ntNotFound" value="EasyBCD n'arrive pas à détecter d'installation valide de Windows NT-2003 sur les disques montés et ne peut donc pas continuer." version="1" />
-    <string key="manuallyLoad" value="Voulez-vous charger manuellement un registre BCD pour qu'EasyBCD gére ? Veuillez noter que EasyBCD nécessite le chargeur d'amorçage Windows Vista/7, et ne fonctionnera pas sous un environnement Windows XP seul." version="1" />
+    <string key="ntNotFound" value="EasyBCD n'a pas détecté d'installation valide de Windows NT-2003 sur aucun des lecteurs montés et ne peut pas continuer." version="1" />
+    <string key="manuallyLoad" value="Voulez-vous charger manuellement un registre BCD pour qu'EasyBCD le gére ? Veuillez noter qu'EasyBCD nécessite un chargeur d'amorçage Windows Vista/7 et ne fonctionnera pas sous un environnement Windows XP." version="1" />
     <string key="errorBcd" value="Erreur à l'ouverture du registre BCD" version="1" />
-    <string key="locateValid" value="Veuillez sélectionner un magasin BCD valide" version="1" />
+    <string key="locateValid" value="Veuillez sélectionner un magasin BCD valide." version="1" />
     <string key="bcdRegistry" value="Registre BCD" version="1" />
     <string key="partition" value="Partition" version="1" />
     <string key="unknown" value="Inconnu" version="1" />
     <string key="gib" value="Gio" version="1" />
     <string key="mib" value="Mio" version="1" />
-    <string key="as" value="Comme" version="1" />
-    <string key="defragFormat" value="Lancer la défragmentation du fichier {0}" version="1" />
+    <string key="as" value="de type :" version="1" />
+    <string key="defragFormat" value="Début de la défragmentation du fichier {0}" version="1" />
     <string key="unnamed" value="Entrée sans nom" version="1" />
   </strings>
 </localization>
