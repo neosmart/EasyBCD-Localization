@@ -73,7 +73,7 @@
     <string key="tabFloppy" value="Disquette" version="1" />
     <string key="btnPlopInstall" value="Installer PLoP" version="1" />
     <string key="btnPlopRemove" value="Supprimer PLoP" version="1" />
-    <string key="lblBiosExtend" value="L'extension de BIOS EasyBCD peut être utilisé pour démarrer d'un réseau, d'un CD ou d'un disque USB sur un ordinateur qui ne le gére nativement." version="1" />
+    <string key="lblBiosExtend" value="L'extension de BIOS EasyBCD peut être utilisé pour démarrer d'un réseau, d'un CD ou d'un disque USB sur un ordinateur qui ne le gére pas nativement." version="1" />
     <string key="tabPagePlop" value="Extension du BIOS" version="1" />
     <string key="grpPortable" value="Média portable/externe" version="1" />
     <string key="lblWindowsAuto" value="Déterminé automatiquement" version="1" />
