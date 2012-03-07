@@ -33,7 +33,7 @@
     <string key="msdosHelpTitle" value="Lire la documentation MsDos de EasyBCD ?" />
     <string key="addedFormat" value="{0} a été ajouté au menu de démarrage !" />
     <string key="neogrubBootloader" derive="true" />
-    <string key="neogrubRemoved" value="NeoGrub est supprimé !" />
+    <string key="neogrubRemoved" value="NeoGrub a été supprimé !" />
     <string key="vhdErrorTitle" value="Erreur ajout de l'entrée VHD" />
     <string key="errorSpaces" value="Le chemin de l'image ne doit pas contenir d'espaces. Veuillez corriger puis réessayez." />
     <string key="isoErrorTitle" value="Erreur ajout de l'entrée ISO" />
@@ -49,7 +49,7 @@
     <string key="bcdFiles" value="Fichier de sauvegarde EasyBCD" />
     <string key="safeIntro" value="EasyBCD vous permet de créer des entrées supplémentaires pour démarrer dans le même OS, mais avec des options de démarrage différentes. En créant une nouvelle entrée et en lui donnant l'un des options de démarrage en mode sans échec, vous pouvez l'utiliser pour dépanner rapidement votre système.&#xD;&#xA;" />
     <string key="safeNormal" value="Désactivé : toutes les options de récupération sont désactivées, votre système démarre de façon habituel.&#xD;&#xA;" />
-    <string key="safeVga" value="Mode VGA : charge les pilotes graphique de base, la résolution de l'écran est réinitialisée.&#xD;&#xA;" />
+    <string key="safeVga" value="Mode VGA : charge les pilotes graphiques de base, la résolution de l'écran est réinitialisée.&#xD;&#xA;" />
     <string key="safeNetworking" value="Avec prise en charge réseaux : permet un démarrage en mode sans échec avec un accès au réseau local et à Internet.&#xD;&#xA;" />
     <string key="safeMode" value="Sans prise en charge réseau : lance un démarrage en mode sans échec et sans accès au réseau. Utile si le pilote réseau a été corrompu.&#xD;&#xA;" />
     <string key="safeAD" value="Réparation Active Directory : démarre Windows Server 2008 en mode de réparation du service d'annuaire Active Directory&#xD;&#xA;&#xD;&#xA;" />
