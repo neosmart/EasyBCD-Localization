@@ -6,7 +6,9 @@
     <string key="OK_Button" value="Гаразд" version="1" />
     <string key="Cancel_Button" value="Скасувати" version="1" />
     <string key="DriveSelect" value="Вибрати диск" version="1" />
-    <string key="errorAlreadyBoot" value="Диск, який Ви обрали, вже є поточним завантажувальним диском. Будь ласка, виберіть інший диск для продовження!" version="1" />
+    <string key="errorAlreadyBoot" value="Диск, який Ви обрали, вже є поточним завантажувальним диском. Будь ласка, виберіть інший диск для продовження." version="1" />
     <string key="errorAlreadyBootTitle" value="Будь ласка, виберіть інший диск!" version="1" />
+    <string key="MinimumWidth" value="518" />
+    <string key="MinimumHeight" value="199" />
   </strings>
 </localization>

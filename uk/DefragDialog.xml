@@ -3,5 +3,7 @@
   <strings>
     <string key="btnAbort" value="Відмінити" version="1" />
     <string key="CommandWindow" value="Вікно команд EasyBCD" version="1" />
+    <string key="MinimumWidth" value="427" />
+    <string key="MinimumHeight" value="279" version="6" />
   </strings>
 </localization>

@@ -35,5 +35,7 @@
     <string key="detailed" value="Детальний" version="1" />
     <string key="locateBcd" value="Вкажіть існуючий файл BCD" version="1" />
     <string key="never" value="Ніколи" version="1" />
+    <string key="MinimumWidth" value="452" />
+    <string key="MinimumHeight" value="359" />
   </strings>
 </localization>

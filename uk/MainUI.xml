@@ -129,7 +129,7 @@
     <string key="grpCreateBootableExternal" value="Створення зовнішніх завантажувальних носіїв" version="1" />
     <string key="btnMbrWrite" value="Записати MBR" version="1" />
     <string key="rdoMbrXP" value="Встановити на MBR завантажувач Windows XP" version="1" />
-    <string key="rdoMbrVista" value="Встановити на MBR завантажувач Windows Vista/7" version="1" />
+    <string key="rdoMbrVista" value="Встановити на MBR завантажувач Windows Vista/7/8" version="1" />
     <string key="grpBootloader" value="Параметри MBR" version="1" />
     <string key="tabMbrSetup" value="6" version="1" />
     <string key="grpUtils" value="Корисні програми" version="1" />
@@ -171,7 +171,7 @@
     <string key="lstLoadMem" value="Завантаження в пам'ять" version="1" />
     <string key="lstWim" value="Образ WIM (Ramdisk)" version="1" />
     <string key="lstExtracted" value="Виділена файлова структура" version="1" />
-    <string key="lstWin7" value="Windows Vista/7" version="1" />
+    <string key="lstWin7" value="Windows Vista/7/8" version="1" />
     <string key="lstWinNt" value="Windows NT/2k/XP/2k3" version="1" />
     <string key="lstWin9x" value="Windows 95/98/ME" version="1" />
     <string key="lstWinDos" value="MS-DOS 6.x" version="1" />
@@ -197,5 +197,7 @@
     <string key="safeVga" value="Базовий VGA" version="1" />
     <string key="safeAD" value="Відновлення Active Directory" version="1" />
     <string key="emptyList" value="Записів не виявлено!" version="1" />
+    <string key="MinimumWidth" value="583" />
+    <string key="MinimumHeight" value="486" version="2" />
   </strings>
 </localization>
