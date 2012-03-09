@@ -129,7 +129,7 @@
     <string key="grpCreateBootableExternal" value="Créer un média externe amorçable" version="1" />
     <string key="btnMbrWrite" value="Ecraser la MBR" version="1" />
     <string key="rdoMbrXP" value="Installer le chargeur d'amorçage Windows XP dans la MBR" version="1" />
-    <string key="rdoMbrVista" value="Installer le chargeur d'amorçage Windows Vista/7 dans la MBR" version="1" />
+    <string key="rdoMbrVista" value="Installer le chargeur d'amorçage Windows Vista/7/8 dans la MBR" version="1" />
     <string key="grpBootloader" value="Options de configuration de la MBR" version="1" />
     <string key="tabMbrSetup" value="6" version="1" />
     <string key="grpUtils" value="Utilitaires" version="1" />
@@ -171,7 +171,7 @@
     <string key="lstLoadMem" value="Charger à partir de la mémoire" version="1" />
     <string key="lstWim" value="Image WIN (Ramdisk)" version="1" />
     <string key="lstExtracted" value="Disposition extraite du système de fichier" version="1" />
-    <string key="lstWin7" value="Windows Vista/7" version="1" />
+    <string key="lstWin7" value="Windows Vista/7/8" version="1" />
     <string key="lstWinNt" value="Windows NT/2k/XP/2k3" version="1" />
     <string key="lstWin9x" value="Windows 95/98/ME" version="1" />
     <string key="lstWinDos" value="MS-DOS 6.x" version="1" />
