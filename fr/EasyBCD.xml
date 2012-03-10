@@ -42,7 +42,7 @@
     <string key="name" value="Nom :" />
     <string key="drive" value="Disque :" />
     <string key="browseFileTitle" value="Parcourir" />
-    <string key="wimFiles" value="Fichiers image Windows" />
+    <string key="wimFiles" value="Fichier image Windows" />
     <string key="vhdFiles" value="Fichier de disque dur virtuel" />
     <string key="isoFiles" value="Image ISO" />
     <string key="imgFiles" value="Fichier IMG" />
@@ -54,7 +54,7 @@
     <string key="safeMode" value="Sans prise en charge réseau : lance un démarrage en mode sans échec et sans accès au réseau. Utile si le pilote réseau a été corrompu.&#xD;&#xA;" />
     <string key="safeAD" value="Réparation Active Directory : démarre Windows Server 2008 en mode de réparation du service d'annuaire Active Directory&#xD;&#xA;&#xD;&#xA;" />
     <string key="safeTitle" value="A propos des options du mode sans échec" />
-    <string key="paeIntro" value="Les options d'extension d'adresse physique détermine comment Windows prend en charge la mémoire supplémentaire qui est au-delà du marqueur des 4 Gio. La PAE n'est disponible que sur les versions 32 bits de Windows XP - Serveur 2003/2008 - Vista - 7 et sur processeur x86 32 bits.&#xD;&#xA;" />
+    <string key="paeIntro" value="Les options d'extension d'adresse physique détermine comment Windows prend en charge la mémoire supplémentaire qui est au-delà du marqueur des 4 Gio. La PAE n'est disponible que sur les versions 32 bits de Windows XP - Serveur 2003/2008 - Vista - 7 - 8 et sur processeur x86 32 bits.&#xD;&#xA;" />
     <string key="paeDefault" value="Par défaut : laisse Windows déterminer comment gérer la mémoire." />
     <string key="paeEnable" value="Activée : force la prise en charge de la PAE." />
     <string key="paeDisable" value="Désactivée : force la non prise en charge de la PAE." />
@@ -74,7 +74,7 @@
     <string key="bootableTitle" value="Disque amorçable créé" />
     <string key="accessDeniedText" value="Impossible d'accéder à la BCD.Veuillez vérifier et vous assurer que le magasin BCD sur le périphérique sélectionné n'est pas en cours d'utilisation.&#xD;&#xA;" />
     <string key="partitionConverted" value="Partition convertie en volume de démarrage" />
-    <string key="bcdRemove1" value="Ceci est une option avancée qui ne doit être utilisée que si vous êtes absolument sûr de vouloir désinstaller le chargeur d'amorçage de Windows Vista/7 !" />
+    <string key="bcdRemove1" value="Ceci est une option avancée qui ne doit être utilisée que si vous êtes absolument sûr de vouloir désinstaller le chargeur d'amorçage de Windows Vista/7/8 !" />
     <string key="bcdRemove2" value="Cette fonctionnalité ne démarre sous Windows XP que si les fichiers de démarrage appropriées sont déjà en place !" />
     <string key="bcdRemove3" value="Etes vous sûr de vouloir continuer ?" />
     <string key="warning" value="Attention !" />
