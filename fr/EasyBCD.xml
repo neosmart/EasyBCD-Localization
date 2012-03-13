@@ -2,7 +2,7 @@
 <localization>
   <strings>
     <string key="linuxAuto" value="Localiser et charger automatiquement" />
-    <string key="communityText" value="EasyBCD Community Edition est sous licence libre pour usage non-commercial.&#xD;&#xA;Si vous utilisez ce logiciel dans un environnement commercial, veuillrz cliquez sur «Annuler» ci-dessous pour acheter une licence commerciale. Sinon, cliquez sur «OK» pour continuer." />
+    <string key="communityText" value="EasyBCD Community Edition est sous licence libre pour un usage non-commercial.&#xD;&#xA;Si vous utilisez ce logiciel dans un environnement commercial, veuillez cliquez sur «Annuler» ci-dessous pour acheter une licence commerciale. Sinon, cliquez sur «OK» pour continuer." />
     <string key="communityTitle" derive="true" />
     <string key="bcdInUse" value="Le fichier actuel est en cours d'utilisation et ne peut pas être ouvert par EasyBCD. Si vous essayez de (re)choisir le magasin système, cliquez sur «Non» ci-dessous puis utilisez l'option «Charger un magasin Système» dans le menu Fichier.&#xD;&#xA;Voulez-vous sélectionner un autre magasin pour une utilisation dans EasyBCD" />
     <string key="bcdInUseTitle" value="Erreur de violation d'accès" />
