@@ -147,5 +147,6 @@
     <string key="optionsSaved" value="Options saved successfully!" version="1" />
     <string key="orderSaved" value="Entry order saved" version="1" />
     <string key="easybcdStatus" value="EasyBCD Status" version="1" />
+    <string key="saveFileTitle" value="Save As" />
   </strings>
 </localization>
