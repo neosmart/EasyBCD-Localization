@@ -9,7 +9,7 @@
     <string key="chkLoadDefaultBcd" value="При старте автоматически загружать следующий файл BCD:" version="1" />
     <string key="btnBrowseBcd" value="..." version="1" />
     <string key="chkAutoUpdate" value="Проверять обновления через: " version="1" />
-    <string key="chkRss" value="Интегрировать NeoSmart Technologies в  платформу  Windows RSS" version="1" />
+    <string key="chkRss" value="Интегрировать NeoSmart Technologies в платформу Windows RSS" version="1" />
     <string key="numUpdateInterval" value="0" version="1" />
     <string key="rdoDays" value="Дней" version="1" />
     <string key="rdoWeeks" value="Недель" version="1" />
@@ -35,7 +35,7 @@
     <string key="detailed" value="Подробный" version="1" />
     <string key="locateBcd" value="Находить работающее BCD-хранилище" version="1" />
     <string key="never" value="Никогда" version="1" />
+    <string key="MinimumWidth" value="452" />
+    <string key="MinimumHeight" value="359" />
   </strings>
 </localization>
-
-

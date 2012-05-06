@@ -2,12 +2,14 @@
 <localization>
   <strings>
     <string key="OKButton" value="&amp;OK" version="1" />
-    <string key="AboutBox" value="О программе" version="1" />
     <string key="seatsAllowed" value="users/devices allowed" version="1" />
     <string key="unlicensed" value="Не лицензионная копия!" version="1" />
     <string key="version" value="Версия" version="1" />
     <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - 2011" version="1" />
     <string key="aboutText1" value="EasyBCD - это мощный менеджер загрузки операционных систем. Нет никакой гарантии, что данная версия EasyBCD будет устойчиво работать со всеми версиями Windows, поэтому всегда проверяйте наличие самой  последней доступной версии.  &#xD;&#xA;&#xD;&#xA;• Ведущий разработчик: Mahmoud H. Al-Qudsi&#xD;&#xA;• Активные ингредиенты: кровь, пот и слезы&#xD;&#xA;•Разрабатывалась на C++, C#, Dr. Pepper, Excedrin, и Visine&#xD;&#xA;• Мы работаем на вас!" version="1" />
     <string key="thanksFormat" value="Особая благодарность командам Grub4Dos, PLoP,{0} и UltraDefrag!&#xD;&#xA;В эту версию EasyBCD включены в качестве самостоятельных модулей Grub4Dos и UltraDefrag, распространяемых на условиях лицензии GPLv2. Для получения дополнительной информации см. файл лицензии в корневом каталоге. &#xD;&#xA;&#xD;&#xA;• Русский перевод: Дэн Старов, Dr.Dobryansky, z_mashine, Н.Мартишин." version="1" />
+    <string key="title" value="О программе {0}" version="1" />
+    <string key="MinimumWidth" value="486" />
+    <string key="MinimumHeight" value="376" version="6" /> 
   </strings>
 </localization>

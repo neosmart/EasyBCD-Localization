@@ -4,17 +4,11 @@
     <string key="chkDontRemind" value="Больше не напоминать об этом" version="1" />
     <string key="btnCancel" value="Нет, спасибо" version="1" />
     <string key="btnDonate" value="Пожертвовать" version="1" />
-    <string key="lblDonationIntro" value="EasyBCD - на 100% бесплатная программа, и мы намерены сохранять это. Но ее дальнейшее совершенствование что-нибудь, да стоит.&#xD;&#xA;EasyBCD скачана уже более 25 млн раз, что спасло множество компьютеров, находящихся на грани краха." version="1" />
-    <string key="donationTitle" value="Help EasyBCD Help You!" version="1" />
+    <string key="lblDonationIntro" value="EasyBCD (свободная версия) на 100% бесплатное программное обеспечение и мы намерены сохранить его таковым. Но это не значит, что его разработка и тестирование обходятся дешево.&#xD;&#xA;&#xD;&#xA;EasyBCD уже скачали более 25 млн раз, что уберегло множество компьютеров от краха системы." version="1" />
+    <string key="donationTitle" value="Помогая EasyBCD, помогаешь себе!" version="1" />
     <string key="lblYouDonate" value="Вы готовы помочь EasyBCD и спасти больше ПК?" version="1" />
     <string key="DonationDialog" value="EasyBCD помог Вам?" version="1" />
+    <string key="MinimumWidth" value="540" />
+    <string key="MinimumHeight" value="342" version="5" />
   </strings>
 </localization>
-
-
-
-
-
-
-
-

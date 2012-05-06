@@ -3,5 +3,7 @@
   <strings>
     <string key="lblApplyingActions" value="EasyBCD выполняет выбранное действие. Ожидайте." version="1" />
     <string key="ProgressDialog" value="Пожалуйста, ждите" version="1" />
+    <string key="MinimumWidth" value="371" />
+    <string key="MinimumHeight" value="110" version="1" />
   </strings>
 </localization>

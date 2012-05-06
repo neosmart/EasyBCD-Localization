@@ -6,12 +6,12 @@
     <string key="chkWordWrap" value="Перенос строк" version="1" />
     <string key="grpDisplayMode" value="Режим отображения" version="1" />
     <string key="tabViewSettings" value="1" version="1" />
-    <string key="rdoTimeoutCount" value="Время ожидания" version="1" />
+    <string key="rdoTimeoutCount" value="Timeout" version="1" />
     <string key="numTimeout" derive="true" />
     <string key="rdoTimeoutNone" value="Ждать выбора пользователя" version="1" />
     <string key="rdoTimeoutSkip" value="Пропустить меню начальной загрузки" version="1" />
     <string key="btnSaveBCD" value="Сохранить" version="1" />
-    <string key="groupBox2" value="Время ожидания" version="1" />
+    <string key="groupBox2" value="Timeout" version="1" />
     <string key="btnUp" value="Вверх" version="1" />
     <string key="btnDown" value="Вниз" version="1" />
     <string key="btnRenameEntry" value="Переименовать" version="1" />
@@ -110,7 +110,7 @@
     <string key="lblLimit2" value="CPUs" version="1" />
     <string key="tabEntryDeveloper" value="Разработчикам" version="1" />
     <string key="lblAdvancedSettings" value="Примечание: Некоторые настройки, в зависимости от ОС, выбранной для изменений, могут быть недоступны." version="1" />
-    <string key="grpChangeSettings" value="Изменение  настроек" version="1" />
+    <string key="grpChangeSettings" value="Изменение настроек" version="1" />
     <string key="lblPickLH" value="Выберите ОС из выпадающего списка" version="1" />
     <string key="grpSelectLH" value="Выбор операционной системы" version="1" />
     <string key="tabAdvanced" derive="true" />
@@ -126,10 +126,10 @@
     <string key="btnMakeBootable" value="Установить BCD" version="1" />
     <string key="lblUsbPartitions" value="Раздел:" version="1" />
     <string key="lblCreateBootable" value="EasyBCD может автоматизировать создание загрузочного внешнего носителя. Выберите раздел из выпадающего списка." version="1" />
-    <string key="grpCreateBootableExternal" value="Создание загрузчика на  внешнем носителе" version="1" />
-    <string key="btnMbrWrite" value="Записать  MBR" version="1" />
-    <string key="rdoMbrXP" value="Установить загрузчик Windows XP в MBR" version="1" />
-    <string key="rdoMbrVista" value="Установить загрузчик Windows Vista/7 в MBR" version="1" />
+    <string key="grpCreateBootableExternal" value="Создание загрузчика на внешнем носителе" version="1" />
+    <string key="btnMbrWrite" value="Переписать MBR" version="1" />
+    <string key="rdoMbrXP" value="Установить загрузчик предшествующей Windows в MBR" version="1" />
+    <string key="rdoMbrVista" value="Установить загрузчик Windows Vista/7/8 в MBR" version="1" />
     <string key="grpBootloader" value="Параметры MBR" version="1" />
     <string key="tabMbrSetup" value="6" version="1" />
     <string key="grpUtils" value="Полезные утилиты" version="1" />
@@ -155,7 +155,7 @@
     <string key="mnuEditLegacy" value="Правка boot.ini" version="1" />
     <string key="mnuRestart" value="Перезагрузить компьютер" version="1" />
     <string key="mnuTools" value="Инструменты" version="1" />
-    <string key="mnuDocumentation" value="Документация" version="1" />
+    <string key="mnuDocumentation" value="Документация (OnLine)" version="1" />
     <string key="mnuSupport" value="Техподдержка" version="1" />
     <string key="mnuBug" value="Послать отчёт об ошибке" version="1" />
     <string key="mnuDonate2" value="Пожертвовать" version="1" />
@@ -197,5 +197,7 @@
     <string key="safeVga" derive="true" />
     <string key="safeAD" derive="true" />
     <string key="emptyList" value="В загрузочном меню нет записей!" version="1" />
+    <string key="MinimumWidth" value="583" />
+    <string key="MinimumHeight" value="456" version="2" />	
   </strings>
 </localization>

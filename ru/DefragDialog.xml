@@ -3,14 +3,7 @@
   <strings>
     <string key="btnAbort" value="Прервать" version="1" />
     <string key="CommandWindow" value="Командная строка EasyBCD" version="1" />
+    <string key="MinimumWidth" value="427" />
+    <string key="MinimumHeight" value="279" version="6" />
   </strings>
 </localization>
-
-
-
-
-
-
-
-
-
