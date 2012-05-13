@@ -147,5 +147,6 @@
     <string key="optionsSaved" value="Options sauvegardées avec succès !" />
     <string key="orderSaved" value="Ordre des entrées enregistré" />
     <string key="easybcdStatus" value="Statut d'EasyBCD" />
+    <string key="saveFileTitle" value="Enregistrer sous" />
   </strings>
 </localization>
