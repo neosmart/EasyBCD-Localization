@@ -148,5 +148,6 @@
     <string key="orderSaved" value="Entry order saved" version="1" />
     <string key="easybcdStatus" value="EasyBCD Status" version="1" />
     <string key="saveFileTitle" value="Save As" />
+    <string key="updateFoundText2" value="A new version of EasyBCD has been found. Would you like EasyBCD to automatically update to the latest version?&#xD;&#xA;&#xD;&#xA;Press 'Yes' to automatically download and upgrade, 'No' to see the list of changes and upgrade manually, or 'Cancel' to cancel." version="1" />
   </strings>
 </localization>
