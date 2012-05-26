@@ -102,12 +102,10 @@
     <string key="tabEntryAdvanced" value="Advanced" version="1" />
     <string key="chkEntryKernelDebug" value="Run Windows in Kernel-Debug Mode" version="1" />
     <string key="chkEntrySos" value="Run in SOS/Verbose-Boot Mode" version="1" />
-    <string key="chkEntryMemory" value="Deduct" version="1" />
     <string key="numEntryMemory" value="0" version="1" />
-    <string key="lblDeduct2" value="MB from physical memory" version="1" />
-    <string key="chkEntryCpu" value="Limit Windows to" version="1" />
+    <string key="lblDeduct2" value="MiB deducted from physical memory" version="2" />
     <string key="numEntryCpu" value="0" version="1" />
-    <string key="lblLimit2" value="CPUs" version="1" />
+    <string key="lblLimit2" value="Windows CPU/core limit" version="2" />
     <string key="tabEntryDeveloper" value="Developer" version="1" />
     <string key="lblAdvancedSettings" value="Note that some settings may be unavailable depending on the entry being modified." version="1" />
     <string key="grpChangeSettings" value="Change Settings" version="1" />
