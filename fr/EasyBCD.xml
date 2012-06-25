@@ -148,5 +148,6 @@
     <string key="orderSaved" value="Ordre des entrées enregistré" />
     <string key="easybcdStatus" value="Statut d'EasyBCD" />
     <string key="saveFileTitle" value="Enregistrer sous" />
+    <string key="updateFoundText2" value="Une nouvelle version de EasyBCD a été détectée. Désirez vous mettre à jour automatiquement EasyBCD vers la dernière version ?&#xD;&#xA;&#xD;&#xA;Cliquez sur 'Oui' pour télécharger et mettre à jour automatiquement, sur 'Non' pour voir la liste des changements et mettre à jour manuellement, ou sur 'Annuler' pour annuler." version="1" />
   </strings>
 </localization>
