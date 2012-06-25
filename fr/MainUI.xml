@@ -102,12 +102,10 @@
     <string key="tabEntryAdvanced" value="Avancés" version="1" />
     <string key="chkEntryKernelDebug" value="Lancer Windows en mode débogage du noyau" version="1" />
     <string key="chkEntrySos" value="Lancer Windows en mode SOS/démarrage détaillé" version="1" />
-    <string key="chkEntryMemory" value="Déduire" version="1" />
     <string key="numEntryMemory" value="0" version="1" />
-    <string key="lblDeduct2" value="Mio de la mémoire physique" version="1" />
-    <string key="chkEntryCpu" value="Limiter Windows à" version="1" />
+    <string key="lblDeduct2" value="MiO déduit de la mémoire physique" version="2" />
     <string key="numEntryCpu" value="0" version="1" />
-    <string key="lblLimit2" value="CPU(s)" version="1" />
+    <string key="lblLimit2" value=" CPU(s)/coeur(s) actif(s)" version="2" />
     <string key="tabEntryDeveloper" value="Développeur" version="1" />
     <string key="lblAdvancedSettings" value="Veuillez noter que certains paramètres peuvent ne pas être disponibles car dépendantes de l'entrée à modifier." version="1" />
     <string key="grpChangeSettings" value="Modifier les paramètres" version="1" />
