@@ -1,19 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="linkLabel" value="이지비씨디 이 복사본은 상업적 라이센스를 요구합니다.&#xD;&#xA;&#xD;&#xA;구매시 동봉된 이메일 주소 또는 라이센스 번호를 입력하세요.&#xD;&#xA;라이센스를 구매할려면 여기를 클릭하세요, 또는 지원을 위해 Sales@NeoSmart.net으로&#xD;&#xA;접촉하세요." />
-    <string key="linkClick" value="여기를 클릭하세요" />
-    <string key="btnRegister" value="&amp;레지스터" />
-    <string key="lblTitle" value="이지비씨디 상업용판" />
-    <string key="lblLicenseKey" value="이메일 또는 라이센스 키:" />
-    <string key="LicenseDialog" value="이지비씨디 상업용판" />
-    <string key="email" value="이메일" />
-    <string key="licenseKey" value="라이센스 키" />
-    <string key="regFailTitle" value="등록 실패!" />
-    <string key="regFail" value="부정확한 이메일 또는 라이센스 키. 다시 시도해 보세요" />
-    <string key="regException" value="원격 서버로부터 라이센스를 획득할 때 에러 발생됨&#xD;&#xA;인터넷에 접속되어 잇는지를 확인하고 조금후에 다시 해보세요." />
-    <string key="regExceptionTitle" value="등록 불가" />
-    <string key="btnContinue" value="계속한다" />
-    <string key="regSuccess" value="등록 완료!" />
+    <string key="linkLabel" value="이지비씨디 이 복사본은 상업적 라이센스를 요구합니다.&#xD;&#xA;&#xD;&#xA;구매시 동봉된 이메일 주소 또는 라이센스 번호를 입력하세요.&#xD;&#xA;라이센스를 구매할려면 여기를 클릭하세요, 또는 지원을 위해 Sales@NeoSmart.net으로&#xD;&#xA;접촉하세요." version="1" />
+    <string key="linkClick" value="여기를 클릭하세요" version="1" />
+    <string key="btnRegister" value="&amp;레지스터" version="1" />
+    <string key="lblTitle" value="이지비씨디 상업용판" version="1" />
+    <string key="lblLicenseKey" value="이메일 또는 라이센스 키:" version="1" />
+    <string key="LicenseDialog" value="이지비씨디 상업용판" version="1" />
+    <string key="email" value="이메일" version="1" />
+    <string key="licenseKey" value="라이센스 키" version="1" />
+    <string key="regFailTitle" value="등록 실패!" version="1" />
+    <string key="regFail" value="부정확한 이메일 또는 라이센스 키. 다시 시도해 보세요" version="1" />
+    <string key="regException" value="원격 서버로부터 라이센스를 획득할 때 에러 발생됨&#xD;&#xA;인터넷에 접속되어 잇는지를 확인하고 조금후에 다시 해보세요." version="1" />
+    <string key="regExceptionTitle" value="등록 불가" version="1" />
+    <string key="btnContinue" value="계속한다" version="1" />
+    <string key="regSuccess" value="등록 완료!" version="1" />
+    <string key="linkEmail" derive="true" />
   </strings>
 </localization>

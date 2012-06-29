@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="chkDontRemind" value="나에게 다시 알리지마세요" />
-    <string key="btnCancel" value="아니오 &amp;감사" />
-    <string key="btnDonate" value="&amp;기부" />
-    <string key="lblDonationIntro" value="이지비씨디 커뮤니티판은 100% 무료 소프트웨어이며 계속해서 이렇게 할 것이다.&#xD;&#xA;그러나 단지 무료라고해서 개발하고 실험하는데 비용이 더 적게 들어간다는 의미는&#xD;&#xA;아니다.&#xD;&#xA;&#xD;&#xA;최근까지, 이지비씨디는 이천오백만번 무료로 다운로드되었고,&#xD;&#xA;수많은 컴퓨터를 부팅불가 직전에서 구했다." />
-    <string key="donationTitle" value="이지비씨디를 도와주면 당신을 도와준다!" />
-    <string key="lblYouDonate" value="이지비씨디가 더많은 PC를 구조하는데 기부하시겠습니까?" />
-    <string key="DonationDialog" value="이지비씨디가 당신을 도왔나요?" />
+    <string key="chkDontRemind" value="나에게 다시 알리지마세요" version="1" />
+    <string key="btnCancel" value="아니오 &amp;감사" version="1" />
+    <string key="btnDonate" value="&amp;기부" version="1" />
+    <string key="lblDonationIntro" value="이지비씨디 커뮤니티판은 100% 무료 소프트웨어이며 계속해서 이렇게 할 것이다.&#xD;&#xA;그러나 단지 무료라고해서 개발하고 실험하는데 비용이 더 적게 들어간다는 의미는&#xD;&#xA;아니다.&#xD;&#xA;&#xD;&#xA;최근까지, 이지비씨디는 이천오백만번 무료로 다운로드되었고,&#xD;&#xA;수많은 컴퓨터를 부팅불가 직전에서 구했다." version="1" />
+    <string key="donationTitle" value="이지비씨디를 도와주면 당신을 도와준다!" version="1" />
+    <string key="lblYouDonate" value="이지비씨디가 더많은 PC를 구조하는데 기부하시겠습니까?" version="1" />
+    <string key="DonationDialog" value="이지비씨디가 당신을 도왔나요?" version="1" />
   </strings>
 </localization>

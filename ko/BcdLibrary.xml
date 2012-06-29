@@ -1,37 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="timeoutFormat" value="{0} 초" />
-    <string key="accessViolationFormat" value="{0} 에 독점적인 접속을 할 수없음. 만약에 이것이 이동가능한 디스크라면 &#xD;&#xA;빼고 다시 넣어서 다시 시도하세요." />
-    <string key="failedSave" value="변경을 저장하는데 실패!" />
-    <string key="unnamed" value="이름없는 부팅명단" />
-    <string key="accessDeniedTitle" value="접속 거부" />
-    <string key="accessDeniedFormat" value="{0} 에 접속이 거부됨. 파일이 사용중이 아닌지 이 장소에 제거/수정할 수 있는 권한이&#xD;&#xA;있는지를 확인하세요." />
-    <string key="oneEntry" value="윈도우즈 부트로더에 하나의 부팅명단이 있다." />
-    <string key="multiEntriesFormat" value="부트로더에 총 {0}개  부팅명단이 있다." />
-    <string key="entryNum" value="부팅명단 #" />
-    <string key="name" value="이름" />
-    <string key="drive" value="드라이브" />
-    <string key="device" value="장치" />
-    <string key="path" value="경로" />
-    <string key="default" value="디폴트" />
-    <string key="timeout" value="타임아웃" />
-    <string key="none" value="없음" />
-    <string key="skipped" value="건너뜀" />
-    <string key="bootDevice" value="부트 드라이브" />
-    <string key="ebcdBootDevice" value="이지비씨디 부트 장치" />
-    <string key="bootloaderPath" value="부트로더 경로" />
-    <string key="bcdError" value="BCD 실행 에러!" />
-    <string key="ntNotFoundTitle" value="유효한 NT 설치 없음 !" />
-    <string key="ntNotFound" value="모든 마운트된 드라이브에서 윈도우즈 NT -2003의 유효한 설치를 발견할 수 없어&#xD;&#xA;계속할 수 없었다." />
-    <string key="manuallyLoad" value="이지비씨디가 관리할 수 있도록 수동으로 BCD 레지스트리를 탑재하겠습니까?&#xD;&#xA;이지비씨디는 윈도우즈 비스타/7 부트로더가 필요합니다&#xD;&#xA;이지비씨디는 XP만 설치된 환경에서는 작동되지 않습니다." />
-    <string key="errorBcd" value="BCD 레지스트리 열기 에러" />
-    <string key="locateValid" value="유효한 BCD store 두다" />
-    <string key="bcdRegistry" value="BCD 레지스트리" />
-    <string key="partition" value="파티션" />
-    <string key="unknown" value="알수없는" />
-    <string key="gib" value="기가B" />
-    <string key="mib" value="메가B" />
-    <string key="defragFormat" value="{0} 파일 조각모음 시작" />
+    <string key="timeoutFormat" value="{0} 초" version="1" />
+    <string key="accessViolationFormat" value="{0} 에 독점적인 접속을 할 수없음. 만약에 이것이 이동가능한 디스크라면 &#xD;&#xA;빼고 다시 넣어서 다시 시도하세요." version="1" />
+    <string key="failedSave" value="변경을 저장하는데 실패!" version="1" />
+    <string key="unnamed" value="이름없는 부팅명단" version="1" />
+    <string key="accessDeniedTitle" value="접속 거부" version="1" />
+    <string key="accessDeniedFormat" value="{0} 에 접속이 거부됨. 파일이 사용중이 아닌지 이 장소에 제거/수정할 수 있는 권한이&#xD;&#xA;있는지를 확인하세요." version="1" />
+    <string key="oneEntry" value="윈도우즈 부트로더에 하나의 부팅명단이 있다." version="1" />
+    <string key="multiEntriesFormat" value="부트로더에 총 {0}개  부팅명단이 있다." version="1" />
+    <string key="entryNum" value="부팅명단 #" version="1" />
+    <string key="name" value="이름" version="1" />
+    <string key="drive" value="드라이브" version="1" />
+    <string key="device" value="장치" version="1" />
+    <string key="path" value="경로" version="1" />
+    <string key="default" value="디폴트" version="1" />
+    <string key="timeout" value="타임아웃" version="1" />
+    <string key="none" value="없음" version="1" />
+    <string key="skipped" value="건너뜀" version="1" />
+    <string key="bootDevice" value="부트 드라이브" version="1" />
+    <string key="ebcdBootDevice" value="이지비씨디 부트 장치" version="1" />
+    <string key="bootloaderPath" value="부트로더 경로" version="1" />
+    <string key="bcdError" value="BCD 실행 에러!" version="1" />
+    <string key="ntNotFoundTitle" value="유효한 NT 설치 없음 !" version="1" />
+    <string key="ntNotFound" value="모든 마운트된 드라이브에서 윈도우즈 NT -2003의 유효한 설치를 발견할 수 없어&#xD;&#xA;계속할 수 없었다." version="1" />
+    <string key="manuallyLoad" value="이지비씨디가 관리할 수 있도록 수동으로 BCD 레지스트리를 탑재하겠습니까?&#xD;&#xA;이지비씨디는 윈도우즈 비스타/7 부트로더가 필요합니다&#xD;&#xA;이지비씨디는 XP만 설치된 환경에서는 작동되지 않습니다." version="1" />
+    <string key="errorBcd" value="BCD 레지스트리 열기 에러" version="1" />
+    <string key="locateValid" value="유효한 BCD store 두다" version="1" />
+    <string key="bcdRegistry" value="BCD 레지스트리" version="1" />
+    <string key="partition" value="파티션" version="1" />
+    <string key="unknown" value="알수없는" version="1" />
+    <string key="gib" value="기가B" version="1" />
+    <string key="mib" value="메가B" version="1" />
+    <string key="defragFormat" value="{0} 파일 조각모음 시작" version="1" />
   </strings>
 </localization>

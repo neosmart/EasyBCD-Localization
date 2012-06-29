@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="title" value="언어를 선택" />
-    <string key="btnGo" value="실행" />
+    <string key="title" value="언어를 선택" version="1" />
+    <string key="btnGo" value="실행" version="1" />
   </strings>
 </localization>

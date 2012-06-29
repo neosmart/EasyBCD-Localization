@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="btnAbort" value="&amp;중지" />
-    <string key="CommandWindow" value="이지비씨디 명령창" />
+    <string key="btnAbort" value="&amp;중지" version="1" />
+    <string key="CommandWindow" value="이지비씨디 명령창" version="1" />
   </strings>
 </localization>

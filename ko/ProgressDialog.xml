@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="lblApplyingActions" value="이지비씨디가 선택된 작업을 적용중입니다" />
-    <string key="ProgressDialog" value="잠시만 기다리세요" />
+    <string key="lblApplyingActions" value="이지비씨디가 선택된 작업을 적용중입니다" version="1" />
+    <string key="ProgressDialog" value="잠시만 기다리세요" version="1" />
   </strings>
 </localization>
