@@ -10,6 +10,6 @@
     <string key="thanksFormat" value="Особая благодарность командам Grub4Dos, PLoP,{0} и UltraDefrag!&#xD;&#xA;В эту версию EasyBCD включены в качестве самостоятельных модулей Grub4Dos и UltraDefrag, распространяемых на условиях лицензии GPLv2. Для получения дополнительной информации см. файл лицензии в корневом каталоге. &#xD;&#xA;&#xD;&#xA;• Русский перевод: Дэн Старов, Dr.Dobryansky, z_mashine, Н.Мартишин." version="1" />
     <string key="title" value="О программе {0}" version="1" />
     <string key="MinimumWidth" value="486" />
-    <string key="MinimumHeight" value="376" version="6" /> 
+    <string key="MinimumHeight" value="376" version="6" />
   </strings>
 </localization>

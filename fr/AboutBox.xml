@@ -2,7 +2,6 @@
 <localization>
   <strings>
     <string key="OKButton" derive="true" />
-    <string key="AboutBox" value="A propos" />
     <string key="seatsAllowed" value="Utilisateurs/Périphériques autorisés" />
     <string key="unlicensed" value="Copie sans licence !" />
     <string key="version" derive="true" />

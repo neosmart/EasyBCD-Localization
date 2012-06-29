@@ -2,7 +2,6 @@
 <localization>
   <strings>
     <string key="OKButton" value="&amp;موافق" version="1" />
-    <string key="AboutBox" value="عن " version="1" />
     <string key="unlicensed" value="نسخة غير مرخصة!" version="1" />
     <string key="version" value="الإصدارة" version="1" />
     <string key="copyright" value="حق النسخ محفوظ لشركة ©NeoSmart Technologies 2006-2011" version="1" />

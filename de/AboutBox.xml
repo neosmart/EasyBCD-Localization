@@ -2,7 +2,6 @@
 <localization>
   <strings>
     <string key="OKButton" value="&amp;OK" version="1" />
-    <string key="AboutBox" value="Info-Box" version="1" />
     <string key="seatsAllowed" value="Erlaubte Nutzer / Geräte" version="1" />
     <string key="version" value="Version" version="1" />
     <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - 2011" version="1" />

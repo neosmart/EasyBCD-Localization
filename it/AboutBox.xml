@@ -2,7 +2,6 @@
 <localization>
   <strings>
     <string key="OKButton" value="&amp;OK" version="1" />
-    <string key="AboutBox" value="Informazioni su" version="1" />
     <string key="seatsAllowed" value="utenti/dispositivi consentiti" version="1" />
     <string key="unlicensed" value="Copia senza licenza!" version="1" />
     <string key="version" value="Versione" version="1" />

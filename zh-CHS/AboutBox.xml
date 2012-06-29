@@ -2,7 +2,6 @@
 <localization>
   <strings>
     <string key="OKButton" value="确定" version="1" />
-    <string key="AboutBox" value="关于信息" version="1" />
     <string key="seatsAllowed" value="允许用户/设备" version="1" />
     <string key="unlicensed" value="未授权副本!" version="1" />
     <string key="version" value="版本" version="1" />

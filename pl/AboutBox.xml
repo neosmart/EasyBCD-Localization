@@ -3,7 +3,6 @@
   <strings>
     <string key="OKButton" value="&amp;OK" version="1" />
     <string key="seatsAllowed" value="użytkownicy/urządzenia dozwolone" version="1" />
-    <string key="AboutBox" value="O programie" version="1" />
     <string key="unlicensed" value="Kopia nielicencjonowana!" version="1" />
     <string key="version" value="Wersja" version="1" />
     <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - 2011" version="1" />
