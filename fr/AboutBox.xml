@@ -2,14 +2,14 @@
 <localization>
   <strings>
     <string key="OKButton" derive="true" />
-    <string key="seatsAllowed" value="Utilisateurs/Périphériques autorisés" />
-    <string key="unlicensed" value="Copie sans licence !" />
+    <string key="seatsAllowed" value="Utilisateurs/Périphériques autorisés" version="1" />
+    <string key="unlicensed" value="Copie sans licence !" version="1" />
     <string key="version" derive="true" />
     <string key="copyright" derive="true" />
-    <string key="aboutText1" value="EasyBCD est l'outil ultime de gestion du démarrage et du chargeur de démarrage. Il n'y a aucune garantie que EasyBCD fonctionnera avec toutes les versions de Windows - assurez-vous de toujours utiliser la dernière version disponible.&#xD;&#xA;&#xD;&#xA;• Chef de développement : Mahmoud H. Al-Qudsi &#xD;&#xA;• Ingrédients actifs : sueur, sang et larmes &#xD;&#xA;• Ecrit en C++, C#, Dr Pepper, Excedrin et Visine &#xD;&#xA;• Tous vos démarrages nous appartiennent !&#xD;&#xA;&#xD;&#xA;" />
-    <string key="thanksFormat" value="Remerciements spéciaux aux équipes de grub4dos, plouf, {0} et UltraDefrag !&#xD;&#xA;&#xD;&#xA;Cette distribution de EasyBCD est livrée avec des composants autonomes (grub4dos et UltraDefrag) sous les termes de la licence GPLv2. Pour plus d'informations, voir le fichier de licence dans le répertoire d'installation." />
-    <string key="title" value="A propos de {0}" />
+    <string key="aboutText1" value="EasyBCD est l'outil ultime de gestion du démarrage et du chargeur de démarrage. Il n'y a aucune garantie que EasyBCD fonctionnera avec toutes les versions de Windows - assurez-vous de toujours utiliser la dernière version disponible.&#xD;&#xA;&#xD;&#xA;• Chef de développement : Mahmoud H. Al-Qudsi &#xD;&#xA;• Ingrédients actifs : sueur, sang et larmes &#xD;&#xA;• Ecrit en C++, C#, Dr Pepper, Excedrin et Visine &#xD;&#xA;• Tous vos démarrages nous appartiennent !&#xD;&#xA;&#xD;&#xA;" version="1" />
+    <string key="thanksFormat" value="Remerciements spéciaux aux équipes de grub4dos, plouf, {0} et UltraDefrag !&#xD;&#xA;&#xD;&#xA;Cette distribution de EasyBCD est livrée avec des composants autonomes (grub4dos et UltraDefrag) sous les termes de la licence GPLv2. Pour plus d'informations, voir le fichier de licence dans le répertoire d'installation." version="1" />
+    <string key="title" value="A propos de {0}" version="1" />
     <string key="MinimumWidth" value="550" />
-    <string key="MinimumHeight" value="450" />
+    <string key="MinimumHeight" value="450" version="6" />
   </strings>
 </localization>
