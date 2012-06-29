@@ -16,7 +16,7 @@
     <string key="regFail" value="Email o clave de licencia incorrecto. Vuelva a probar." version="1" />
     <string key="regException" value="Error al obtener una licencia de un servidor remoto. Asegúrese de que está conectado a internet o vuelva a probar más tarde." version="1" />
     <string key="regExceptionTitle" value="Imposible de registrar" version="1" />
-    <string key="btnContinue" value="Continuar" />
-    <string key="regSuccess" value="Registro Completado!" />
+    <string key="btnContinue" value="Continuar" version="1" />
+    <string key="regSuccess" value="Registro Completado!" version="1" />
   </strings>
 </localization>
