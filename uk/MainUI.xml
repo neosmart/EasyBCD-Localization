@@ -66,7 +66,7 @@
     <string key="tabPage13" value="Образ диску" version="1" />
     <string key="txtIsoName" value="NeoSmart образ ISO" version="1" />
     <string key="tabPage14" value="ISO" version="1" />
-    <string key="txtPeName" value="Образ NST WinPE" version="1" />
+    <string key="txtPeName" value="NST образ WinPE" version="1" />
     <string key="chkEms" value="Включити EMS" version="1" />
     <string key="tabPage12" value="WinPE" version="1" />
     <string key="txtFloppyName" value="NeoSmart образ Floppy" version="1" />
@@ -102,17 +102,15 @@
     <string key="tabEntryAdvanced" value="Розширений" version="1" />
     <string key="chkEntryKernelDebug" value="Запускати Windows в режимі Kernel-Debug" version="1" />
     <string key="chkEntrySos" value="Запускати Windows в режимі SOS/Verbose-Boot" version="1" />
-    <string key="chkEntryMemory" value="Відняти" version="1" />
     <string key="numEntryMemory" value="0" version="1" />
-    <string key="lblDeduct2" value="Мб від фізичної пам'яті" version="1" />
-    <string key="chkEntryCpu" value="Обмежити Windows до" version="1" />
+    <string key="lblDeduct2" value="Мб відняти від фізичної пам'яті" version="1" />
     <string key="numEntryCpu" value="0" version="1" />
-    <string key="lblLimit2" value="CPUs" version="1" />
+    <string key="lblLimit2" value="Ліміт CPU/core" version="1" />
     <string key="tabEntryDeveloper" value="Експерт" version="1" />
     <string key="lblAdvancedSettings" value="Зверніть увагу, що деякі параметри можуть бути недоступні залежно від запису, що модифікується." version="1" />
-    <string key="grpChangeSettings" value="Змінити параметри" version="1" />
-    <string key="lblPickLH" value="Виберіть запис зі списку для налаштування" version="1" />
-    <string key="grpSelectLH" value="Вибрати ОС" version="1" />
+    <string key="grpChangeSettings" value="Редагування параметрів завантаження" version="1" />
+    <string key="lblPickLH" value="Виберіть запис зі списку нижче для налаштування" version="1" />
+    <string key="grpSelectLH" value="Вибір ОС" version="1" />
     <string key="tabAdvanced" value="4" version="1" />
     <string key="btnBackup" value="Зберегти копію" version="1" />
     <string key="btnRestore" value="Відновити з копії" version="1" />

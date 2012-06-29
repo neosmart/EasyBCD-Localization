@@ -5,7 +5,7 @@
     <string key="btnCancel" value="Скасувати" version="2" />
     <string key="chkExpertMode" value="Запускати EasyBCD в режимі 'Експерт'" version="1" />
     <string key="chkRememberBackup" value="Запам'ятовувати каталог резервної копії BCD при виході" version="1" />
-    <string key="lblExpertMode" value="Користувач не попереджується перед виконанням попередніх дій!" version="1" />
+    <string key="lblExpertMode" value="Користувач не попереджується перед застосуванням змін!" version="1" />
     <string key="chkLoadDefaultBcd" value="При старті автоматично завантажувати наступний файл BCD:" version="1" />
     <string key="btnBrowseBcd" value="..." version="1" />
     <string key="chkAutoUpdate" value="Перевіряти наявність оновлень кожні:" version="1" />

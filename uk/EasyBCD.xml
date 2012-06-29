@@ -147,5 +147,7 @@
     <string key="optionsSaved" value="Параметри успішно збережено!" version="1" />
     <string key="orderSaved" value="Збережено порядок записів!" version="1" />
     <string key="easybcdStatus" value="Статус EasyBCD" version="1" />
+    <string key="saveFileTitle" value="Зберегти як" />
+    <string key="updateFoundText2" value="Доступна нова версія. Чи бажаете Ви автоматично оновити EasyBCD до останньої версії?&#xD;&#xA;&#xD;&#xA;Натисніть 'Так' для автоматичного завантаження та оновлення, 'Ні' для перегляду списку змін та оновлення за бажанням чи 'Скасувати' для відміни." version="1" />
   </strings>
 </localization>
