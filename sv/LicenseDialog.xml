@@ -11,7 +11,7 @@
     <string key="LicenseDialog" value="EasyBCD kommersiell version" version="1" />
     <string key="email" value="E-post" version="1" />
     <string key="licenseKey" value="Licensnyckel" version="1" />
-    <string key="seats" value="Säten" />
+    <string key="seats" value="Säten" version="1" />
     <string key="regFailTitle" value="Registreringen misslyckades!" version="1" />
     <string key="regFail" value="Fel e-postadress eller licensnyckel. Försök igen." version="1" />
     <string key="regException" value="Ett fel uppstod vid licensöverföring från fjärrservern. Tillse att du är uppkopplad mot Internet, eller försök igen senare." version="1" />
