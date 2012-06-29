@@ -5,7 +5,7 @@
     <string key="seatsAllowed" value="Usuarios/dispositivos permitidos" version="1" />
     <string key="unlicensed" value="Copia sin licencia!" version="1" />
     <string key="version" value="Versión" version="1" />
-    <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - 2011" version="1" />
+    <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - 2012" version="2" />
     <string key="aboutText1" value="EasyBCD es la herramienta definitiva para trabajar con el gestor de arranque. No se garantiza que EasyBCD trabaje con todas las versiones de Windows - asegúrese de que esté usando la última versión disponible.&#xD;&#xA;&#xD;&#xA;• Jefe de desarrollo: Mahmoud H. Al-Qudsi&#xD;&#xA;• Traducción al español: Manel Fernàndez&#xD;&#xA;• Ingredientes activos: Sangre, sudor y lágrimas&#xD;&#xA;• Movido por C++, C#, Dr. Pepper, Excedrin, and Visine&#xD;&#xA;• Su arranque es el nuestro!" version="1" />
     <string key="thanksFormat" value="Muchas gracias a los equipos de Grub4Dos, PLoP,{0} y UltraDefrag!&#xD;&#xA;&#xD;&#xA;Esta distribución de EasyBCD sale con componentes independientes (Grub4Dos y UltraDefrag) llicenciados bajo los términos de GPLv2. Para más información, por favor lea el archivo LICENSE en el directorio de instalación." version="1" />
   </strings>
