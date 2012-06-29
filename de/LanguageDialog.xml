@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="title" derive="true" />
+    <string key="btnGo" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+    <string key="MinimumWidth" derive="true" />
+  </strings>
+</localization>
