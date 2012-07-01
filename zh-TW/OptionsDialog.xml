@@ -18,7 +18,7 @@
     <string key="tabGeneralSettings" value="一般設定" version="1" />
     <string key="lblDefaultTab" value="啟動時預設索引標籤: " version="1" />
     <string key="lblDefaultDisplay" value="預設顯示模式: " version="1" />
-    <string key="lblOverviewFont" value="概觀字型:" version="1" />
+    <string key="lblOverviewFont" value="總覽字型:" version="1" />
     <string key="lblDetailedFont" value="詳細資料檢視字型: " version="1" />
     <string key="lblOverviewSize" value="大小: " version="1" />
     <string key="numFontOverview" value="8" version="1" />
@@ -31,7 +31,7 @@
     <string key="ResetSize" value="重設顯示選項" version="1" />
     <string key="tabDisplayOptions" value="顯示選項" version="1" />
     <string key="OptionsDialog" value="EasyBCD 設定" version="1" />
-    <string key="overview" value="概觀" version="1" />
+    <string key="overview" value="總覽" version="1" />
     <string key="detailed" value="詳細資料" version="1" />
     <string key="locateBcd" value="尋找有效的 BCD 存放" version="1" />
     <string key="never" value="永不" version="1" />

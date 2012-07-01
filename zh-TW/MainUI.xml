@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="rdoModeBasic" value="概觀" version="1" />
+    <string key="rdoModeBasic" value="總覽" version="1" />
     <string key="rdoModeDetailed" value="詳細資料 (除錯模式)" version="1" />
     <string key="chkWordWrap" value="自動換行" version="1" />
     <string key="grpDisplayMode" value="顯示模式" version="1" />
@@ -102,12 +102,10 @@
     <string key="tabEntryAdvanced" value="進階" version="1" />
     <string key="chkEntryKernelDebug" value="執行 Windows 在 Kernel-Debug 模式" version="1" />
     <string key="chkEntrySos" value="執行在 SOS/Verbose-Boot 模式" version="1" />
-    <string key="chkEntryMemory" value="扣除" version="1" />
     <string key="numEntryMemory" value="0" version="1" />
-    <string key="lblDeduct2" value="MB 從實體記憶體" version="1" />
-    <string key="chkEntryCpu" value="限制 Windows 使用" version="1" />
+    <string key="lblDeduct2" value="MB 從實體記憶體扣除" version="2" />
     <string key="numEntryCpu" value="0" version="1" />
-    <string key="lblLimit2" value="個 CPU" version="1" />
+    <string key="lblLimit2" value="Windows CPU/核心限制" version="2" />
     <string key="tabEntryDeveloper" value="開發人員" version="1" />
     <string key="lblAdvancedSettings" value="備註: 某些設定可能無法使用根據所修改的項目。" version="1" />
     <string key="grpChangeSettings" value="變更設定" version="1" />
