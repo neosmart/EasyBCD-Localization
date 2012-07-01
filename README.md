@@ -12,15 +12,15 @@ These are the languages currently available in this repository, thanks to the se
 * German (Deutsch) - Wolfgang Milhard
 * English (United States) - NeoSmart Technologies
 * Spanish (Español) - Manel Fernàndez
-* French (Français)
+* French (Français) - Guillaume van den Bavière & co.
 * Italian (Italiano) - Paolo Viappiani
-* Korean (한국어)
+* Korean (한국어) - Youngju Yun
 * Polish (Polski) - Kili
-* Russian (Русский)
-* Swedish (Svenska)
+* Russian (Русский) - niknikch45 & co.
+* Swedish (Svenska) - Åke Engelbrektson
 * Ukrainian (Українська) - z_mashine
 * Chinese (Simplified) (简体中文) - Dancing Zhao
-* Chinese (Taiwanese) (繁體中文)
+* Chinese (Taiwanese) (繁體中文) - fei
 
 ###Contribution
 
