@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="linkLabel" value="Cette copie de EasyBCD mécessite l'achat d'une licence commerciale.&#xD;&#xA;&#xD;&#xA;Veuillez entrer votre adresse email ou votre numéro de licence associé à votre achat. Cliquez ici pour acheter une licence ou contactez Sales@NeoSmart.net pour obtenir de l'aide." version="1" />
+    <string key="linkLabel" value="Cette copie de EasyBCD nécessite l'achat d'une licence commerciale.&#xD;&#xA;&#xD;&#xA;Veuillez entrer votre adresse email ou votre numéro de licence associé à votre achat. Cliquez ici pour acheter une licence ou contactez Sales@NeoSmart.net pour obtenir de l'aide." version="1" />
     <string key="linkClick" value="Cliquez ici" version="1" />
     <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
     <string key="btnSkip" value="S&amp;auter" version="1" />
