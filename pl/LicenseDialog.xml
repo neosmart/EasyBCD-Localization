@@ -16,5 +16,9 @@
     <string key="regFail" value="Niepoprawny email lub klucz licencyjny. Spróbuj ponownie." version="1" />
     <string key="regException" value="Napotkano błąd podczas pozyskiwania licencji ze zdalnego serwera. &#xD;&#xA;Proszę, upewnij się, że jesteś połączony z Internetem lub spróbuj ponownie." version="1" />
     <string key="regExceptionTitle" value="Nie można zarejestrować" version="1" />
+    <string key="btnContinue" value="Kontynuuj" />
+    <string key="regSuccess" value="Rejestracja zakończona!" />
+    <string key="MinimumWidth" value="550" />
+    <string key="MinimumHeight" value="400" />
   </strings>
 </localization>

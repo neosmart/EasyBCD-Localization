@@ -169,7 +169,7 @@
     <string key="lstLoadMem" value="Load from Memory" version="1" />
     <string key="lstWim" value="WIM Image (Ramdisk)" version="1" />
     <string key="lstExtracted" value="Extracted Filesystem Layout" version="1" />
-    <string key="lstWin7" value="Windows Vista/7" version="1" />
+    <string key="lstWin7" value="Windows Vista/7/8" version="2" />
     <string key="lstWinNt" value="Windows NT/2k/XP/2k3" version="1" />
     <string key="lstWin9x" value="Windows 95/98/ME" version="1" />
     <string key="lstWinDos" value="MS-DOS 6.x" version="1" />

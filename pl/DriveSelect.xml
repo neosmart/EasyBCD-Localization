@@ -8,5 +8,7 @@
     <string key="DriveSelect" value="WybórNapędu" version="1" />
     <string key="errorAlreadyBoot" value="Wskazany napęd już jest napędem bootującym. Proszę, wskaż inny napęd, by kontynuować!" version="1" />
     <string key="errorAlreadyBootTitle" value="Proszę wybierz inny napęd!" version="1" />
+    <string key="MinimumWidth" value="550" />
+    <string key="MinimumHeight" value="250" />
   </strings>
 </localization>

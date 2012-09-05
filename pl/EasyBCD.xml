@@ -2,9 +2,9 @@
 <localization>
   <strings>
     <string key="linuxAuto" value="Automatycznie zlokalizuj i załaduj" version="1" />
-    <string key="communityText" value="EasyBCD Edycja Społecznościowa jest darmowy do użytku niekomercyjnego.&#xD;&#xA;Jeśli używasz tego oprogramowania w środowisku komercyjnym, proszę kliknij 'Anuluj' poniżej, by kupić komercyjną licencję. W innym przypadku kliknij 'OK', by kontynuować." version="1" />
+    <string key="communityText" value="EasyBCD Edycja Społecznościowa jest darmowy do użytku niekomercyjnego.&#xD;&#xA;Jeśli używasz tego oprogramowania w środowisku komercyjnym, &#xD;&#xA;proszę kliknij 'Anuluj' poniżej, by kupić komercyjną licencję. &#xD;&#xA;W innym przypadku kliknij 'OK', by kontynuować." version="1" />
     <string key="communityTitle" value="EasyBCD Edycja Społecznościowa" version="1" />
-    <string key="bcdInUse" value="Bieżący plik jest w użyciu i nie może zostać otwarty przez EasyBCD. Jeśli próbujesz zaznaczyć systemowy skład wciśnij 'Nie' poniżej, a następnie wskaż &quot;Załaduj skład systemowy&quot; z menu 'Plik'&#xD;&#xA;&#xD;&#xA;Czy chcesz wskazać inny skład dla użycia w EasyBCD?" version="1" />
+    <string key="bcdInUse" value="Bieżący plik jest w użyciu i nie może zostać otwarty przez EasyBCD. &#xD;&#xA;Jeśli próbujesz zaznaczyć systemowy skład wciśnij 'Nie' poniżej, &#xD;&#xA;a następnie wskaż &quot;Załaduj skład systemowy&quot; z menu 'Plik'&#xD;&#xA;&#xD;&#xA;Czy chcesz wskazać inny skład dla użycia w EasyBCD?" version="1" />
     <string key="bcdInUseTitle" value="Błąd naruszenia zasad dostępu!" version="1" />
     <string key="accessDenied" value="Dostęp wzbroniony!" version="1" />
     <string key="uncUnsupported" value="Ścieżki sieciowe nie są obsługiwane przez tę funkcję. &#xD;&#xA;Proszę, wskaż inną ścieżkę i spróbuj ponownie." version="1" />
@@ -12,15 +12,15 @@
     <string key="invalidPath" value="Wykryto niewłaściwy plik lub nazwę ścieżki. &#xD;&#xA;Proszę, wprowadź poprawną ścieżkę, by kontynuować." version="1" />
     <string key="invalidPathTitle" value="Niewłaściwa ścieżka!" version="1" />
     <string key="updateCheck" value="Sprawdzanie dostępności uaktualnień dla EasyBCD..." version="1" />
-    <string key="updateFailed" value="Błąd sprawdzania dostępności uaktualnienia. Nie można nawiązać połączenia sieciowego." version="1" />
+    <string key="updateFailed" value="Błąd sprawdzania dostępności uaktualnienia. &#xD;&#xA;Nie można nawiązać połączenia sieciowego." version="1" />
     <string key="updateFailedSB" value="Niepowodzenie sprawdzenia dostępności uaktualnienia EasyBCD:" version="1" />
     <string key="updateFound" value="Znaleziono nową wersję EasyBCD!" version="1" />
-    <string key="updateFoundText" value="Znaleziono nową wersję EasyBCD. Czy chcesz przejść do strony pobierania EasyBCD, by uaktualnić do najnowszej wersji?" version="1" />
+    <string key="updateFoundText" value="Znaleziono nową wersję EasyBCD. &#xD;&#xA;Czy chcesz przejść do strony pobierania EasyBCD, by uaktualnić do najnowszej wersji?" version="1" />
     <string key="updateNone" value="Korzystasz z najnowszej wersji EasyBCD." version="1" />
     <string key="install" value="Instaluj" version="1" />
     <string key="remove" value="Usuń" version="1" />
-    <string key="adminLine1" value="EasyBCD wymaga uprawnień administracyjnych, by działać poprawnie, dlatego nie można kontynuować." version="1" />
-    <string key="adminLine2" value="Proszę zaloguj się lub uruchom program jako Administrator by kontynuować." version="1" />
+    <string key="adminLine1" value="EasyBCD wymaga uprawnień administracyjnych, by działać poprawnie, &#xD;&#xA;dlatego nie można kontynuować." version="1" />
+    <string key="adminLine2" value="Proszę zaloguj się lub uruchom program jako Administrator, by kontynuować." version="1" />
     <string key="adminTitle" value="Dostęp Wzbroniony" version="1" />
     <string key="easybcdBackup" value="EasyBCD Backup" version="1" />
     <string key="yes" value="Tak" version="1" />
@@ -29,7 +29,7 @@
     <string key="commercialEdition" value="Wersja Komercyjna" version="1" />
     <string key="failedAddTitle" value="Niepowodzenie dodawania wpisu!" version="1" />
     <string key="communityEdition" value="Wersja Społecznościowa" version="1" />
-    <string key="msdosHelp" value="Aby EasyBCD mogło uruchomić MS-DOS 6.x lub Windows 3.x, pliki IO.SYS oraz MSDOS.SYS muszą znajdować się na początku aktywnej partycji.&#xD;&#xA;&#xD;&#xA;By uzyskać więcej informacji, o tym jak tego dokonać, wciśnij 'Tak', by otworzyć dokumentację EasyBCD dla wpisów bazujacych na DOSie. Jeśli nie chcesz oglądać teraz tej dokumentacji, wciśnij 'Nie'." version="1" />
+    <string key="msdosHelp" value="Aby EasyBCD mogło uruchomić MS-DOS 6.x lub Windows 3.x, pliki IO.SYS oraz MSDOS.SYS muszą znajdować się na początku aktywnej partycji.&#xD;&#xA;&#xD;&#xA;By uzyskać więcej informacji, o tym jak tego dokonać, wciśnij 'Tak'. &#xD;&#xA;Otwarta zostanie dokumentacja EasyBCD dla wpisów bazujacych na DOSie. &#xD;&#xA;Jeśli nie chcesz oglądać teraz tej dokumentacji, wciśnij 'Nie'." version="1" />
     <string key="msdosHelpTitle" value="Otworzyć dokumentację EasyBCD dla MS-DOS?" version="1" />
     <string key="addedFormat" value="{0} pomyślnie dodano do menu rozruchowego!" version="1" />
     <string key="neogrubBootloader" value="NeoGrub Bootloader" version="1" />
@@ -47,7 +47,7 @@
     <string key="isoFiles" value="Obrazy ISO" version="1" />
     <string key="imgFiles" value="Obrazy IMG" version="1" />
     <string key="bcdFiles" value="Pliki kopii zapasowej EasyBCD" version="1" />
-    <string key="safeIntro" value="EasyBCD pomaga w tworzeniu dodatkowych wpisów startowych dla tego samego systemu, ale z innymi opcjami. Tworząc nowy wpis i nadając mu jedną z flag Safe Mode, możesz szybko debugować swój system." version="1" />
+    <string key="safeIntro" value="EasyBCD pomaga w tworzeniu dodatkowych wpisów startowych dla tego samego systemu, &#xD;&#xA;ale z innymi opcjami. Tworząc nowy wpis i nadając mu jedną z flag Safe Mode, &#xD;&#xA;możesz szybko debugować swój system." version="1" />
     <string key="safeNormal" value="Normal: Deazaktywuje wszystkie opcje przywracania, pozwalając na start systemu w sposób normalny&#xD;&#xA; " version="1" />
     <string key="safeVga" value="Basic VGA: ładuje podstawowy sterownik graficzny, resetując ustawienia rozdzielczości ekranu.&#xD;&#xA; " version="1" />
     <string key="safeNetworking" value="Safe Mode w/ Networking: Startuje system w Trybie Bezpiecznym z dostępem do Internetu i sieci lokalnej.&#xD;&#xA; " version="1" />
@@ -59,7 +59,7 @@
     <string key="paeEnable" value="Force Enable: Wymusza mapowanie pamięci.&#xD;&#xA; " version="1" />
     <string key="paeDisable" value="Force Disable: Wyłącza mapowanie dodatkowej pamięci.&#xD;&#xA; " version="1" />
     <string key="paeTitle" value="O opcjach PAE" version="1" />
-    <string key="nxIntro" value="DEP/NoExecute jest sprzętowym systemem detekcji szkodliwego kodu, wprowadzonym wraz z Windows XP SP2. Może ono pomóc w ochronie systemu przed atakami, ale znane jest też z powodowania problemów z kompatybilnością ze starszym oprogramowaniem." version="1" />
+    <string key="nxIntro" value="DEP/NoExecute jest sprzętowym systemem detekcji szkodliwego kodu, &#xD;&#xA;wprowadzonym wraz z Windows XP SP2. Może ono pomóc w ochronie systemu przed atakami, &#xD;&#xA;ale znane jest też z powodowania problemów z kompatybilnością ze starszym oprogramowaniem." version="1" />
     <string key="nxOptIn" value="OptIn: jądro systemu Windows jest chronione przez DEP.&#xD;&#xA; " version="1" />
     <string key="nxOptOut" value="OptOut: Windows oraz zainstalowane programy są chronione przez DEP.&#xD;&#xA; " version="1" />
     <string key="nxOn" value="AlwaysOn: DEP jest włączone dla wszystkich aplikacji.&#xD;&#xA; " version="1" />
@@ -147,5 +147,7 @@
     <string key="optionsSaved" value="Opcje zachowane pomyślnie!" version="1" />
     <string key="orderSaved" value="Porządek wpisów zachowany" version="1" />
     <string key="easybcdStatus" value="Status EasyBCD" version="1" />
+    <string key="saveFileTitle" value="Zapisz jako..." />
+    <string key="updateFoundText2" value="Ukazała się nowa wersja EasyBCD. &#xD;&#xA;Czy chcesz, by EasyBCD dokonał automatycznej aktualizacji do najnowszej wersji?&#xD;&#xA;&#xD;&#xA;Naciśnij 'Tak', by automatycznie pobrać i zainstalować nowszą wersję.&#xD;&#xA;Naciśnij 'Nie', by zobaczyć listę zmian i dokonać aktualizacji samodzielnie.&#xD;&#xA;Naciśnij 'Anuluj', by nie aktualizować." />
   </strings>
 </localization>

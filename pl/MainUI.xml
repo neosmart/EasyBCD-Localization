@@ -58,9 +58,9 @@
     <string key="chkEntryKernelDebug" value="Uruchom Windows w trybie Kernel-Debug" version="1" />
     <string key="chkEntrySos" value="Uruchom w trybie SOS/komunikatów startu" version="1" />
     <string key="chkEntryMemory" value="Ujmij" version="1" />
-    <string key="lblDeduct2" value="MB z pamięci fizycznej" version="1" />
+    <string key="lblDeduct2" value="Odlicz MB z pamięci fizycznej" version="1" />
     <string key="chkEntryCpu" value="Ogranicz Windows do" version="1" />
-    <string key="lblLimit2" value="CPUs (procesorów)" version="1" />
+    <string key="lblLimit2" value="Limit CPU/core (procesorów/rdzeni)" version="1" />
     <string key="lblAdvancedSettings" value="Miej na uwadze, że część ustawień może być niedostępna zależnie od modyfikowanego wpisu." version="1" />
     <string key="lblPickLH" value="Wybierz wpis z listy poniżej do modyfikacji." version="1" />
     <string key="grpChangeSettings" value="Zmień ustawienia" version="1" />
@@ -161,5 +161,7 @@
     <string key="tabBcdInstall" derive="true" />
     <string key="tabUtilities" derive="true" />
     <string key="tabMbrSetup" derive="true" />
+    <string key="MinimumWidth" value="650" />
+    <string key="MinimumHeight" value="500" />
   </strings>
 </localization>

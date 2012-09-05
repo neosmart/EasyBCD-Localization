@@ -35,5 +35,7 @@
     <string key="never" value="Nigdy" version="1" />
     <string key="numFontOverview" derive="true" />
     <string key="numFontDetailed" derive="true" />
+    <string key="MinimumWidth" value="500" />
+    <string key="MinimumHeight" value="400" />
   </strings>
 </localization>
