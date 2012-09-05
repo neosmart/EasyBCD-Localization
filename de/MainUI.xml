@@ -116,30 +116,30 @@
     <string key="mnuDonate2" value="Spenden" version="1" />
     <string key="mnuAbout" value="Info" version="1" />
     <string key="mnuHelp" value="&amp;Hilfe" version="1" />
-    <string key="MainUI" value="EasyBCD 2.2 - NeoSmart Technologies" version="1" />
+    <string key="MainUI" derive="true" />
     <string key="colName" value="Eintrag" version="1" />
     <string key="colDefault" value="Voreinstellung" version="1" />
-    <string key="lstVhdEntry" value="Microsoft VHD" version="1" />
+    <string key="lstVhdEntry" derive="true" />
     <string key="lstRawHD" value="Raw Festplatten Image" version="1" />
     <string key="lstRawPartition" value="Raw Partition Image" version="1" />
     <string key="lstRunDisk" value="von Festplatte starten" version="1" />
     <string key="lstLoadMem" value="Aus dem Speicher laden" version="1" />
-    <string key="lstWim" value="WIM Image (Ramdisk)" version="1" />
+    <string key="lstWim" derive="true" />
     <string key="lstExtracted" value="Extrahiertes Dateisystem Aufbau" version="1" />
-    <string key="lstWin7" value="Windows Vista/7" version="1" />
-    <string key="lstWinNt" value="Windows NT/2k/XP/2k3" version="1" />
-    <string key="lstWin9x" value="Windows 95/98/ME" version="1" />
-    <string key="lstWinDos" value="MS-DOS 6.x" version="1" />
+    <string key="lstWin7" derive="true" />
+    <string key="lstWinNt" derive="true" />
+    <string key="lstWin9x" derive="true" />
+    <string key="lstWinDos" derive="true" />
     <string key="lstNixGrub" value="GRUB (alte Version)" version="1" />
-    <string key="lstNixGrub2" value="GRUB 2" version="1" />
-    <string key="lstNixLilo" value="LILO/eLILO" version="1" />
-    <string key="lstNixBsd" value="FreeBSD/PC-BSD" version="1" />
-    <string key="lstNixWubi" value="Wubi" version="1" />
-    <string key="lstNixSys" value="SysLinux" version="1" />
+    <string key="lstNixGrub2" derive="true" />
+    <string key="lstNixLilo" derive="true" />
+    <string key="lstNixBsd" derive="true" />
+    <string key="lstNixWubi" derive="true" />
+    <string key="lstNixSys" derive="true" />
     <string key="lstEfi" value="EFI (Voreinstellung)" version="1" />
-    <string key="lstMbr" value="MBR" version="1" />
-    <string key="lstOptIn" value="OptIn" version="1" />
-    <string key="lstOptOut" value="OptOut" version="1" />
+    <string key="lstMbr" derive="true" />
+    <string key="lstOptIn" derive="true" />
+    <string key="lstOptOut" derive="true" />
     <string key="lstAlwaysOn" value="Immer Ein" version="1" />
     <string key="lstAlwaysOff" value="Immer Aus" version="1" />
     <string key="paeDefault" value="Voreinstellung" version="1" />

@@ -58,9 +58,9 @@
     <string key="chkEntryKernelDebug" value="Uruchom Windows w trybie Kernel-Debug" version="1" />
     <string key="chkEntrySos" value="Uruchom w trybie SOS/komunikatów startu" version="1" />
     <string key="chkEntryMemory" value="Ujmij" version="1" />
-    <string key="lblDeduct2" value="Odlicz MB z pamięci fizycznej" version="1" />
+    <string key="lblDeduct2" value="Odlicz MB z pamięci fizycznej" version="2" />
     <string key="chkEntryCpu" value="Ogranicz Windows do" version="1" />
-    <string key="lblLimit2" value="Limit CPU/core (procesorów/rdzeni)" version="1" />
+    <string key="lblLimit2" value="Limit CPU/core (procesorów/rdzeni)" version="2" />
     <string key="lblAdvancedSettings" value="Miej na uwadze, że część ustawień może być niedostępna zależnie od modyfikowanego wpisu." version="1" />
     <string key="lblPickLH" value="Wybierz wpis z listy poniżej do modyfikacji." version="1" />
     <string key="grpChangeSettings" value="Zmień ustawienia" version="1" />
@@ -118,22 +118,22 @@
     <string key="lstLoadMem" value="Załaduj z pamięci" version="1" />
     <string key="lstWim" value="Obraz WIM (RAMdisk)" version="1" />
     <string key="lstExtracted" value="Wyodrębniony układ systemu plików" version="1" />
-    <string key="lstWin7" value="Windows Vista/7" version="1" />
-    <string key="lstWinNt" value="Windows NT/2k/XP/2k3" version="1" />
-    <string key="lstWin9x" value="Windows 95/98/ME" version="1" />
-    <string key="lstWinDos" value="MS-DOS 6.x&#xD;&#xA;" version="1" />
-    <string key="lstNixGrub" value="GRUB (Legacy)" version="1" />
-    <string key="lstNixGrub2" value="GRUB 2" version="1" />
-    <string key="lstNixLilo" value="LILO/eLILO" version="1" />
-    <string key="lstNixBsd" value="FreeBSD/PC-BSD" version="1" />
-    <string key="lstNixWubi" value="Wubi" version="1" />
-    <string key="lstNixSys" value="SysLinux" version="1" />
+    <string key="lstWin7" derive="true" />
+    <string key="lstWinNt" derive="true" />
+    <string key="lstWin9x" derive="true" />
+    <string key="lstWinDos" derive="true" />
+    <string key="lstNixGrub" derive="true" />
+    <string key="lstNixGrub2" derive="true" />
+    <string key="lstNixLilo" derive="true" />
+    <string key="lstNixBsd" derive="true" />
+    <string key="lstNixWubi" derive="true" />
+    <string key="lstNixSys" derive="true" />
     <string key="lstEfi" value="EFI (domyślny)" version="1" />
     <string key="lstMbr" value="MBR" version="1" />
-    <string key="lstOptIn" value="OptIn" version="1" />
-    <string key="lstOptOut" value="OptOut" version="1" />
-    <string key="lstAlwaysOn" value="Always On" version="1" />
-    <string key="lstAlwaysOff" value="Always Off" version="1" />
+    <string key="lstOptIn" derive="true" />
+    <string key="lstOptOut" derive="true" />
+    <string key="lstAlwaysOn" derive="true" />
+    <string key="lstAlwaysOff" derive="true" />
     <string key="paeDefault" value="Default (domyślny)" version="1" />
     <string key="paeEnable" value="Enable" version="1" />
     <string key="paeDisable" value="Disable" version="1" />
@@ -162,6 +162,6 @@
     <string key="tabUtilities" derive="true" />
     <string key="tabMbrSetup" derive="true" />
     <string key="MinimumWidth" value="650" />
-    <string key="MinimumHeight" value="500" />
+    <string key="MinimumHeight" value="500" version="2" />
   </strings>
 </localization>

@@ -1,9 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="linkLabel" value="這個 EasyBCD 副本需要購買商業授權。
-
-請輸入購買時關聯的電子郵件或授權碼。 按一下此購買授權或聯絡 Sales@NeoSmart.net 取得支援。" version="1" />
+    <string key="linkLabel" value="這個 EasyBCD 副本需要購買商業授權。&#xD;&#xA;&#xD;&#xA;請輸入購買時關聯的電子郵件或授權碼。 按一下此購買授權或聯絡 Sales@NeoSmart.net 取得支援。" version="1" />
     <string key="linkClick" value="按一下此" version="1" />
     <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
     <string key="btnSkip" value="略過(&amp;K)" version="1" />

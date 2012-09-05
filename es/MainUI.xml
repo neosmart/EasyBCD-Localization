@@ -122,32 +122,32 @@
     <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" version="1" />
     <string key="colName" value="Entrada" version="1" />
     <string key="colDefault" value="Por defecto" version="1" />
-    <string key="lstVhdEntry" value="Microsoft VHD" version="1" />
+    <string key="lstVhdEntry" derive="true" />
     <string key="lstRawHD" value="Imatge RAW de disco duro" version="1" />
     <string key="lstRawPartition" value="Imagen RAW de partición" version="1" />
     <string key="lstRunDisk" value="Ejecutar desde disco" version="1" />
     <string key="lstLoadMem" value="Cargar desde memoria" version="1" />
     <string key="lstWim" value="WIM Imagen (Ramdisk)" version="1" />
-    <string key="lstWin7" value="Windows Vista/7" version="1" />
-    <string key="lstWinNt" value="Windows NT/2k/XP/2k3" version="1" />
-    <string key="lstWin9x" value="Windows 95/98/ME" version="1" />
-    <string key="lstWinDos" value="MS-DOS 6.x" version="1" />
+    <string key="lstWin7" derive="true" />
+    <string key="lstWinNt" derive="true" />
+    <string key="lstWin9x" derive="true" />
+    <string key="lstWinDos" derive="true" />
     <string key="lstNixGrub" value="GRUB (Antiguo)" version="1" />
-    <string key="lstNixGrub2" value="GRUB 2" version="1" />
-    <string key="lstNixLilo" value="LILO/eLILO" version="1" />
-    <string key="lstNixBsd" value="FreeBSD/PC-BSD" version="1" />
-    <string key="lstNixWubi" value="Wubi" version="1" />
-    <string key="lstNixSys" value="SysLinux" version="1" />
+    <string key="lstNixGrub2" derive="true" />
+    <string key="lstNixLilo" derive="true" />
+    <string key="lstNixBsd" derive="true" />
+    <string key="lstNixWubi" derive="true" />
+    <string key="lstNixSys" derive="true" />
     <string key="lstEfi" value="EFI (Defecto)" version="1" />
-    <string key="lstMbr" value="MBR" version="1" />
-    <string key="lstOptIn" value="OptIn" version="1" />
-    <string key="lstOptOut" value="OptOut" version="1" />
+    <string key="lstMbr" derive="true" />
+    <string key="lstOptIn" derive="true" />
+    <string key="lstOptOut" derive="true" />
     <string key="lstAlwaysOn" value="Siempre On" version="1" />
     <string key="lstAlwaysOff" value="Siempre Off" version="1" />
     <string key="paeDefault" value="Defecto" version="1" />
     <string key="paeEnable" value="Activar" version="1" />
     <string key="paeDisable" value="Desactivar" version="1" />
-    <string key="safeNormal" value="Normal" version="1" />
+    <string key="safeNormal" derive="true" />
     <string key="safeMode" value="Modo seguro" version="1" />
     <string key="safeNetworking" value="Modo seguro con red" version="1" />
     <string key="safeCmd" value="Línea de comandos/Entorno alternativo" version="1" />

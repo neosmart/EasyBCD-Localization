@@ -2,12 +2,9 @@
 <localization>
   <strings>
     <string key="linuxAuto" value="自動尋找並載入" version="1" />
-    <string key="communityText" value="EasyBCD 社群版免費授權於非商業使用。 
-如果您使用此軟體在商業環境，請按一下以下 [取消] 以購買商業授權，否則，請按一下 [確定] 繼續。" version="1" />
+    <string key="communityText" value="EasyBCD 社群版免費授權於非商業使用。 &#xD;&#xA;如果您使用此軟體在商業環境，請按一下以下 [取消] 以購買商業授權，否則，請按一下 [確定] 繼續。" version="1" />
     <string key="communityTitle" value="EasyBCD 社群版" version="1" />
-    <string key="bcdInUse" value="目前檔案使用中且無法由 EasyBCD 開啟。 如果您嘗試選取/重新選取系統存放，按下以下 [否] 然後從 [檔案] 功能表使用 [載入系統存放] 選項。
-
-您希望選取不同的存放作為 EasyBCD 使用嗎?" version="1" />
+    <string key="bcdInUse" value="目前檔案使用中且無法由 EasyBCD 開啟。 如果您嘗試選取/重新選取系統存放，按下以下 [否] 然後從 [檔案] 功能表使用 [載入系統存放] 選項。&#xD;&#xA;&#xD;&#xA;您希望選取不同的存放作為 EasyBCD 使用嗎?" version="1" />
     <string key="bcdInUseTitle" value="存取衝突錯誤" version="1" />
     <string key="accessDenied" value="拒絕存取!" version="1" />
     <string key="uncUnsupported" value="此功能不支援網路路徑，請輸入不同路徑並重試。" version="1" />
@@ -32,9 +29,7 @@
     <string key="commercialEdition" value="商業版" version="1" />
     <string key="communityEdition" value="社群版" version="1" />
     <string key="failedAddTitle" value="加入項目失敗!" version="1" />
-    <string key="msdosHelp" value="為了 EasyBCD 開機到 MS-DOS 6.x 或 Windows 3.x，IO.SYS 和 MSDOS.SYS 必須在啟動分割區的開始。
-
-如何完成的更多資訊，請按下 [是] 開啟 DOS 基礎項目的 EasyBCD 文件頁。 如果您不希望立即檢視文件，請按下 [否]。" version="1" />
+    <string key="msdosHelp" value="為了 EasyBCD 開機到 MS-DOS 6.x 或 Windows 3.x，IO.SYS 和 MSDOS.SYS 必須在啟動分割區的開始。&#xD;&#xA;&#xD;&#xA;如何完成的更多資訊，請按下 [是] 開啟 DOS 基礎項目的 EasyBCD 文件頁。 如果您不希望立即檢視文件，請按下 [否]。" version="1" />
     <string key="msdosHelpTitle" value="讀取 EasyBCD 的 MS-DOS 文件?" version="1" />
     <string key="addedFormat" value="{0} 加入到開機選單成功!" version="1" />
     <string key="neogrubBootloader" value="NeoGrub Bootloader" version="1" />
@@ -70,9 +65,7 @@
     <string key="nxOn" value="一律開啟: 所有應用程式強制 DEP。" version="1" />
     <string key="nxOff" value="一律關閉: Windows 和應用程式停用 DEP。" version="1" />
     <string key="nxTitle" value="關於 DEP/NoExecute" version="1" />
-    <string key="errorNotPrimary" value="開機分割區必須為主分割區。
-
-請選取不同的磁碟機或先轉換選取的分割區為主要，然後重試。" version="1" />
+    <string key="errorNotPrimary" value="開機分割區必須為主分割區。&#xD;&#xA;&#xD;&#xA;請選取不同的磁碟機或先轉換選取的分割區為主要，然後重試。" version="1" />
     <string key="opNotAllowed" value="不允許操作!" version="1" />
     <string key="errorNotMounted" value="EasyBCD 無法製作未掛載的磁碟機可開機。 請指派代號到選取的磁碟區，重新啟動 EasyBCD，並重試。" version="1" />
     <string key="invalidDrive" value="無效的磁碟機操作" version="1" />
@@ -87,15 +80,11 @@
     <string key="warning" value="警告!" version="1" />
     <string key="mbrSuccess" value="MBR 寫入成功" version="1" />
     <string key="bootloaderSuccess" value="Bootloader 設定儲存成功" version="1" />
-    <string key="bcdReset" value="BCD 已成功重設，所有項目已刪除!
-
-重要: 您必須加入至少 1 個項目否則您的 PC 將無法開機!" version="1" />
+    <string key="bcdReset" value="BCD 已成功重設，所有項目已刪除!&#xD;&#xA;&#xD;&#xA;重要: 您必須加入至少 1 個項目否則您的 PC 將無法開機!" version="1" />
     <string key="bcdResetTitle" value="BCD 重設" version="1" />
     <string key="selectBootTitle" value="選取新的開機分割區" version="1" />
     <string key="selectBoot" value="EasyBCD 將重新組態您的系統為從以下您選取的分割區開機。 此程序將設定 BCD 存放在選取的磁碟，複製目前 BCD 項目，並使選取的分割區啟用 &amp; 可開機。" version="1" />
-    <string key="errorLogical" value="嘗試進行變更開機分割區為邏輯磁碟機，不允許。 開機分割區必須為主分割區。
-
-請選取不同的磁碟機或先轉換選取的分割區為主要，然後重試。" version="1" />
+    <string key="errorLogical" value="嘗試進行變更開機分割區為邏輯磁碟機，不允許。 開機分割區必須為主分割區。&#xD;&#xA;&#xD;&#xA;請選取不同的磁碟機或先轉換選取的分割區為主要，然後重試。" version="1" />
     <string key="bootChangedFormat" value="EasyBCD 已成功在磁碟機 {0} 產生新的開機分割區，且載入新的 BCD 存放作為修改，如果您希望進行任何進一步變更。 如果此分割區在您的第一個開機磁碟，您不需要採取任何進一步動作。 如果不是，您應立即關閉您的 PC 並從 BIOS 變更開機磁碟機使變更生效。" version="1" />
     <string key="bootChangedTitle" value="開機分割區已變更" version="1" />
     <string key="unsupportedOS" value="此選項只能在 Windows Vista, Windows 7, 和 Windows 8 可以使用。" version="1" />
@@ -117,13 +106,9 @@
     <string key="confirmRestart" value="您確定要重新啟動您的電腦嗎?" version="1" />
     <string key="confirmRestartTitle" value="確認重新啟動" version="1" />
     <string key="shutdownStarted" value="關機已初始化。" version="1" />
-    <string key="hiddenBootIni" value="Boot.ini 位於隱藏開機分割區且無法由 EasyBCD 載入供使用者編輯。
-
-請指派隱藏開機分割區磁碟機代號或使用 Windows XP 雙重開機自動組態功能替代。" version="1" />
+    <string key="hiddenBootIni" value="Boot.ini 位於隱藏開機分割區且無法由 EasyBCD 載入供使用者編輯。&#xD;&#xA;&#xD;&#xA;請指派隱藏開機分割區磁碟機代號或使用 Windows XP 雙重開機自動組態功能替代。" version="1" />
     <string key="errorBootIniTitle" value="無法載入 boot.ini!" version="1" />
-    <string key="errorBootIniFormat" value="EasyBCD 無法偵測現有 boot.ini 檔案在開機分割區 {0}。
-
-請新增 Windows XP 或 Windows 2000 項目以使用 boot.ini 自動組態功能替代。" version="1" />
+    <string key="errorBootIniFormat" value="EasyBCD 無法偵測現有 boot.ini 檔案在開機分割區 {0}。&#xD;&#xA;&#xD;&#xA;請新增 Windows XP 或 Windows 2000 項目以使用 boot.ini 自動組態功能替代。" version="1" />
     <string key="errorUtility" value="執行公用程式發生錯誤" version="1" />
     <string key="sysInfo" value="系統資訊" version="1" />
     <string key="sysInfoText" value="顯示有關您目前硬體和軟體組態的資訊。 有助於掌握硬體失敗和快速取得目前系統設定的傾印。" version="1" />
@@ -136,9 +121,7 @@
     <string key="controlPanel" value="控制台" version="1" />
     <string key="controlPanelText" value="啟動控制台，並使用您所要的功能。" version="1" />
     <string key="iRebootText" value="NeoSmart Technologies 針對 EasyBCD 的協助程式。 iReboot 位於您的工作列 (只佔 400KB 的記憶體!)，讓您快速並輕易的選擇要重新開機的作業系統。" version="1" />
-    <string key="errorNoEntries" value="EasyBCD 偵測到目前未安裝項目。 如果您結束 EasyBCD 並重新啟動您的電腦，將會無法開機。
-
-您確定要結束而不新增項目嗎?" version="1" />
+    <string key="errorNoEntries" value="EasyBCD 偵測到目前未安裝項目。 如果您結束 EasyBCD 並重新啟動您的電腦，將會無法開機。&#xD;&#xA;&#xD;&#xA;您確定要結束而不新增項目嗎?" version="1" />
     <string key="errorNoEntriesTitle" value="未安裝項目!" version="1" />
     <string key="errorPathSave" value="EasyBCD 儲存目前備份路徑為預設備份路徑時失敗，選項已停用。" version="1" />
     <string key="errorPathSaveTitle" value="預設備份路徑問題" version="1" />
@@ -146,9 +129,7 @@
     <string key="isoHelp2" value="從磁碟執行: 開機時載入較快，但執行較慢。 同時建立期間需要 EasyBCD 預先處理。" version="1" />
     <string key="isoHelp3" value="從記憶體載入: 開機期間執行較快，但在選取後需要一定時間載入。 較大光碟或較舊 PC 可能會失敗。" version="1" />
     <string key="isoHelpTitle" value="關於 ISO 選項" version="1" />
-    <string key="warnDiffDevice" value="選取的檔案存放在與開機檔案不同的裝置。 如果您打算使用此項目在與目前使用的不同 PC 中開機，您應複製此檔案到外部磁碟機並重試。
-
-您希望仍要繼續嗎?" version="1" />
+    <string key="warnDiffDevice" value="選取的檔案存放在與開機檔案不同的裝置。 如果您打算使用此項目在與目前使用的不同 PC 中開機，您應複製此檔案到外部磁碟機並重試。&#xD;&#xA;&#xD;&#xA;您希望仍要繼續嗎?" version="1" />
     <string key="diffDeviceTitle" value="偵測到非卸除式項目!" version="1" />
     <string key="errorNoBcd" value="未載入 BCD 登陸檔 - 以縮減功能模式執行!" version="1" />
     <string key="bcdExceptionFormat" value="BCD 異常 0x{0:X3}" version="1" />
@@ -167,8 +148,6 @@
     <string key="orderSaved" value="項目順序已儲存" version="1" />
     <string key="easybcdStatus" value="EasyBCD 狀態" version="1" />
     <string key="saveFileTitle" value="另存新檔" />
-    <string key="updateFoundText2" value="發現 EasyBCD 的新版本。 您希望 EasyBCD 自動更新成最新版本嗎?
-
-按下 [是] 自動下載並更新，[否] 查看變更清單並手動更新，或 [取消] 取消。" version="1" />
+    <string key="updateFoundText2" value="發現 EasyBCD 的新版本。 您希望 EasyBCD 自動更新成最新版本嗎?&#xD;&#xA;&#xD;&#xA;按下 [是] 自動下載並更新，[否] 查看變更清單並手動更新，或 [取消] 取消。" version="1" />
   </strings>
 </localization>

@@ -198,6 +198,6 @@
     <string key="safeAD" derive="true" />
     <string key="emptyList" value="В загрузочном меню нет записей!" version="1" />
     <string key="MinimumWidth" value="583" />
-    <string key="MinimumHeight" value="456" version="2" />	
+    <string key="MinimumHeight" value="456" version="2" />
   </strings>
 </localization>

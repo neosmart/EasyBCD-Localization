@@ -126,20 +126,20 @@
     <string key="lstLoadMem" value="Carica dalla Memoria" version="1" />
     <string key="lstWim" value="Immagine WIM (Ramdisk)" version="1" />
     <string key="lstExtracted" value="Schema estratto del Filesystem" version="1" />
-    <string key="lstWin7" value="Windows Vista/7" version="1" />
-    <string key="lstWinNt" value="Windows NT/2k/XP/2k3" version="1" />
-    <string key="lstWin9x" value="Windows 95/98/ME" version="1" />
-    <string key="lstWinDos" value="MS-DOS 6.x" version="1" />
-    <string key="lstNixGrub" value="GRUB (Legacy)" version="1" />
-    <string key="lstNixGrub2" value="GRUB 2" version="1" />
-    <string key="lstNixLilo" value="LILO/eLILO" version="1" />
-    <string key="lstNixBsd" value="FreeBSD/PC-BSD" version="1" />
-    <string key="lstNixWubi" value="Wubi" version="1" />
-    <string key="lstNixSys" value="SysLinux" version="1" />
-    <string key="lstEfi" value="EFI (Default)" version="1" />
-    <string key="lstMbr" value="MBR" version="1" />
-    <string key="lstOptIn" value="OptIn" version="1" />
-    <string key="lstOptOut" value="OptOut" version="1" />
+    <string key="lstWin7" derive="true" />
+    <string key="lstWinNt" derive="true" />
+    <string key="lstWin9x" derive="true" />
+    <string key="lstWinDos" derive="true" />
+    <string key="lstNixGrub" derive="true" />
+    <string key="lstNixGrub2" derive="true" />
+    <string key="lstNixLilo" derive="true" />
+    <string key="lstNixBsd" derive="true" />
+    <string key="lstNixWubi" derive="true" />
+    <string key="lstNixSys" derive="true" />
+    <string key="lstEfi" derive="true" />
+    <string key="lstMbr" derive="true" />
+    <string key="lstOptIn" derive="true" />
+    <string key="lstOptOut" derive="true" />
     <string key="lstAlwaysOn" value="Sempre On" version="1" />
     <string key="lstAlwaysOff" value="Sempre Off" version="1" />
     <string key="paeDefault" value="Default" version="1" />
