@@ -148,6 +148,6 @@
     <string key="orderSaved" value="Porządek wpisów zachowany" version="1" />
     <string key="easybcdStatus" value="Status EasyBCD" version="1" />
     <string key="saveFileTitle" value="Zapisz jako..." />
-    <string key="updateFoundText2" value="Ukazała się nowa wersja EasyBCD. &#xD;&#xA;Czy chcesz, by EasyBCD dokonał automatycznej aktualizacji do najnowszej wersji?&#xD;&#xA;&#xD;&#xA;Naciśnij 'Tak', by automatycznie pobrać i zainstalować nowszą wersję.&#xD;&#xA;Naciśnij 'Nie', by zobaczyć listę zmian i dokonać aktualizacji samodzielnie.&#xD;&#xA;Naciśnij 'Anuluj', by nie aktualizować." />
+    <string key="updateFoundText2" value="Ukazała się nowa wersja EasyBCD. &#xD;&#xA;Czy chcesz, by EasyBCD dokonał automatycznej aktualizacji do najnowszej wersji?&#xD;&#xA;&#xD;&#xA;Naciśnij 'Tak', by automatycznie pobrać i zainstalować nowszą wersję.&#xD;&#xA;Naciśnij 'Nie', by zobaczyć listę zmian i dokonać aktualizacji samodzielnie.&#xD;&#xA;Naciśnij 'Anuluj', by nie aktualizować." version="1" />
   </strings>
 </localization>

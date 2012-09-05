@@ -4,6 +4,6 @@
     <string key="btnAbort" value="&amp;Przerwij" version="1" />
     <string key="CommandWindow" value="Okno poleceń EasyBCD" version="1" />
     <string key="MinimumWidth" value="500" />
-    <string key="MinimumHeight" value="300" />
+    <string key="MinimumHeight" value="300" version="6" />
   </strings>
 </localization>
