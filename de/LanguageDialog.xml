@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="title" derive="true" />
-    <string key="btnGo" derive="true" />
-    <string key="MinimumHeight" derive="true" />
-    <string key="MinimumWidth" derive="true" />
+    <string key="title" value="Sprache auswählen" />
+    <string key="btnGo" value="Wählen" />
+    <string key="MinimumHeight" value="88" />
+    <string key="MinimumWidth" value="317" />
   </strings>
 </localization>

@@ -13,8 +13,12 @@
     <string key="licenseKey" value="Lizenzschlüssel" version="1" />
     <string key="seats" value="Arbeitsplätze" version="1" />
     <string key="regFailTitle" value="Registrierung gescheitert!" version="1" />
-    <string key="regFail" value="Ungültige Email-Adresse oder Lizenz-Schlüssel. Bitte versuchen Sie es nocheinmal." version="1" />
+    <string key="regFail" value="Email-Adresse oder Lizenz-Schlüssel nicht korrekt. Bitte versuchen Sie es nocheinmal." version="1" />
     <string key="regException" value="Fehlermeldung aufgetreten während die Lizenzdaten vom Server übertragen wurden. Bitte stellen Sie sicher daß Sie mit dem Internet verbunden sind oder versuchen Sie es später nocheinmal." version="1" />
     <string key="regExceptionTitle" value="Registrierung fehlgeschlagen" version="1" />
+    <string key="btnContinue" value="Weiter" version="1" />
+    <string key="regSuccess" value="Registrierung durchgeführt!" version="1" />
+    <string key="MinimumWidth" value="511" />
+    <string key="MinimumHeight" value="334" />
   </strings>
 </localization>
