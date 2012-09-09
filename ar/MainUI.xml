@@ -62,16 +62,16 @@
     <string key="lblSafeMode" value="الوضع الآمن:" version="1" />
     <string key="lblPae" value="دعم PAE:" version="1" />
     <string key="lblDep" value="لا تنفيذ:" version="1" />
-    <string key="chkEntryUnsigned" value="السماح باستخدام التعاريف الغير موقعة على Windows 64-بت" version="1" />
+    <string key="chkEntryUnsigned" value="السماح باستخدام التعاريف الغير موقعة على Windows 64-bit" version="1" />
     <string key="tabEntryAdvanced" value="متقدم" version="1" />
     <string key="chkEntryKernelDebug" value="تشغيل Windows في وضع النواة-التصحيح" version="1" />
     <string key="chkEntrySos" value="تشغيل في وضع SOS/الإقلاع المسهب" version="1" />
     <string key="chkEntryMemory" value="اقتطع" version="1" />
     <string key="numEntryMemory" value="0" version="1" />
-    <string key="lblDeduct2" value="ميغا بايت من الذاكرة المادية" version="1" />
+    <string key="lblDeduct2" value="ميغا بايت اقتطعت من الذاكرة المادية" version="2" />
     <string key="chkEntryCpu" value="قيد Windows الى" version="1" />
     <string key="numEntryCpu" value="0" version="1" />
-    <string key="lblLimit2" value="المعالِجات" version="1" />
+    <string key="lblLimit2" value="اقصى عدد من المعالج/النواة لـ Windows." version="2" />
     <string key="tabEntryDeveloper" value="المطوِّر" version="1" />
     <string key="lblAdvancedSettings" value="إنتبه الى أنه بعض الإعدادات قد تكون غير متوفرة اعتماداً على الإدخال الذي يتم تعديله." version="1" />
     <string key="grpChangeSettings" value="غيّر الإعدادات" version="1" />
@@ -156,10 +156,12 @@
     <string key="btnBcdInstall" value="نسخ إحتياطي/تصليح MBR" version="1" />
     <string key="tabUtilities" value="7" version="1" />
     <string key="mnuBug" value="أرسِل الخ&amp;طأ" version="1" />
-    <string key="safeCmd" value="خط الأوامر/ الشِل البديل" version="1" />
+    <string key="safeCmd" value="خط الأوامر/ الشِل (shell) البديل" version="1" />
     <string key="lstRawPartition" value="صورة التقسيم الأولي" version="1" />
     <string key="lstRawHD" value="صورة القرص الصلب الأولية" version="1" />
     <string key="lstOptIn" derive="true" />
     <string key="lstOptOut" derive="true" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

@@ -8,7 +8,7 @@
     <string key="lblExpertMode" value="وضع الخبير لا يتطلب تدخل المستخدم قبل إتخاذ الإجراءات المتقدمة!" version="1" />
     <string key="chkLoadDefaultBcd" value="قم بتحميل ملف BCD التالي ذاتياً عند التشغيل:" version="1" />
     <string key="btnBrowseBcd" derive="true" />
-    <string key="chkAutoUpdate" value="تحديث ذاتي كل" version="1" />
+    <string key="chkAutoUpdate" value="تحديث تلقائياً كل" version="1" />
     <string key="chkRss" value="أدرج NeoSmart Technologies في منصة Windows RSS" version="1" />
     <string key="numUpdateInterval" value="0" version="1" />
     <string key="rdoDays" value="يوم (أيام)" version="1" />
@@ -16,15 +16,15 @@
     <string key="rdoMonths" value="شهر (أشهر)" version="1" />
     <string key="lblLastUpdateCheck" value="آخر فحص ذاتي:" version="1" />
     <string key="tabGeneralSettings" value="الإعدادات العامة" version="1" />
-    <string key="lblDefaultTab" value="اللسان الأفتراضي عند التشغيل:" version="1" />
+    <string key="lblDefaultTab" value="التبويب الأفتراضي عند التشغيل:" version="1" />
     <string key="lblDefaultDisplay" value="وضع الشاشة الإفتراضي:" version="1" />
     <string key="lblOverviewFont" value="خط النظرة العامة:" version="1" />
     <string key="lblDetailedFont" value="خط العرض المفصل:" version="1" />
     <string key="lblOverviewSize" value="الحجم:" version="1" />
-    <string key="numFontOverview" value="8" version="1" />
+    <string key="numFontOverview" derive="true" />
     <string key="lblOverviewPt" value="نقطة" version="1" />
     <string key="lblDetailedSize" value="الحجم:" version="1" />
-    <string key="numFontDetailed" value="8" version="1" />
+    <string key="numFontDetailed" derive="true" />
     <string key="lblDetailedPt" value="نقطة" version="1" />
     <string key="chkWordWrap" value="إلتفاف النص مفعل إفتراضياً" version="1" />
     <string key="chkSaveWindow" value="حفظ حجم نافذة EasyBCD عند الخروج" version="1" />
@@ -35,5 +35,7 @@
     <string key="detailed" value="مفصّل" version="1" />
     <string key="locateBcd" value="حدد مخزن BCD صالح" version="1" />
     <string key="never" value="أبداً" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

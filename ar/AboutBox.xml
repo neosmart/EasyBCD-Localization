@@ -8,5 +8,8 @@
     <string key="aboutText1" value="EasyBCD هو أفضل مُحمِّل إقلاع وأفضل أداة لإدارة مُحمِّل الإقلاع. ليش هناك أية ضمانة بأن EasyBCD سيعمل مع كافة إصدارات Windows . دائماً تأكد من أنك تستعمل الإصدارة الأحدث المتوفرة.&#xD;&#xA;&#xD;&#xA;المطور الرئيسي: محمود القدسي&#xD;&#xA;الترجمة للعربية: Azal Tammu&#xD;&#xA;المكونات الفعالة: عرق ودم ودموع!&#xD;&#xA;بدعم من: ++C و #C و Dr.Pepper (مشروب غازي) و Excerdin (دواء للصداع) و Visine (قطرة للعيون)&#xD;&#xA;كل إقلاعاتك هي ملك لنا !" version="1" />
     <string key="seatsAllowed" value="المستخدمين/الاجهزة المسموحة" version="1" />
     <string key="thanksFormat" value="شكر خاص للفرق  Grub4Dos, PLoP,{0} and UltraDefrag &#xD;&#xA;هذه التوزيعة من EasyBCD تأتي مع مكونات مستقلة  (Grub4Dos و UltraDefrag)  مرخصة تحت شروط رخصة GPLv2. لمزيد من المعلومات, رجاءاً راجع ملف الرخصة في مجلد التثبيت." version="1" />
+    <string key="title" value="عن {0}" />
+    <string key="MinimumWidth" value="486" />
+    <string key="MinimumHeight" value="376" version="6" />
   </strings>
 </localization>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="linkLabel" value="هذه النسخة من EasyBCD تتطلب شراء رخصة تجارية.&#xD;&#xA;&#xD;&#xA;رجاءاً أدخل إما البريد الالكتروني او رقم الرخصة المرفق مع الشراء. اإغط هنا لشراء رخصة, أو اتصل ب Sales@NeoSmart.net للحصول على الدعم." version="1" />
+    <string key="linkLabel" value="هذه النسخة من EasyBCD تتطلب شراء رخصة تجارية.&#xD;&#xA;&#xD;&#xA;رجاءاً أدخل إما البريد الالكتروني او رقم الرخصة المرفق مع الشراء. اضغط هنا لشراء رخصة, أو اتصل ب Sales@NeoSmart.net للحصول على الدعم." version="1" />
     <string key="linkClick" value="إضغط هنا" version="1" />
     <string key="linkEmail" derive="true" />
     <string key="btnSkip" value="ت&amp;خطي" version="1" />
@@ -16,5 +16,9 @@
     <string key="regFail" value="البريد الكتروني أو رقم الرخصة غير صحيح. حاول مجدداَ رجاءاَ." version="1" />
     <string key="regException" value="حصل خطأ خلال الحصول على الرخصة من المخدم البعيد. رجاءاً تأكد من أنك متصل بالانترنت أو حاول مجدداً لاحقاً." version="1" />
     <string key="regExceptionTitle" value="غير قادر على التسجيل" version="1" />
+    <string key="btnContinue" value="متابعة" version="1" />
+    <string key="regSuccess" value="اكتمل التسجيل!" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

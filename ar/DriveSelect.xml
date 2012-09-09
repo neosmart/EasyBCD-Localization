@@ -8,5 +8,7 @@
     <string key="DriveSelect" value="اختيار السواقة" version="1" />
     <string key="errorAlreadyBoot" value="السواقة التي اخترتها هي قرص الإقلاع الحالي. رجاءاً اختر سواقة اخرى للمتابعة!" version="1" />
     <string key="errorAlreadyBootTitle" value="رجاءاً إختر سواقة اخرى!" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>
