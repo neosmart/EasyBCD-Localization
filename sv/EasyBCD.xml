@@ -147,5 +147,7 @@
     <string key="optionsSaved" value="Inställningar sparade!" version="1" />
     <string key="orderSaved" value="Startpostordning sparad" version="1" />
     <string key="easybcdStatus" derive="true" />
+    <string key="saveFileTitle" value="Spara som" />
+    <string key="updateFoundText2" value="En ny version av EasyBCD har hittats. Vill du att EasyBCD skall uppdateras automatiskt till senaste versionen?&#xD;&#xA;&#xD;&#xA;Tryck 'Ja' för automatiskt uppgradering, 'Nej' för att se ändringsloggen och uppgradera manuellt eller 'Avbryt' för att avbryta." version="1" />
   </strings>
 </localization>

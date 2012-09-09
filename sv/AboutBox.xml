@@ -2,11 +2,13 @@
 <localization>
   <strings>
     <string key="OKButton" derive="true" />
+    <string key="AboutBox" value="Om" version="1" />
     <string key="seatsAllowed" value="Tillåtna användare/enheter" version="1" />
     <string key="unlicensed" value="Olicensierad kopia!" version="1" />
     <string key="version" derive="true" />
     <string key="copyright" derive="true" />
-    <string key="aboutText1" derive="true" />
+    <string key="aboutText1" value="EasyBCD är den ultimata bootloadern &amp; bootloader-hanteraren. Det finns inga garantier för att EasyBCD skall fungera på alla Windows-versioner - Använd alltid senast tillgängliga version. &#xD;&#xA;&#xD;&#xA;• Ansvarig utvecklare: Mahmoud H. Al-Qudsi&#xD;&#xA;• Svensk översättning: Åke Engelbrektson&#xD;&#xA;• Aktiva ingredienser: Svett, blod och tårar&#xD;&#xA;• Drivs av C++, C#, Dr. Pepper, Excedrin och Visine&#xD;&#xA;• All your boot are belong to us!" version="1" />
     <string key="thanksFormat" derive="true" />
+    <string key="title" value="Om {0}" version="1" />
   </strings>
 </localization>

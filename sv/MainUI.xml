@@ -81,10 +81,10 @@
     <string key="chkEntryKernelDebug" value="Starta Windows i felsökningsläge" version="1" />
     <string key="chkEntryMemory" value="Dra av" version="1" />
     <string key="numEntryMemory" derive="true" />
-    <string key="lblDeduct2" value="MB från fysiskt minne" version="1" />
+    <string key="lblDeduct2" value="MiB undantas från fysiskt minne" version="2" />
     <string key="chkEntryCpu" value="Begränsa Windows till" version="1" />
     <string key="numEntryCpu" derive="true" />
-    <string key="lblLimit2" value="CPU:er" version="1" />
+    <string key="lblLimit2" value="Windows CPU/core begränsning" version="2" />
     <string key="tabEntryDeveloper" value="Utvecklare" version="1" />
     <string key="lblAdvancedSettings" value="Notera att vissa inställningar kan vara otillgängliga, beroende på den startpost som modifieras." version="1" />
     <string key="grpChangeSettings" value="Ändra inställningar" version="1" />
