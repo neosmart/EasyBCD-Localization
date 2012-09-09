@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
     <string key="btnOK" value="OK" version="2" />
@@ -33,5 +33,9 @@
     <string key="OptionsDialog" value="Impostazioni di EasyBCD" version="1" />
     <string key="overview" value="Visione d'insieme" version="1" />
     <string key="detailed" value="Dettagliata" version="1" />
+    <string key="locateBcd" value="Localizza un valido BCD salvato" version="1" />
+    <string key="never" value="Mai" version="1" />
+    <string key="MinimumWidth" value="452" />
+    <string key="MinimumHeight" value="359" />
   </strings>
 </localization>

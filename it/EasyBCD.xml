@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
     <string key="linuxAuto" value="Individua e carica automaticamente" version="1" />
@@ -44,7 +44,7 @@
     <string key="browseFileTitle" value="Sfogliare per File" version="1" />
     <string key="wimFiles" value="File di Immagine di Windows" version="1" />
     <string key="vhdFiles" value="File di Disco Fisso virtuale" version="1" />
-    <string key="isoFiles" value="mmagini ISO" version="1" />
+    <string key="isoFiles" value="Immagini ISO" version="1" />
     <string key="imgFiles" value="File IMG" version="1" />
     <string key="bcdFiles" value="File di backup di EasyBCD" version="1" />
     <string key="safeIntro" value="EasyBCD consente di creare voci aggiuntive per eseguire il boot nello stesso Sistema Operativo, ma con opzioni differenti. Creando una nuova voce ed assegnandogli uno dei flags di Modalità Provvisoria, si può usare per eseguire velocemente il debug del sistema." version="1" />
@@ -147,5 +147,7 @@
     <string key="optionsSaved" value="Opzioni salvate correttamente!" version="1" />
     <string key="orderSaved" value="Ordine delle voci salvato" version="1" />
     <string key="easybcdStatus" value="Stato di EasyBCD" version="1" />
+    <string key="saveFileTitle" value="Salva come" />
+    <string key="updateFoundText2" value="E' stata trovata una nuova versione di EasyBCD. Vuoi che EasyBCD si aggiorni automaticamente?&#xD;&#xA;&#xD;&#xA;Premi 'Yes' per scaricare ed aggiornare, 'No' per vedere l'elenco dei cambiamenti ed aggiornare manualmente o 'Cancel' per ignorare." version="1" />
   </strings>
 </localization>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
     <string key="linkLabel" value="Questa copia di EasyBCD richiede l'acquisto di apposita licenza.&#xD;&#xA;&#xD;&#xA;Per favore digitare l'indirizzo email oppure il numero della licenza associati all'acquisto. Cliccare qui per acquistare una licenza oppure contattare Sales@NeoSmart.net per assistenza." version="1" />
@@ -16,5 +16,9 @@
     <string key="regFail" value="Indirizzo email oppure Numero di Licenza errato. Per favore riprovare." version="1" />
     <string key="regException" value="Si é verificato un errore nell'ottenimento della Licenza dal server remoto. Accertarsi di essere connessi ad Internet o riprovare in un secondo momento." version="1" />
     <string key="regExceptionTitle" value="Impossibile eseguire la registrazione" version="1" />
+    <string key="btnContinue" value="Continuare" version="1" />
+    <string key="regSuccess" value="Registrazione Effettuata!" version="1" />
+    <string key="MinimumWidth" value="511" />
+    <string key="MinimumHeight" value="334" />
   </strings>
 </localization>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
     <string key="accessViolationFormat" value="Impossibile ottenere accesso esclusivo a {0}. Se si tratta di un disco rimovibile, espellerlo e reinserirlo, quindi provare di nuovo." version="1" />
@@ -33,7 +33,7 @@
     <string key="mib" value="MiB" version="1" />
     <string key="as" value="come" version="1" />
     <string key="defragFormat" value="Inizio della deframmentazione del file {0}" version="1" />
-    <string key="partition" value="Partition" version="1" />
+    <string key="partition" value="Partizione" version="1" />
     <string key="unnamed" value="Voce senza nome" version="1" />
   </strings>
 </localization>
