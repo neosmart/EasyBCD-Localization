@@ -4,6 +4,6 @@
     <string key="title" value="Choisir une langue" version="1" />
     <string key="btnGo" value="&amp;OK" version="1" />
     <string key="MinimumWidth" value="317" />
-    <string key="MinimumHeight" value="87" />
+    <string key="MinimumHeight" value="87" version="3" />
   </strings>
 </localization>

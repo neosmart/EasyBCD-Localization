@@ -4,6 +4,6 @@
     <string key="lblApplyingActions" value="EasyBCD applique l'action sélectionnée..." version="1" />
     <string key="ProgressDialog" value="Veuillez patienter" version="1" />
     <string key="MinimumWidth" value="371" />
-    <string key="MinimumHeight" value="110" />
+    <string key="MinimumHeight" value="110" version="1" />
   </strings>
 </localization>
