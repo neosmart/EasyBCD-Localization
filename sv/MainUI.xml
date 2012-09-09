@@ -18,23 +18,10 @@
     <string key="btnDelete" value="Ta bort" version="1" />
     <string key="groupBox1" value="Ändra menyposter" version="1" />
     <string key="tabEditMenu" derive="true" />
-    <string key="btnVhdBrowse" derive="true" />
-    <string key="lblVhdName" value="Namn:" version="1" />
-    <string key="lblVhdType" value="Typ:" version="1" />
     <string key="txtVhdName" derive="true" />
-    <string key="lblVhdPath" value="Sökväg:" version="1" />
-    <string key="btnAddVhd" value="Lägg till" version="1" />
     <string key="tabPage13" value="Disk-avbild" version="1" />
-    <string key="lblIsoName" value="Namn:" version="1" />
-    <string key="lblIsoMode" value="Läge:" version="1" />
-    <string key="btnIsoBrowse" derive="true" />
     <string key="txtIsoName" value="NeoSmart ISO-start" version="1" />
-    <string key="lblIsoPath" value="Sökväg:" version="1" />
-    <string key="btnAddIso" value="Lägg till" version="1" />
     <string key="tabPage14" derive="true" />
-    <string key="btnPeBrowse" derive="true" />
-    <string key="lblPeType" value="Typ:" version="1" />
-    <string key="lblPeName" value="Namn:" version="1" />
     <string key="btnBrowse" derive="true" />
     <string key="lblName" value="Namn:" version="1" />
     <string key="lblType" value="Typ:" version="1" />
@@ -79,10 +66,8 @@
     <string key="tabEntryAdvanced" value="Avancerat" version="1" />
     <string key="chkEntrySos" value="Starta i SOS/Verbose-läge" version="1" />
     <string key="chkEntryKernelDebug" value="Starta Windows i felsökningsläge" version="1" />
-    <string key="chkEntryMemory" value="Dra av" version="1" />
     <string key="numEntryMemory" derive="true" />
     <string key="lblDeduct2" value="MiB undantas från fysiskt minne" version="2" />
-    <string key="chkEntryCpu" value="Begränsa Windows till" version="1" />
     <string key="numEntryCpu" derive="true" />
     <string key="lblLimit2" value="Windows CPU/core begränsning" version="2" />
     <string key="tabEntryDeveloper" value="Utvecklare" version="1" />

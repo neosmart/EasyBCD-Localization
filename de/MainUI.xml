@@ -58,10 +58,8 @@
     <string key="tabEntryAdvanced" value="Erweitert" version="1" />
     <string key="chkEntryKernelDebug" value="Windows im Kernel-Debug Modus starten" version="1" />
     <string key="chkEntrySos" value="Starten in SOS / kommentiertem Start-Modus" version="1" />
-    <string key="chkEntryMemory" value="Abziehen" version="1" />
     <string key="numEntryMemory" value="0" version="1" />
     <string key="lblDeduct2" value="MByte vom physichen Speicher" version="2" />
-    <string key="chkEntryCpu" value="Begrenze Windows auf" version="1" />
     <string key="numEntryCpu" value="0" version="1" />
     <string key="lblLimit2" value="Windows CPU/Kern Beschränkung" version="2" />
     <string key="tabEntryDeveloper" value="Entwickler" version="1" />
@@ -116,30 +114,30 @@
     <string key="mnuDonate2" value="Spen&amp;den" version="1" />
     <string key="mnuAbout" value="Info" version="1" />
     <string key="mnuHelp" value="&amp;Hilfe" version="1" />
-    <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" />
+    <string key="MainUI" derive="true" />
     <string key="colName" value="Eintrag" version="1" />
     <string key="colDefault" value="Voreinstellung" version="1" />
-    <string key="lstVhdEntry" value="Microsoft VHD" />
+    <string key="lstVhdEntry" derive="true" />
     <string key="lstRawHD" value="Raw Festplatten Image" version="1" />
     <string key="lstRawPartition" value="Raw Partition Image" version="1" />
     <string key="lstRunDisk" value="Von Festplatte starten" version="1" />
     <string key="lstLoadMem" value="Aus dem Speicher laden" version="1" />
-    <string key="lstWim" value="WIM Image (Ramdisk)" />
+    <string key="lstWim" derive="true" />
     <string key="lstExtracted" value="Extrahiertes Dateisystem Struktur" version="1" />
-    <string key="lstWin7" value="Windows Vista/7/8" />
-    <string key="lstWinNt" value="Windows NT/2k/XP/2k3" />
-    <string key="lstWin9x" value="Windows 95/98/ME" />
-    <string key="lstWinDos" value="MS-DOS 6.x" />
+    <string key="lstWin7" derive="true" />
+    <string key="lstWinNt" derive="true" />
+    <string key="lstWin9x" derive="true" />
+    <string key="lstWinDos" derive="true" />
     <string key="lstNixGrub" value="GRUB (alte Version)" version="1" />
-    <string key="lstNixGrub2" value="GRUB 2" />
-    <string key="lstNixLilo" value="LILO/eLILO" />
-    <string key="lstNixBsd" value="FreeBSD/PC-BSD" />
-    <string key="lstNixWubi" value="Wubi" />
-    <string key="lstNixSys" value="SysLinux" />
+    <string key="lstNixGrub2" derive="true" />
+    <string key="lstNixLilo" derive="true" />
+    <string key="lstNixBsd" derive="true" />
+    <string key="lstNixWubi" derive="true" />
+    <string key="lstNixSys" derive="true" />
     <string key="lstEfi" value="EFI (Voreinstellung)" version="1" />
-    <string key="lstMbr" value="MBR" />
-    <string key="lstOptIn" value="OptIn" />
-    <string key="lstOptOut" value="OptOut" />
+    <string key="lstMbr" derive="true" />
+    <string key="lstOptIn" derive="true" />
+    <string key="lstOptOut" derive="true" />
     <string key="lstAlwaysOn" value="Immer Ein" version="1" />
     <string key="lstAlwaysOff" value="Immer Aus" version="1" />
     <string key="paeDefault" value="Voreinstellung" version="1" />
@@ -153,7 +151,7 @@
     <string key="safeAD" value="Aktive Verzeichnisreparatur" version="1" />
     <string key="emptyList" value="Keine Einträge gefunden!" version="1" />
     <string key="lblName" value="Name:" version="1" />
-    <string key="btnBrowse" value="..." />
+    <string key="btnBrowse" derive="true" />
     <string key="lblType" value="Typ:" version="1" />
     <string key="btnAddNewEntry" value="Entrag zufügen" version="1" />
     <string key="lblMode" value="Modus:" version="1" />

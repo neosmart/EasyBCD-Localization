@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
     <string key="rdoModeBasic" value="Visione d'insieme" version="1" />
@@ -58,10 +58,8 @@
     <string key="tabEntryAdvanced" value="Avanzata" version="1" />
     <string key="chkEntryKernelDebug" value="Esegui Windows in modalità Kernel-Debug" version="1" />
     <string key="chkEntrySos" value="Esegui l'avvio in modalità SOS/Verbose" version="1" />
-    <string key="chkEntryMemory" value="Detrarre" version="1" />
     <string key="numEntryMemory" value="0" version="1" />
     <string key="lblDeduct2" value="MiB dedotto da memoria fisica" version="2" />
-    <string key="chkEntryCpu" value="Limita Windows a" version="1" />
     <string key="numEntryCpu" value="0" version="1" />
     <string key="lblLimit2" value="Windows CPU/Limite del core" version="2" />
     <string key="tabEntryDeveloper" value="Sviluppatore" version="1" />
@@ -99,7 +97,7 @@
     <string key="btnViewSettings" value="Vedere le Impostazioni" version="1" />
     <string key="grpToolbox" value="Toolbox di EasyBCD" version="1" />
     <string key="mnuSelectBcd" value="&amp;Selezionare il BCD Store" version="1" />
-    <string key="mnuLanguage" value="&amp;Scegliere la Lingua" version="1" /> 
+    <string key="mnuLanguage" value="&amp;Scegliere la Lingua" version="1" />
     <string key="mnuLoadSystemBcd" value="Caricare S&amp;ystem BCD" version="1" />
     <string key="mnuRescan" value="Re&amp;fresh BCD Store" version="1" />
     <string key="mnuRegister" value="&amp;Registrazione" version="1" />

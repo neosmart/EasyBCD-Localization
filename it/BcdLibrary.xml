@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
     <string key="accessViolationFormat" value="Impossibile ottenere accesso esclusivo a {0}. Se si tratta di un disco rimovibile, espellerlo e reinserirlo, quindi provare di nuovo." version="1" />
