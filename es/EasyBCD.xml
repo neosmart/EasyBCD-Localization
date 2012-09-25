@@ -147,5 +147,7 @@
     <string key="optionsSaved" value="Opciones guardadas con éxito!" version="1" />
     <string key="orderSaved" value="Orden de entradas guardado" version="1" />
     <string key="easybcdStatus" value="Estado de EasyBCD" version="1" />
+    <string key="updateFoundText2" value="Una nueva versión de EasyBCD se ha encontrado. ¿Te gustaría EasyBCD para actualizar automáticamente a la última versión?&#xD;&#xA;&#xD;&#xA;Pulse &quot;Sí&quot; para descargar y actualizar automáticamente, 'No' para ver la lista de cambios y actualizar de forma manual, o 'Cancelar' para cancelar." version="1" />
+    <string key="saveFileTitle" value="Guardar Como" />
   </strings>
 </localization>

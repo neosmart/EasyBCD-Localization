@@ -34,6 +34,6 @@
     <string key="overview" value="Resúmen" version="1" />
     <string key="detailed" value="Detalle" version="1" />
     <string key="locateBcd" value="Localizar un almacén BCD válido" version="1" />
-    <string key="never" value="Nunca" />
+    <string key="never" value="Nunca" version="1" />
   </strings>
 </localization>
