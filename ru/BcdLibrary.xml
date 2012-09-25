@@ -30,8 +30,8 @@
     <string key="bcdRegistry" value="BCD конфигурация" version="1" />
     <string key="partition" value="Раздел" version="1" />
     <string key="unknown" value="Неизвестный" version="1" />
-    <string key="gib" value="Гб" version="1" />
-    <string key="mib" value="Мб" version="1" />
+    <string key="gib" value="ГБ" version="1" />
+    <string key="mib" value="МБ" version="1" />
     <string key="as" value="как" version="1" />
     <string key="defragFormat" value="Запуск дефрагментации файла {0}" version="1" />
     <string key="unnamed" value="Запись без имени" version="1" />

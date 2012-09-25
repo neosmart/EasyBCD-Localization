@@ -19,49 +19,13 @@
     <string key="groupBox1" value="Редактирование загрузочного меню" version="1" />
     <string key="tabEditMenu" derive="true" />
     <string key="btnBrowse" derive="true" />
-    <string key="btnVhdBrowse" clone="btnBrowse" />
-    <string key="btnPeBrowse" clone="btnBrowse" />
-    <string key="btnFloppyBrowse" clone="btnBrowse" />
-    <string key="btnBackupBrowse" clone="btnBrowse" />
-    <string key="btnRestoreBrowse" clone="btnBrowse" />
-    <string key="btnIsoBrowse" clone="btnBrowse" />
     <string key="lblName" value="Имя:" version="1" />
-    <string key="lblVhdName" clone="lblName" />
-    <string key="lblIsoName" clone="lblName" />
-    <string key="lblPeName" clone="lblName" />
-    <string key="lblFloppyName" clone="lblName" />
-    <string key="lblWinName" clone="lblName" />
-    <string key="lblLinName" clone="lblName" />
-    <string key="lblMacName" clone="lblName" />
-    <string key="lblNewName" clone="lblName" />
     <string key="lblType" value="Тип:" version="1" />
-    <string key="lblVhdType" clone="lblType" />
-    <string key="lblPeType" clone="lblType" />
-    <string key="lblWinType" clone="lblType" />
-    <string key="lblLinType" clone="lblType" />
     <string key="lblPath" value="Путь:" version="1" />
-    <string key="lblVhdPath" clone="lblPath" />
-    <string key="lblIsoPath" clone="lblPath" />
-    <string key="lblWinPE_Path" clone="lblPath" />
-    <string key="lblFloppyPath" clone="lblPath" />
     <string key="lblDrive" value="Диск:" version="1" />
-    <string key="lblWinDrive" clone="lblDrive" />
-    <string key="lblLinDrive" clone="lblDrive" />
-    <string key="lblNewDrive" clone="lblDrive" />
     <string key="btnAddNewEntry" value="Добавить" version="1" />
-    <string key="btnAddLinux" clone="btnAddNewEntry" />
-    <string key="btnAddMac" clone="btnAddNewEntry" />
-    <string key="btnAddVhd" clone="btnAddNewEntry" />
-    <string key="btnAddIso" clone="btnAddNewEntry" />
-    <string key="btnAddPE" clone="btnAddNewEntry" />
-    <string key="btnAddFloppy" clone="btnAddNewEntry" />
-    <string key="btnAddWindows" clone="btnAddNewEntry" />
     <string key="lblMode" value="Режим:" version="1" />
-    <string key="lblMacMode" clone="lblMode" />
-    <string key="lblIsoMode" clone="lblMode" />
     <string key="lblFile" value="Файл:" version="1" />
-    <string key="lblFile1" clone="lblFile" />
-    <string key="lblFile2" clone="lblFile" />
     <string key="txtVhdName" value="NeoSmart VHD-образ" version="1" />
     <string key="tabPage13" value="Образ виртуального диска" version="1" />
     <string key="txtIsoName" value="NeoSmart ISO" version="1" />
@@ -102,12 +66,10 @@
     <string key="tabEntryAdvanced" value="Дополнительные" version="1" />
     <string key="chkEntryKernelDebug" value="Запуск в режиме отладки ядра" version="1" />
     <string key="chkEntrySos" value="Запуск в режиме SOS/Verbose-Boot Mode" version="1" />
-    <string key="chkEntryMemory" value="Удерживать" version="1" />
     <string key="numEntryMemory" derive="true" />
-    <string key="lblDeduct2" value="Мб от физической памяти" version="1" />
-    <string key="chkEntryCpu" value="Ограничить Windows в" version="1" />
+    <string key="lblDeduct2" value="МБ от физической памяти" version="2" />
     <string key="numEntryCpu" derive="true" />
-    <string key="lblLimit2" value="CPUs" version="1" />
+    <string key="lblLimit2" value="Выделить процессоров (ядер) Windows" version="2" />
     <string key="tabEntryDeveloper" value="Разработчикам" version="1" />
     <string key="lblAdvancedSettings" value="Примечание: Некоторые настройки, в зависимости от ОС, выбранной для изменений, могут быть недоступны." version="1" />
     <string key="grpChangeSettings" value="Изменение настроек" version="1" />
@@ -126,7 +88,7 @@
     <string key="btnMakeBootable" value="Установить BCD" version="1" />
     <string key="lblUsbPartitions" value="Раздел:" version="1" />
     <string key="lblCreateBootable" value="EasyBCD может автоматизировать создание загрузочного внешнего носителя. Выберите раздел из выпадающего списка." version="1" />
-    <string key="grpCreateBootableExternal" value="Создание загрузчика на внешнем носителе" version="1" />
+    <string key="grpCreateBootableExternal" value="Создание загрузочного внешнего носителя" version="1" />
     <string key="btnMbrWrite" value="Переписать MBR" version="1" />
     <string key="rdoMbrXP" value="Установить загрузчик предшествующей Windows в MBR" version="1" />
     <string key="rdoMbrVista" value="Установить загрузчик Windows Vista/7/8 в MBR" version="1" />

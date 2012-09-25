@@ -31,7 +31,7 @@
     <string key="failedAddTitle" value="Не удается добавить запись!" version="1" />
     <string key="msdosHelp" value="Для того, чтобы EasyBCD установить в MS-DOS 6.x или Windows 3.x, файлы IO.SYS и MSDOS.SYS должны находиться на активном разделе.&#xD;&#xA;&#xD;&#xA;Для получения дополнительной информации о том, как это работает, нажмите 'Да' чтобы открыть документацию EasyBCD на странице о DOS-записях. Если Вы, так или иначе, не хотите просматривать документацию сейчас, нажмите 'Нет'." version="1" />
     <string key="msdosHelpTitle" value="Открыть документацию  EasyBCD о MS-DOS?" version="1" />
-     <string key="addedFormat" value="{0} успешно добавлена в меню загрузки!" version="1" />
+    <string key="addedFormat" value="{0} успешно добавлена в меню загрузки!" version="1" />
     <string key="neogrubBootloader" value="Загрузчик NeoGrub" version="1" />
     <string key="neogrubRemoved" value="NeoGrub удалён!" version="1" />
     <string key="vhdErrorTitle" value="Ошибка при добавлении записи VHD" version="1" />
@@ -147,11 +147,7 @@
     <string key="optionsSaved" value="Настройки успешно сохранены!" version="1" />
     <string key="orderSaved" value="Порядок записей сохранён" version="1" />
     <string key="easybcdStatus" value="Статус EasyBCD" version="1" />
+    <string key="saveFileTitle" value="Сохранить как..." />
+    <string key="updateFoundText2" value="Вышла новая версия EasyBCD. Хотите перейти на последнюю версию автоматически?&#xD;&#xA;&#xD;&#xA;Нажмите 'Yes' для автоматической загрузки и установки новой версии, 'No' для просмотра списка изменений и обновления вручную, или 'Cancel' для отмены." version="1" />
   </strings>
 </localization>
-
-
-
-
-
-

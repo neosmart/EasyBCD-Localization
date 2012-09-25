@@ -19,6 +19,6 @@
     <string key="btnContinue" value="Продолжить" version="1" />
     <string key="regSuccess" value="Регистрация завершена!" version="1" />
     <string key="MinimumWidth" value="511" />
-    <string key="MinimumHeight" value="334" />	
+    <string key="MinimumHeight" value="334" />
   </strings>
 </localization>
