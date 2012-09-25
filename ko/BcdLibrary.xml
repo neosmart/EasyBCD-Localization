@@ -33,5 +33,7 @@
     <string key="gib" value="기가B" version="1" />
     <string key="mib" value="메가B" version="1" />
     <string key="defragFormat" value="{0} 파일 조각모음 시작" version="1" />
+    <string key="bcdId" derive="true" />
+    <string key="as" value="로서" version="1" />
   </strings>
 </localization>

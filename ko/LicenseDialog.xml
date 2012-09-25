@@ -16,5 +16,7 @@
     <string key="btnContinue" value="계속한다" version="1" />
     <string key="regSuccess" value="등록 완료!" version="1" />
     <string key="linkEmail" derive="true" />
+    <string key="btnSkip" value="빼먹다" version="1" />
+    <string key="seats" value="좌석" version="1" />
   </strings>
 </localization>

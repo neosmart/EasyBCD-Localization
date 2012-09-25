@@ -64,11 +64,10 @@
     <string key="tabEntryAdvanced" value="고급" version="1" />
     <string key="chkEntryKernelDebug" value="kernel 디버그 모드에서 윈도우를 실행" version="1" />
     <string key="chkEntrySos" value="SOS/Verbose-Boot 모드에서 실행" version="1" />
-    <string key="chkEntryMemory" value="공제" version="1" />
     <string key="numEntryMemory" value="0" version="1" />
-    <string key="lblDeduct2" value="실제 메모리로 부터 MB" version="1" />
+    <string key="lblDeduct2" value="MiB는 물리적 메모리에서 공제" version="2" />
     <string key="numEntryCpu" value="0" version="1" />
-    <string key="lblLimit2" value="CPUs" version="1" />
+    <string key="lblLimit2" derive="true" />
     <string key="tabEntryDeveloper" value="개발자" version="1" />
     <string key="lblAdvancedSettings" value="약간의 설정들은 수정된 entry에 따라 사용할 수 없을 수도 있음을 주의" version="1" />
     <string key="grpChangeSettings" value="설정 변경" version="1" />
@@ -132,7 +131,7 @@
     <string key="lstLoadMem" value="메모리에서 탑재" version="1" />
     <string key="lstWim" value="WIM 이미지(램디스크)" version="1" />
     <string key="lstExtracted" value="추출된 파일시스템 레이아웃" version="1" />
-    <string key="lstWin7" value="윈도우즈 비스타/7" version="1" />
+    <string key="lstWin7" value="윈도우즈 비스타/7/8" version="2" />
     <string key="lstWinNt" value="윈도우즈 NT/2k/XP/2k3" version="1" />
     <string key="lstWin9x" value="윈도우즈 95/98/ME" version="1" />
     <string key="lstWinDos" value="MS 도스 6.x" version="1" />
@@ -146,7 +145,7 @@
     <string key="safeVga" value="기본 VGA" version="1" />
     <string key="safeAD" value="활동 디렉토리 수리" version="1" />
     <string key="emptyList" value="엔트리가 없음 !" version="1" />
-    <string key="tabPage12" value="WinPE" />
+    <string key="tabPage12" derive="true" />
     <string key="lstNixLilo" derive="true" />
     <string key="lstNixBsd" derive="true" />
     <string key="lstNixWubi" derive="true" />
@@ -158,7 +157,7 @@
     <string key="paeDefault" derive="true" />
     <string key="lstAlwaysOn" derive="true" />
     <string key="lstOptIn" derive="true" />
-    <string key="safeCmd" value="Command Line/Alternate Shell" />
+    <string key="safeCmd" derive="true" />
     <string key="tabPage11" derive="true" />
   </strings>
 </localization>

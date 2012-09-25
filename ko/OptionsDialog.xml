@@ -34,5 +34,6 @@
     <string key="lblOverviewPt" derive="true" />
     <string key="numFontDetailed" derive="true" />
     <string key="lblDetailedPt" derive="true" />
+    <string key="never" value="못" version="1" />
   </strings>
 </localization>

@@ -144,5 +144,10 @@
     <string key="optionsSaved" value="옵션 저장 성공" version="1" />
     <string key="orderSaved" value="부팅명단 순서 저장됨" version="1" />
     <string key="easybcdStatus" value="이지비씨디 상태" version="1" />
+    <string key="no" value="아니" version="1" />
+    <string key="nxTitle" value="DEP / NoExecute 소개" version="1" />
+    <string key="plop" derive="true" />
+    <string key="saveFileTitle" value="다른 이름으로 저장" />
+    <string key="updateFoundText2" value="EasyBCD의 새 버전이 발견되었습니다. 당신은 자동으로 최신 버전으로 업데이트 할 EasyBCD 하시겠습니까?&#xD;&#xA;&#xD;&#xA;'예'자동으로 다운로드하여 업그레이드 '아니요'변화의 목록을 확인하고 수동으로 업그레이드하거나 '취소'취소하려면 버튼을 누르세요." version="2" />
   </strings>
 </localization>
