@@ -33,7 +33,7 @@
     <string key="OptionsDialog" value="Configuració d'EasyBCD" version="1" />
     <string key="overview" value="Resum" version="1" />
     <string key="detailed" value="Detall" version="1" />
-    <string key="locateBcd" value="Localitzar un magatzem BCD vàlid" />
-    <string key="never" value="Mai" />
+    <string key="locateBcd" value="Localitzar un magatzem BCD vàlid" version="1" />
+    <string key="never" value="Mai" version="1" />
   </strings>
 </localization>

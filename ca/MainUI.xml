@@ -69,10 +69,10 @@
     <string key="chkEntrySos" value="Executar en SOS/Verbose-Boot Mode" version="1" />
     <string key="chkEntryMemory" value="Deduir" version="1" />
     <string key="numEntryMemory" value="0" version="1" />
-    <string key="lblDeduct2" value="MB de memòria física" version="1" />
+    <string key="lblDeduct2" value="MiB dedueix de la memòria física" version="2" />
     <string key="chkEntryCpu" value="Limitar Windows a" version="1" />
     <string key="numEntryCpu" value="0" version="1" />
-    <string key="lblLimit2" value="CPUs" version="1" />
+    <string key="lblLimit2" value="Windows CPU / core límit" version="2" />
     <string key="tabEntryDeveloper" value="Desenvolupador" version="1" />
     <string key="lblAdvancedSettings" value="Algunes configuracions poden no estar disponibles segons la entrada que es modifiqui." version="1" />
     <string key="grpChangeSettings" value="Canviar configuració" version="1" />

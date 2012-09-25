@@ -147,5 +147,7 @@
     <string key="optionsSaved" value="Opcions desades amb èxit!" version="1" />
     <string key="orderSaved" value="Ordre d'entrades desat" version="1" />
     <string key="easybcdStatus" value="Estat d'EasyBCD" version="1" />
+    <string key="saveFileTitle" value="Desa" />
+    <string key="updateFoundText2" value="Una nova versió de EasyBCD s'ha trobat. T'agradaria EasyBCD per actualitzar automàticament a l'última versió?&#xD;&#xA;&#xD;&#xA;Premi &quot;Sí&quot; per descarregar i actualitzar automàticament, 'No' per veure la llista de canvis i actualitzar de forma manual, o 'Cancel · la' per cancel · lar." version="1" />
   </strings>
 </localization>
