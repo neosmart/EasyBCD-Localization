@@ -147,5 +147,7 @@
     <string key="optionsSaved" value="选项保存成功！" version="1" />
     <string key="orderSaved" value="条目已保存" version="1" />
     <string key="easybcdStatus" value="EasyBCD状态" version="1" />
+    <string key="saveFileTitle" value="另存为" version="2" />
+    <string key="updateFoundText2" value="一个新版本的EasyBCD已被发现。你想的EasyBCD自动更新到最新版本吗？&#xD;&#xA;&#xD;&#xA;按“是”自动下载和升级，“否”，看到列表中的改变和手动升级，或“取消”取消。" version="2" />
   </strings>
 </localization>
