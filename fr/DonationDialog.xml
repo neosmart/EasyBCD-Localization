@@ -6,7 +6,7 @@
     <string key="btnDonate" value="&amp;Faire un don" version="1" />
     <string key="lblDonationIntro" value="EasyBCD Community Edition est 100% gratuit et nous entendons poursuivre dans cette voie. Mais cela ne veut pas dire qu'il ne coûte rien à développer et tester. A ce jour, EasyBCD a été téléchargé gratuitement plus de 25 millions de fois, sauvant d'innombrables ordinateurs au bord de la destruction." version="1" />
     <string key="donationTitle" value="Aidez EasyBCD à vous aider !" version="1" />
-    <string key="lblYouDonate" value="Ferez vous un don pour aider EasyBCD à suver plus de PC ?" version="1" />
+    <string key="lblYouDonate" value="Ferez vous un don pour aider EasyBCD à sauver plus de PC ?" version="1" />
     <string key="DonationDialog" value="EasyBCD vous a aidé ?" version="1" />
     <string key="MinimumWidth" value="481" />
     <string key="MinimumHeight" value="342" />
