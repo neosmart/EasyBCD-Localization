@@ -9,6 +9,8 @@ These are the languages currently available in this repository, thanks to the se
 
 * Arabic (العربية) - Azal Tammu
 * Catalan (Català) - Manel Fernàndez
+* Chinese (Simplified) (简体中文) - Dancing Zhao
+* Chinese (Taiwanese) (繁體中文) - fei
 * German (Deutsch) - Wolfgang Milhard
 * English (United States) - NeoSmart Technologies
 * Spanish (Español) - Manel Fernàndez
@@ -19,8 +21,6 @@ These are the languages currently available in this repository, thanks to the se
 * Russian (Русский) - niknikch45 & co.
 * Swedish (Svenska) - Åke Engelbrektson
 * Ukrainian (Українська) - z_mashine
-* Chinese (Simplified) (简体中文) - Dancing Zhao
-* Chinese (Taiwanese) (繁體中文) - fei
 
 ###Contribution
 
