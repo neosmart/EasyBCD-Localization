@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="failedSave" value="Απέτυχε η αποθήκευση των αλλαγών!" version="1" />
+    <string key="accessDeniedTitle" value="Δεν επιτρέπεται η πρόσβαση" version="1" />
+    <string key="name" value="Όνομα" version="1" />
+    <string key="bcdId" value="BCD ID" version="1" />
+    <string key="device" value="Συσκευή" version="1" />
+    <string key="default" value="Προεπιλεγμένο" version="1" />
+    <string key="skipped" value="Παραλείφθηκαν" version="1" />
+    <string key="unknown" value="Άγνωστο" version="1" />
+    <string key="accessViolationFormat" value="Δεν είναι δυνατή η απόκτηση αποκλειστική πρόσβασης στο {0}. Εάν είναι ένας αφαιρούμενος δίσκος, δοκιμάστε εξαγωγή και εκ νέου εισαγωγή και στη συνέχεια προσπαθήστε ξανά." version="1" />
+    <string key="accessDeniedFormat" value="Η πρόσβαση στο {0} δεν έγινε δεκτή. Παρακαλώ βεβαιωθείτε ότι το αρχείο δεν είναι σε χρήση και ότι έχετε δικαίωμα για διαγραφής/ τροποποιήσης σε αυτή τη θέση." version="1" />
+    <string key="oneEntry" value="Υπάρχει μία καταχώρηση στο πρόγραμμα εκκίνησης των Windows." version="1" />
+    <string key="multiEntriesFormat" value="Υπάρχουν συνολικά {0} καταχώρησεις που αναγράφονται στο πρόγραμμα εκκίνησης." version="1" />
+    <string key="entryNum" value="Καταχώρηση #" version="1" />
+    <string key="drive" value="Δίσκος" version="1" />
+    <string key="path" value="Διαδρομή" version="1" />
+    <string key="timeout" value="Λήξη χρόνου" version="1" />
+    <string key="none" value="Κανένα" version="1" />
+    <string key="timeoutFormat" value="{0} δευτερόλεπτα" version="1" />
+    <string key="bootDevice" value="Δίσκος εκκίνησης" version="1" />
+    <string key="ebcdBootDevice" value="Δίσκος εκκίνησης EasyBCD " version="1" />
+    <string key="bootloaderPath" value="Διαδρομή προγράμματος εκκίνησης" version="1" />
+    <string key="bcdError" value="BCD Σφάλμα εκτέλεσης!" version="1" />
+    <string key="ntNotFoundTitle" value="Έγκυρη εγκατάσταση NT δεν βρέθηκε!" version="1" />
+    <string key="ntNotFound" value="Το EasyBCD απέτυχε να εντοπίσει μια έγκυρη εγκατάσταση των Windows NT-2003 σε όλες τις συνδεδεμένες μονάδες δίσκων και δεν μπορεί να συνεχίσει." version="1" />
+    <string key="manuallyLoad" value="Θα θέλατε να τοποθετήσετε χειροκίνητα ένα μητρώο BCD και να το διαχειριστείτε με το EasyBCD; Παρακαλώ σημειώστε ότι το EasyBCD απαιτεί το Windows Vista/7 πρόγραμμα εκκίνησης, και δεν θα λειτουργήσει σε μόνο XP λειτουργικά." version="1" />
+    <string key="errorBcd" value="Σφάλμα κατά το άνοιγμα του BCD Μητρώου" version="1" />
+    <string key="locateValid" value="Εντοπίστε ένα έγκυρο BCD" version="1" />
+    <string key="bcdRegistry" value="Μητρώο BCD" version="1" />
+    <string key="partition" value="Διαμέρισμα" version="1" />
+    <string key="gib" value="GiB" version="1" />
+    <string key="mib" value="MiB" version="1" />
+    <string key="as" value="ως" version="1" />
+    <string key="defragFormat" value="Έναρξη ανασυγκρότησης του αρχείου {0}" version="1" />
+    <string key="unnamed" value="Καταχώρηση χωρίς όνομα" version="1" />
+  </strings>
+</localization>

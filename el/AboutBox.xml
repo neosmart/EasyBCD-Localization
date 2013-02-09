@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="title" value="Σχετικά {0}" version="1" />
+    <string key="OKButton" value="&amp;OK" version="1" />
+    <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - 2012" version="2" />
+    <string key="version" value="Έκδοση" version="1" />
+    <string key="MinimumWidth" value="486" />
+    <string key="MinimumHeight" value="376" version="6" />
+    <string key="seatsAllowed" value="Χρήστες/Συσκευές που επιτρέπονται" version="1" />
+    <string key="unlicensed" value="Χωρίς άδεια χρήσης αντίγραφο!" version="1" />
+    <string key="aboutText1" value="Το EasyBCD είναι το απόλυτο εργαλείο διαχείρισης προγράμματος εκκίνησης. Δεν υπάρχει καμία εγγύηση ότι το EasyBCD θα συνεργαστεί με όλες τις εκδόσεις των Windows. Πάντα να βεβαιώνεστε ότι χρησιμοποιείτε την πιο πρόσφατη έκδοση που είναι διαθέσιμη.&#xD;&#xA;&#xD;&#xA;• Επικεφαλής έργου: Mahmoud H. Al-Qudsi&#xD;&#xA;• Ενεργά συστατικά: Ιδρώτας, αίμα και δάκρυα&#xD;&#xA;• Ανάπτυξη σε C + +, C #, Dr. Pepper, Excedrin, και Visine" version="1" />
+    <string key="thanksFormat" value="Ιδιαίτερες ευχαριστίες στις ομάδες Grub4Dos, PLoP,{0} και UltraDefrag!&#xD;&#xA;&#xD;&#xA;Το EasyBCD διανέμεται με αυτόνομα εργαλεία (Grub4Dos και UltraDefrag) σύμφωνα με τους όρους της άδειας GPLv2. Για περισσότερες πληροφορίες, ανατρέξτε στο αρχείο LICENSE στον κατάλογο εγκατάστασης." version="1" />
+  </strings>
+</localization>
