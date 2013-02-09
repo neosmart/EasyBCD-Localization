@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblOverviewFont" value="Splošna pisava:" />
+    <string key="MinimumHeight" value="359" />
+    <string key="MinimumWidth" value="452" />
+    <string key="lblDefaultDisplay" value="Privzeti način prikaza:" />
+    <string key="lblDefaultTab" value="Privzeti zavihek ob zagonu:" />
+    <string key="lblDetailedFont" value="Pisava za detajle:" />
+    <string key="lblOverviewSize" value="Velikost:" />
+    <string key="numFontOverview" value="8" />
+    <string key="lblOverviewPt" value="točk" />
+    <string key="lblDetailedSize" value="Velikost:" />
+    <string key="numFontDetailed" value="8" />
+    <string key="chkWordWrap" value="Omogoči prelom besed ( privzeto)" />
+    <string key="chkSaveWindow" value="Ob izhodu iz programa  EasyBCD shrani velikost okna" />
+    <string key="ResetSize" value="Ponastavi možnosti prikaza" />
+    <string key="tabDisplayOptions" value="Prikaži možnosti" />
+    <string key="OptionsDialog" value="EasyBCD nastavitve" />
+    <string key="overview" value="Pregled" />
+    <string key="detailed" value="Podrobno" />
+    <string key="locateBcd" value="Poiščite veljavno BCD shrambo" />
+    <string key="never" value="Nikoli" />
+    <string key="btnOK" value="V redu" />
+    <string key="btnCancel" value="Prekini" />
+    <string key="chkExpertMode" value="Zaženi EasyBCD v strokovnem načinu" />
+    <string key="btnBrowseBcd" value="..." />
+    <string key="rdoWeeks" value="Teden/nov" />
+    <string key="tabGeneralSettings" value="Splošne nastavitve" />
+    <string key="chkRememberBackup" value="Ob izhodu si zapomni imenik za varnostno kopiranje BCD" />
+    <string key="lblExpertMode" value="Strokovni način ne opozori uporabnika pred izvedbo naprednih dejavnosti!" />
+    <string key="chkLoadDefaultBcd" value="Ob zagonu samodejno naloži sledečo datoteko BCD:" />
+    <string key="chkAutoUpdate" value="Samodejno posodobi vsakih" />
+    <string key="chkRss" value="Vključi NeoSmart tehnologije v RSS platforme Windows" />
+    <string key="numUpdateInterval" value="0" />
+    <string key="rdoDays" value="Dan/i" />
+    <string key="rdoMonths" value="Mesec/ev" />
+    <string key="lblLastUpdateCheck" value="Zadnje samodejno preverjanje:" />
+    <string key="lblDetailedPt" value="točk" />
+  </strings>
+</localization>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnCancel" value="Ne &amp; hvala" />
+    <string key="btnDonate" value="&amp;Prispevajte" />
+    <string key="chkDontRemind" value="Ne opominjaj me" />
+    <string key="lblDonationIntro" value="EasyBCD  je 100% brezplačna programska oprema in želimo, da tako tudi ostane. Vendar samo zato, ker je brezplačna še ne pomeni da je  razvoj in preizkušanje nič ne stane.&#xD;&#xA;Do danes je bil EasyBCD brezplačno prenesen več kot 25 milijonov krat in pomagal varovati številne računalnike pred poškodbami." />
+    <string key="MinimumHeight" value="342" />
+    <string key="MinimumWidth" value="481" />
+    <string key="DonationDialog" value="Wam je EasyBCD pomagal?" />
+    <string key="lblYouDonate" value="Boste darovali in pomagali EasyBCD rešiti še več računalnikov?" />
+    <string key="donationTitle" value="Pomoč za EasyBCD je pomoč vam!" />
+  </strings>
+</localization>

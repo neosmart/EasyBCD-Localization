@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linuxAuto" value="Samodejno iskanje in nalaganje" />
+    <string key="communityText" value="Program EasyBCD skupnosti je prosta licenca za nekomercialne namene.&#xD;&#xA;Če uporabljate to programsko opremo v komercialnem okolju, kliknite za nakup komercialne licence »Prekliči« . V nasprotnem primeru kliknite 'V redu' za nadaljevanje." />
+    <string key="communityTitle" value="Program EasyBCD skupnosti" />
+    <string key="bcdInUse" value="Trenutna datoteka je v uporabi in je ni mogoče odpreti z EasyBCD. Če hočete, da (ponovno) izbere sistemsko skladišče, pritisnite ''Ne'' in nato uporabite  &quot;Naloži sistemsko skladišče'' iz menija ''Datoteka''.&#xD;&#xA;&#xD;&#xA;Bi radi, da izbrali drugo skladišče za uporabo v EasyBCD?" />
+    <string key="adminTitle" value="Dostop zavrnjen" />
+    <string key="bcdInUseTitle" value="Napaka - nedovoljen dostop" />
+    <string key="accessDenied" value="Dostop zavrnjen!" />
+    <string key="uncUnsupported" value="Omrežna poti ne podpira te funkcije. Vnesite drugo pot in poskusite znova." />
+    <string key="uncUnsupportedTitle" value="UNC pot ni podprta" />
+    <string key="invalidPath" value="Neveljavna pot ali ime datoteke. Za nadaljevanje vnesite veljavno pot." />
+    <string key="invalidPathTitle" value="Neveljavna pot!" />
+    <string key="updateCheck" value="Preverjanje posodobitev za EasyBCD .." />
+    <string key="updateFailed" value="Preverjanje posodobitve ni  uspelo. Napaka pri vzpostavitvi omrežne povezave." />
+    <string key="updateFailedSB" value="EasyBCD posodobitev ni  uspela:" />
+    <string key="updateFound" value="Na voljo je nova različica EasyBCD" />
+    <string key="updateFoundText" value="Nova različica EasyBCD je bila najdena. Za nadgradnjo pojdite na stran za prenos EasyBCD innaložite najnovejšo različico" />
+    <string key="updateNone" value="Imate najnovejšo različico EasyBCD" />
+    <string key="install" value="Namesti" />
+    <string key="remove" value="Odstrani" />
+    <string key="adminLine1" value="EasyBCD se ne more nadaljevati. Za pravilno delovanje zahteva skrbniške pravice." />
+    <string key="adminLine2" value="Za nadaljevanje se prosim prijavite ali zaženite kot administrator" />
+    <string key="easybcdBackup" value="EasyBCD varnostna kopija" />
+    <string key="yes" value="Da" />
+    <string key="no" value="Ne" />
+    <string key="registryFailed" value="Ne morem zapisati nastavitev registra" />
+    <string key="commercialEdition" value="Komercialna inačica" />
+    <string key="communityEdition" value="Javna inačica" />
+    <string key="failedAddTitle" value="Vnosa ni bilo mogoče dodati!" />
+    <string key="msdosHelpTitle" value="Branje EasyBCD MS-DOS dokumentacije?" />
+    <string key="addedFormat" value="{0} uspešno dodano v zagonski meni!" />
+    <string key="neogrubRemoved" value="NeoGrub uspešno odstranjen!" />
+    <string key="msdosHelp" value="Zagon EasyBCD v MS-DOS 6.x ali Windows 3.x, mora vsebovati IO.SYS in MSDOS.SYS   na začetku aktivne particije.&#xD;&#xA;&#xD;&#xA;Za več informacij o tem, kako se to izvede pritisnete &quot;Da&quot;, da se odpre stran EasyBCD dokumentacije za vpise na osnovi DOS. Namesto tega pritisnite &quot;Ne&quot;, če si dokumentacije ne želite ogledati " />
+    <string key="neogrubBootloader" value="NeoGrub zagonski nalagalnik " />
+    <string key="vhdErrorTitle" value="Napaka pri dodajanju VHD vnosa" />
+    <string key="errorSpaces" value="Pot preslikava ne sme vsebovati presledkov. Popravite in poskusite znova." />
+    <string key="saveFileTitle" value="Posnami kot" />
+    <string key="unsupportedOS" value="Ta možnost je na voljo samo v operacijskem sistemu Windows Vista, Windows 7 in Windows 8." />
+    <string key="paeTitle" value="Možnosti PAE" />
+    <string key="isoErrorTitle" value="Napaka pri dodajanju ISO vnosov" />
+    <string key="floppyErrorTitle" value="Napaka pri dodajanju Floppy vnosov" />
+    <string key="path" value="Pot:" />
+    <string key="name" value="Ime:" />
+    <string key="drive" value="Pogon:" />
+    <string key="wimFiles" value="Datoteke Windows preslikav" />
+    <string key="vhdFiles" value="Datoteke navideznega trdega diska" />
+    <string key="isoFiles" value="ISO preslikave" />
+    <string key="imgFiles" value="IMG preslikave" />
+    <string key="bcdFiles" value="EasyBCD datoteke za varnostno kopiranje" />
+    <string key="safeIntro" value="EasyBCD vam omogoča kreirati dodatne vnose v zagon v istem OS, vendar z različnimi možnostmi. Z ustvarjanjem novega vnosa in dodajanjem ene od zastavic varneega načina, ga lahko uporabite za hitro odpravljanje napak sistema." />
+    <string key="safeNormal" value="Normalno: onemogočanje vseh obnovitvenih možnosti vam omogoča normalen zagon operacijskega sistema." />
+    <string key="safeVga" value="Osnovno VGA: naloži osnovne zaslonske gonilnike, ponastavi ločljivost zaslona." />
+    <string key="safeNetworking" value="Varni način z mrežo: zagon v varnem načinu z dostopom do medmrežja in lokalne mreže." />
+    <string key="safeMode" value="Varni način: zagon v varnem načinu brez dostopa do omrežja. Uporabno, če so poškodovane gonilniki omrežja." />
+    <string key="safeTitle" value="Možnosti varnega načinu" />
+    <string key="paeIntro" value="Fizični naslov razširitev določa, kako bo sistem Windows preslikal dodatni pomnilnik, čez označevalec 4 GB pomnilnika." />
+    <string key="paeDefault" value="Privzeto: dopustimo Windows-u določanje preslikavo spomina." />
+    <string key="paeEnable" value="Pospeševanje omogočeno: pospeševanje pomnilniških preslikav." />
+    <string key="browseFileTitle" value="Iskanje datoteke" />
+    <string key="mountBcdNow" value="Želite samodejno naložiti novo ustvarjene BCD shrambo v EasyBCD?" />
+    <string key="unsupportedOSTitle" value="Nepodprt operacijski sistem!" />
+    <string key="confirmRestart" value="Ali ste prepričani, da želite ponovno zagnati računalnik?" />
+    <string key="powerConsole" value="EasyBCD-a pospeševalna konzola" />
+    <string key="confirmRestartTitle" value="Potrdite ponovni zagon" />
+    <string key="errorROTitle" value="Zaznana BCD shramba samo za branje" />
+    <string key="confirmDeleteTitle" value="Potrdite brisanje?" />
+    <string key="bootloaderSuccess" value="Nastavitve zagonskega nalagalnika so bile uspešno shranjene" />
+    <string key="accessDeniedText" value="Ni dostopa do BCD. Preverite in se prepričajte, če  ni  BCD shramba na izbrani napravi trenutno  v uporabi." />
+    <string key="invalidDrive" value="Neveljavna operacija pogona" />
+    <string key="errorNotPrimary" value="Zagonski razdelek mora biti primarni razdelek.&#xD;&#xA;&#xD;&#xA;Prosimo, da izberete drug pogon ali pretvorite izbrano particijo v primarno in poskusite znova" />
+    <string key="nxOff" value="Vedno izključeno: DEP je onemogočen za Windows in vse aplikacije." />
+    <string key="nxOn" value="Vedno vkjučeno: DEP je prednosten za vse aplikacije." />
+    <string key="safeAD" value="Popravilo z imenikom Active Directory: zaženi Windows Server 2008 v Active Directory načinu." />
+    <string key="paeDisable" value="Pospeševanje onemogočeno: onemogočena preslikava dodatnega pomnilnika." />
+    <string key="nxIntro" value="DEP/noexecute sistem za odkrivanje zlonamernih skript strojne plasti, uveden v  operacijski sistem Windows XP SP2 lahko pomaga varovati vaš sistem pred napadom, vendar je znano, da povzroča nekaj težav z združljivostjo." />
+    <string key="nxOptOut" value="OptOut: Windows in aplikacije so DEP zaščitene." />
+    <string key="nxOptIn" value="OptIn: Windows jedro je DEP zaščiteno." />
+    <string key="nxTitle" value="DEP/noexecute" />
+    <string key="opNotAllowed" value="Operacija ni dovoljena!" />
+    <string key="errorNotMounted" value="EasyBCD ne more kreirati  nenameščenega pogona kot zagonskega. Prosimo, dodeliti črko izbranemu pogonu, znova zaženite EasyBCD in poskusite znova." />
+    <string key="bootableSuccess" value="EasyBCD je uspešno pretvoril izbrani disk v zagonskega . Za nastavitev vnosov menija zagona na izbrano particijo, morate uporabiti &quot;Datoteka | Izberite BCD shramba&quot; in izberite \\ zagon\\ BCD datoteko na razdeleku, ki ste ga pravkar pripravili." />
+    <string key="bootableTitle" value="Zagonski disk kreiran" />
+    <string key="partitionConverted" value="Razdelek pretvorjene v zagonski disk" />
+    <string key="bcdRemove1" value="To je napredna možnost, ki jo uporabljajte le, če ste popolnoma prepričani, da želite odstraniti Windows Vista ali win7 zagonski nalagalnik!" />
+    <string key="bcdRemove3" value="Ste prepričani, da želite nadaljevati?" />
+    <string key="warning" value="Opozorilo!" />
+    <string key="mbrSuccess" value="MBR uspešno zapisan" />
+    <string key="bcdReset" value="BCD je bil uspešno ponastavljen. Vsi vnosi so bili izbrisani!&#xD;&#xA;&#xD;&#xA;Pomembno: dodati morate vsaj en vnos ali pa se računalnik ne bo zagnal!" />
+    <string key="bcdResetTitle" value="Ponastavitev BCD" />
+    <string key="selectBootTitle" value="Izberite nov zagonski razdelek" />
+    <string key="selectBoot" value="EasyBCD bo ponovno nastaviti vaš sistem za zagon z razdelka izbranega spodaj. Ta proces bo vzpostavil BCD shrambo na izbranem disku, kopiral čez trenutne vnose BCD, in naredil izbrano particijo aktivno in zagonsko." />
+    <string key="errorLogical" value="Izveden je bil poskus spremeniti zagonski razdelek v logični pogon, kar ni dovoljeno.Zagonski razdelek mora biti primarni razdelek.&#xD;&#xA;&#xD;&#xA;Vas prosimo, da izberete drug pogon ali pretvorite izbran razdelek v  primarni, nato poskusite znova." />
+    <string key="bootChangedFormat" value="EasyBCD je uspešno naredill nov zagonski razdelek na disku {0}, in  naložil novo BCD shrambo za spremembe. Če je ta razdelek  na  prvem zagonskem disku, vam ni treba storiti ničesar. Če ni, morate izklopiti računalnik in spremenite zagonski pogon v BIOS-u,  da bi spremembe začele veljati." />
+    <string key="bootChangedTitle" value="Zagonski razdelek spremenjen" />
+    <string key="errorNoRestore" value="Usodna napaka: izbrane shrambene se ne da obnoviti." />
+    <string key="errorRO2" value="Če se odločite nadaljevati, spremembe v shrambi BCD ne bodo shranjene. Pritisnite 'Da' za nadaljevanje in naložite to shrambo BCD v načinu samo za branje ali &quot;Ne&quot; in  še naprej uporabljajte prejšnjo BCD shrambo" />
+    <string key="errorRO1" value="Niimate dovoljenja za pisanje v izbrano datoteko. Datoteka nastavljena samo za branje ali pa je shranjena na medi, ki jej označen samo za branje." />
+    <string key="easybcdFiles" value="EasyBCD datoteke" />
+    <string key="loadExternalTitle" value="Izbira nove hrambe" />
+    <string key="thankYou" value="Vaša podpora je upoštevana!" />
+    <string key="errorNoRestoreTitle" value="Napaka pri obnovi" />
+    <string key="confirmDelete" value="Ste prepričani, da želite izbrisati ta vnos?" />
+    <string key="entryDeleted" value="Vnos zagonskega menija izbrisan" />
+    <string key="loadExternal" value="S to funkcijo, bo EasyBCD naložil in uporabljal zunanjo zbirko podatkov BCD po vaši izbiri. Spremembe se bodo narejene na v to shrambo BCD in ne bo vplivale na vašo privzeto postavitev sistema." />
+    <string key="bcdLoadedFormat" value="BCD informacije naložene  iz {0}" />
+    <string key="noBcd" value="Nobena BCD shramba ni naložena. EasyBCD se izvaja v omejenem načinu." />
+    <string key="shutdownStarted" value="Izklop se je začel." />
+    <string key="hiddenBootIni" value="Boot.ini se nahaja na skritem zagonskem razdelku in se ne more naložiti za uporabniško urejanje z EasyBCD.&#xD;&#xA;&#xD;&#xA;Prosimo, dodelite skritemu zagonskemu razdelku črko pogona ali pa uporabite funkcijo Windows XP s samodejno konfiguracijo z dvojnim zagonom namesto tega." />
+    <string key="errorBootIniTitle" value="Ne morem naložiti datoteke Boot.ini!" />
+    <string key="errorBootIniFormat" value="EasyBCD-a ni zaznal  datoteke boot.ini na zagonskem razdelku  {0}.&#xD;&#xA;&#xD;&#xA;Namesto tega dodajte nov  Windows XP ali Windows 2000 vnos za uporabo boot.ini samodejne konfiguracije." />
+    <string key="errorUtility" value="Prišlo je do napake delujočega pripomočka" />
+    <string key="sysInfo" value="Sistemske informacije" />
+    <string key="sysInfoText" value="Prikaže podatke o trenutni konfiguraciji strojne in programske opreme. Uporabno za odpravljanje okvar strojne opreme in za hitro ugotavljanje napak sedanjega namestitvenega sistema." />
+    <string key="powerConsoleText" value="Hiter dostop do ukazne vrstice  z vsemi administrativnimi privilegiji. Uporabite ga za izvajanje sistemske funkcije ali hiter dostop do bcdedit in Bootsect.exe." />
+    <string key="sysRestore" value="Obnovitev sistema" />
+    <string key="restoreCds" value="Windows Vista in Win7 zgoščenke sistemske obnovitve" />
+    <string key="restoreCdsText" value="Prenesite kopijo  sistemskih obnovitvenih CD-je operacijskega sistema Windows Vista in Windows 7  in jih imejte pri roki v primeru nesreče. Lahko uporabite EasyBCD za zagon teh obnovitvenih diskov z USB." />
+    <string key="sysRestoreText" value="Odpre sistemsko nadzorno ploščo za obnovitev sistema. Uporabno za hitro povrnitev in  popravilo vseh sprememb, ki povzročajo težave v  vašem računalniku." />
+    <string key="controlPanel" value="Nadzorna plošča" />
+    <string key="controlPanelText" value="Peilagodite računalnik po svojih željah" />
+    <string key="errorNoEntries" value="EasyBCD je ugotovil, da trenutno ni nameščeni nobenih vnosov. Če zaprete EasyBCD in znova zaženete računalnik, se ne bo zagnal.&#xD;&#xA;&#xD;&#xA;Ali ste prepričani, da želite zapreti, preden ste dodali nov vnos?" />
+    <string key="iRebootText" value="''Pomočnik'', aplikacija NeoSmart tehnologije za EasyBCD. i-Reboot je nameščen v opravilni vrstici (zavzema  le 400KB spomina!) in vam omogoča izbrati operacijski sistem in ga ponovno zagnati. Hiitro in enostavno." />
+    <string key="errorNoEntriesTitle" value="Ni nameščenih vnosov!" />
+    <string key="errorPathSave" value="EasyBCD ni uspel sharaniti trenutne poti varnostne kopije kot privzeti imenik varnostne kopije.Možnost je onemogočena." />
+    <string key="errorPathSaveTitle" value="Problem privzete poti za varnostne kopije" />
+    <string key="diffDeviceTitle" value="Zaznan je neprenosnljiv vnos!" />
+    <string key="isoHelp2" value="Zaženi iz diska: hitrejši zagon, vendar deluje počasneje. Prav tako zahteva pred-procesiranje z EasyBCD med kreiranjem." />
+    <string key="isoHelp1" value="EasyBCD podpira nalaganje preslikav ISO na dva različna načina. Prosimo upoštevajte, da vse ISO preslikave ne bodo delovale pravilno; ponavadi Linux ISO namestitev ne bo delovala." />
+    <string key="isoHelp3" value="Naloži iz pomnilnika: deluje hitreje, vendar je med zagonom potrebuje več časa za nalaganje. Lahko pride do napak pri večjih diskih in starejših računalnikih." />
+    <string key="isoHelpTitle" value="O ISO možnostih" />
+    <string key="warnDiffDevice" value="Izbrana datoteka je shranjena v drugi napravi kot zagonske datoteke. Če nameravate uporabiti ta vnos za zagon v drugem računalniku, kot v tistem, ki ga trenutno uporabljate, morate kopirati to datoteko na zunanji disk in poskusiti znova. Želite vseeno nadaljevati?" />
+    <string key="errorNoBcd" value="BCD register ni naložen - izvajanje poteka v načinu omejene funkcionalnosti!" />
+    <string key="bcdExceptionFormat" value="BCD izjema 0x {0: X3}" />
+    <string key="userCancel" value="Operacijo je prekinil uporabnik." />
+    <string key="renameSuccess" value="Vnos so uspešno preimenovan" />
+    <string key="plop" value="EasyBCD BIOS razširitev" />
+    <string key="entryRemovedFormat" value="{0}  odstranjeno" />
+    <string key="drive2" value="Pogon" />
+    <string key="bcdResetStatus" value="BCD je uspešno ponastavljen. Prosimo, ponovno nastavite !" />
+    <string key="bcdRepaired" value="BCD je uspešno popravljen" />
+    <string key="configSaved" value="Nastavitveni vnosi so uspešno shranjeni" />
+    <string key="backupSuccess" value="Varnostno kopiranje BCD je uspešno" />
+    <string key="restoreSuccess" value="Obnovitev uspešno zaključena" />
+    <string key="bcdRefresh" value="Predpomnilnik s podatki BCD je je bil uspešno osvežen" />
+    <string key="optionsSaved" value="Možnosti so bile uspešno shranjene!" />
+    <string key="orderSaved" value="Vnos shranjen" />
+    <string key="easybcdStatus" value="EasyBCD status" />
+    <string key="updateFoundText2" value="Najdena je bila nova različica EasyBCD. Želite, da se EasyBCD samodejno posodablja?&#xD;&#xA;&#xD;&#xA;Pritisnite 'Da' za samodejen prenos in nadgradnjo, &quot;Ne&quot; za prikaz seznama sprememb in posodobite ročno ali &quot;Prekliči&quot; za preklic." />
+    <string key="bcdRemove2" value="Ta funkcija zažene v operacijskem sistemu Windows XP le, če prave zagonske datoteke že obstajajo!" />
+  </strings>
+</localization>
