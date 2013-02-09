@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblDriveSelect" value="Yeni Önyüklemeli Sürücü:" version="1" />
+    <string key="lblBody" value="EasyBCD, aşağıda seçtiğiniz sürücüden önyükleme için sisteminizi yeniden yapılandıracak. Bu işlem, seçili diske bir BCD deposunu, geçerli BCD girişleri üzerine kopyalayacak hem de seçili bölümü etkin &amp;önyükleyici yapacak." version="1" />
+    <string key="OK_Button" value="&amp;Tamam" version="1" />
+    <string key="Cancel_Button" value="&amp;İptal" version="1" />
+    <string key="DriveSelect" value="SürücüSeçimi" version="1" />
+    <string key="errorAlreadyBoot" value="Seçtiğiniz sürücü zaten geçerli önyüklemeli sürücü. Devam etmek için farklı bir sürücü seçin!" version="1" />
+    <string key="errorAlreadyBootTitle" value="Başka bir sürücü seçin!" version="1" />
+    <string key="MinimumWidth" value="518" />
+    <string key="MinimumHeight" value="199" />
+  </strings>
+</localization>

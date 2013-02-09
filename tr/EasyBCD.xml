@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linuxAuto" value="Otomatik olarak bul ve yükle" version="1" />
+    <string key="communityText" value="EasyBCD Community Sürümü ticari olmayan kullanım için serbest lisanslanmıştır. &#xD;&#xA;Bu yazılım ticari bir ortamda kullanıyorsanız, bir ticari lisans satın almak için aşağıdaki 'İptal'i tıklayın. Ticari kullanmayacaksanız 'Tamam' tuşuna tıklayın." version="1" />
+    <string key="communityTitle" value="EasyBCD Community Sürümü" version="1" />
+    <string key="bcdInUse" value="Geçerli dosya kullanımda iken EasyBCD tarafından açılamaz. (Yeniden) sistem içeriği seçmeye çalışıyorsanız aşağıdaki 'Hayır' tuşuna basın ve Dosya &quot;Menüsünden Sistem İçeriği &quot;Seçeneğini kullanın.&#xD;&#xA;&#xD;&#xA;EasyBCD'nin kullanılması için farklı bir içerik seçilsin mi?" version="1" />
+    <string key="bcdInUseTitle" value="Erişim engellendi" version="1" />
+    <string key="accessDenied" value="Erişim hatası!" version="1" />
+    <string key="uncUnsupported" value="Bu ağ yolları özelliği desteklenmiyor. Başka bir yol girin ve tekrar deneyin." version="1" />
+    <string key="uncUnsupportedTitle" value="UNC yolları desteklenmiyor." version="1" />
+    <string key="invalidPath" value="Seçilen yol adı yada dosya geçersiz. Devam etmek için geçerli bir yol yada dosya girin." version="1" />
+    <string key="invalidPathTitle" value="Yol geçersiz!" version="1" />
+    <string key="updateCheck" value="EasyBCD güncellemeleri denetleniyor..." version="1" />
+    <string key="updateFailed" value="Güncelleştirme başarısız. Ağ bağlantı hatası oldu." version="1" />
+    <string key="updateFailedSB" value="EasyBCD güncellenemedi: " version="1" />
+    <string key="updateFound" value="EasyBCD'in yeni sürümü bulundu!" version="1" />
+    <string key="updateFoundText" value="EasyBCD'in yeni bir sürümü bulundu. En son sürüme yükseltmek için 'EasyBCD İndirme Sayfası'na gidilsin mi?" version="1" />
+    <string key="updateNone" value="Kullandığınız bu sürüm, geçerli en son EasyBCD sürümünüdür." version="1" />
+    <string key="install" value="Kur" version="1" />
+    <string key="remove" value="Kaldır" version="1" />
+    <string key="adminLine1" value="'EasyBCD Yönetici Ayrıcalıkları' düzgün çalışmadığı için devam edilemiyor." version="1" />
+    <string key="adminLine2" value="Devam etmek için 'Yönetici Olarak' çalıştırın yada oturum açın." version="1" />
+    <string key="adminTitle" value="İzin reddedildi." version="1" />
+    <string key="easybcdBackup" value="EasyBCD Yedeklemesi" version="1" />
+    <string key="yes" value="Evet" version="1" />
+    <string key="no" value="Hayır" version="1" />
+    <string key="registryFailed" value="Kayıt Defteri ayarları yazılamıyor" version="1" />
+    <string key="commercialEdition" value="Commercial Sürüm" version="1" />
+    <string key="communityEdition" value="Community Sürüm" version="1" />
+    <string key="failedAddTitle" value="Girdi eklenemedi!" version="1" />
+    <string key="msdosHelp" value="'EasyBCD Önyükleme' de, bir önceki Windows Sürümü(MS-DOS 6.x yada Windows 3.x), IO.SYS ve MSDOS.SYS etkin bölümün başında olmalıdır.&#xD;&#xA;&#xD;&#xA;(Önce, önceki Windows Sürümleri kurulmalıdır). DOS tabanlı girişlerin nasıl yapılacağı konusunda daha fazla bilgi için 'EasyBCD Belgeleri Sayfasını' ziyaret edin. Bunun için 'Evet' tuşuna basın." version="1" />
+    <string key="msdosHelpTitle" value="EasyBCD adlı MS-DOS Belgeleri okuyun?" version="1" />
+    <string key="addedFormat" value="{0}, önyükleme mönüsüne başarıyla eklendi!" version="1" />
+    <string key="neogrubBootloader" value="NeoGrub Önyükler" version="1" />
+    <string key="neogrubRemoved" value="NeoGrub başarıyla kaldırıldı!" version="1" />
+    <string key="vhdErrorTitle" value="VHD girişi eklenemedi" version="1" />
+    <string key="errorSpaces" value="Simge yolu boşluk içermemelidir. Durumu düzeltip tekrar deneyin." version="1" />
+    <string key="isoErrorTitle" value="ISO girdisi eklenemedi" version="1" />
+    <string key="floppyErrorTitle" value="Floppy girdisi eklenemedi" version="1" />
+    <string key="path" value="Yolu:" version="1" />
+    <string key="name" value="Adı:" version="1" />
+    <string key="drive" value="Sürücüsü:" version="1" />
+    <string key="browseFileTitle" value="Dosyaya gözat" version="1" />
+    <string key="wimFiles" value="Windows simge dosyaları" version="1" />
+    <string key="vhdFiles" value="Sanal HD dosyaları" version="1" />
+    <string key="isoFiles" value="ISO simgeleri" version="1" />
+    <string key="imgFiles" value="IMG dosyaları" version="1" />
+    <string key="bcdFiles" value="EasyBCD yedekleme dosyaları" version="1" />
+    <string key="safeIntro" value="EasyBCD, benzer işletim sistemi önyüklemesi için farklı seçenekler sağlayarak ekstra girişler oluşturur. Güvenli Mod bayraklarından birini verip yeni bir giriş oluşturabilir ve hızlı bir şekilde sistemden hata ayıklamak için kullanabilirsiniz." version="1" />
+    <string key="safeNormal" value="Normal: İşletim sistemi içine önyükleme sağlayarak, tüm kurtarma seçeneklerini devre dışı bırakır." version="1" />
+    <string key="safeVga" value="Temel VGA: Ekran çözünürlüğünü sıfırlayıp, temel ekran sürücülerini yükler." version="1" />
+    <string key="safeNetworking" value="Güvenli Mod w/ Ağ: Yerel ağ ve internete erişim ile güvenli moda Önyükler." version="1" />
+    <string key="safeMode" value="Güvenli Mod: Ağ sürücüleri bozulmuşsa yerel ağa ve internete erişimi 'Güvenli mod'da başlatmak işe yarar." version="1" />
+    <string key="safeAD" value="Etken dizin onarımı: Windows Server 2008 Etken dizin onarım moduna önyüklemeler." version="1" />
+    <string key="safeTitle" value="Güvenli mod seçenekleri hakkında" version="1" />
+    <string key="paeIntro" value="Fiziksel adres uzantısı belirlemiş olan Windows 4GB bellek işaretleyicisi ötesinde fazladan bellek eşleştirmiş olacak." version="1" />
+    <string key="paeDefault" value="Varsayılan: Windows'un belirlediği bellek eşleştirilmiş olacak." version="1" />
+    <string key="paeEnable" value="Etkinleştirmeye zorla: Bellek haritalamayı güçlendir." version="1" />
+    <string key="paeDisable" value="Etkisizleştirmeye zorla: Fazlatan bellek haritalamayı devre dışı bırak." version="1" />
+    <string key="paeTitle" value="PAE Seçenekleri hakkında" version="1" />
+    <string key="nxIntro" value="DEP/NoExecute saldırılara karşı sisteminizi korumanıza yardımcı olacak, Windows XPSp2 zamanında tanıtılan bir donanım katmanı kötü amaçlı komut algılama sistemi, ancak bazı uyumluluk sorunlarına neden olduğu bilinmektedir." version="1" />
+    <string key="nxOptIn" value="OptIn: Windows çekirdeği DEP-korumalıdır." version="1" />
+    <string key="nxOptOut" value="OptOut: Windows ve uygulamaları, DEP korumalıdır." version="1" />
+    <string key="nxOn" value="AlwaysOn: DEP, tüm uygulamalar için zorlanır." version="1" />
+    <string key="nxOff" value="AlwaysOff: DEP, Windows ve tüm uygulamaları için devre dışıdır." version="1" />
+    <string key="nxTitle" value="DEP/NoExecute Hakkında" version="1" />
+    <string key="errorNotPrimary" value="Önyükleme bölümü birincil bölüm olmalıdır.&#xD;&#xA;&#xD;&#xA;Ya farklı bir birincil bölüm seçin yada seçtiğiniz bölümü birincil bölüme dönüştürün, sonra tekrar deneyin." version="1" />
+    <string key="opNotAllowed" value="Çalışmasına izin verilmedi!" version="1" />
+    <string key="errorNotMounted" value="EasyBCD, adlandırılmamış sürücüleri Önyüklenir yapamadı. Seçilen sürücüye bir harf atayın, EasyBCD'i yeniden başlatın ve işlemi tekrar deneyin." version="1" />
+    <string key="invalidDrive" value="Sürücü çalışması geçersiz" version="1" />
+    <string key="bootableSuccess" value="EasyBCD, seçilen diski önyüklenebilir bir sürücüye dönüştürdü. Seçilen partisyonda önyükleme mönü girişlerini yapılandırmak için 'Dosya | BCD Depo Seç komutunu' kullanmalı ve hazırlanan partisyon üzerinde \\önyükleme\\BCD dosya komutunu uygulamalısın." version="1" />
+    <string key="mountBcdNow" value="EasyBCD içinde otomatik olarak yeni oluşturulan BCD deposuna yüklemek ister misiniz?" version="1" />
+    <string key="bootableTitle" value="Önyükleme diski oluşturuldu" version="1" />
+    <string key="accessDeniedText" value="BCD bağlantısı geçerli değil. Denetleyin. BCD Deposu'nun, seçili aygıtta, şu anda kullanımda olmadığından emin olun." version="1" />
+    <string key="partitionConverted" value="Önyüklenebilir sürücüye dönüştürüldü" version="1" />
+    <string key="bcdRemove1" value="Eğer WVt/W7 önyükleyicisi kesin olarak kaldırılacaksa kullanılması gereken yalnızca bu gelişmiş seçenektir!" version="1" />
+    <string key="bcdRemove2" value="Uygun önyükleme dosyaları zaten yerli yerinde ise bu özellik yalnızca W XP önyüklemesi olacak!" version="1" />
+    <string key="bcdRemove3" value="Devam edilsin mi?" version="1" />
+    <string key="warning" value="Uyarı!" version="1" />
+    <string key="mbrSuccess" value="MBR başarıyla yazıldı" version="1" />
+    <string key="bootloaderSuccess" value="Önyükleyici ayarları başarıyla kaydedildi" version="1" />
+    <string key="bcdReset" value="BCD başarıyla sıfırlandı. Tüm kayıtlar silindi!&#xD;&#xA;&#xD;&#xA;Önemli: En az bir giriş eklemelisiniz yoksa bilgisayarınız önyüklemesiz kalır!" version="1" />
+    <string key="bcdResetTitle" value="BCD'yi Sıfırla" version="1" />
+    <string key="selectBootTitle" value="Yeni 'Açılır Sürücü' seç" version="1" />
+    <string key="selectBoot" value="EasyBCD, seçtiğiniz aşağıdaki bölümden önyükleme için sisteminizi yeniden yapılandıracak. Bu işlem, seçili diske, varolan BCD girişleri üzerine kopyalayarak bir BCD deposu kuracak ve seçili bölümü etkin ve önyüklenebilir yapacak." version="1" />
+    <string key="errorLogical" value="Bir 'mantıksal sürücü'nün önyükleme bölümü olarak değiştirilmesi için girişim yapıldı ve buna İzin verilmedi. Önyükleme bölümü, birincil bölüm olmalıdır. &#xD;&#xA;&#xD;&#xA;Ya farklı bir sürücü seçin yada ilk seçileni birincil bölüm olarak dönüştürün, sonra tekrar deneyin." version="1" />
+    <string key="bootChangedFormat" value="EasyBCD, {0} sürücüsünü başarıyla yeni önyükleme bölümü yaptı. Bu bölüm ilk önyükleme diski üzerinde ise herhangi bir başka işlem yapmanız gerekmez; değilse, değişiklik için yeni BCD deposu yüklendiğinde, daha fazla değişiklik yapmak gerekir. Değişikliklerin etkili olması için bilgisayar kapatılıp 'BIOS Önyükleme Sürücüsü'nde bu değişiklik yapılmalıdır." version="1" />
+    <string key="bootChangedTitle" value="Önyükleme bölümü değiştirildi" version="1" />
+    <string key="unsupportedOS" value="Bu seçenek, yalnızca WinVista, Win7 ve Win8 üzerinde bulunur." version="1" />
+    <string key="unsupportedOSTitle" value="İşletim Sistemi desteklenmiyor!" version="1" />
+    <string key="errorNoRestore" value="Kötü hata: Seçilen depo geri yüklenemiyor." version="1" />
+    <string key="errorNoRestoreTitle" value="Geryükleme hatası" version="1" />
+    <string key="confirmDelete" value="Bu giriş gerçekten silinsin mi?" version="1" />
+    <string key="confirmDeleteTitle" value="Silmeyi onayla?" version="1" />
+    <string key="entryDeleted" value="Önyükler mönü girişi silindi" version="1" />
+    <string key="thankYou" value="Takdiriniz desteğinizdir!" version="1" />
+    <string key="loadExternal" value="Bu özellik sayesinde, EasyBCD yüklenecek ve tercih ettiğiniz harici BCD veritabanı kullanılacak. Değişiklikler bu BCD içeriğine yapılacak ve varsayılan sistem yapılandırmasını etkilemeyecek." version="1" />
+    <string key="loadExternalTitle" value="Yeni depo seç" version="1" />
+    <string key="easybcdFiles" value="EasyBCD dosyaları" version="1" />
+    <string key="errorRO1" value="Seçilen dosyaya ya yazma izniniz yok, dosya salt-okunur olarak ayarlı yada salt okunur bir ortamda saklı." version="1" />
+    <string key="errorRO2" value="İşleme devam ederseniz BCD deposuna uygulanan değişiklikler kaydedilmeyecek. Devam etmek için 'Evet'e basın ve bu BCD deposunu salt-okunur olarak yükleyin yada 'Hayır'a basıp önceki BCD deposunu kullanmaya devam edin." version="1" />
+    <string key="errorROTitle" value="Salt-okunur BCD deposu algılandı." version="1" />
+    <string key="bcdLoadedFormat" value="{0} 'den BCD bilgisi yüklü" version="1" />
+    <string key="noBcd" value="BCD deposuna EasyBCD sınırlı modda çalışırken yüklenmez." version="1" />
+    <string key="confirmRestart" value="Bilgisayarınız gerçekten yeniden başlatılsın mı?" version="1" />
+    <string key="confirmRestartTitle" value="Yeniden onayla" version="1" />
+    <string key="shutdownStarted" value="Kapatma başlatıldı." version="1" />
+    <string key="hiddenBootIni" value="EasyBCD tarafından yapılan kullanıcı için düzenlemesi yüklü değil ve 'boot.ini''gizli önyükleme bölümü'nde bulunuyor.&#xD;&#xA;&#xD;&#xA;Bu durumda ya 'gizli önyükleme bölümü' için bir sürücü harfi atayın yada bunun yerine WinXP çift-önyükleme otomatik-yapılandırma özelliğini kullanın." version="1" />
+    <string key="errorBootIniTitle" value="Boot.ini yüklenemiyor!" version="1" />
+    <string key="errorBootIniFormat" value="EasyBCD, önyükleme {0} bölümünde varolan bir 'boot.ini dosyası' bulamadı.&#xD;&#xA;&#xD;&#xA;Otomatik yapılandırma özelliğini kullanabilmeniz için 'boot.ini' yerine yeni bir WinXP veya Win2000 girdisi ekleyin." version="1" />
+    <string key="errorUtility" value="Yararlı hizmet çalışma hatasıyla karşılaşıldı" version="1" />
+    <string key="sysInfo" value="System bilgileri" version="1" />
+    <string key="sysInfoText" value="Varolan donanım ve yazılım yapılandırması hakkında bilgi görüntüler. Sistem kurulumunun hızla bir dökümünü almak ve donanım arızalarının alt bağlantılarını saptamak için yararlanın." version="1" />
+    <string key="powerConsole" value="EasyBCD güç masası" version="1" />
+    <string key="powerConsoleText" value="Tam yönetici ayrıcalıkları ile bir komut satırına hızlı erişim. Üst sistem fonksiyonlarını taşımak için yada bcdedit ve bootsect.exe için bu hızlı erişimi kullan." version="1" />
+    <string key="sysRestore" value="Sistem geriyükleme" version="1" />
+    <string key="sysRestoreText" value="'Hızlı Sistem Geriyükleme' yi açıp, herhangi bir değişikliği gerialmak için kullanın." version="1" />
+    <string key="restoreCds" value="Vt/w7 Sistem geriyükleme CDleri" version="1" />
+    <string key="restoreCdsText" value="Bir zor durumda elaltında olması için 'Windows Vista ve Windows 7 sistem Geriyükleme CD kopyası' indirin. Bu kurtarma disklerinin içine bir USB'den önyükleme kurmak için EasyBCD'yi kullanabilirsiniz." version="1" />
+    <string key="controlPanel" value="Denetim masası" version="1" />
+    <string key="controlPanelText" value="İstediğiniz bir işlemi yapmak için 'Denetim masası'nı açın ve kullanın." version="1" />
+    <string key="iRebootText" value="EasyBCD NeoSMART Teknolojileri yardımcı uygulaması. iReboot görev çubuğunda (bellek üzerinde sadece 400KB kadar) yer alır. Hızlı-kolay yeniden başlatmak için istediğiniz işletim sistemini seçebilirsiniz." version="1" />
+    <string key="errorNoEntries" value="EasyBCD yüklü giriş olmadığını saptadı. Eğer EasyBCD'den çıkıp bilgisayarınızı yeniden başlatırsanız, açılmayacaktır.&#xD;&#xA;&#xD;&#xA;Yeni bir giriş eklenmesin ve çıkılsın mı?" version="1" />
+    <string key="errorNoEntriesTitle" value="Girdiler yüklenmedi!" version="1" />
+    <string key="errorPathSave" value="EasyBCD mevcut yedekleme yolunu, varsayılan yedekleme dizini olarak kaydedemedi. Seçene devre dışı bırakıldı." version="1" />
+    <string key="errorPathSaveTitle" value="Varsayılan yedekleme yolu sorunu" version="1" />
+    <string key="isoHelp1" value="EasyBCD iki farklı modda ISO görüntüleri yüklemeyi destekler. Unutmayın, tüm ISO'lar düzgün olmaz; genellikle ISO'lardan Linux kurulumu işe yaramaz." version="1" />
+    <string key="isoHelp2" value="Disk'ten Yükleme: Açılışta daha hızlı yükler, ancak yavaş çalışır. Ayrıca sırasında EasyBCD'in oluşturduğu ön-işlemi gerektirir." version="1" />
+    <string key="isoHelp3" value="Bellekten Yükleme: Daha hızlı çalıştırır. Ancak önyükleme sırasında seçiminize bağlı olarak, yüklenmesi zaman alır. Daha büyük disklerde veya eski PC'lerde başarısız olabilir." version="1" />
+    <string key="isoHelpTitle" value="ISO seçenekleri hakkında" version="1" />
+    <string key="warnDiffDevice" value="Seçilen dosya, farklı bir aygıtta önyükleme dosyaları olarak bulunuyor. Bu dosyaları, şu anda kullandığınız başka bir PC'de, önyükleme girişi olarak, birden fazla kullanmayı düşünüyorsanız, bu dosyaları harici sürücüye kopyalayıp tekrar denemeniz gerekir.&#xD;&#xA;&#xD;&#xA;Yine de devam edilsin mi?" version="1" />
+    <string key="diffDeviceTitle" value="Taşınamaz giriş algılandı!" version="1" />
+    <string key="errorNoBcd" value="BCD Kaydı yüklenemedi - Sınırlı İşlevsellik modunda çalışıyor!" version="1" />
+    <string key="bcdExceptionFormat" value="BCD İstisnası 0x{0:X3}" version="1" />
+    <string key="userCancel" value="Kullanıcı işlemi iptal etti." version="1" />
+    <string key="renameSuccess" value="Girdi değiştirildi" version="1" />
+    <string key="plop" value="EasyBCD BIOS genişletici" version="1" />
+    <string key="entryRemovedFormat" value="{0} Sürümü kaldırıldı" version="1" />
+    <string key="drive2" value="Sürücü" version="1" />
+    <string key="bcdResetStatus" value="BCD sıfırlandı. Şimdi yeniden yapılandırın!" version="1" />
+    <string key="bcdRepaired" value="BCD onarıldı" version="1" />
+    <string key="configSaved" value="Giriş yapılandırması kaydedildi" version="1" />
+    <string key="backupSuccess" value="BCD yedeklendi" version="1" />
+    <string key="restoreSuccess" value="Yenden yüklendi" version="1" />
+    <string key="bcdRefresh" value="BCD Önbellek verisi yenilendi" version="1" />
+    <string key="optionsSaved" value="Seçenekler kaydedildi!" version="1" />
+    <string key="orderSaved" value="Giriş kayıt sırası" version="1" />
+    <string key="easybcdStatus" value="EasyBCD durumu" version="1" />
+    <string key="saveFileTitle" value="Farklı kaydet" />
+    <string key="updateFoundText2" value="EasyBCD'nin yeni bir sürümü bulundu. EasyBCD'in bu en son sürümü otomatik olarak indirilsin ve yükseltilsin mi?&#xD;&#xA;&#xD;&#xA;Otomatik olarak indirmek ve yükseltmek için 'Evet' e , nelerin değiştiğini görmek ve elle yükseltmek ya da iptal etmek için 'İptal' tuşuna basın." version="1" />
+  </strings>
+</localization>

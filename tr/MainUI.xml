@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="rdoModeBasic" value="Genel bakış" version="1" />
+    <string key="rdoModeDetailed" value="Ayrıntılar(Düzeltme Modu)" version="1" />
+    <string key="chkWordWrap" value="KelimeSarmalı" version="1" />
+    <string key="grpDisplayMode" value="Ekran modu" version="1" />
+    <string key="tabViewSettings" value="1" version="1" />
+    <string key="rdoTimeoutCount" value="Gerisayım" version="1" />
+    <string key="numTimeout" value="0" version="1" />
+    <string key="rdoTimeoutNone" value="Kullanıcının seçimi beklensin" version="1" />
+    <string key="rdoTimeoutSkip" value="Önyükleme mönüsünü atla" version="1" />
+    <string key="btnSaveBCD" value="Ayarları kaydet" version="1" />
+    <string key="groupBox2" value="Zamanaşımı seçenekleri" version="1" />
+    <string key="btnUp" value="Yukarı" version="1" />
+    <string key="btnDown" value="Aşağı" version="1" />
+    <string key="btnRenameEntry" value="Adlandır" version="1" />
+    <string key="btnDelete" value="Sil" version="1" />
+    <string key="groupBox1" value="Önyükler mönüsünü düzenle" version="1" />
+    <string key="tabEditMenu" value="2" version="1" />
+    <string key="btnBrowse" value="..." version="1" />
+    <string key="btnVhdBrowse" clone="btnBrowse" />
+    <string key="btnPeBrowse" clone="btnBrowse" />
+    <string key="btnFloppyBrowse" clone="btnBrowse" />
+    <string key="btnBackupBrowse" clone="btnBrowse" />
+    <string key="btnRestoreBrowse" clone="btnBrowse" />
+    <string key="btnIsoBrowse" clone="btnBrowse" />
+    <string key="lblName" value="Adı:" version="1" />
+    <string key="lblVhdName" clone="lblName" />
+    <string key="lblIsoName" clone="lblName" />
+    <string key="lblPeName" clone="lblName" />
+    <string key="lblFloppyName" clone="lblName" />
+    <string key="lblWinName" clone="lblName" />
+    <string key="lblLinName" clone="lblName" />
+    <string key="lblMacName" clone="lblName" />
+    <string key="lblNewName" clone="lblName" />
+    <string key="lblType" value="Tipi:" version="1" />
+    <string key="lblVhdType" clone="lblType" />
+    <string key="lblPeType" clone="lblType" />
+    <string key="lblWinType" clone="lblType" />
+    <string key="lblLinType" clone="lblType" />
+    <string key="lblPath" value="Yolu:" version="1" />
+    <string key="lblVhdPath" clone="lblPath" />
+    <string key="lblIsoPath" clone="lblPath" />
+    <string key="lblWinPE_Path" clone="lblPath" />
+    <string key="lblFloppyPath" clone="lblPath" />
+    <string key="lblDrive" value="Sürücüsü:" version="1" />
+    <string key="lblWinDrive" clone="lblDrive" />
+    <string key="lblLinDrive" clone="lblDrive" />
+    <string key="lblNewDrive" clone="lblDrive" />
+    <string key="btnAddNewEntry" value="Kayıt ekle" version="1" />
+    <string key="btnAddLinux" clone="btnAddNewEntry" />
+    <string key="btnAddMac" clone="btnAddNewEntry" />
+    <string key="btnAddVhd" clone="btnAddNewEntry" />
+    <string key="btnAddIso" clone="btnAddNewEntry" />
+    <string key="btnAddPE" clone="btnAddNewEntry" />
+    <string key="btnAddFloppy" clone="btnAddNewEntry" />
+    <string key="btnAddWindows" clone="btnAddNewEntry" />
+    <string key="lblMode" value="Mod:" version="1" />
+    <string key="lblMacMode" clone="lblMode" />
+    <string key="lblIsoMode" clone="lblMode" />
+    <string key="lblFile" value="Dosya:" version="1" />
+    <string key="lblFile1" clone="lblFile" />
+    <string key="lblFile2" clone="lblFile" />
+    <string key="txtVhdName" value="NeoSmart VHD simgesi" version="1" />
+    <string key="tabPage13" value="Disk Simgesi" version="1" />
+    <string key="txtIsoName" value="NeoSmart ISO kaydı" version="1" />
+    <string key="tabPage14" value="ISO" version="1" />
+    <string key="txtPeName" value="NST WinPE Simgesi" version="1" />
+    <string key="chkEms" value="EMS Enabled" version="1" />
+    <string key="tabPage12" value="WinPE" version="1" />
+    <string key="txtFloppyName" value="NeoSmart Floppy Simgesi" version="1" />
+    <string key="tabFloppy" value="Flopi" version="1" />
+    <string key="btnPlopInstall" value="PLoP kur" version="1" />
+    <string key="btnPlopRemove" value="PLoP kaldır" version="1" />
+    <string key="lblBiosExtend" value="EasyBCD BIOS genişleticisi, desteklemeyen bilgisayarlarda CD'den, USB'den yada Internet'ten önyükleme için kullanılabilir." version="1" />
+    <string key="tabPagePlop" value="BIOS Genişleticisi" version="1" />
+    <string key="grpPortable" value="Taşınabilir/Harici Medya" version="1" />
+    <string key="lblWindowsAuto" value="Otomatik belirlensin" version="1" />
+    <string key="chkAutoXp" value="Geçerli sürücü otomatik alglansın" version="1" />
+    <string key="txtWinName" value="Microsoft Windows" version="1" />
+    <string key="tabPage8" value="Windows" version="1" />
+    <string key="chkGrub" value="EasyBCD'nin GRUB Kopyasını kullanın" version="1" />
+    <string key="txtLinName" value="NeoSmart Linux" version="1" />
+    <string key="lblLinAuto" value="Otomatik belirlensin" version="1" />
+    <string key="tabPage9" value="Linux/BSD" version="1" />
+    <string key="txtMacName" value="NST Mac OS X" version="1" />
+    <string key="tabPageMac" value="Mac" version="1" />
+    <string key="btnNeoGrub" value="Kur" version="1" />
+    <string key="btnNeoGrubConfig" value="Yapılandır" version="1" />
+    <string key="lblNeoGrub" value="NeoGrub, Windows'u, Linux'u ve eski sürümlerini önyüklemek için dahası sürücüleri gizlemek için kullanılabilir." version="1" />
+    <string key="tabPage11" value="NeoGrub   " version="1" />
+    <string key="grpOS" value="İşletim Sistemleri" version="1" />
+    <string key="tabAddEntry" value="3" version="1" />
+    <string key="btnSaveSettings" value="Ayarları kaydet" version="1" />
+    <string key="lblLocale" value="Yeri:" version="1" />
+    <string key="tabEntryBasic" value="Temel" version="1" />
+    <string key="lblSafeMode" value="GüvenliMod:" version="1" />
+    <string key="lblPae" value="PAE Desteği: " version="1" />
+    <string key="lblDep" value="DüzenYok: " version="1" />
+    <string key="chkEntryUnsigned" value="Windows-x64 imzasız sürücülerin kullanımına izin ver" version="1" />
+    <string key="tabEntryAdvanced" value="Gelişmiş" version="1" />
+    <string key="chkEntryKernelDebug" value="Çekirdek Windows'u çalıştır-Düzeltme Modu" version="1" />
+    <string key="chkEntrySos" value="SOS/Gereksiz-Önaçılır Modunda çalıştır" version="1" />
+    <string key="numEntryMemory" value="0" version="1" />
+    <string key="lblDeduct2" value="Fiziksel bellekten düşük MiB" version="2" />
+    <string key="numEntryCpu" value="0" version="1" />
+    <string key="lblLimit2" value="Windows CPU/Çekirdek sınırı" version="2" />
+    <string key="tabEntryDeveloper" value="Geliştirici" version="1" />
+    <string key="lblAdvancedSettings" value="Değişim girişlerine bağlı olarak bazı ayarlar kullanılamıyor olabilir." version="1" />
+    <string key="grpChangeSettings" value="Ayarları değiştir" version="1" />
+    <string key="lblPickLH" value="İşlem için aşağıdaki listeden bir kayıt seçin." version="1" />
+    <string key="grpSelectLH" value="İşletim Sistemi Seçimi" version="1" />
+    <string key="tabAdvanced" value="4" version="1" />
+    <string key="btnBackup" value="Yedekleme Ayarları" version="1" />
+    <string key="btnRestore" value="Yedeklemeden kur" version="1" />
+    <string key="grpBackupRestore" value="Önyükler Yedekleme - Geriyükleme Ayarları" version="1" />
+    <string key="rdoBcdChange" value="Açılır Sürücüyü değiştir" version="1" />
+    <string key="rdoBcdRepair" value="Açılır Dosyalar oluştur-onar " version="1" />
+    <string key="btnBcdRescue" value="Eylemi gerçekleştir" version="1" />
+    <string key="rdoBcdReset" value="BCD Yapılandırmasını sıfırla" version="1" />
+    <string key="grpDiagnostics" value="BCD Yönetim Seçenekleri" version="1" />
+    <string key="tabBcdInstall" value="5" version="1" />
+    <string key="btnMakeBootable" value="BCD yükle" version="1" />
+    <string key="lblUsbPartitions" value="Sürücü seç:" version="1" />
+    <string key="lblCreateBootable" value="EasyBCD'in 'Önyüklenebilir Media' oluşturma sürecini otomatikleştir. Başlamak için aşağıdan bir Sürücü seçin." version="1" />
+    <string key="grpCreateBootableExternal" value="Önyüklenebilir Harici Media oluştur" version="1" />
+    <string key="btnMbrWrite" value="MBR yaz" version="1" />
+    <string key="rdoMbrXP" value="Windows XP MBR Önyükleyici ata" version="1" />
+    <string key="rdoMbrVista" value="Windows Vista/7 MBR Önyükleyici ata" version="1" />
+    <string key="grpBootloader" value="MBR Yapılandırma Seçenekleri" version="1" />
+    <string key="tabMbrSetup" value="6" version="1" />
+    <string key="grpUtils" value="Yararlı Hizmetler" version="1" />
+    <string key="tabUtilities" value="7" version="1" />
+    <string key="btnBcdInstall" value="BCD Yedekleme/Onarım" version="1" />
+    <string key="btnUtilities" value="Yararlı Hizmetler" version="1" />
+    <string key="btnMbrSetup" value="BCD Dağıtımı" version="1" />
+    <string key="btnAdvanced" value="Gelişmiş Ayarlar" version="1" />
+    <string key="btnAddEntry" value="Yeni Kayıt ekle" version="1" />
+    <string key="btnEditMenu" value="Önyükler Mönüsü Düzeni" version="1" />
+    <string key="btnViewSettings" value="Ayarları göster" version="1" />
+    <string key="grpToolbox" value="EasyBCD Araçları" version="1" />
+    <string key="mnuSelectBcd" value="&amp;BCD Düzeni seç" version="1" />
+    <string key="mnuLanguage" value="&amp;Dil seç" version="1" />
+    <string key="mnuLoadSystemBcd" value="BCD S&amp;istemini yükle" version="1" />
+    <string key="mnuRescan" value="BCD Düzeni'ni ye&amp;nile" version="1" />
+    <string key="mnuRegister" value="&amp;Kaydettir" version="1" />
+    <string key="mnuDonate" value="&amp;Bağış" version="1" />
+    <string key="mnuUpdate" value="&amp;Güncellemeleri denetle" version="1" />
+    <string key="mnuExit" value="Ç&amp;ıkış" version="1" />
+    <string key="mnuFile" value="&amp;Dosya" version="1" />
+    <string key="mnuOptions" value="S&amp;eçenekler" version="1" />
+    <string key="mnuEditLegacy" value="Eski Kayıtları &amp;düzenle" version="1" />
+    <string key="mnuRestart" value="Bilgisayarı &amp;yeniden başlat" version="1" />
+    <string key="mnuTools" value="&amp;Araçlar" version="1" />
+    <string key="mnuDocumentation" value="Bel&amp;gelendirme" version="1" />
+    <string key="mnuSupport" value="&amp;Destek al" version="1" />
+    <string key="mnuBug" value="Bir Öneriniz mi va&amp;r" version="1" />
+    <string key="mnuDonate2" value="B&amp;ağış" version="1" />
+    <string key="mnuAbout" value="H&amp;akkında" version="1" />
+    <string key="mnuHelp" value="&amp;Yardım" version="1" />
+    <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" version="1" />
+    <string key="colName" value="Kayıt" version="1" />
+    <string key="colDefault" value="Varsayılan" version="1" />
+    <string key="lstVhdEntry" value="Microsoft VHD" version="1" />
+    <string key="lstRawHD" value="Ham HardDisk Simgesi" version="1" />
+    <string key="lstRawPartition" value="Ham Sürücü Simgesi" version="1" />
+    <string key="lstRunDisk" value="Disk'ten yürüt" version="1" />
+    <string key="lstLoadMem" value="Bellek'ten yükle" version="1" />
+    <string key="lstWim" value="WIM Simgesi (Ramdisk)" version="1" />
+    <string key="lstExtracted" value="Çıkarılan Dosya Sistemi Düzeni" version="1" />
+    <string key="lstWin7" value="Vt/w7/w8" version="2" />
+    <string key="lstWinNt" value="Windows NT/2k/XP/2k3" version="1" />
+    <string key="lstWin9x" value="Windows 95/98/ME" version="1" />
+    <string key="lstWinDos" value="MS-DOS 6.x" version="1" />
+    <string key="lstNixGrub" value="GRUB (Kalıt)" version="1" />
+    <string key="lstNixGrub2" value="GRUB 2" version="1" />
+    <string key="lstNixLilo" value="LILO/eLILO" version="1" />
+    <string key="lstNixBsd" value="FreeBSD/PC-BSD" version="1" />
+    <string key="lstNixWubi" value="Wubi" version="1" />
+    <string key="lstNixSys" value="SysLinux" version="1" />
+    <string key="lstEfi" value="EFI (Varsayılan)" version="1" />
+    <string key="lstMbr" value="MBR" version="1" />
+    <string key="lstOptIn" value="OptIn" version="1" />
+    <string key="lstOptOut" value="Çıktı" version="1" />
+    <string key="lstAlwaysOn" value="Herzaman Açık" version="1" />
+    <string key="lstAlwaysOff" value="Herzaman Kapalı" version="1" />
+    <string key="paeDefault" value="Varsayılan" version="1" />
+    <string key="paeEnable" value="Çalışsın" version="1" />
+    <string key="paeDisable" value="Çalışmasın" version="1" />
+    <string key="safeNormal" value="Normal" version="1" />
+    <string key="safeMode" value="Güvenli Mod" version="1" />
+    <string key="safeNetworking" value="Güvenli Mod w/ Ağ" version="1" />
+    <string key="safeCmd" value="Komut Satırı/Alternatif Arayüz" version="1" />
+    <string key="safeVga" value="Temel VGA" version="1" />
+    <string key="safeAD" value="Dizin Onarımı Etkin" version="1" />
+    <string key="emptyList" value="Algılanan giriş yok!" version="1" />
+    <string key="MinimumWidth" value="583" />
+    <string key="MinimumHeight" value="456" version="2" />
+  </strings>
+</localization>

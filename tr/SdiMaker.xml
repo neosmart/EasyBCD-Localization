@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OK_Button" value="Tamam" version="1" />
+    <string key="Cancel_Button" value="İptal" version="1" />
+    <string key="Body" value="EasyBCD'nin devam etmesi için Vt veya w7 yükleme medyasına erişmesi gerek (bir DVD veya Disk simgesi). &#xD;&#xA;&#xD;&#xA;Optik sürücünüze DVD veya Disk takın ve devam etmek için 'Tamam' tuşuna basın." version="1" />
+    <string key="SdiMaker" value="Windows Kurulum Medyası takın" version="1" />
+    <string key="mediaNotFound" value="Geçerli Windows yükleme medyası algılanmıyor." version="1" />
+    <string key="MinimumWidth" value="381" />
+    <string key="MinimumHeight" value="196" />
+  </strings>
+</localization>

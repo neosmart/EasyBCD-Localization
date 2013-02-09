@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linkLabel" value="EasyBCD'nin bu kopyası bir 'ticari lisans' satınalmayı gerektirir.&#xD;&#xA;&#xD;&#xA;Lütfen satın alma ile ilişkili e-posta adresini veya lisans numarasını da giriniz. Bir lisans satın almak için buraya tıklayın veya Sales@NeoSmart.net ile iltişime geçin" version="1" />
+    <string key="linkClick" value="Buraya tıklatın" version="1" />
+    <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
+    <string key="btnSkip" value="A&amp;tla" version="1" />
+    <string key="btnRegister" value="&amp;Kaydet" version="1" />
+    <string key="lblTitle" value="EasyBCD Ticari Sürüm" version="1" />
+    <string key="lblLicenseKey" value="E-posta ya da lisans açarı:" version="1" />
+    <string key="LicenseDialog" value="EasyBCD Ticari Sürüm" version="1" />
+    <string key="email" value="E-posta" version="1" />
+    <string key="licenseKey" value="Lisans Açarı" version="1" />
+    <string key="seats" value="Merkezler" version="1" />
+    <string key="regFailTitle" value="Kayıt Başarısız!" version="1" />
+    <string key="regFail" value="E-posta veya lisans açarı yanlış. Lütfen tekrar deneyin." version="1" />
+    <string key="regException" value="Uzak sunucudan lisans almada hata ile karşılaşıldı. İnternet bağlantınızı denetldikten sonra ya da daha sonra tekrar deneyin.." version="1" />
+    <string key="regExceptionTitle" value="Kayıt yapılamıyor" version="1" />
+    <string key="btnContinue" value="Devam et" version="1" />
+    <string key="regSuccess" value="Kayıt tamamlandı!" version="1" />
+    <string key="MinimumWidth" value="511" />
+    <string key="MinimumHeight" value="334" />
+  </strings>
+</localization>

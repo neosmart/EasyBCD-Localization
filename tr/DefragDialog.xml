@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnAbort" value="&amp;Hakkında" version="1" />
+    <string key="CommandWindow" value="EasyBCD Kumanda Penceresi" version="1" />
+    <string key="MinimumWidth" value="427" />
+    <string key="MinimumHeight" value="279" version="6" />
+  </strings>
+</localization>

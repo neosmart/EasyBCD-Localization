@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnOK" value="Tamam" version="2" />
+    <string key="btnCancel" value="İptal" version="2" />
+    <string key="chkExpertMode" value="EasyBCD' Uzman Modunda çalışsın:" version="1" />
+    <string key="chkRememberBackup" value="Çıkış üzerindeki BCD Yedekleme Dizinini hatırla" version="1" />
+    <string key="lblExpertMode" value="Uzman modu, gelişmiş işlem yapılmazsa kullanıcı müdahalesi gerektirmez!" version="1" />
+    <string key="chkLoadDefaultBcd" value="Aşağıdaki BCD Dosyası Başlangıçta Otomatik Olarak yüklensin:" version="1" />
+    <string key="btnBrowseBcd" value="..." version="1" />
+
+    <string key="numUpdateInterval" value="0" version="1" />
+    <string key="chkAutoUpdate" value="Otomatik Güncelleme Denetimi Sıklığı: " version="1" />
+    <string key="rdoDays" value="Her gün" version="1" />
+    <string key="rdoWeeks" value="Haftada bir" version="1" />
+    <string key="rdoMonths" value="Ayda bir" version="1" />
+    <string key="lblLastUpdateCheck" value="Son Otomatik Denetim:   " version="1" />
+    <string key="chkRss" value="Windows RSS Platformu NeoSMART  Teknolojilerini de içersin" version="1" />
+    <string key="tabGeneralSettings" value="Genel Ayarlar" version="1" />
+    <string key="tabDisplayOptions" value="Seçenekleri Göster" version="1" />
+    <string key="lblDefaultTab" value="Standart Başlangıç Sekmesi: " version="1" />
+    <string key="lblDefaultDisplay" value="Standart Ekran Modu: " version="1" />
+    <string key="lblOverviewFont" value="Genel Bakış Yazısı:" version="1" />
+    <string key="lblDetailedFont" value="Ayrıntılı Görünüm Yazısı: " version="1" />
+    <string key="lblOverviewSize" value="Boyut: " version="1" />
+    <string key="numFontOverview" value="8" version="1" />
+    <string key="lblOverviewPt" value="pt." version="1" />
+    <string key="lblDetailedSize" value="Boyut: " version="1" />
+    <string key="numFontDetailed" value="8" version="1" />
+    <string key="lblDetailedPt" value="pt." version="1" />
+    <string key="chkWordWrap" value="KelimeSarmalı, Varsayılan Olarak etkinleştirilsin" version="1" />
+    <string key="chkSaveWindow" value="Çıkışta EasyBCD Pencere Boyutu kaydedilsin" version="1" />
+    <string key="ResetSize" value="Görüntü Seçeneklerini sıfırla" version="1" />
+    <string key="OptionsDialog" value="EasyBCD Ayarları" version="1" />
+    <string key="overview" value="Genel Bakış" version="1" />
+    <string key="detailed" value="Ayrıntılı" version="1" />
+    <string key="locateBcd" value="Geçerli bir BCD Deposu bul" version="1" />
+    <string key="never" value="Asla" version="1" />
+    <string key="MinimumWidth" value="452" />
+    <string key="MinimumHeight" value="359" />
+  </strings>
+</localization>

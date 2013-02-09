@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnDonate" value="Bağış &amp;yap!" version="1" />
+    <string key="DonationDialog" value="'EasyBCD', size de yardım etti, değil mi?" version="1" />
+    <string key="donationTitle" value="Siz de EasyBCD'e yardım edin!" version="1" />
+    <string key="lblDonationIntro" value="      'EasyBCD Community Edition', 100 % ücretsiz bir yazılımdır. Böyle kalmasını istiyoruz. Ancak bu onun geliştirilmesinin ve test edilmesinin maliyetsiz olduğu anlamına gelmemeli. &#xD;&#xA;&#xD;&#xA;      'EasyBCD', ücretsiz olarak 25 milyondan fazla indirildi ve yıkımın eşiğine gelmiş pek çok bilgisayarı kurtardı." version="1" />
+    <string key="lblYouDonate" value="'EasyBCD' nin daha fazla PC kurtarabilmesine katkıda bulunun!" version="1" />
+    <string key="chkDontRemind" value="Tekrar hatırlatma!" version="1" />
+    <string key="btnCancel" value="Hayır!&amp; Teşekkürler." version="1" />
+    <string key="MinimumWidth" value="481" />
+    <string key="MinimumHeight" value="342" version="5" />
+  </strings>
+</localization>
