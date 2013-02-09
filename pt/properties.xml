@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Brazilian Portuguese translation by Igor Rückert-->
+<localization>
+  <locale>
+    <name>Portuguese (Brazil)</name>
+    <rtl>false</rtl>
+    <parentLocale>
+    </parentLocale>
+  </locale>
+</localization>
