@@ -9,7 +9,7 @@ These are the languages currently available in this repository, thanks to the se
 
 * Arabic (العربية) - Azal Tammu
 * Catalan (Català) - Manel Fernàndez
-* Chinese (Simplified) (简体中文) - Dancing Zhao
+* Chinese (Simplified) (简体字) - Dancing Zhao
 * Chinese (Taiwanese) (繁體中文) - fei
 * German (Deutsch) - Wolfgang Milhard
 * English (United States) - NeoSmart Technologies
@@ -20,9 +20,9 @@ These are the languages currently available in this repository, thanks to the se
 * Italian (Italiano) - Paolo Viappiani
 * Korean (한국어) - Youngju Yun
 * Polish (Polski) - Kili
-* Portuguese (português) - igorruckert
+* Portuguese (Português) - igorruckert
 * Russian (Русский) - niknikch45 & co.
-* Slovenian (slovenščina) - Deseti_brat
+* Slovenian (Slovenščina) - Deseti_brat
 * Swedish (Svenska) - Åke Engelbrektson
 * Turkish (Türkçe) - Fara Delisi
 * Ukrainian (Українська) - z_mashine
