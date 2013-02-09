@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnOK" value="אשר" version="2" />
+    <string key="btnCancel" value="בטל" version="2" />
+    <string key="chkExpertMode" value="הרץ את התוכנה במצב מומחה" version="1" />
+    <string key="chkRememberBackup" value="גבה תמיד את ספרית התוכנה" version="1" />
+    <string key="lblExpertMode" value="מצב מומחה תבקש אישור מהמשתמש לפני נקיטת פעולות מתקדמות" version="1" />
+    <string key="chkLoadDefaultBcd" value="הפעל תמיד את קובץ BCD באתחול:" version="1" />
+    <string key="btnBrowseBcd" value="..." version="1" />
+    <string key="chkAutoUpdate" value="בצע עדכון אוטומטי כל " version="1" />
+    <string key="chkRss" value="לכלול טכנולוגיות neosmart פלטפורמת ה-rss של windows" version="1" />
+    <string key="numUpdateInterval" value="0" version="1" />
+    <string key="rdoDays" value="ימים" version="1" />
+    <string key="rdoWeeks" value="שבועות" version="1" />
+    <string key="rdoMonths" value="חודשים" version="1" />
+    <string key="lblLastUpdateCheck" value="עדכן אחרון התבצע ב:" version="1" />
+    <string key="tabGeneralSettings" value="הגדרות כלליות" version="1" />
+    <string key="lblDefaultTab" value="לשונית אתחול: " version="1" />
+    <string key="lblDefaultDisplay" value="מצב תצוגה: " version="1" />
+    <string key="lblOverviewFont" value="גופן:" version="1" />
+    <string key="lblDetailedFont" value="פרטי הגופן: " version="1" />
+    <string key="lblOverviewSize" value="גודל: " version="1" />
+    <string key="numFontOverview" value="8" version="1" />
+    <string key="lblOverviewPt" value="pt." version="1" />
+    <string key="lblDetailedSize" value="גודל: " version="1" />
+    <string key="numFontDetailed" value="8" version="1" />
+    <string key="lblDetailedPt" value="pt." version="1" />
+    <string key="chkWordWrap" value="גלישת שורות הפעל תמיד" version="1" />
+    <string key="chkSaveWindow" value="שמור את גודל החלונית כברירת מחדל" version="1" />
+    <string key="ResetSize" value="החזר מצב ברירת מחדל" version="1" />
+    <string key="tabDisplayOptions" value="אפשרויות תצוגה" version="1" />
+    <string key="OptionsDialog" value=" אפשרויות" version="1" />
+    <string key="overview" value="מבט כולל" version="1" />
+    <string key="detailed" value="פרטים" version="1" />
+    <string key="locateBcd" value="מצא חנות BCD " version="1" />
+    <string key="never" value="לעולם לא" version="1" />
+    <string key="MinimumWidth" value="452" />
+    <string key="MinimumHeight" value="359" />
+  </strings>
+</localization>

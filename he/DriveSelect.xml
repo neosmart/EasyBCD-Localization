@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblDriveSelect" value="כונן אתחול חדש:" version="1" />
+    <string key="lblBody" value="EasyBCD will re-configure your system to boot from the partition you select below. This process will set up a BCD store on the selected disk, copy the current BCD entries over, and make the selected partition both active &amp; bootable." version="1" />
+    <string key="OK_Button" value="אשר" version="1" />
+    <string key="Cancel_Button" value="בטל" version="1" />
+    <string key="DriveSelect" value="בחרו כונן" version="1" />
+    <string key="errorAlreadyBoot" value="כונן זה כבר מוגדר ככונן אתחול אנא בחרו כונן אחר" version="1" />
+    <string key="errorAlreadyBootTitle" value="אנא בחרו כונן אחר" version="1" />
+    <string key="MinimumWidth" value="518" />
+    <string key="MinimumHeight" value="199" />
+  </strings>
+</localization>

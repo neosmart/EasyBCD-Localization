@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="chkDontRemind" value="אל תציג הודעה זאת שוב" version="1" />
+    <string key="btnCancel" value="לא תודה" version="1" />
+    <string key="btnDonate" value="תרום" version="1" />
+    <string key="lblDonationIntro" value="EasyBCD Community Edition is 100% free software, and we intend to keep it that way. But just because it's free doesn't mean that it costs any less to develop and test.&#xD;&#xA;&#xD;&#xA;To date, EasyBCD has been downloaded free of charge over 25 million times, saving countless computers from the brink of destruction." version="1" />
+    <string key="donationTitle" value="EasyBCD עזרו לפתח את " version="1" />
+    <string key="lblYouDonate" value="Will you donate to help EasyBCD rescue more PCs?" version="1" />
+    <string key="DonationDialog" value="Has EasyBCD Helped You?" version="1" />
+    <string key="MinimumWidth" value="481" />
+    <string key="MinimumHeight" value="342" version="5" />
+  </strings>
+</localization>

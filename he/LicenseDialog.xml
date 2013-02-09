@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linkLabel" value="עותק זה של easybcd מחייבת רכישת רישיון מסחרי.&#xD;&#xA;&#xD;&#xA;נא הזן את כתובת הדוא ל או מספר רשיון המשויך הרכישה. לחץ כאן כדי לרכוש רישיון, או לפנות אל sales@neosmart.net לקבלת תמיכה." version="1" />
+    <string key="linkClick" value="לחץ כאן" version="1" />
+    <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
+    <string key="btnSkip" value="דלג" version="1" />
+    <string key="btnRegister" value="הירשם" version="1" />
+    <string key="lblTitle" value="EasyBCD גרסה מסחרית " version="1" />
+    <string key="lblLicenseKey" value="הכנס רישיון או דואר אלקטרוני:" version="1" />
+    <string key="LicenseDialog" value="EasyBCD גרסה מסחרית" version="1" />
+    <string key="email" value="דואר אלקטרוני" version="1" />
+    <string key="licenseKey" value="קוד רישיון" version="1" />
+    <string key="seats" value="עתקים" version="1" />
+    <string key="regFailTitle" value="הרישום נכשל!" version="1" />
+    <string key="regFail" value="מפתח שגוי של דוא ל או רישיון. נא נסה שוב" version="1" />
+    <string key="regException" value="אירעה שגיאה בעת השגת רשיון מהשרת המרוחק. נא ודא שאתה מחובר לאינטרנט, או נסה שוב מאוחר יותר" version="1" />
+    <string key="regExceptionTitle" value="אין אפשרות לבצע רישום" version="1" />
+    <string key="btnContinue" value="המשך" version="1" />
+    <string key="regSuccess" value="הרישום בוצע בהצלחה" version="1" />
+    <string key="MinimumWidth" value="511" />
+    <string key="MinimumHeight" value="334" />
+  </strings>
+</localization>

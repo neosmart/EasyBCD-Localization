@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="accessViolationFormat" value="אין אפשרות להשיג גישה בלעדית אל אם זהו דיסק נשלף, לנסות ולהוציא,הכנס שוב  אותו ולאחר מכן נסה שוב.{0}" version="1" />
+    <string key="failedSave" value="שגיאה בעת שמירת השינוים שבוצעו" version="1" />
+    <string key="accessDeniedTitle" value="הגישה חסומה" version="1" />
+    <string key="accessDeniedFormat" value="הגישה אל נדחתה. נא בדוק הקובץ אינו נמצא בשימוש ושיש לך הרשאה למחוק/לשנות מיקום זה{0} " version="1" />
+    <string key="oneEntry" value="אין ערך אחד למטען האתחול של חלונות " version="1" />
+    <string key="multiEntriesFormat" value="ישנם בסך הכל {0} הערכים המופיעים למטען האתחול" version="1" />
+    <string key="entryNum" value="רשומה #" version="1" />
+    <string key="name" value="שם" version="1" />
+    <string key="bcdId" value="BCD קוד זיהוי" version="1" />
+    <string key="drive" value="כונן" version="1" />
+    <string key="device" value="התקן" version="1" />
+    <string key="path" value="ספריה" version="1" />
+    <string key="default" value="ברירת מחדל" version="1" />
+    <string key="timeout" value="הזמן עבר" version="1" />
+    <string key="none" value="כלום" version="1" />
+    <string key="timeoutFormat" value="{0} שניות" version="1" />
+    <string key="skipped" value="דלג" version="1" />
+    <string key="bootDevice" value="כונן אתחול" version="1" />
+    <string key="ebcdBootDevice" value="EasyBCD התקן אתחול" version="1" />
+    <string key="bootloaderPath" value="נתיב האתחול הנטען" version="1" />
+    <string key="bcdError" value="BCD ישנה שגיאה!" version="1" />
+    <string key="ntNotFoundTitle" value="Valid NT התקנה אינה קיימת!" version="1" />
+    <string key="ntNotFound" value="easybcd הצליחו לזהות התקנה חוקי של חלונות nt-2003 בכל בכוננים נטענים ולא היתה אפשרות להמשיך." version="1" />
+    <string key="manuallyLoad" value="האם ברצונך לטעון ידנית של הרישום bcd עבור easybcd לנהל? אנא שימו לב כי easybcd דורש ממטען האתחול windows vista/7, לא יפעלו בסביבות xp בלבד." version="1" />
+    <string key="errorBcd" value="אירעה שגיאה בעת פתיחת הרישום bcd" version="1" />
+    <string key="locateValid" value="אתר מאגר bcd חוקי" version="1" />
+    <string key="bcdRegistry" value="הרישום bcd" version="1" />
+    <string key="partition" value="מחיצה" version="1" />
+    <string key="unknown" value="לא ידוע" version="1" />
+    <string key="gib" value="GiB" version="1" />
+    <string key="mib" value="MiB" version="1" />
+    <string key="as" value="as" version="1" />
+    <string key="defragFormat" value="החל איחוי קובץ {0}" version="1" />
+    <string key="unnamed" value="רשומה ללא שם" version="1" />
+  </strings>
+</localization>

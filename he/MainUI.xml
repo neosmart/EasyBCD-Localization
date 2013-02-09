@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="rdoModeBasic" value="מבט כולל" version="1" />
+    <string key="rdoModeDetailed" value="פרטים (מצב שגיאות)" version="1" />
+    <string key="chkWordWrap" value="WordWrap" version="1" />
+    <string key="grpDisplayMode" value="מצב תצוגה" version="1" />
+    <string key="tabViewSettings" value="1" version="1" />
+    <string key="rdoTimeoutCount" value="המתך במשך" version="1" />
+    <string key="numTimeout" value="0" version="1" />
+    <string key="rdoTimeoutNone" value="המתן לבחירה של המשתמש" version="1" />
+    <string key="rdoTimeoutSkip" value="דלג על תפריט האתחול" version="1" />
+    <string key="btnSaveBCD" value="שמור הגדרות" version="1" />
+    <string key="groupBox2" value="הגדרות זמן" version="1" />
+    <string key="btnUp" value="למעלה" version="1" />
+    <string key="btnDown" value="למטה" version="1" />
+    <string key="btnRenameEntry" value="שנה כותרת" version="1" />
+    <string key="btnDelete" value="מחק" version="1" />
+    <string key="groupBox1" value="שינוי ערכי התפריט" version="1" />
+    <string key="tabEditMenu" value="2" version="1" />
+    <string key="btnBrowse" value="..." version="1" />
+    <string key="btnVhdBrowse" clone="btnBrowse" />
+    <string key="btnPeBrowse" clone="btnBrowse" />
+    <string key="btnFloppyBrowse" clone="btnBrowse" />
+    <string key="btnBackupBrowse" clone="btnBrowse" />
+    <string key="btnRestoreBrowse" clone="btnBrowse" />
+    <string key="btnIsoBrowse" clone="btnBrowse" />
+    <string key="lblName" value="כותרת:" version="1" />
+    <string key="lblVhdName" clone="lblName" />
+    <string key="lblIsoName" clone="lblName" />
+    <string key="lblPeName" clone="lblName" />
+    <string key="lblFloppyName" clone="lblName" />
+    <string key="lblWinName" clone="lblName" />
+    <string key="lblLinName" clone="lblName" />
+    <string key="lblMacName" clone="lblName" />
+    <string key="lblNewName" clone="lblName" />
+    <string key="lblType" value="סוג:" version="1" />
+    <string key="lblVhdType" clone="lblType" />
+    <string key="lblPeType" clone="lblType" />
+    <string key="lblWinType" clone="lblType" />
+    <string key="lblLinType" clone="lblType" />
+    <string key="lblPath" value="נתיב:" version="1" />
+    <string key="lblVhdPath" clone="lblPath" />
+    <string key="lblIsoPath" clone="lblPath" />
+    <string key="lblWinPE_Path" clone="lblPath" />
+    <string key="lblFloppyPath" clone="lblPath" />
+    <string key="lblDrive" value="כונן:" version="1" />
+    <string key="lblWinDrive" clone="lblDrive" />
+    <string key="lblLinDrive" clone="lblDrive" />
+    <string key="lblNewDrive" clone="lblDrive" />
+    <string key="btnAddNewEntry" value="הוספת רשומה" version="1" />
+    <string key="btnAddLinux" clone="btnAddNewEntry" />
+    <string key="btnAddMac" clone="btnAddNewEntry" />
+    <string key="btnAddVhd" clone="btnAddNewEntry" />
+    <string key="btnAddIso" clone="btnAddNewEntry" />
+    <string key="btnAddPE" clone="btnAddNewEntry" />
+    <string key="btnAddFloppy" clone="btnAddNewEntry" />
+    <string key="btnAddWindows" clone="btnAddNewEntry" />
+    <string key="lblMode" value="מצב:" version="1" />
+    <string key="lblMacMode" clone="lblMode" />
+    <string key="lblIsoMode" clone="lblMode" />
+    <string key="lblFile" value="קובץ:" version="1" />
+    <string key="lblFile1" clone="lblFile" />
+    <string key="lblFile2" clone="lblFile" />
+    <string key="txtVhdName" value="NeoSmart VHD Image" version="1" />
+    <string key="tabPage13" value="תמונת מדיה" version="1" />
+    <string key="txtIsoName" value="NeoSmart ISO רשומת" version="1" />
+    <string key="tabPage14" value="ISO" version="1" />
+    <string key="txtPeName" value="NST WinPE Image" version="1" />
+    <string key="chkEms" value="EMS מופעל" version="1" />
+    <string key="tabPage12" value="WinPE" version="1" />
+    <string key="txtFloppyName" value="NeoSmart כונן דיסקטים" version="1" />
+    <string key="tabFloppy" value="כונן דיסקטים" version="1" />
+    <string key="btnPlopInstall" value="התקן PLoP" version="1" />
+    <string key="btnPlopRemove" value=" הסר PLoP" version="1" />
+    <string key="lblBiosExtend" value="של easybcd bios extender ניתן לאתחול מתוך רשת, תקליטור או usb במחשבים שטוענת שאינן תומכות בכך." version="1" />
+    <string key="tabPagePlop" value="BIOS Extender" version="1" />
+    <string key="grpPortable" value="כונן חיצוני/מדיה חיצונית" version="1" />
+    <string key="lblWindowsAuto" value="זיהוי אוטומטי" version="1" />
+    <string key="chkAutoXp" value="זיהוי אוטומטי של הכונן" version="1" />
+    <string key="txtWinName" value="חלונות מיקרוסופט" version="1" />
+    <string key="tabPage8" value="חלונות" version="1" />
+    <string key="chkGrub" value="Use EasyBCD's copy of GRUB" version="1" />
+    <string key="txtLinName" value="NeoSmart לינוקס" version="1" />
+    <string key="lblLinAuto" value="זיהוי אוטומטי" version="1" />
+    <string key="tabPage9" value="Linux/BSD" version="1" />
+    <string key="txtMacName" value="NST Mac OS X" version="1" />
+    <string key="tabPageMac" value="Mac" version="1" />
+    <string key="btnNeoGrub" value="התקן" version="1" />
+    <string key="btnNeoGrubConfig" value="קביעת תצורה" version="1" />
+    <string key="lblNeoGrub" value="למטען האתחול neogrub יכול לשמש כדי לאתחל לינוקס וגירסאות ישנות של חלונות או אפילו הסתר כוננים." version="1" />
+    <string key="tabPage11" value="NeoGrub   " version="1" />
+    <string key="grpOS" value="מערכת הפעלה" version="1" />
+    <string key="tabAddEntry" value="3" version="1" />
+    <string key="btnSaveSettings" value="שמור הגדרות" version="1" />
+    <string key="lblLocale" value="שפה:" version="1" />
+    <string key="tabEntryBasic" value="בסיס" version="1" />
+    <string key="lblSafeMode" value="מצב בטוח:" version="1" />
+    <string key="lblPae" value="PAE תמיכה: " version="1" />
+    <string key="lblDep" value="NoExecute: " version="1" />
+    <string key="chkEntryUnsigned" value="אשר שימוש בהתקנים ללא חתימה בחלונות 64 סיביות&#xD;&#xA;" version="1" />
+    <string key="tabEntryAdvanced" value="מתקדם" version="1" />
+    <string key="chkEntryKernelDebug" value="הרץ חלונות במצב ליבה - בדיקת שגיאות" version="1" />
+    <string key="chkEntrySos" value="הרץ אתחול במצב חירום" version="1" />
+    <string key="numEntryMemory" value="0" version="1" />
+    <string key="lblDeduct2" value="MiB מופחתות מהזיכרון הפיזי" version="2" />
+    <string key="numEntryCpu" value="0" version="1" />
+    <string key="lblLimit2" value="הגבל את חלונות למספר ליבות או מעבדים&#xD;&#xA;" version="2" />
+    <string key="tabEntryDeveloper" value="מפתח" version="1" />
+    <string key="lblAdvancedSettings" value="הערה הגדרות מסוימות עשויות להיות לא זמינות בהתאם הערך והידועה." version="1" />
+    <string key="grpChangeSettings" value="שמור שינוים" version="1" />
+    <string key="lblPickLH" value="בחר ערך מתוך הרשימה שלהלן כדי לבצע שינוי" version="1" />
+    <string key="grpSelectLH" value="בחרו מערכת הפעלה" version="1" />
+    <string key="tabAdvanced" value="4" version="1" />
+    <string key="btnBackup" value="הגדרות גיבוי" version="1" />
+    <string key="btnRestore" value="הגדרות שיחזור" version="1" />
+    <string key="grpBackupRestore" value="גיבוי ושחזור של הגדרות ממטען האתחול" version="1" />
+    <string key="rdoBcdChange" value="שנה כונן אתחול" version="1" />
+    <string key="rdoBcdRepair" value="צור מחדש/תיקון קבצי אתחול" version="1" />
+    <string key="btnBcdRescue" value="הפעל" version="1" />
+    <string key="rdoBcdReset" value="שיחזור הגדרות" version="1" />
+    <string key="grpDiagnostics" value="BCD שינוי ניהול" version="1" />
+    <string key="tabBcdInstall" value="5" version="1" />
+    <string key="btnMakeBootable" value="התקן BCD" version="1" />
+    <string key="lblUsbPartitions" value="מחיצה:" version="1" />
+    <string key="lblCreateBootable" value="easybcd להפוך לאוטומטי את תהליך יצירת מדיה ניתנת לאתחול. בחר מחיצה להלן כדי להתחיל." version="1" />
+    <string key="grpCreateBootableExternal" value="צור אתחול ממדיה חיצונית" version="1" />
+    <string key="btnMbrWrite" value="Write MBR" version="1" />
+    <string key="rdoMbrXP" value="Install the Windows XP bootloader to the MBR" version="1" />
+    <string key="rdoMbrVista" value="Install the Windows Vista/7 bootloader to the MBR" version="1" />
+    <string key="grpBootloader" value="MBR Configuration Options" version="1" />
+    <string key="tabMbrSetup" value="6" version="1" />
+    <string key="grpUtils" value="כלי עזר" version="1" />
+    <string key="tabUtilities" value="7" version="1" />
+    <string key="btnBcdInstall" value="BCD גיבוי/תיקון" version="1" />
+    <string key="btnUtilities" value="כלי עזר" version="1" />
+    <string key="btnMbrSetup" value="פריסה" version="1" />
+    <string key="btnAdvanced" value="הגדרות מתקדמות" version="1" />
+    <string key="btnAddEntry" value="רשומה חדש" version="1" />
+    <string key="btnEditMenu" value="תפריט אתחול" version="1" />
+    <string key="btnViewSettings" value="הגדרות" version="1" />
+    <string key="grpToolbox" value=" א ר ג ז  - כ ל י ם" version="1" />
+    <string key="mnuSelectBcd" value="&amp;Select BCD Store" version="1" />
+    <string key="mnuLanguage" value="שפה" version="1" />
+    <string key="mnuLoadSystemBcd" value="Load S&amp;ystem BCD" version="1" />
+    <string key="mnuRescan" value="Re&amp;fresh BCD Store" version="1" />
+    <string key="mnuRegister" value="רישום" version="1" />
+    <string key="mnuDonate" value="תרומות" version="1" />
+    <string key="mnuUpdate" value="בדיקת עדכונים" version="1" />
+    <string key="mnuExit" value="צא" version="1" />
+    <string key="mnuFile" value="קובץ" version="1" />
+    <string key="mnuOptions" value="אפשרויות" version="1" />
+    <string key="mnuEditLegacy" value="Edit &amp;Legacy Entries" version="1" />
+    <string key="mnuRestart" value="אתחול מערכת" version="1" />
+    <string key="mnuTools" value="כלים" version="1" />
+    <string key="mnuDocumentation" value="מסמכים" version="1" />
+    <string key="mnuSupport" value="תמיכה" version="1" />
+    <string key="mnuBug" value="דווח על שגיאה" version="1" />
+    <string key="mnuDonate2" value="תרומה" version="1" />
+    <string key="mnuAbout" value="אודות" version="1" />
+    <string key="mnuHelp" value="עזרה" version="1" />
+    <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" version="1" />
+    <string key="colName" value="רשומה" version="1" />
+    <string key="colDefault" value="ברירת מחדל" version="1" />
+    <string key="lstVhdEntry" value="Microsoft VHD" version="1" />
+    <string key="lstRawHD" value="Raw Hard Disk Image" version="1" />
+    <string key="lstRawPartition" value="Raw Partition Image" version="1" />
+    <string key="lstRunDisk" value="הרץ מכונן" version="1" />
+    <string key="lstLoadMem" value="הרץ מזיכרון" version="1" />
+    <string key="lstWim" value="WIM Image (Ramdisk)" version="1" />
+    <string key="lstExtracted" value="Extracted Filesystem Layout" version="1" />
+    <string key="lstWin7" value="חלונות ויסטה/7/8" version="2" />
+    <string key="lstWinNt" value="חלונות NT/2k/XP/2k3" version="1" />
+    <string key="lstWin9x" value="חלונות 95/98/ME" version="1" />
+    <string key="lstWinDos" value="דוס" version="1" />
+    <string key="lstNixGrub" value="GRUB (Legacy)" version="1" />
+    <string key="lstNixGrub2" value="GRUB 2" version="1" />
+    <string key="lstNixLilo" value="LILO/eLILO" version="1" />
+    <string key="lstNixBsd" value="FreeBSD/PC-BSD" version="1" />
+    <string key="lstNixWubi" value="Wubi" version="1" />
+    <string key="lstNixSys" value="SysLinux" version="1" />
+    <string key="lstEfi" value="EFI (Default)" version="1" />
+    <string key="lstMbr" value="MBR" version="1" />
+    <string key="lstOptIn" value="OptIn" version="1" />
+    <string key="lstOptOut" value="OptOut" version="1" />
+    <string key="lstAlwaysOn" value="פועל" version="1" />
+    <string key="lstAlwaysOff" value="כבוי" version="1" />
+    <string key="paeDefault" value="ברירת מחדל" version="1" />
+    <string key="paeEnable" value="הפעל" version="1" />
+    <string key="paeDisable" value="הפסק" version="1" />
+    <string key="safeNormal" value="מצב רגיל" version="1" />
+    <string key="safeMode" value="מצב בטוח" version="1" />
+    <string key="safeNetworking" value="מצב בטוח עם רשת" version="1" />
+    <string key="safeCmd" value="Command Line/Alternate Shell" version="1" />
+    <string key="safeVga" value="תצוגת VGA" version="1" />
+    <string key="safeAD" value="תיקון ספריה" version="1" />
+    <string key="emptyList" value="לא נוספה רשומה" version="1" />
+    <string key="MinimumWidth" value="583" />
+    <string key="MinimumHeight" value="456" version="2" />
+  </strings>
+</localization>

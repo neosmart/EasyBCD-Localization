@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OKButton" value="אשר" version="1" />
+    <string key="seatsAllowed" value="משתמשים/התקנים מורשים" version="1" />
+    <string key="unlicensed" value="עתק לא רשום" version="1" />
+    <string key="version" value="גרסה" version="1" />
+    <string key="copyright" value="©כל הזכויות שמורות לניוסמארט טכנולוגיות 2006-2012" version="2" />
+    <string key="aboutText1" value="easybcd הוא האולטימטיבי למטען האתחול &amp; כלי ניהול למטען האתחול. אין שום ערובה כי easybcd לעבוד עם כל הגירסאות של חלונות - תמיד, ודא שאתה משתמש הגרסה האחרונה זמין. &#xD;&#xA;&#xD;&#xA;• להוביל מפתחים: מחמוד h. al-qudsi&#xD;&#xA;• חומרים פעילים: זיעה, דם, דמעות&#xD;&#xA;• מופעל על-ידי  C++, C#, Dr. Pepper, Excedrin, and Visine&#xD;&#xA;• כל האתחול שלך הם שייכים לנו!&#xD;&#xA;&#xD;&#xA;תורגם לעברית ע&quot;י מוטי צוק" version="1" />
+    <string key="thanksFormat" value="תודה צוותי grub4dos פלופ, {0}, ultradefrag מיוחדת!&#xD;&#xA;&#xD;&#xA;התפלגות זו easybcd ספינות עם רכיבים עצמאיים (grub4dos ו- ultradefrag) ברשיון במסגרת תנאי הרשיון gplv2. לקבלת מידע נוסף, נא עיין בקובץ רשיון ב ספריית ההתקנה." version="1" />
+    <string key="title" value="אודות התוכנה" version="1" />
+    <string key="MinimumWidth" value="486" />
+    <string key="MinimumHeight" value="376" version="6" />
+  </strings>
+</localization>
