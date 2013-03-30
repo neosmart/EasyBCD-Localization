@@ -153,7 +153,7 @@
     <string key="lblName" value="Name:" version="1" />
     <string key="btnBrowse" derive="true" />
     <string key="lblType" value="Typ:" version="1" />
-    <string key="btnAddNewEntry" value="Entrag zufügen" version="1" />
+    <string key="btnAddNewEntry" value="Eintrag zufügen" version="1" />
     <string key="lblMode" value="Modus:" version="1" />
     <string key="lblFile" value="Datei:" version="1" />
     <string key="lblPath" value="Pfad:" version="1" />
