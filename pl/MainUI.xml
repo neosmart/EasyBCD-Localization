@@ -10,12 +10,12 @@
     <string key="rdoTimeoutNone" value="Czekaj na wybór użytkownika" version="1" />
     <string key="rdoTimeoutSkip" value="Pomiń menu startowe" version="1" />
     <string key="btnSaveBCD" value="Zapisz ustawienia" version="1" />
-    <string key="groupBox2" value="Opcje czasu" version="1" />
+    <string key="grpTimeout" value="Opcje czasu" version="1" />
     <string key="btnUp" value="W górę" version="1" />
     <string key="btnDown" value="W dół" version="1" />
     <string key="btnRenameEntry" value="Przemianuj" version="1" />
     <string key="btnDelete" value="Usuń" version="1" />
-    <string key="groupBox1" value="Zmień Menu wpisów" version="1" />
+    <string key="grpModifyEntries" value="Zmień Menu wpisów" version="1" />
     <string key="tabEditMenu" value="2" version="1" />
     <string key="btnBrowse" value="..." version="1" />
     <string key="lblName" value="Nazwa:" version="1" />
@@ -26,14 +26,14 @@
     <string key="lblMode" value="Tryb:" version="1" />
     <string key="lblFile" value="Plik:" version="1" />
     <string key="txtVhdName" value="Obraz NeoSmart VHD" version="1" />
-    <string key="tabPage13" value="Obraz dysku" version="1" />
+    <string key="tabPageVhd" value="Obraz dysku" version="1" />
     <string key="txtIsoName" value="Wpis NeoSmart ISO" version="1" />
-    <string key="tabPage14" value="ISO" version="1" />
+    <string key="tabPageIso" value="ISO" version="1" />
     <string key="txtPeName" value="Obraz NST WinPE" version="1" />
     <string key="chkEms" value="EMS Włączony" version="1" />
-    <string key="tabPage12" value="WinPE" version="1" />
+    <string key="tabPageWinPE" value="WinPE" version="1" />
     <string key="txtFloppyName" value="Obraz dyskietki NeoSmart" version="1" />
-    <string key="tabFloppy" value="Dyskietka" version="1" />
+    <string key="tabPageFloppy" value="Dyskietka" version="1" />
     <string key="btnPlopInstall" value="Instaluj PLoP" version="1" />
     <string key="btnPlopRemove" value="Usuń PLoP" version="1" />
     <string key="lblBiosExtend" value="Rozszerzenie EasyBCD BIOSu może zostać użyte do startu z sieci, płyty CD lub dysku USB na komputerach, które natywnie nie wspierają takich opcji." version="1" />
@@ -147,14 +147,14 @@
     <string key="lstVhdEntry" derive="true" />
     <string key="tabAdvanced" derive="true" />
     <string key="numEntryMemory" derive="true" />
-    <string key="tabPage11" derive="true" />
+    <string key="tabPageNeoGrub" derive="true" />
     <string key="tabAddEntry" derive="true" />
     <string key="tabPageMac" derive="true" />
     <string key="txtMacName" derive="true" />
-    <string key="tabPage9" derive="true" />
+    <string key="tabPageLinux" derive="true" />
     <string key="txtLinName" derive="true" />
     <string key="txtWinName" derive="true" />
-    <string key="tabPage8" derive="true" />
+    <string key="tabPageWin" derive="true" />
     <string key="numTimeout" derive="true" />
     <string key="numEntryCpu" derive="true" />
     <string key="tabEntryDeveloper" derive="true" />

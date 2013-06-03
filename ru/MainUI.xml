@@ -11,12 +11,12 @@
     <string key="rdoTimeoutNone" value="Ждать выбора пользователя" version="1" />
     <string key="rdoTimeoutSkip" value="Пропустить меню начальной загрузки" version="1" />
     <string key="btnSaveBCD" value="Сохранить" version="1" />
-    <string key="groupBox2" value="Timeout" version="1" />
+    <string key="grpTimeout" value="Timeout" version="1" />
     <string key="btnUp" value="Вверх" version="1" />
     <string key="btnDown" value="Вниз" version="1" />
     <string key="btnRenameEntry" value="Переименовать" version="1" />
     <string key="btnDelete" value="Удалить" version="1" />
-    <string key="groupBox1" value="Редактирование загрузочного меню" version="1" />
+    <string key="grpModifyEntries" value="Редактирование загрузочного меню" version="1" />
     <string key="tabEditMenu" derive="true" />
     <string key="btnBrowse" derive="true" />
     <string key="lblName" value="Имя:" version="1" />
@@ -27,14 +27,14 @@
     <string key="lblMode" value="Режим:" version="1" />
     <string key="lblFile" value="Файл:" version="1" />
     <string key="txtVhdName" value="NeoSmart VHD-образ" version="1" />
-    <string key="tabPage13" value="Образ виртуального диска" version="1" />
+    <string key="tabPageVhd" value="Образ виртуального диска" version="1" />
     <string key="txtIsoName" value="NeoSmart ISO" version="1" />
-    <string key="tabPage14" value="ISO" version="1" />
+    <string key="tabPageIso" value="ISO" version="1" />
     <string key="txtPeName" value="NST WinPE" version="1" />
     <string key="chkEms" value="EMS разрешено" version="1" />
-    <string key="tabPage12" value="WinPE" version="1" />
+    <string key="tabPageWinPE" value="WinPE" version="1" />
     <string key="txtFloppyName" value="NeoSmart дискета" version="1" />
-    <string key="tabFloppy" value="Дискета" version="1" />
+    <string key="tabPageFloppy" value="Дискета" version="1" />
     <string key="btnPlopInstall" value="Установить PLoP" version="1" />
     <string key="btnPlopRemove" value="Удалить PLoP" version="1" />
     <string key="lblBiosExtend" value="Расширение BIOS от EasyBCD может быть использовано для загрузки по сети, с CD/DVD/USB на компьютерах, которые не поддерживают этого." version="1" />
@@ -43,17 +43,17 @@
     <string key="lblWindowsAuto" value="Определяется автоматически" version="1" />
     <string key="chkAutoXp" value="Автопоиск диска с исправной ОС" version="1" />
     <string key="txtWinName" derive="true" />
-    <string key="tabPage8" derive="true" />
+    <string key="tabPageWin" derive="true" />
     <string key="chkGrub" value="Использовать GRUB из EasyBCD" version="1" />
     <string key="txtLinName" derive="true" />
     <string key="lblLinAuto" value="Определяется автоматически" version="1" />
-    <string key="tabPage9" derive="true" />
+    <string key="tabPageLinux" derive="true" />
     <string key="txtMacName" derive="true" />
     <string key="tabPageMac" derive="true" />
     <string key="btnNeoGrub" value="Установить" version="1" />
     <string key="btnNeoGrubConfig" value="Настроить" version="1" />
     <string key="lblNeoGrub" value="Загрузчик NeoGrub может использоваться для загрузки в Линукс и в старые версии Windows, или для скрытия дисков." version="1" />
-    <string key="tabPage11" derive="true" />
+    <string key="tabPageNeoGrub" derive="true" />
     <string key="grpOS" value="Операционные системы" version="1" />
     <string key="tabAddEntry" derive="true" />
     <string key="btnSaveSettings" value="Сохранить" version="1" />

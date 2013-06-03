@@ -11,12 +11,12 @@
     <string key="rdoTimeoutNone" value="等待用户选择" version="1" />
     <string key="rdoTimeoutSkip" value="跳过启动菜单" version="1" />
     <string key="btnSaveBCD" value="保存设置" version="1" />
-    <string key="groupBox2" value="超时选项" version="1" />
+    <string key="grpTimeout" value="超时选项" version="1" />
     <string key="btnUp" value="上移" version="1" />
     <string key="btnDown" value="下移" version="1" />
     <string key="btnRenameEntry" value="重命名" version="1" />
     <string key="btnDelete" value="删除" version="1" />
-    <string key="groupBox1" value="修改菜单项" version="1" />
+    <string key="grpModifyEntries" value="修改菜单项" version="1" />
     <string key="tabEditMenu" value="2" version="1" />
     <string key="btnBrowse" value="..." version="1" />
     <string key="lblName" value="名称:" version="1" />
@@ -27,14 +27,14 @@
     <string key="lblMode" value="模式:" version="1" />
     <string key="lblFile" value="文件:" version="1" />
     <string key="txtVhdName" value="NeoSmart VHD的图像" version="1" />
-    <string key="tabPage13" value="磁盘映像" version="1" />
+    <string key="tabPageVhd" value="磁盘映像" version="1" />
     <string key="txtIsoName" value="NeoSmart的ISO条目" version="1" />
-    <string key="tabPage14" value="ISO" version="1" />
+    <string key="tabPageIso" value="ISO" version="1" />
     <string key="txtPeName" value="NST WinPE映像" version="1" />
     <string key="chkEms" value="启用EMS" version="1" />
-    <string key="tabPage12" value="WinPE" version="1" />
+    <string key="tabPageWinPE" value="WinPE" version="1" />
     <string key="txtFloppyName" value="NeoSmart Floppy映像" version="1" />
-    <string key="tabFloppy" value="软盘 Floppy" version="1" />
+    <string key="tabPageFloppy" value="软盘 Floppy" version="1" />
     <string key="btnPlopInstall" value="安装PLoP" version="1" />
     <string key="btnPlopRemove" value="移除PLoP" version="1" />
     <string key="lblBiosExtend" value="EasyBCD的BIOS扩展功能能使本身并不支持的计算机从网络，CD或USB引导启动。 " version="1" />
@@ -43,17 +43,17 @@
     <string key="lblWindowsAuto" value="自动确定" version="1" />
     <string key="chkAutoXp" value="自动检测正确的驱动" version="1" />
     <string key="txtWinName" value="Microsoft Windows" version="1" />
-    <string key="tabPage8" value="Windows" version="1" />
+    <string key="tabPageWin" value="Windows" version="1" />
     <string key="chkGrub" value="使用EasyBCD的GRUB副本" version="1" />
     <string key="txtLinName" value="NeoSmart Linux" version="1" />
     <string key="lblLinAuto" value="自动确定" version="1" />
-    <string key="tabPage9" value="Linux/BSD" version="1" />
+    <string key="tabPageLinux" value="Linux/BSD" version="1" />
     <string key="txtMacName" value="NST Mac OS X" version="1" />
     <string key="tabPageMac" value="Mac" version="1" />
     <string key="btnNeoGrub" value="安装" version="1" />
     <string key="btnNeoGrubConfig" value="配置" version="1" />
     <string key="lblNeoGrub" value="NeoGrub的引导程序可用于启动到Linux和旧版的Windows，或者隐藏驱动器。" version="1" />
-    <string key="tabPage11" value="NeoGrub   " version="1" />
+    <string key="tabPageNeoGrub" value="NeoGrub   " version="1" />
     <string key="grpOS" value="操作系统" version="1" />
     <string key="tabAddEntry" value="3" version="1" />
     <string key="btnSaveSettings" value="保存设置" version="1" />

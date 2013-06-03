@@ -11,17 +11,17 @@
     <string key="rdoTimeoutNone" value="Vänta på användarval" version="1" />
     <string key="rdoTimeoutSkip" value="Hoppa över startmenyn" version="1" />
     <string key="btnSaveBCD" value="Spara inställningar" version="1" />
-    <string key="groupBox2" value="Timeout-alternativ" version="1" />
+    <string key="grpTimeout" value="Timeout-alternativ" version="1" />
     <string key="btnUp" value="Upp" version="1" />
     <string key="btnDown" value="Ner" version="1" />
     <string key="btnRenameEntry" value="Byt namn" version="1" />
     <string key="btnDelete" value="Ta bort" version="1" />
-    <string key="groupBox1" value="Ändra menyposter" version="1" />
+    <string key="grpModifyEntries" value="Ändra menyposter" version="1" />
     <string key="tabEditMenu" derive="true" />
     <string key="txtVhdName" derive="true" />
-    <string key="tabPage13" value="Disk-avbild" version="1" />
+    <string key="tabPageVhd" value="Disk-avbild" version="1" />
     <string key="txtIsoName" value="NeoSmart ISO-start" version="1" />
-    <string key="tabPage14" derive="true" />
+    <string key="tabPageIso" derive="true" />
     <string key="btnBrowse" derive="true" />
     <string key="lblName" value="Namn:" version="1" />
     <string key="lblType" value="Typ:" version="1" />
@@ -32,9 +32,9 @@
     <string key="lblFile" value="Fil:" version="1" />
     <string key="txtPeName" value="NST WinPE-avbild" version="1" />
     <string key="chkEms" value="EMS aktiverad" version="1" />
-    <string key="tabPage12" derive="true" />
+    <string key="tabPageWinPE" derive="true" />
     <string key="txtFloppyName" value="NeoSmart Floppy-avbild" version="1" />
-    <string key="tabFloppy" derive="true" />
+    <string key="tabPageFloppy" derive="true" />
     <string key="btnPlopInstall" value="Installera PLoP" version="1" />
     <string key="btnPlopRemove" value="Ta bort PLoP" version="1" />
     <string key="lblBiosExtend" value="EasyBCDs BIOS-utökning kan användas för att starta från nätverk, CD eller USB, på datorer som saknar inbyggt stöd för det." version="1" />
@@ -43,17 +43,17 @@
     <string key="lblWindowsAuto" value="Automatisk detektion" version="1" />
     <string key="chkAutoXp" value="Hitta korrekt enhet automatiskt" version="1" />
     <string key="txtWinName" derive="true" />
-    <string key="tabPage8" derive="true" />
+    <string key="tabPageWin" derive="true" />
     <string key="chkGrub" value="Använd EasyBCDs kopia av GRUB" version="1" />
     <string key="txtLinName" derive="true" />
     <string key="lblLinAuto" value="Automatisk detektion" version="1" />
-    <string key="tabPage9" derive="true" />
+    <string key="tabPageLinux" derive="true" />
     <string key="txtMacName" derive="true" />
     <string key="tabPageMac" derive="true" />
     <string key="btnNeoGrub" value="Installera" version="1" />
     <string key="btnNeoGrubConfig" value="Konfigurera" version="1" />
     <string key="lblNeoGrub" value="NeoGrub starthanterare kan användas för att starta Linux-system och äldre versioner av Windows, eller till och med dölja enheter." version="1" />
-    <string key="tabPage11" derive="true" />
+    <string key="tabPageNeoGrub" derive="true" />
     <string key="grpOS" value="Operativsystem" version="1" />
     <string key="tabAddEntry" derive="true" />
     <string key="btnSaveSettings" value="Spara inställningar" version="1" />

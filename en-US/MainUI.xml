@@ -11,12 +11,12 @@
     <string key="rdoTimeoutNone" value="Wait for user selection" version="1" />
     <string key="rdoTimeoutSkip" value="Skip the boot menu" version="1" />
     <string key="btnSaveBCD" value="Save Settings" version="1" />
-    <string key="groupBox2" value="Timeout Options" version="1" />
+    <string key="grpTimeout" value="Timeout Options" version="1" />
     <string key="btnUp" value="Up" version="1" />
     <string key="btnDown" value="Down" version="1" />
     <string key="btnRenameEntry" value="Rename" version="1" />
     <string key="btnDelete" value="Delete" version="1" />
-    <string key="groupBox1" value="Modify Menu Entries" version="1" />
+    <string key="grpModifyEntries" value="Modify Menu Entries" version="1" />
     <string key="tabEditMenu" value="2" version="1" />
     <string key="btnBrowse" value="..." version="1" />
     <string key="btnVhdBrowse" clone="btnBrowse" />
@@ -63,14 +63,14 @@
     <string key="lblFile1" clone="lblFile" />
     <string key="lblFile2" clone="lblFile" />
     <string key="txtVhdName" value="NeoSmart VHD Image" version="1" />
-    <string key="tabPage13" value="Disk Image" version="1" />
+    <string key="tabPageVhd" value="Disk Image" version="1" />
     <string key="txtIsoName" value="NeoSmart ISO Entry" version="1" />
-    <string key="tabPage14" value="ISO" version="1" />
+    <string key="tabPageIso" value="ISO" version="1" />
     <string key="txtPeName" value="NST WinPE Image" version="1" />
     <string key="chkEms" value="EMS Enabled" version="1" />
-    <string key="tabPage12" value="WinPE" version="1" />
+    <string key="tabPageWinPE" value="WinPE" version="1" />
     <string key="txtFloppyName" value="NeoSmart Floppy Image" version="1" />
-    <string key="tabFloppy" value="Floppy" version="1" />
+    <string key="tabPageFloppy" value="Floppy" version="1" />
     <string key="btnPlopInstall" value="Install PLoP" version="1" />
     <string key="btnPlopRemove" value="Remove PLoP" version="1" />
     <string key="lblBiosExtend" value="EasyBCD's BIOS extender can be used to boot from network, CD, or USB on computers that don't natively support it." version="1" />
@@ -79,17 +79,17 @@
     <string key="lblWindowsAuto" value="Automatically determined" version="1" />
     <string key="chkAutoXp" value="Automatically detect correct drive" version="1" />
     <string key="txtWinName" value="Microsoft Windows" version="1" />
-    <string key="tabPage8" value="Windows" version="1" />
+    <string key="tabPageWin" value="Windows" version="1" />
     <string key="chkGrub" value="Use EasyBCD's copy of GRUB" version="1" />
     <string key="txtLinName" value="NeoSmart Linux" version="1" />
     <string key="lblLinAuto" value="Automatically determined" version="1" />
-    <string key="tabPage9" value="Linux/BSD" version="1" />
+    <string key="tabPageLinux" value="Linux/BSD" version="1" />
     <string key="txtMacName" value="NST Mac OS X" version="1" />
     <string key="tabPageMac" value="Mac" version="1" />
     <string key="btnNeoGrub" value="Install" version="1" />
     <string key="btnNeoGrubConfig" value="Configure" version="1" />
     <string key="lblNeoGrub" value="The NeoGrub bootloader can be used to boot into Linux and legacy versions of Windows or even hide drives." version="1" />
-    <string key="tabPage11" value="NeoGrub   " version="1" />
+    <string key="tabPageNeoGrub" value="NeoGrub   " version="1" />
     <string key="grpOS" value="Operating Systems" version="1" />
     <string key="tabAddEntry" value="3" version="1" />
     <string key="btnSaveSettings" value="Save Settings" version="1" />

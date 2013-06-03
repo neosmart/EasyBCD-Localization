@@ -11,12 +11,12 @@
     <string key="rdoTimeoutNone" value="إنتظر لإختيار المستخدم" version="1" />
     <string key="rdoTimeoutSkip" value="تخطى قائمة الإقلاع" version="1" />
     <string key="btnSaveBCD" value="حفظ التغييرات" version="1" />
-    <string key="groupBox2" value="خيارات زمن الإنتظار" version="1" />
+    <string key="grpTimeout" value="خيارات زمن الإنتظار" version="1" />
     <string key="btnUp" value="أعلى" version="1" />
     <string key="btnDown" value="أسفل" version="1" />
     <string key="btnRenameEntry" value="إعادة تسمية" version="1" />
     <string key="btnDelete" value="حذف" version="1" />
-    <string key="groupBox1" value="تعديل إدخالات القائمة" version="1" />
+    <string key="grpModifyEntries" value="تعديل إدخالات القائمة" version="1" />
     <string key="tabEditMenu" value="2" version="1" />
     <string key="btnBrowse" derive="true" />
     <string key="lblName" value="الإسم:" version="1" />
@@ -27,14 +27,14 @@
     <string key="lblMode" value="الوضع:" version="1" />
     <string key="lblFile" value="الملف:" version="1" />
     <string key="txtVhdName" value="صورة NeoSmart VHD" version="1" />
-    <string key="tabPage13" value="صورة القرص" version="1" />
+    <string key="tabPageVhd" value="صورة القرص" version="1" />
     <string key="txtIsoName" value="إدخال NeoSmart ISO" version="1" />
-    <string key="tabPage14" derive="true" />
+    <string key="tabPageIso" derive="true" />
     <string key="txtPeName" value="صورة NST WinPE" version="1" />
     <string key="chkEms" value="تم تفعيل EMS" version="1" />
-    <string key="tabPage12" derive="true" />
+    <string key="tabPageWinPE" derive="true" />
     <string key="txtFloppyName" value="صورة NeoSmart المرنة" version="1" />
-    <string key="tabFloppy" value="المرن" version="1" />
+    <string key="tabPageFloppy" value="المرن" version="1" />
     <string key="btnPlopInstall" value="تنصيب PLoP" version="1" />
     <string key="btnPlopRemove" value="إزالة PLoP" version="1" />
     <string key="lblBiosExtend" value="مطوِّل BIOS الـ EasyBCD  يمكن إستخدامه للإقلاع من شبكة او قرص مدمج او USB على الحواسيب التي لا تدعمها اصلاً." version="1" />
@@ -43,17 +43,17 @@
     <string key="lblWindowsAuto" value="محدد ذاتياً" version="1" />
     <string key="chkAutoXp" value="إكتشف السواقة الصحيحة ذاتياً" version="1" />
     <string key="txtWinName" derive="true" />
-    <string key="tabPage8" derive="true" />
+    <string key="tabPageWin" derive="true" />
     <string key="chkGrub" value="إستخدم نسخة GRUB من EasyBCD" version="1" />
     <string key="txtLinName" derive="true" />
     <string key="lblLinAuto" value="محدد ذاتياً" version="1" />
-    <string key="tabPage9" derive="true" />
+    <string key="tabPageLinux" derive="true" />
     <string key="txtMacName" derive="true" />
     <string key="tabPageMac" derive="true" />
     <string key="btnNeoGrub" value="تنصيب" version="1" />
     <string key="btnNeoGrubConfig" value="تعديل" version="1" />
     <string key="lblNeoGrub" value="مُحمِّل إقلاع NeoGRUB  يمكن استخدامه لإقلاع Linux و الإصدارات الأقدم من Windows او حتى السواقات المخفية." version="1" />
-    <string key="tabPage11" derive="true" />
+    <string key="tabPageNeoGrub" derive="true" />
     <string key="grpOS" value="أنظمة التشغيل" version="1" />
     <string key="tabAddEntry" value="3" version="1" />
     <string key="btnSaveSettings" value="حفظ التغييرات" version="1" />

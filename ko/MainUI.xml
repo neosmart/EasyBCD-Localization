@@ -11,12 +11,12 @@
     <string key="rdoTimeoutNone" value="사용자 선택을 기다린다" version="1" />
     <string key="rdoTimeoutSkip" value="부트 메뉴를 생략한다" version="1" />
     <string key="btnSaveBCD" value="설정 저장" version="1" />
-    <string key="groupBox2" value="타임아웃 옵션" version="1" />
+    <string key="grpTimeout" value="타임아웃 옵션" version="1" />
     <string key="btnUp" value="위" version="1" />
     <string key="btnDown" value="아래" version="1" />
     <string key="btnRenameEntry" value="개명" version="1" />
     <string key="btnDelete" value="삭제" version="1" />
-    <string key="groupBox1" value="메뉴 시작을 수정" version="1" />
+    <string key="grpModifyEntries" value="메뉴 시작을 수정" version="1" />
     <string key="tabEditMenu" value="2" version="1" />
     <string key="btnBrowse" value="..." version="1" />
     <string key="lblName" value="이름:" version="1" />
@@ -27,13 +27,13 @@
     <string key="lblMode" value="모드:" version="1" />
     <string key="lblFile" value="파일:" version="1" />
     <string key="txtVhdName" value="네오스마트 VHD 이미지" version="1" />
-    <string key="tabPage13" value="디스크 이미지" version="1" />
+    <string key="tabPageVhd" value="디스크 이미지" version="1" />
     <string key="txtIsoName" value="네오스마트 ISO 명단" version="1" />
-    <string key="tabPage14" value="ISO" version="1" />
+    <string key="tabPageIso" value="ISO" version="1" />
     <string key="txtPeName" value="NST WinPE 이미지" version="1" />
     <string key="chkEms" value="EMS 허용" version="1" />
     <string key="txtFloppyName" value="네오스마트 플로피 이미지" version="1" />
-    <string key="tabFloppy" value="플로피" version="1" />
+    <string key="tabPageFloppy" value="플로피" version="1" />
     <string key="btnPlopInstall" value="PLoP 설치" version="1" />
     <string key="btnPlopRemove" value="PLoP 제거" version="1" />
     <string key="lblBiosExtend" value="이지비씨디의 BIOS 확장자는 본래 지원하지않는 컴퓨터의 &#xD;&#xA;네트워크,CD, 또는 USB로 부터 부팅하는데 사용될 수 있다." version="1" />
@@ -42,11 +42,11 @@
     <string key="lblWindowsAuto" value="자동적으로 결정된" version="1" />
     <string key="chkAutoXp" value="자동적으로 정확한 드라이브를 탐지한다" version="1" />
     <string key="txtWinName" value="마이크로소프트 윈도우즈" version="1" />
-    <string key="tabPage8" value="윈도우즈" version="1" />
+    <string key="tabPageWin" value="윈도우즈" version="1" />
     <string key="chkGrub" value="GRUB의 EasyBCD 복사를 사용" version="1" />
     <string key="txtLinName" value="네오스마트 리눅스" version="1" />
     <string key="lblLinAuto" value="자동적으로 결정된" version="1" />
-    <string key="tabPage9" value="리눅스/BSD" version="1" />
+    <string key="tabPageLinux" value="리눅스/BSD" version="1" />
     <string key="txtMacName" value="NST Mac OS X" version="1" />
     <string key="tabPageMac" value="Mac" version="1" />
     <string key="btnNeoGrub" value="설치" version="1" />
@@ -145,7 +145,7 @@
     <string key="safeVga" value="기본 VGA" version="1" />
     <string key="safeAD" value="활동 디렉토리 수리" version="1" />
     <string key="emptyList" value="엔트리가 없음 !" version="1" />
-    <string key="tabPage12" derive="true" />
+    <string key="tabPageWinPE" derive="true" />
     <string key="lstNixLilo" derive="true" />
     <string key="lstNixBsd" derive="true" />
     <string key="lstNixWubi" derive="true" />
@@ -158,6 +158,6 @@
     <string key="lstAlwaysOn" derive="true" />
     <string key="lstOptIn" derive="true" />
     <string key="safeCmd" derive="true" />
-    <string key="tabPage11" derive="true" />
+    <string key="tabPageNeoGrub" derive="true" />
   </strings>
 </localization>

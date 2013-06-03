@@ -11,12 +11,12 @@
     <string key="rdoTimeoutNone" value="המתן לבחירה של המשתמש" version="1" />
     <string key="rdoTimeoutSkip" value="דלג על תפריט האתחול" version="1" />
     <string key="btnSaveBCD" value="שמור הגדרות" version="1" />
-    <string key="groupBox2" value="הגדרות זמן" version="1" />
+    <string key="grpTimeout" value="הגדרות זמן" version="1" />
     <string key="btnUp" value="למעלה" version="1" />
     <string key="btnDown" value="למטה" version="1" />
     <string key="btnRenameEntry" value="שנה כותרת" version="1" />
     <string key="btnDelete" value="מחק" version="1" />
-    <string key="groupBox1" value="שינוי ערכי התפריט" version="1" />
+    <string key="grpModifyEntries" value="שינוי ערכי התפריט" version="1" />
     <string key="tabEditMenu" value="2" version="1" />
     <string key="btnBrowse" value="..." version="1" />
     <string key="btnVhdBrowse" clone="btnBrowse" />
@@ -63,14 +63,14 @@
     <string key="lblFile1" clone="lblFile" />
     <string key="lblFile2" clone="lblFile" />
     <string key="txtVhdName" value="NeoSmart VHD Image" version="1" />
-    <string key="tabPage13" value="תמונת מדיה" version="1" />
+    <string key="tabPageVhd" value="תמונת מדיה" version="1" />
     <string key="txtIsoName" value="NeoSmart ISO רשומת" version="1" />
-    <string key="tabPage14" value="ISO" version="1" />
+    <string key="tabPageIso" value="ISO" version="1" />
     <string key="txtPeName" value="NST WinPE Image" version="1" />
     <string key="chkEms" value="EMS מופעל" version="1" />
-    <string key="tabPage12" value="WinPE" version="1" />
+    <string key="tabPageWinPE" value="WinPE" version="1" />
     <string key="txtFloppyName" value="NeoSmart כונן דיסקטים" version="1" />
-    <string key="tabFloppy" value="כונן דיסקטים" version="1" />
+    <string key="tabPageFloppy" value="כונן דיסקטים" version="1" />
     <string key="btnPlopInstall" value="התקן PLoP" version="1" />
     <string key="btnPlopRemove" value=" הסר PLoP" version="1" />
     <string key="lblBiosExtend" value="של easybcd bios extender ניתן לאתחול מתוך רשת, תקליטור או usb במחשבים שטוענת שאינן תומכות בכך." version="1" />
@@ -79,17 +79,17 @@
     <string key="lblWindowsAuto" value="זיהוי אוטומטי" version="1" />
     <string key="chkAutoXp" value="זיהוי אוטומטי של הכונן" version="1" />
     <string key="txtWinName" value="חלונות מיקרוסופט" version="1" />
-    <string key="tabPage8" value="חלונות" version="1" />
+    <string key="tabPageWin" value="חלונות" version="1" />
     <string key="chkGrub" value="Use EasyBCD's copy of GRUB" version="1" />
     <string key="txtLinName" value="NeoSmart לינוקס" version="1" />
     <string key="lblLinAuto" value="זיהוי אוטומטי" version="1" />
-    <string key="tabPage9" value="Linux/BSD" version="1" />
+    <string key="tabPageLinux" value="Linux/BSD" version="1" />
     <string key="txtMacName" value="NST Mac OS X" version="1" />
     <string key="tabPageMac" value="Mac" version="1" />
     <string key="btnNeoGrub" value="התקן" version="1" />
     <string key="btnNeoGrubConfig" value="קביעת תצורה" version="1" />
     <string key="lblNeoGrub" value="למטען האתחול neogrub יכול לשמש כדי לאתחל לינוקס וגירסאות ישנות של חלונות או אפילו הסתר כוננים." version="1" />
-    <string key="tabPage11" value="NeoGrub   " version="1" />
+    <string key="tabPageNeoGrub" value="NeoGrub   " version="1" />
     <string key="grpOS" value="מערכת הפעלה" version="1" />
     <string key="tabAddEntry" value="3" version="1" />
     <string key="btnSaveSettings" value="שמור הגדרות" version="1" />

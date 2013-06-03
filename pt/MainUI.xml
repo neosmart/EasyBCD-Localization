@@ -21,7 +21,7 @@
     </string>
     <string key="btnSaveBCD" value="Salvar Configurações" version="1">
     </string>
-    <string key="groupBox2" value="Opções de Tempo Limite" version="1">
+    <string key="grpTimeout" value="Opções de Tempo Limite" version="1">
     </string>
     <string key="btnUp" value="Subir" version="1">
     </string>
@@ -31,7 +31,7 @@
     </string>
     <string key="btnDelete" value="Apagar" version="1">
     </string>
-    <string key="groupBox1" value="Modificar Entradas do Menu" version="1">
+    <string key="grpModifyEntries" value="Modificar Entradas do Menu" version="1">
     </string>
     <string key="tabEditMenu" value="2" version="1">
     </string>
@@ -125,21 +125,21 @@
     </string>
     <string key="txtVhdName" value="Imagem VHD NeoSmart" version="1">
     </string>
-    <string key="tabPage13" value="Imagem de Disco" version="1">
+    <string key="tabPageVhd" value="Imagem de Disco" version="1">
     </string>
     <string key="txtIsoName" value="Entrada ISO NeoSmart" version="1">
     </string>
-    <string key="tabPage14" value="ISO" version="1">
+    <string key="tabPageIso" value="ISO" version="1">
     </string>
     <string key="txtPeName" value="Imagem NST WinPE" version="1">
     </string>
     <string key="chkEms" value="EMS Habilitado" version="1">
     </string>
-    <string key="tabPage12" value="WinPE" version="1">
+    <string key="tabPageWinPE" value="WinPE" version="1">
     </string>
     <string key="txtFloppyName" value="Imagem de Disquete NeoSmart" version="1">
     </string>
-    <string key="tabFloppy" value="Disquete" version="1">
+    <string key="tabPageFloppy" value="Disquete" version="1">
     </string>
     <string key="btnPlopInstall" value="Instalar PLoP" version="1">
     </string>
@@ -157,7 +157,7 @@
     </string>
     <string key="txtWinName" value="Microsoft Windows" version="1">
     </string>
-    <string key="tabPage8" value="Windows" version="1">
+    <string key="tabPageWin" value="Windows" version="1">
     </string>
     <string key="chkGrub" value="Usar cópia do GRUB do EasyBCD" version="1">
     </string>
@@ -165,7 +165,7 @@
     </string>
     <string key="lblLinAuto" value="Automaticamente determinado" version="1">
     </string>
-    <string key="tabPage9" value="Linux/BSD" version="1">
+    <string key="tabPageLinux" value="Linux/BSD" version="1">
     </string>
     <string key="txtMacName" value="NST Mac OS X" version="1">
     </string>
@@ -177,7 +177,7 @@
     </string>
     <string key="lblNeoGrub" value="O bootloader NeoGrub pode ser usado para dar boot no Linux e versões herdadas do Windows ou até ocultar drives." version="1">
     </string>
-    <string key="tabPage11" value="NeoGrub   " version="1">
+    <string key="tabPageNeoGrub" value="NeoGrub   " version="1">
     </string>
     <string key="grpOS" value="Sistemas Operacionais" version="1">
     </string>

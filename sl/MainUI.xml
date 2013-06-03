@@ -11,12 +11,12 @@
     <string key="rdoTimeoutNone" value="Počakaj na uporabniško izbiro" />
     <string key="rdoTimeoutSkip" value="Preskoči zagonski meni" />
     <string key="btnSaveBCD" value="Posnemi nastavitve" />
-    <string key="groupBox2" value="Možnosti zakasnitve" />
+    <string key="grpTimeout" value="Možnosti zakasnitve" />
     <string key="btnUp" value="Gor" />
     <string key="btnDown" value="Dol" />
     <string key="btnRenameEntry" value="Preimenuj" />
     <string key="btnDelete" value="Briši" />
-    <string key="groupBox1" value="Spremeni vnose " />
+    <string key="grpModifyEntries" value="Spremeni vnose " />
     <string key="tabEditMenu" value="2" />
     <string key="btnBrowse" value="..." />
     <string key="lblName" value="Ime:" />
@@ -27,14 +27,14 @@
     <string key="lblMode" value="Način:" />
     <string key="lblFile" value="Datoteka:" />
     <string key="txtVhdName" value="NeoSmart VHD slika" />
-    <string key="tabPage13" value="Posnetek diska" />
+    <string key="tabPageVhd" value="Posnetek diska" />
     <string key="txtIsoName" value="NeoSmart ISO vnos" />
-    <string key="tabPage14" value="ISO" />
+    <string key="tabPageIso" value="ISO" />
     <string key="txtPeName" value="NST WinPE slika" />
     <string key="chkEms" value="EMS omogočen" />
-    <string key="tabPage12" value="WinPE" />
+    <string key="tabPageWinPE" value="WinPE" />
     <string key="txtFloppyName" value="NeoSmart slika diskete" />
-    <string key="tabFloppy" value="Disketa" />
+    <string key="tabPageFloppy" value="Disketa" />
     <string key="btnPlopInstall" value="Namesti PloP" />
     <string key="btnPlopRemove" value="OdstraniPLoP" />
     <string key="lblBiosExtend" value="EasyBCD BIOS razširitev se lahko uporablja za zagon iz omrežja, CD ali USB na računalnikih, ki tega izvorno ne podpirajo." />
@@ -43,17 +43,17 @@
     <string key="lblWindowsAuto" value="Samodejno določeno" />
     <string key="chkAutoXp" value="Samodejno zaznaj pravi pogon" />
     <string key="txtWinName" value="Microsoft Windows" />
-    <string key="tabPage8" value="Windows" />
+    <string key="tabPageWin" value="Windows" />
     <string key="chkGrub" value="Uporabi EasyBCD kopijo GRUB" />
     <string key="txtLinName" value="NeoSmart Linux" />
     <string key="lblLinAuto" value="Samodejno določeno" />
-    <string key="tabPage9" value="Linux/BSD" />
+    <string key="tabPageLinux" value="Linux/BSD" />
     <string key="txtMacName" value="NST Mac OS X" />
     <string key="tabPageMac" value="Mac" />
     <string key="btnNeoGrub" value="Nameščeno" />
     <string key="btnNeoGrubConfig" value="Nastavi" />
     <string key="lblNeoGrub" value="NeoGrub zagonski nalagalnik se lahko uporablja za zagon v Linux in opuščenih različicah sistema Windows ali celo skritih pogonov." />
-    <string key="tabPage11" value="NeoGrub   " />
+    <string key="tabPageNeoGrub" value="NeoGrub   " />
     <string key="grpOS" value="Operacijski sistemi" />
     <string key="tabAddEntry" value="3" />
     <string key="btnSaveSettings" value="Shrani nastavitve" />

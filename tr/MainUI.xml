@@ -11,12 +11,12 @@
     <string key="rdoTimeoutNone" value="Kullanıcının seçimi beklensin" version="1" />
     <string key="rdoTimeoutSkip" value="Önyükleme mönüsünü atla" version="1" />
     <string key="btnSaveBCD" value="Ayarları kaydet" version="1" />
-    <string key="groupBox2" value="Zamanaşımı seçenekleri" version="1" />
+    <string key="grpTimeout" value="Zamanaşımı seçenekleri" version="1" />
     <string key="btnUp" value="Yukarı" version="1" />
     <string key="btnDown" value="Aşağı" version="1" />
     <string key="btnRenameEntry" value="Adlandır" version="1" />
     <string key="btnDelete" value="Sil" version="1" />
-    <string key="groupBox1" value="Önyükler mönüsünü düzenle" version="1" />
+    <string key="grpModifyEntries" value="Önyükler mönüsünü düzenle" version="1" />
     <string key="tabEditMenu" value="2" version="1" />
     <string key="btnBrowse" value="..." version="1" />
     <string key="btnVhdBrowse" clone="btnBrowse" />
@@ -63,14 +63,14 @@
     <string key="lblFile1" clone="lblFile" />
     <string key="lblFile2" clone="lblFile" />
     <string key="txtVhdName" value="NeoSmart VHD simgesi" version="1" />
-    <string key="tabPage13" value="Disk Simgesi" version="1" />
+    <string key="tabPageVhd" value="Disk Simgesi" version="1" />
     <string key="txtIsoName" value="NeoSmart ISO kaydı" version="1" />
-    <string key="tabPage14" value="ISO" version="1" />
+    <string key="tabPageIso" value="ISO" version="1" />
     <string key="txtPeName" value="NST WinPE Simgesi" version="1" />
     <string key="chkEms" value="EMS Enabled" version="1" />
-    <string key="tabPage12" value="WinPE" version="1" />
+    <string key="tabPageWinPE" value="WinPE" version="1" />
     <string key="txtFloppyName" value="NeoSmart Floppy Simgesi" version="1" />
-    <string key="tabFloppy" value="Flopi" version="1" />
+    <string key="tabPageFloppy" value="Flopi" version="1" />
     <string key="btnPlopInstall" value="PLoP kur" version="1" />
     <string key="btnPlopRemove" value="PLoP kaldır" version="1" />
     <string key="lblBiosExtend" value="EasyBCD BIOS genişleticisi, desteklemeyen bilgisayarlarda CD'den, USB'den yada Internet'ten önyükleme için kullanılabilir." version="1" />
@@ -79,17 +79,17 @@
     <string key="lblWindowsAuto" value="Otomatik belirlensin" version="1" />
     <string key="chkAutoXp" value="Geçerli sürücü otomatik alglansın" version="1" />
     <string key="txtWinName" value="Microsoft Windows" version="1" />
-    <string key="tabPage8" value="Windows" version="1" />
+    <string key="tabPageWin" value="Windows" version="1" />
     <string key="chkGrub" value="EasyBCD'nin GRUB Kopyasını kullanın" version="1" />
     <string key="txtLinName" value="NeoSmart Linux" version="1" />
     <string key="lblLinAuto" value="Otomatik belirlensin" version="1" />
-    <string key="tabPage9" value="Linux/BSD" version="1" />
+    <string key="tabPageLinux" value="Linux/BSD" version="1" />
     <string key="txtMacName" value="NST Mac OS X" version="1" />
     <string key="tabPageMac" value="Mac" version="1" />
     <string key="btnNeoGrub" value="Kur" version="1" />
     <string key="btnNeoGrubConfig" value="Yapılandır" version="1" />
     <string key="lblNeoGrub" value="NeoGrub, Windows'u, Linux'u ve eski sürümlerini önyüklemek için dahası sürücüleri gizlemek için kullanılabilir." version="1" />
-    <string key="tabPage11" value="NeoGrub   " version="1" />
+    <string key="tabPageNeoGrub" value="NeoGrub   " version="1" />
     <string key="grpOS" value="İşletim Sistemleri" version="1" />
     <string key="tabAddEntry" value="3" version="1" />
     <string key="btnSaveSettings" value="Ayarları kaydet" version="1" />
