@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="linkLabel" value="Questa copia di EasyBCD richiede l'acquisto di apposita licenza.&#xD;&#xA;&#xD;&#xA;Per favore digitare l'indirizzo email oppure il numero della licenza associati all'acquisto. Cliccare qui per acquistare una licenza oppure contattare Sales@NeoSmart.net per assistenza." version="1" />
-    <string key="linkClick" value="Cliccare qui" version="1" />
-    <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
-    <string key="btnSkip" value="S&amp;kip" version="1" />
-    <string key="btnRegister" value="&amp;Register" version="1" />
-    <string key="lblTitle" value="Versione Commerciale di EasyBCD" version="1" />
-    <string key="lblLicenseKey" value="Email o Numero della Licenza:" version="1" />
-    <string key="LicenseDialog" value="Versione Commerciale di EasyBCD" version="1" />
+    <string key="linkLabel" value="Questa copia di EasyBCD richiede l'acquisto di una apposita licenza.&#xD;&#xA;&#xD;&#xA;Inserisci l'indirizzo email oppure il numero della licenza associati all'acquisto. Fai clic qui per acquistare una licenza oppure contattare sales@neosmart.net per assistenza." version="1" />
+    <string key="linkClick" value="Fai clic qui" version="1" />
+    <string key="linkEmail" value="sales@neosmart.net" version="1" />
+    <string key="btnSkip" value="S&amp;alta" version="1" />
+    <string key="btnRegister" value="&amp;Registra" version="1" />
+    <string key="lblTitle" value="Versione commerciale di EasyBCD" version="1" />
+    <string key="lblLicenseKey" value="Email o numero della licenza:" version="1" />
+    <string key="LicenseDialog" value="Versione commerciale di EasyBCD" version="1" />
     <string key="email" value="Email" version="1" />
-    <string key="licenseKey" value="Numero della Licenza" version="1" />
-    <string key="seats" value="Seats" version="1" />
-    <string key="regFailTitle" value="Registrazione NON avvenuta con successo!" version="1" />
-    <string key="regFail" value="Indirizzo email oppure Numero di Licenza errato. Per favore riprovare." version="1" />
-    <string key="regException" value="Si é verificato un errore nell'ottenimento della Licenza dal server remoto. Accertarsi di essere connessi ad Internet o riprovare in un secondo momento." version="1" />
+    <string key="licenseKey" value="Numero della licenza" version="1" />
+    <string key="seats" value="License" version="1" />
+    <string key="regFailTitle" value="Registrazione fallita!" version="1" />
+    <string key="regFail" value="Indirizzo email oppure numero di licenza errato. Riprova." version="1" />
+    <string key="regException" value="Si é verificato un errore nell'ottenimento della licenza dal server remoto. Accertati di essere connesso ad Internet o riprova più tardi." version="1" />
     <string key="regExceptionTitle" value="Impossibile eseguire la registrazione" version="1" />
-    <string key="btnContinue" value="Continuare" version="1" />
-    <string key="regSuccess" value="Registrazione Effettuata!" version="1" />
+    <string key="btnContinue" value="Continua" version="1" />
+    <string key="regSuccess" value="Registrazione completata!" version="1" />
     <string key="MinimumWidth" value="511" />
     <string key="MinimumHeight" value="334" />
   </strings>

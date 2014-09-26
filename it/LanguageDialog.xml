@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="title" derive="true" />
-    <string key="btnGo" derive="true" />
+    <string key="title" value="Scegli una lingua" version="1" />
+    <string key="btnGo" value="Vai" version="1" />
     <string key="MinimumHeight" derive="true" />
     <string key="MinimumWidth" derive="true" />
   </strings>

@@ -2,6 +2,6 @@
 <localization>
   <strings>
     <string key="lblApplyingActions" value="EasyBCD sta effettuando l'azione selezionata.." version="1" />
-    <string key="ProgressDialog" value="Attendere, prego" version="1" />
+    <string key="ProgressDialog" value="Attendere..." version="1" />
   </strings>
 </localization>

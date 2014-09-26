@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="accessViolationFormat" value="Impossibile ottenere accesso esclusivo a {0}. Se si tratta di un disco rimovibile, espellerlo e reinserirlo, quindi provare di nuovo." version="1" />
+    <string key="accessViolationFormat" value="Impossibile ottenere l'accesso esclusivo a {0}. Se si tratta di un disco rimovibile, espellerlo e reinserirlo, quindi riprovare." version="1" />
     <string key="failedSave" value="Impossibile salvare le modifiche!" version="1" />
     <string key="accessDeniedTitle" value="Accesso negato" version="1" />
-    <string key="accessDeniedFormat" value="L'accesso a {0} é stato negato. Controllare che il file non sia in uso e di avere l'autorizzazione a cancellare/modificare in questo spazio." version="1" />
+    <string key="accessDeniedFormat" value="Accesso a {0} negato. Controllare che il file non sia in uso e di avere l'autorizzazione per eliminare/modificare in questa posizione." version="1" />
     <string key="oneEntry" value="Esiste una voce nel gestore del boot di Windows." version="1" />
     <string key="multiEntriesFormat" value="C'é un totale di {0} voci nel gestore del boot." version="1" />
     <string key="entryNum" value="Entry #" version="1" />
     <string key="name" value="Nome" version="1" />
-    <string key="bcdId" value="BCD ID" version="1" />
-    <string key="drive" value="Drive" version="1" />
+    <string key="bcdId" value="ID BCD" version="1" />
+    <string key="drive" value="Unità" version="1" />
     <string key="device" value="Dispositivo" version="1" />
     <string key="path" value="Percorso" version="1" />
-    <string key="default" value="Default" version="1" />
-    <string key="timeout" value="Tempo d'attesa" version="1" />
+    <string key="default" value="Predefinito" version="1" />
+    <string key="timeout" value="Tempo di attesa" version="1" />
     <string key="none" value="Nessuno" version="1" />
     <string key="timeoutFormat" value="{0} secondi" version="1" />
     <string key="skipped" value="saltato" version="1" />
@@ -22,11 +22,11 @@
     <string key="ebcdBootDevice" value="Gestore di boot di EasyBCD" version="1" />
     <string key="bootloaderPath" value="Percorso del gestore di boot" version="1" />
     <string key="bcdError" value="Errore di esecuzione BCD!" version="1" />
-    <string key="ntNotFoundTitle" value="Installazione NT valida non trovata!" version="1" />
-    <string key="ntNotFound" value="EasyBCD non ha tovato un'installazione valida di Windows NT-2003 in alcuno dei drive presenti e perciò non é stato in grado di continuare." version="1" />
-    <string key="manuallyLoad" value="Preferisci caricare manualmente una voce BCD che EasyBCD possa gestire? Per favore tieni presente che EasyBCD richiede necessariamenteil gestore di boot di Windows Vista/7 bootloader e non funziona se c'é soltanto Windows XP." version="1" />
+    <string key="ntNotFoundTitle" value="Nessuna installazione NT valida trovata!" version="1" />
+    <string key="ntNotFound" value="EasyBCD non ha tovato un'installazione valida di Windows NT-2003 in nessuna delle unità presenti e perciò non é stato in grado di continuare." version="1" />
+    <string key="manuallyLoad" value="Preferisci caricare manualmente una voce BCD che EasyBCD possa gestire? Tieni presente che EasyBCD richiede necessariamente il gestore di boot di Windows Vista/7/8 e non funziona se c'é soltanto Windows XP." version="1" />
     <string key="errorBcd" value="Errore nell'apertura del registro BCD" version="1" />
-    <string key="locateValid" value="Trovare una voce BCD valida" version="1" />
+    <string key="locateValid" value="Ricerca di una voce BCD valida" version="1" />
     <string key="bcdRegistry" value="Registro BCD" version="1" />
     <string key="unknown" value="Sconosciuto" version="1" />
     <string key="gib" value="GiB" version="1" />
