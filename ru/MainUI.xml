@@ -149,9 +149,9 @@
     <string key="lstOptOut" derive="true" />
     <string key="lstAlwaysOn" derive="true" />
     <string key="lstAlwaysOff" derive="true" />
-    <string key="paeDefault" value="По умолчанию" version="1" />
-    <string key="paeEnable" value="PAE включено" version="1" />
-    <string key="paeDisable" value="PAE выключено" version="1" />
+    <string key="cbxEntryPae" value="По умолчанию
+PAE включено
+PAE выключено" version="1" />
     <string key="safeNormal" derive="true" />
     <string key="safeMode" derive="true" />
     <string key="safeNetworking" derive="true" />

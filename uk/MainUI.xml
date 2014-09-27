@@ -126,13 +126,13 @@
     <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" version="1" />
     <string key="colName" value="Запис" version="1" />
     <string key="colDefault" value="За замовчуванням" version="1" />
-    <string key="lstVhdEntry" value="Microsoft VHD" version="1" />
-    <string key="lstRawHD" value="Образ жорсткого диску" version="1" />
-    <string key="lstRawPartition" value="Образ розділу" version="1" />
-    <string key="lstRunDisk" value="Завантаження з диску" version="1" />
-    <string key="lstLoadMem" value="Завантаження в пам'ять" version="1" />
-    <string key="lstWim" value="Образ WIM (Ramdisk)" version="1" />
-    <string key="lstExtracted" value="Виділена файлова структура" version="1" />
+    <string key="cbxVhdType" value="Microsoft VHD
+Образ жорсткого диску
+Образ розділу" version="1" />
+    <string key="cbxIsoMode" value="Завантаження з диску
+Завантаження в пам'ять" version="1" />
+    <string key="cbxPeType" value="Образ WIM (Ramdisk)
+Виділена файлова структура" version="1" />
     <string key="lstWin7" derive="true" />
     <string key="lstWinNt" derive="true" />
     <string key="lstWin9x" derive="true" />
@@ -145,19 +145,19 @@
     <string key="lstNixSys" derive="true" />
     <string key="lstEfi" value="EFI (За замовчуванням)" version="1" />
     <string key="lstMbr" derive="true" />
-    <string key="lstOptIn" value="Базовий" version="1" />
-    <string key="lstOptOut" value="Розширений" version="1" />
-    <string key="lstAlwaysOn" value="Завжди включено" version="1" />
-    <string key="lstAlwaysOff" value="Завжди виключено" version="1" />
-    <string key="paeDefault" value="За замовчуванням" version="1" />
-    <string key="paeEnable" value="Включено" version="1" />
-    <string key="paeDisable" value="Виключено" version="1" />
-    <string key="safeNormal" value="Нормальний" version="1" />
-    <string key="safeMode" value="Безпечний режим" version="1" />
-    <string key="safeNetworking" value="Безпечний режим /Мережа" version="1" />
-    <string key="safeCmd" value="Командний рядок" version="1" />
-    <string key="safeVga" value="Базовий VGA" version="1" />
-    <string key="safeAD" value="Відновлення Active Directory" version="1" />
+    <string key="cbxEntryDep" value="Базовий
+Розширений
+Завжди включено
+Завжди виключено" version="1" />
+    <string key="cbxEntryPae" value="За замовчуванням
+Включено
+Виключено" version="1" />
+    <string key="cbxEntrySafe" value="Нормальний
+Безпечний режим
+Безпечний режим /Мережа
+Командний рядок
+Базовий VGA
+Відновлення Active Directory" version="1" />
     <string key="emptyList" value="Записів не виявлено!" version="1" />
     <string key="MinimumWidth" value="583" />
     <string key="MinimumHeight" value="486" version="2" />

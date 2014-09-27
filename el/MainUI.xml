@@ -104,30 +104,34 @@
     <string key="grpToolbox" value="EasyBCD Εργαλειοθήκη" version="1" />
     <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" version="1" />
     <string key="colDefault" value="Προεπιλεγμένο" version="1" />
-    <string key="lstVhdEntry" value="Microsoft VHD" version="1" />
     <string key="lstRunDisk" value="Εκτέλεση από δίσκο" version="1" />
     <string key="lstWim" value="WIM Image (Ramdisk)" version="1" />
-    <string key="lstWin7" value="Windows Vista/7/8" version="2" />
-    <string key="lstWinNt" value="Windows NT/2k/XP/2k3" version="1" />
-    <string key="lstWin9x" value="Windows 95/98/ME" version="1" />
-    <string key="lstWinDos" value="MS-DOS 6.x" version="1" />
-    <string key="lstNixGrub" value="GRUB (Legacy)" version="1" />
-    <string key="lstNixGrub2" value="GRUB 2" version="1" />
-    <string key="lstNixLilo" value="LILO/eLILO" version="1" />
-    <string key="lstNixBsd" value="FreeBSD/PC-BSD" version="1" />
-    <string key="lstNixWubi" value="Wubi" version="1" />
-    <string key="lstNixSys" value="SysLinux" version="1" />
-    <string key="lstEfi" value="EFI (Default)" version="1" />
-    <string key="lstMbr" value="MBR" version="1" />
-    <string key="lstOptIn" value="OptIn" version="1" />
-    <string key="lstOptOut" value="OptOut" version="1" />
-    <string key="paeDefault" value="Προεπιλογή" version="1" />
-    <string key="paeEnable" value="Ενεργοποιημένο" version="1" />
-    <string key="paeDisable" value="Απενεργοποιημένο" version="1" />
-    <string key="safeNormal" value="Κανονική εκκίνηση" version="1" />
-    <string key="safeMode" value="Ασφαλής Λειτουργία" version="1" />
-    <string key="safeNetworking" value="Ασφαλής Λειτουργία με δίκτυο" version="1" />
-    <string key="safeCmd" value="Γραμμή εντολών" version="1" />
+    <string key="cbxWinType" value="Windows Vista/7/8
+Windows NT/2k/XP/2k3
+Windows 95/98/ME
+MS-DOS 6.x
+FreeDOS" version="1" />
+    <string key="cbxLinType" value="GRUB (Legacy)
+GRUB 2
+LILO/eLILO
+FreeBSD/PC-BSD
+Wubi
+SysLinux" version="1" />
+    <string key="cbxMacType" value="EFI (Default)
+MBR" version="1" />
+    <string key="cbxEntryDep" value="OptIn
+OptOut
+Πάντα ενεργό
+Πάντα ανενεργό" version="1" />
+    <string key="cbxEntryPae" value="Προεπιλογή
+Ενεργοποιημένο
+Απενεργοποιημένο" version="1" />
+    <string key="cbxEntrySafe" value="Κανονική εκκίνηση
+Ασφαλής Λειτουργία
+Ασφαλής Λειτουργία με δίκτυο
+Γραμμή εντολών
+Βασική VGA
+Active Directory Repair" version="1" />
     <string key="lblBiosExtend" value="Το EasyBCD BIOS extender μπορεί να χρησιμοποιηθεί για να γίνει εκκίνηση από δίκτυο, CD ή USB σε υπολογιστές που δεν τον υποστηρίζουν." version="1" />
     <string key="grpPortable" value="Φορητά/Εξωτερικά μέσα" version="1" />
     <string key="chkGrub" value="Χρησιμοποίηση EasyBCD GRUB" version="1" />
@@ -152,14 +156,10 @@
     <string key="rdoMbrVista" value="Εγκατάσταση του προγράμματος εκκίνησης των Windows Vista/7 στο MBR" version="1" />
     <string key="grpBootloader" value="Επιλογές διαμόρφωσης του MBR " version="1" />
     <string key="colName" value="Καταχώριση" version="1" />
-    <string key="lstRawHD" value="Raw Hard Disk Image" version="1" />
-    <string key="lstRawPartition" value="Raw Partition Image" version="1" />
-    <string key="lstLoadMem" value="Φόρτωση από Μνήμη" version="1" />
+    <string key="cbxIsoMode" value="Εκτέλεση από δίσκο
+Φόρτωση από Μνήμη" version="1" />
     <string key="lstExtracted" value="Extracted Filesystem Layout" version="1" />
-    <string key="lstAlwaysOn" value="Πάντα ενεργό" version="1" />
-    <string key="lstAlwaysOff" value="Πάντα ανενεργό" version="1" />
-    <string key="safeVga" value="Βασική VGA" version="1" />
-    <string key="safeAD" value="Active Directory Repair" version="1" />
+
     <string key="emptyList" value="Δεν εντοπίστηκαν καταχωρήσεις!" version="1" />
   </strings>
 </localization>

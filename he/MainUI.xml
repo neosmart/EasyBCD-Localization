@@ -162,38 +162,39 @@
     <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" version="1" />
     <string key="colName" value="רשומה" version="1" />
     <string key="colDefault" value="ברירת מחדל" version="1" />
-    <string key="lstVhdEntry" value="Microsoft VHD" version="1" />
-    <string key="lstRawHD" value="Raw Hard Disk Image" version="1" />
-    <string key="lstRawPartition" value="Raw Partition Image" version="1" />
-    <string key="lstRunDisk" value="הרץ מכונן" version="1" />
-    <string key="lstLoadMem" value="הרץ מזיכרון" version="1" />
-    <string key="lstWim" value="WIM Image (Ramdisk)" version="1" />
-    <string key="lstExtracted" value="Extracted Filesystem Layout" version="1" />
-    <string key="lstWin7" value="חלונות ויסטה/7/8" version="2" />
-    <string key="lstWinNt" value="חלונות NT/2k/XP/2k3" version="1" />
-    <string key="lstWin9x" value="חלונות 95/98/ME" version="1" />
-    <string key="lstWinDos" value="דוס" version="1" />
-    <string key="lstNixGrub" value="GRUB (Legacy)" version="1" />
-    <string key="lstNixGrub2" value="GRUB 2" version="1" />
-    <string key="lstNixLilo" value="LILO/eLILO" version="1" />
-    <string key="lstNixBsd" value="FreeBSD/PC-BSD" version="1" />
-    <string key="lstNixWubi" value="Wubi" version="1" />
-    <string key="lstNixSys" value="SysLinux" version="1" />
-    <string key="lstEfi" value="EFI (Default)" version="1" />
-    <string key="lstMbr" value="MBR" version="1" />
-    <string key="lstOptIn" value="OptIn" version="1" />
-    <string key="lstOptOut" value="OptOut" version="1" />
-    <string key="lstAlwaysOn" value="פועל" version="1" />
-    <string key="lstAlwaysOff" value="כבוי" version="1" />
-    <string key="paeDefault" value="ברירת מחדל" version="1" />
-    <string key="paeEnable" value="הפעל" version="1" />
-    <string key="paeDisable" value="הפסק" version="1" />
-    <string key="safeNormal" value="מצב רגיל" version="1" />
-    <string key="safeMode" value="מצב בטוח" version="1" />
-    <string key="safeNetworking" value="מצב בטוח עם רשת" version="1" />
-    <string key="safeCmd" value="Command Line/Alternate Shell" version="1" />
-    <string key="safeVga" value="תצוגת VGA" version="1" />
-    <string key="safeAD" value="תיקון ספריה" version="1" />
+    <string key="cbxVhdType" value="Microsoft VHD
+Raw Hard Disk Image
+Raw Partition Image" version="1" />
+    <string key="cbxIsoMode" value="הרץ מכונן
+הרץ מזיכרון" version="1" />
+    <string key="cbxPeType" value="WIM Image (Ramdisk)
+Extracted Filesystem Layout" version="1" />
+    <string key="cbxWinType" value="חלונות ויסטה/7/8
+חלונות NT/2k/XP/2k3
+חלונות 95/98/ME
+דוס
+FreeDOS" version="1" />
+    <string key="cbxLinType" value="GRUB (Legacy)
+GRUB 2
+LILO/eLILO
+FreeBSD/PC-BSD
+Wubi
+SysLinux" version="1" />
+    <string key="cbxMacType" value="EFI (Default)
+MBR" version="1" />
+    <string key="cbxEntryDep" value="OptIn
+OptOut
+פועל
+כבוי" version="1" />
+    <string key="cbxEntryPae" value="ברירת מחדל
+הפעל
+הפסק" version="1" />
+    <string key="cbxEntrySafe" value="מצב רגיל
+מצב בטוח
+מצב בטוח עם רשת
+Command Line/Alternate Shell
+תצוגת VGA
+תיקון ספריה" version="1" />
     <string key="emptyList" value="לא נוספה רשומה" version="1" />
     <string key="MinimumWidth" value="583" />
     <string key="MinimumHeight" value="456" version="2" />

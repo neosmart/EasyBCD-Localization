@@ -126,13 +126,13 @@
     <string key="MainUI" value="EasyBCD 2.0 - NeoSmart 的技术" version="1" />
     <string key="colName" value="条目" version="1" />
     <string key="colDefault" value="默认" version="1" />
-    <string key="lstVhdEntry" value="Microsoft VHD" version="1" />
-    <string key="lstRawHD" value="Raw Hard Disk 映像" version="1" />
-    <string key="lstRawPartition" value="Raw分区映像" version="1" />
-    <string key="lstRunDisk" value="从磁盘运行" version="1" />
-    <string key="lstLoadMem" value="从内存加载" version="1" />
-    <string key="lstWim" value="WIM映像（Ramdisk）" version="1" />
-    <string key="lstExtracted" value="提取文件格式" version="1" />
+    <string key="cbxVhdType" value="Microsoft VHD
+Raw Hard Disk 映像
+Raw分区映像" version="1" />
+    <string key="cbxIsoMode" value="从磁盘运行
+从内存加载" version="1" />
+    <string key="cbxPeType" value="WIM映像（Ramdisk）
+提取文件格式" version="1" />
     <string key="lstWin7" derive="true" />
     <string key="lstWinNt" derive="true" />
     <string key="lstWin9x" derive="true" />
@@ -145,19 +145,19 @@
     <string key="lstNixSys" derive="true" />
     <string key="lstEfi" value="EFI (默认)" version="1" />
     <string key="lstMbr" derive="true" />
-    <string key="lstOptIn" value="启用选择" version="1" />
-    <string key="lstOptOut" value="禁用选择" version="1" />
-    <string key="lstAlwaysOn" value="常开" version="1" />
-    <string key="lstAlwaysOff" value="常关" version="1" />
-    <string key="paeDefault" value="默认" version="1" />
-    <string key="paeEnable" value="启用" version="1" />
-    <string key="paeDisable" value="禁用" version="1" />
-    <string key="safeNormal" value="正常" version="1" />
-    <string key="safeMode" value="安全模式" version="1" />
-    <string key="safeNetworking" value="带网络的安全模式" version="1" />
-    <string key="safeCmd" value="命令行/命令行管理程序" version="1" />
-    <string key="safeVga" value="基本VGA" version="1" />
-    <string key="safeAD" value="Active Directory修复" version="1" />
+    <string key="cbxEntryDep" value="启用选择
+禁用选择
+常开
+常关" version="1" />
+    <string key="cbxEntryPae" value="默认
+启用
+禁用" version="1" />
+    <string key="cbxEntrySafe" value="正常
+安全模式
+带网络的安全模式
+命令行/命令行管理程序
+基本VGA
+Active Directory修复" version="1" />
     <string key="emptyList" value="没有检测项" version="1" />
   </strings>
 </localization>

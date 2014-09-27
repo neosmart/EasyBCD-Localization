@@ -130,10 +130,10 @@
     <string key="colDefault" value="Standard" version="1" />
     <string key="lstRawHD" value="Raw hårddiskavbild" version="1" />
     <string key="lstRawPartition" value="Raw partitionsavbild" version="1" />
-    <string key="lstRunDisk" value="Kör från disk" version="1" />
-    <string key="lstLoadMem" value="Kör i minnet" version="1" />
-    <string key="lstWim" value="VIM-avbild (Ramdisk)" version="1" />
-    <string key="lstExtracted" value="Extraherad filsystem-layout" version="1" />
+    <string key="cbxIsoMode" value="Kör från disk
+Kör i minnet" version="1" />
+    <string key="cbxPeType" value="VIM-avbild (Ramdisk)
+Extraherad filsystem-layout" version="1" />
     <string key="lstWin7" derive="true" />
     <string key="lstWinNt" derive="true" />
     <string key="lstWin9x" derive="true" />
@@ -150,14 +150,15 @@
     <string key="lstOptOut" derive="true" />
     <string key="lstAlwaysOn" value="Alltid på" version="1" />
     <string key="lstAlwaysOff" value="Alltid av" version="1" />
-    <string key="paeDefault" value="Standard" version="1" />
-    <string key="paeEnable" value="Aktivera" version="1" />
-    <string key="paeDisable" value="Inaktivera" version="1" />
-    <string key="safeMode" value="Felsäkert läge" version="1" />
-    <string key="safeNetworking" value="Felsäkert läge m. nätverk" version="1" />
-    <string key="safeCmd" value="Alternativt gränssnitt" version="1" />
-    <string key="safeVga" value="Enkel grafik" version="1" />
-    <string key="safeAD" value="Active Directory-reparation" version="1" />
+    <string key="cbxEntryPae" value="Standard
+Aktivera
+Inaktivera" version="1" />
+    <string key="cbxEntrySafe" value="Normal
+Felsäkert läge
+Felsäkert läge m. nätverk
+Alternativt gränssnitt
+Enkel grafik
+Active Directory-reparation" version="1" />
     <string key="emptyList" value="Inga startposter hittades!" version="1" />
   </strings>
 </localization>

@@ -162,13 +162,13 @@
     <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" version="1" />
     <string key="colName" value="項目" version="1" />
     <string key="colDefault" value="預設" version="1" />
-    <string key="lstVhdEntry" value="Microsoft VHD" version="1" />
-    <string key="lstRawHD" value="原始硬碟映像" version="1" />
-    <string key="lstRawPartition" value="原始分割區映像" version="1" />
-    <string key="lstRunDisk" value="從磁碟執行" version="1" />
-    <string key="lstLoadMem" value="從記憶體載入" version="1" />
-    <string key="lstWim" value="WIM 映像 (Ramdisk)" version="1" />
-    <string key="lstExtracted" value="擷取的檔案系統配置" version="1" />
+    <string key="cbxVhdType" value="Microsoft VHD
+原始硬碟映像
+原始分割區映像" version="1" />
+    <string key="cbxIsoMode" value="從磁碟執行
+從記憶體載入" version="1" />
+    <string key="cbxPeType" value="WIM 映像 (Ramdisk)
+擷取的檔案系統配置" version="1" />
     <string key="lstWin7" derive="true" />
     <string key="lstWinNt" derive="true" />
     <string key="lstWin9x" derive="true" />
@@ -185,15 +185,15 @@
     <string key="lstOptOut" derive="true" />
     <string key="lstAlwaysOn" value="一律開啟" version="1" />
     <string key="lstAlwaysOff" value="一律關閉" version="1" />
-    <string key="paeDefault" value="預設" version="1" />
-    <string key="paeEnable" value="啟用" version="1" />
-    <string key="paeDisable" value="停用" version="1" />
-    <string key="safeNormal" value="正常" version="1" />
-    <string key="safeMode" value="安全模式" version="1" />
-    <string key="safeNetworking" value="安全模式含網路" version="1" />
-    <string key="safeCmd" value="命令列/替代殼層" version="1" />
-    <string key="safeVga" value="基本 VGA" version="1" />
-    <string key="safeAD" value="Active Directory 修復" version="1" />
+    <string key="cbxEntryPae" value="預設
+啟用
+停用" version="1" />
+    <string key="cbxEntrySafe" value="正常
+安全模式
+安全模式含網路
+命令列/替代殼層
+基本 VGA
+Active Directory 修復" version="1" />
     <string key="emptyList" value="偵測不到項目!" version="1" />
     <string key="MinimumWidth" value="583" />
     <string key="MinimumHeight" value="456" version="2" />

@@ -125,8 +125,8 @@
     <string key="lstVhdEntry" derive="true" />
     <string key="lstRawHD" value="Imatge RAW de disco duro" version="1" />
     <string key="lstRawPartition" value="Imagen RAW de partición" version="1" />
-    <string key="lstRunDisk" value="Ejecutar desde disco" version="1" />
-    <string key="lstLoadMem" value="Cargar desde memoria" version="1" />
+    <string key="cbxIsoMode" value="Ejecutar desde disco
+Cargar desde memoria" version="1" />
     <string key="lstWim" value="WIM Imagen (Ramdisk)" version="1" />
     <string key="lstWin7" derive="true" />
     <string key="lstWinNt" derive="true" />
@@ -144,15 +144,15 @@
     <string key="lstOptOut" derive="true" />
     <string key="lstAlwaysOn" value="Siempre On" version="1" />
     <string key="lstAlwaysOff" value="Siempre Off" version="1" />
-    <string key="paeDefault" value="Defecto" version="1" />
-    <string key="paeEnable" value="Activar" version="1" />
-    <string key="paeDisable" value="Desactivar" version="1" />
-    <string key="safeNormal" derive="true" />
-    <string key="safeMode" value="Modo seguro" version="1" />
-    <string key="safeNetworking" value="Modo seguro con red" version="1" />
-    <string key="safeCmd" value="Línea de comandos/Entorno alternativo" version="1" />
-    <string key="safeVga" value="VGA Básico" version="1" />
-    <string key="safeAD" value="Reparación de directorio activo" version="1" />
+    <string key="cbxEntryPae" value="Defecto
+Activar
+Desactivar" version="1" />
+    <string key="cbxEntrySafe" value="Normal
+Modo seguro
+Modo seguro con red
+Línea de comandos/Entorno alternativo
+VGA Básico
+Reparación de directorio activo" version="1" />
     <string key="btnBrowse" value="..." version="1" />
     <string key="lblName" value="Nombre:" version="1" />
     <string key="lblType" value="Tipo:" version="1" />

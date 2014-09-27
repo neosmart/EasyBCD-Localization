@@ -126,13 +126,13 @@
     <string key="MainUI" value="EasyBCD 2.2 - NeoSmart Technologies" version="1" />
     <string key="colName" value="Entrée(s)" version="1" />
     <string key="colDefault" value="Par défaut" version="1" />
-    <string key="lstVhdEntry" value="Disque dur virtuel Microsoft" version="1" />
-    <string key="lstRawHD" value="Image disque dur raw" version="1" />
-    <string key="lstRawPartition" value="Image partition raw" version="1" />
-    <string key="lstRunDisk" value="Exécuter à partir du disque" version="1" />
-    <string key="lstLoadMem" value="Charger à partir de la mémoire" version="1" />
-    <string key="lstWim" value="Image WIN (Ramdisk)" version="1" />
-    <string key="lstExtracted" value="Disposition extraite du système de fichier" version="1" />
+    <string key="cbxVhdType" value="Disque dur virtuel Microsoft
+Image disque dur raw
+Image partition raw" version="1" />
+    <string key="cbxIsoMode" value="Exécuter à partir du disque
+Charger à partir de la mémoire" version="1" />
+    <string key="cbxPeType" value="Image WIN (Ramdisk)
+Disposition extraite du système de fichier" version="1" />
     <string key="lstWin7" derive="true" />
     <string key="lstWinNt" derive="true" />
     <string key="lstWin9x" derive="true" />
@@ -145,19 +145,19 @@
     <string key="lstNixSys" derive="true" />
     <string key="lstEfi" value="EFI (par défaut)" version="1" />
     <string key="lstMbr" derive="true" />
-    <string key="lstOptIn" value="OptIn" version="1" />
-    <string key="lstOptOut" value="OptOut" version="1" />
-    <string key="lstAlwaysOn" value="AlwaysOn" version="1" />
-    <string key="lstAlwaysOff" value="AlwaysOff" version="1" />
-    <string key="paeDefault" value="Par défaut" version="1" />
-    <string key="paeEnable" value="Activée" version="1" />
-    <string key="paeDisable" value="Désactivée" version="1" />
-    <string key="safeNormal" value="Désactivé" version="1" />
-    <string key="safeMode" value="Sans prise en charge réseau" version="1" />
-    <string key="safeNetworking" value="Avec prise en charge réseau" version="1" />
-    <string key="safeCmd" value="En ligne de commande" version="1" />
-    <string key="safeVga" value="Mode VGA" version="1" />
-    <string key="safeAD" value="Réparation Active Directory" version="1" />
+    <string key="cbxEntryDep" value="OptIn
+OptOut
+AlwaysOn
+AlwaysOff" version="1" />
+    <string key="cbxEntryPae" value="Par défaut
+Activée
+Désactivée" version="1" />
+    <string key="cbxEntrySafe" value="Désactivé
+Sans prise en charge réseau
+Avec prise en charge réseau
+En ligne de commande
+Mode VGA
+Réparation Active Directory" version="1" />
     <string key="emptyList" value="Aucune entrée détectée !" version="1" />
     <string key="MinimumWidth" value="630" />
     <string key="MinimumHeight" value="500" version="2" />

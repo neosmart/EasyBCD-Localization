@@ -114,10 +114,10 @@
     <string key="colDefault" value="Domyślny" version="1" />
     <string key="lstRawHD" value="Obraz dysku twardego Raw" version="1" />
     <string key="lstRawPartition" value="Obraz partycji Raw" version="1" />
-    <string key="lstRunDisk" value="Uruchom z dysku" version="1" />
-    <string key="lstLoadMem" value="Załaduj z pamięci" version="1" />
-    <string key="lstWim" value="Obraz WIM (RAMdisk)" version="1" />
-    <string key="lstExtracted" value="Wyodrębniony układ systemu plików" version="1" />
+    <string key="cbxIsoMode" value="Uruchom z dysku
+Załaduj z pamięci" version="1" />
+    <string key="cbxPeType" value="Obraz WIM (RAMdisk)
+Wyodrębniony układ systemu plików" version="1" />
     <string key="lstWin7" derive="true" />
     <string key="lstWinNt" derive="true" />
     <string key="lstWin9x" derive="true" />
@@ -128,21 +128,21 @@
     <string key="lstNixBsd" derive="true" />
     <string key="lstNixWubi" derive="true" />
     <string key="lstNixSys" derive="true" />
-    <string key="lstEfi" value="EFI (domyślny)" version="1" />
-    <string key="lstMbr" value="MBR" version="1" />
+    <string key="cbxMacType" value="EFI (domyślny)
+MBR" version="1" />
     <string key="lstOptIn" derive="true" />
     <string key="lstOptOut" derive="true" />
     <string key="lstAlwaysOn" derive="true" />
     <string key="lstAlwaysOff" derive="true" />
-    <string key="paeDefault" value="Default (domyślny)" version="1" />
-    <string key="paeEnable" value="Enable" version="1" />
-    <string key="paeDisable" value="Disable" version="1" />
-    <string key="safeNormal" value="Normal" version="1" />
-    <string key="safeMode" value="Safe Mode" version="1" />
-    <string key="safeNetworking" value="Safe Mode w/ Networking" version="1" />
-    <string key="safeCmd" value="Command Line/Alternate Shell" version="1" />
-    <string key="safeVga" value="Basic VGA" version="1" />
-    <string key="safeAD" value="Active Directory Repair" version="1" />
+    <string key="cbxEntryPae" value="Default (domyślny)
+Enable
+Disable" version="1" />
+    <string key="cbxEntrySafe" value="Normal
+Safe Mode
+Safe Mode w/ Networking
+Command Line/Alternate Shell
+Basic VGA
+Active Directory Repair" version="1" />
     <string key="emptyList" value="Nie wykryto wpisów!" version="1" />
     <string key="lstVhdEntry" derive="true" />
     <string key="tabAdvanced" derive="true" />

@@ -124,17 +124,18 @@
     <string key="MainUI" value="이지비씨디 2.0 - 네오스마트 테크놀로지" version="1" />
     <string key="colName" value="엔트리" version="1" />
     <string key="colDefault" value="디폴트" version="1" />
-    <string key="lstVhdEntry" value="마이크로소프트 VHD" version="1" />
-    <string key="lstRawHD" value="Raw 하드 디스크 이미지" version="1" />
-    <string key="lstRawPartition" value="Raw 파티션 이미지" version="1" />
-    <string key="lstRunDisk" value="디스크로 부터 실행" version="1" />
-    <string key="lstLoadMem" value="메모리에서 탑재" version="1" />
-    <string key="lstWim" value="WIM 이미지(램디스크)" version="1" />
-    <string key="lstExtracted" value="추출된 파일시스템 레이아웃" version="1" />
-    <string key="lstWin7" value="윈도우즈 비스타/7/8" version="2" />
-    <string key="lstWinNt" value="윈도우즈 NT/2k/XP/2k3" version="1" />
-    <string key="lstWin9x" value="윈도우즈 95/98/ME" version="1" />
-    <string key="lstWinDos" value="MS 도스 6.x" version="1" />
+    <string key="cbxVhdType" value="마이크로소프트 VHD
+Raw 하드 디스크 이미지
+Raw 파티션 이미지" version="1" />
+    <string key="cbxIsoMode" value="디스크로 부터 실행
+메모리에서 탑재" version="1" />
+    <string key="cbxPeType" value="WIM 이미지(램디스크)
+추출된 파일시스템 레이아웃" version="1" />
+    <string key="cbxWinType" value="윈도우즈 비스타/7/8
+윈도우즈 NT/2k/XP/2k3
+윈도우즈 95/98/ME
+MS 도스 6.x
+FreeDOS" version="1" />
     <string key="lstNixGrub" value="GRUB (레거시)" version="1" />
     <string key="lstNixGrub2" value="GRUB 2" version="1" />
     <string key="paeEnable" value="가능" version="1" />

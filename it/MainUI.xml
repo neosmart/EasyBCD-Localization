@@ -118,13 +118,13 @@
     <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" version="1" />
     <string key="colName" value="Voce" version="1" />
     <string key="colDefault" value="Predefinito" version="1" />
-    <string key="lstVhdEntry" value="Microsoft VHD" version="1" />
-    <string key="lstRawHD" value="Immagine RAW disco fisso" version="1" />
-    <string key="lstRawPartition" value="Immagine RAW partizione" version="1" />
-    <string key="lstRunDisk" value="Esegui da disco" version="1" />
-    <string key="lstLoadMem" value="Carica dalla memoria" version="1" />
-    <string key="lstWim" value="Immagine WIM (Ramdisk)" version="1" />
-    <string key="lstExtracted" value="Schema estratto del Filesystem" version="1" />
+    <string key="cbxVhdType" value="Microsoft VHD
+Immagine RAW disco fisso
+Immagine RAW partizione" version="1" />
+    <string key="cbxIsoMode" value="Esegui da disco
+Carica dalla memoria" version="1" />
+    <string key="cbxPeType" value="Immagine WIM (Ramdisk)
+Schema estratto del Filesystem" version="1" />
     <string key="lstWin7" derive="true" />
     <string key="lstWinNt" derive="true" />
     <string key="lstWin9x" derive="true" />
@@ -141,15 +141,15 @@
     <string key="lstOptOut" derive="true" />
     <string key="lstAlwaysOn" value="Sempre ON" version="1" />
     <string key="lstAlwaysOff" value="Sempre OFF" version="1" />
-    <string key="paeDefault" value="Predefinito" version="1" />
-    <string key="paeEnable" value="Abilitato" version="1" />
-    <string key="paeDisable" value="Disabilito" version="1" />
-    <string key="safeNormal" value="Normale" version="1" />
-    <string key="safeMode" value="Modalità provvisoria" version="1" />
-    <string key="safeNetworking" value="Modalità provvisoria con rete" version="1" />
-    <string key="safeCmd" value="Linea di comando/shell alternativa" version="1" />
-    <string key="safeVga" value="Basic VGA" version="1" />
-    <string key="safeAD" value="Riparazione della cartella attiva" version="1" />
+    <string key="cbxEntryPae" value="Predefinito
+Abilitato
+Disabilito" version="1" />
+    <string key="cbxEntrySafe" value="Normale
+Modalità provvisoria
+Modalità provvisoria con rete
+Linea di comando/shell alternativa
+Basic VGA
+Riparazione della cartella attiva" version="1" />
     <string key="emptyList" value="Nessuna voce individuata!" version="1" />
     <string key="btnBrowse" derive="true" />
     <string key="lblName" value="Nome:" version="1" />

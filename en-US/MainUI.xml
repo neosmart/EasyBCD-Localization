@@ -162,38 +162,39 @@
     <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" version="1" />
     <string key="colName" value="Entry" version="1" />
     <string key="colDefault" value="Default" version="1" />
-    <string key="lstVhdEntry" value="Microsoft VHD" version="1" />
-    <string key="lstRawHD" value="Raw Hard Disk Image" version="1" />
-    <string key="lstRawPartition" value="Raw Partition Image" version="1" />
-    <string key="lstRunDisk" value="Run from Disk" version="1" />
-    <string key="lstLoadMem" value="Load from Memory" version="1" />
-    <string key="lstWim" value="WIM Image (Ramdisk)" version="1" />
-    <string key="lstExtracted" value="Extracted Filesystem Layout" version="1" />
-    <string key="lstWin7" value="Windows Vista/7/8" version="2" />
-    <string key="lstWinNt" value="Windows NT/2k/XP/2k3" version="1" />
-    <string key="lstWin9x" value="Windows 95/98/ME" version="1" />
-    <string key="lstWinDos" value="MS-DOS 6.x" version="1" />
-    <string key="lstNixGrub" value="GRUB (Legacy)" version="1" />
-    <string key="lstNixGrub2" value="GRUB 2" version="1" />
-    <string key="lstNixLilo" value="LILO/eLILO" version="1" />
-    <string key="lstNixBsd" value="FreeBSD/PC-BSD" version="1" />
-    <string key="lstNixWubi" value="Wubi" version="1" />
-    <string key="lstNixSys" value="SysLinux" version="1" />
-    <string key="lstEfi" value="EFI (Default)" version="1" />
-    <string key="lstMbr" value="MBR" version="1" />
-    <string key="lstOptIn" value="OptIn" version="1" />
-    <string key="lstOptOut" value="OptOut" version="1" />
-    <string key="lstAlwaysOn" value="Always On" version="1" />
-    <string key="lstAlwaysOff" value="Always Off" version="1" />
-    <string key="paeDefault" value="Default" version="1" />
-    <string key="paeEnable" value="Enable" version="1" />
-    <string key="paeDisable" value="Disable" version="1" />
-    <string key="safeNormal" value="Normal" version="1" />
-    <string key="safeMode" value="Safe Mode" version="1" />
-    <string key="safeNetworking" value="Safe Mode w/ Networking" version="1" />
-    <string key="safeCmd" value="Command Line/Alternate Shell" version="1" />
-    <string key="safeVga" value="Basic VGA" version="1" />
-    <string key="safeAD" value="Active Directory Repair" version="1" />
+    <string key="cbxVhdType" value="Microsoft VHD
+Raw Hard Disk Image
+Raw Partition Image" version="1" />
+    <string key="cbxIsoMode" value="Run from Disk
+Load from Memory" version="1" />
+    <string key="cbxPeType" value="WIM Image (Ramdisk)
+Extracted Filesystem Layout" version="1" />
+    <string key="cbxWinType" value="Windows Vista/7/8
+Windows NT/2k/XP/2k3
+Windows 95/98/ME
+MS-DOS 6.x
+FreeDOS" version="1" />
+    <string key="cbxLinType" value="GRUB (Legacy)
+GRUB 2
+LILO/eLILO
+FreeBSD/PC-BSD
+Wubi
+SysLinux" version="1" />
+    <string key="cbxMacType" value="EFI (Default)
+MBR" version="1" />
+    <string key="cbxEntryDep" value="OptIn
+OptOut
+Always On
+Always Off" version="1" />
+    <string key="cbxEntryPae" value="Default
+Enable
+Disable" version="1" />
+    <string key="cbxEntrySafe" value="Normal
+Safe Mode
+Safe Mode w/ Networking
+Command Line/Alternate Shell
+Basic VGA
+Active Directory Repair" version="1" />
     <string key="emptyList" value="No entries detected!" version="1" />
     <string key="MinimumWidth" value="583" />
     <string key="MinimumHeight" value="456" version="2" />

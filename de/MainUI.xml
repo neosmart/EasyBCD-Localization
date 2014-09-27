@@ -120,8 +120,8 @@
     <string key="lstVhdEntry" derive="true" />
     <string key="lstRawHD" value="Raw Festplatten Image" version="1" />
     <string key="lstRawPartition" value="Raw Partition Image" version="1" />
-    <string key="lstRunDisk" value="Von Festplatte starten" version="1" />
-    <string key="lstLoadMem" value="Aus dem Speicher laden" version="1" />
+    <string key="cbxIsoMode" value="Von Festplatte starten
+Aus dem Speicher laden" version="1" />
     <string key="lstWim" derive="true" />
     <string key="lstExtracted" value="Extrahiertes Dateisystem Struktur" version="1" />
     <string key="lstWin7" derive="true" />
@@ -140,15 +140,15 @@
     <string key="lstOptOut" derive="true" />
     <string key="lstAlwaysOn" value="Immer Ein" version="1" />
     <string key="lstAlwaysOff" value="Immer Aus" version="1" />
-    <string key="paeDefault" value="Voreinstellung" version="1" />
-    <string key="paeEnable" value="Aktivieren" version="1" />
-    <string key="paeDisable" value="Deaktivieren" version="1" />
-    <string key="safeNormal" value="Normal" version="1" />
-    <string key="safeMode" value="Sicherer Modus" version="1" />
-    <string key="safeNetworking" value="Sicherer Modus w/ mit Netzwerk" version="1" />
-    <string key="safeCmd" value="Eingabezeile / Alternative Oberfläche" version="1" />
-    <string key="safeVga" value="Basis VGA" version="1" />
-    <string key="safeAD" value="Aktive Verzeichnisreparatur" version="1" />
+    <string key="cbxEntryPae" value="Voreinstellung
+Aktivieren
+Deaktivieren" version="1" />
+    <string key="cbxEntrySafe" value="Normal
+Sicherer Modus
+Sicherer Modus w/ mit Netzwerk
+Eingabezeile / Alternative Oberfläche
+Basis VGA
+Aktive Verzeichnisreparatur" version="1" />
     <string key="emptyList" value="Keine Einträge gefunden!" version="1" />
     <string key="lblName" value="Name:" version="1" />
     <string key="btnBrowse" derive="true" />

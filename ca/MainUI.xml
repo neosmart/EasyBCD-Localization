@@ -132,8 +132,8 @@
     <string key="lstVhdEntry" derive="true" />
     <string key="lstRawHD" value="Imatge RAW de disc dur" version="1" />
     <string key="lstRawPartition" value="Imatge RAW de partició" version="1" />
-    <string key="lstRunDisk" value="Executar des de disc" version="1" />
-    <string key="lstLoadMem" value="Carregar des de memòria" version="1" />
+    <string key="cbxIsoMode" value="Executar des de disc
+Carregar des de memòria" version="1" />
     <string key="lstWim" value="WIM Imatge (Ramdisk)" version="1" />
     <string key="lstWin7" derive="true" />
     <string key="lstWinNt" derive="true" />
@@ -151,9 +151,9 @@
     <string key="lstOptOut" derive="true" />
     <string key="lstAlwaysOn" value="Sempre On" version="1" />
     <string key="lstAlwaysOff" value="Sempre Off" version="1" />
-    <string key="paeDefault" value="Defecte" version="1" />
-    <string key="paeEnable" value="Activar" version="1" />
-    <string key="paeDisable" value="Desactivar" version="1" />
+    <string key="cbxEntrySafe" value="Defecte
+Activar
+Desactivar" version="1" />
     <string key="safeNormal" derive="true" />
     <string key="safeMode" value="Mode segur" version="1" />
     <string key="safeNetworking" value="Mode segur amb xarxa" version="1" />
