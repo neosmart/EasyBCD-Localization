@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="chkDontRemind" value="Többé ne figyelmeztessen!" version="1" />
+    <string key="btnCancel" value="&amp;Nem" version="1" />
+    <string key="btnDonate" value="&amp;Adomány" version="1" />
+    <string key="lblDonationIntro" value="Az EasyBCD közösségi változata 100%-osan ingyenes szoftver és törekszünk rá, hogy az is maradjon! Ingyenessége azonban nem jelenti azt, hogy fejlesztése és tesztelése nem kerül pénzbe.&#xD;&#xA;&#xD;&#xA;Az EasyBCD-t mostanáig több mint 25 millióan töltötték le ingyenesen és számtalan számítógépet védett meg." version="1" />
+    <string key="donationTitle" value="Segítse az EasyBCD-t!" version="1" />
+    <string key="lblYouDonate" value="Adakozás az EasyBCD segítésére további PC-k megmentéséért" version="1" />
+    <string key="DonationDialog" value="Segített az EasyBCD?" version="1" />
+    <string key="MinimumWidth" value="511" />
+    <string key="MinimumHeight" value="342" version="5" />
+  </strings>
+</localization>

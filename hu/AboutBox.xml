@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OKButton" value="&amp;Rendben" version="1" />
+    <string key="seatsAllowed" value="Felhasználók/eszközök" version="1" />
+    <string key="unlicensed" value="Nem-licenszelt másolat!" version="1" />
+    <string key="version" value="Verzió" version="1" />
+    <string key="copyright" value="Védjegy © NeoSmart Technologies 2006 - {0}" version="2" />
+    <string key="aboutText1" value="Az EasyBCD a legújabb boot-betöltő &amp; boot-betöltés kezelő eszköz. Nem garantált, hogy az összes verzióval működik - használja mindig a legújabb verziót. &#xD;&#xA;&#xD;&#xA;• A fejlesztés vezetője: Mahmoud H. Al-Qudsi&#xD;&#xA;• Aktív alkotórészek: Sweat, blood, and tears&#xD;&#xA;• Powered by C++, C#, Dr. Pepper, Excedrin és Visine&#xD;&#xA;• Minden boot a miénk!" version="1" />
+    <string key="thanksFormat" value="Külön köszönet a Grub4Dos, PLoP,{0} és UltraDefrag csoportnak!&#xD;&#xA;&#xD;&#xA;Ez az EasyBCD önálló GPLv2-licenszű részeket tartalmaz (Grub4Dos és UltraDefrag). További tudnivalókért olvassa el a telepítési könyvtárban található LICENSE-fájlt." version="1" />
+    <string key="title" value="Névjegy {0}" version="1" />
+    <string key="MinimumWidth" value="486" />
+    <string key="MinimumHeight" value="376" version="6" />
+  </strings>
+</localization>

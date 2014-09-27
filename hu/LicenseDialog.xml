@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linkLabel" value="Ehhez az EasyBCD másolathoz kereskedelmi licenszet kell vásárolni.&#xD;&#xA;&#xD;&#xA;Adja meg az email-címet vagy a vásárláskor kapott licensz-számot. Licenszvásárláshoz kattintson ide vagy lépjen kapcsolatra a Sales@NeoSmart.net-tel." version="1" />
+    <string key="linkClick" value="Kattintson ide" version="1" />
+    <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
+    <string key="btnSkip" value="S&amp;Kihagyás" version="1" />
+    <string key="btnRegister" value="&amp;Regisztrálás" version="1" />
+    <string key="lblTitle" value="EasyBCD kereskedelmi változat" version="1" />
+    <string key="lblLicenseKey" value="Email vagy licenszkulcs:" version="1" />
+    <string key="LicenseDialog" value="EasyBCD kereskedelmi változat" version="1" />
+    <string key="email" value="Email" version="1" />
+    <string key="licenseKey" value="Licenszkulcs" version="1" />
+    <string key="seats" value="Alapok(Seats)" version="1" />
+    <string key="regFailTitle" value="A regisztrálás nem sikerült!" version="1" />
+    <string key="regFail" value="Nem megfelelő az email vagy a licenszkulcs. Próbálja meg újra/" version="1" />
+    <string key="regException" value="Hiba történt a licensz távoli szerverről való letöltésekor. Biztosítsa a helyes internet-kapcsolatot vagy próbálja meg később." version="1" />
+    <string key="regExceptionTitle" value="Nem lehet regisztrálni" version="1" />
+    <string key="btnContinue" value="Folytatás" version="1" />
+    <string key="regSuccess" value="A regisztrálás megtörtént!" version="1" />
+    <string key="MinimumWidth" value="511" />
+    <string key="MinimumHeight" value="334" />
+  </strings>
+</localization>

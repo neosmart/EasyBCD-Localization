@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linuxAuto" value="Automatikus keresés és betöltés" version="1" />
+    <string key="communityText" value="Az EasyBCD közösségi változat nem-üzleti használatra ingyenesen licenszelhető. &#xD;&#xA;Ha a szoftvert üzleti környezetben használja, kattintson a lenti 'Mégse' gombra a kereskedelmi licensz megvásárlásához. A folytatáshor kattintson a 'Rendben'-re." version="1" />
+    <string key="communityTitle" value="EasyBCD közösségi változat" version="1" />
+    <string key="bcdInUse" value="A jelenlegi fájl használatban van és nem lehet megnyitni az EasyBCD-vel. Ha megpróbálta (újból)kijelölni a rendszertárolót, nyomja meg lent a Nem-et, majd használja a Fájl-menüben a &quot;Rendszertároló betöltése&quot; lehetőséget.&#xD;&#xA;&#xD;&#xA;Szeretne másik tárolót kijelölni az EasyBCD használatához?" version="1" />
+    <string key="bcdInUseTitle" value="Hozzáférés-megsértési hiba!" version="1" />
+    <string key="accessDenied" value="A hozzáférés megtagadva!" version="1" />
+    <string key="uncUnsupported" value="Ehhez a tulajdonsághoz nem lehet hálózati elérési utat megadni. Adjon meg másik elérési utat és próbálkozzon újból!" version="1" />
+    <string key="uncUnsupportedTitle" value="Nem adható meg UNC elérési-út!" version="1" />
+    <string key="invalidPath" value="Érvénytelen fájl vagy elérési-út név. A folytatáshoz adjon meg valós elérési utat!" version="1" />
+    <string key="invalidPathTitle" value="Érvénytelen elérési út!" version="1" />
+    <string key="updateCheck" value="EasyBCD-frissítés keresése..." version="1" />
+    <string key="updateFailed" value="Nem sikerült a frissítés keresése! Hiba a hálózati kapcsolatban." version="1" />
+    <string key="updateFailedSB" value="Nem sikerült az EasyBCD frissítése!: " version="1" />
+    <string key="updateFound" value="Új EasyBCD található!" version="1" />
+    <string key="updateFoundText" value="Új EasyBCD verzió található. Szeretne az EasyBCD letöltési oldalára látogatni, hogy frissíthessen a legújabb verzióra?" version="1" />
+    <string key="updateNone" value="Ön a legújabb EasyBCD verzióval rendelkezik." version="1" />
+    <string key="install" value="Telepítés" version="1" />
+    <string key="remove" value="Eltávolítás" version="1" />
+    <string key="adminLine1" value="Az EasyBCD helyes futásához rendszergazdai jogok kellenek, ezért nem folytatható." version="1" />
+    <string key="adminLine2" value="A folytatáshoz jelentkezzen be vagy futtassa rendszergazdai jogokkal." version="1" />
+    <string key="adminTitle" value="Az engedély megtagadva!" version="1" />
+    <string key="easybcdBackup" value="EasyBCD biztonsági mentés" version="1" />
+    <string key="yes" value="Igen" version="1" />
+    <string key="no" value="Nem" version="1" />
+    <string key="registryFailed" value="Nem lehet írni a registry-beállításokat!" version="1" />
+    <string key="commercialEdition" value="Kereskedelmi változat" version="1" />
+    <string key="communityEdition" value="Közösségi változat" version="1" />
+    <string key="failedAddTitle" value="Nem sikerült a bejegyzés hozzáadása!" version="1" />
+    <string key="msdosHelp" value="Az EasyBCD-t MS-DOS 6.x vagy Windows 3.x, IO.SYS és MSDOS.SYS általi boot-olásához az aktív partícióról kell indítani.&#xD;&#xA;&#xD;&#xA;További tudnivalókért nyomja meg az 'Igen'-t és megnyílik az EasyBCD dokumentációs lapja a DOS-alapú bejegyzésekről. Ha nem akarja megtekinteni a dokumentációt, nyomja meg a 'Nem'-et." version="1" />
+    <string key="msdosHelpTitle" value="Elolvassa az EasyBCD MS-DOS dokumentációját?" version="1" />
+    <string key="addedFormat" value="{0} hozzáadása a boot-menühöz megtörtént!" version="1" />
+    <string key="neogrubBootloader" value="NeoGrub Bootloader" version="1" />
+    <string key="neogrubRemoved" value="A NeoGrub sikeresen eltávolítva!" version="1" />
+    <string key="vhdErrorTitle" value="Hiba történt a VHD-bejegyzés hozzáadásakor!" version="1" />
+    <string key="errorSpaces" value="A kép elérési útjának nem szabad szóközt tartalmaznia. Helyesbítsen és próbálja meg újra!" version="1" />
+    <string key="isoErrorTitle" value="Hiba történt az ISO-bejegyzés hozzáadásakor" version="1" />
+    <string key="floppyErrorTitle" value="Hiba történt a Floppy-bejegyzés hozzáadásakor" version="1" />
+    <string key="path" value="Elérési út:" version="1" />
+    <string key="name" value="Név:" version="1" />
+    <string key="drive" value="Meghajtó:" version="1" />
+    <string key="browseFileTitle" value="Fájl tallózása" version="1" />
+    <string key="wimFiles" value="Windows képfájl" version="1" />
+    <string key="vhdFiles" value="Virtuális merevlemez-fájl" version="1" />
+    <string key="isoFiles" value="ISO-kép" version="1" />
+    <string key="imgFiles" value="IMG-fájl" version="1" />
+    <string key="bcdFiles" value="EasyBCD biztonsági-mentés fájl" version="1" />
+    <string key="safeIntro" value="Az EasyBCD-vel külön bejegyzéseket készíthetünk az egyazon operációs rendszerben való bootoláshoz, de különféle beállításokkal. Ha új bejegyzést hozunk létre és védett-módú jelölővel látjuk el, gyors rendszer-hibakeresést végezhetünk." version="1" />
+    <string key="safeNormal" value="Alaphelyzet: Le van tiltva minden helyreállítási lehetőség és az OS a szokásos módon bootol." version="1" />
+    <string key="safeVga" value="Alap VGA: Betölti az alap megjelenítő-meghajtókat, alaphelyzetbe állítja a képernyőfelbontást." version="1" />
+    <string key="safeNetworking" value="Védett-módú w/ Hálózat: Védett-módú boot-adatok internethez és helyi hálózathoz való hozzáféréssel." version="1" />
+    <string key="safeMode" value="Védett-mód: Boot-adat védett módban hálózati hozzáféréssel. Sérült hálózati meghajtók esetén hasznos." version="1" />
+    <string key="safeAD" value="Az aktív könyvtár javítása: Windows szerver 2008 bootolása aktív könyvtár javítása módban." version="1" />
+    <string key="safeTitle" value="A védett-mód beállításairól" version="1" />
+    <string key="paeIntro" value="A fizikai cím kibővülésének mértéke határozza meg, hogy miképpen ossza el a Windows a 4 GB feletti többletmemóriát." version="1" />
+    <string key="paeDefault" value="Alapértelmezett: A Windows határozza meg a memóriakiosztást." version="1" />
+    <string key="paeEnable" value="Az engedélyezés kényszerítése: Kényszeríti a memóriakiosztást." version="1" />
+    <string key="paeDisable" value="A tiltás kényszerítése: A többletmemória kiosztásának letiltása." version="1" />
+    <string key="paeTitle" value="A PAE beállításairól" version="1" />
+    <string key="nxIntro" value="A DEP/Nem-futtatható a Windows XP SP2-ben bevezetett, rosszindulatú szkriptet hardverszinten érzékelő rendszer, amely segít megvédeni a rendszert a támadások ellen, de kompatibilitási problémákat okozhat." version="1" />
+    <string key="nxOptIn" value="OptIn:A  Windows-mag DEP-védett." version="1" />
+    <string key="nxOptOut" value="OptOut: A Windows és az alkalmazások DEP-védettek." version="1" />
+    <string key="nxOn" value="Mindig Be (AlwaysOn): DEP kényszerítése az összes alkalmazáshoz." version="1" />
+    <string key="nxOff" value="Mindig Ki (AlwaysOff): A DEP letiltása a Windows és az összes alkalmazás számára." version="1" />
+    <string key="nxTitle" value="A DEP/Nem.futtatható-ról" version="1" />
+    <string key="errorNotPrimary" value="A boot-partíciónak elsődlegesnek kell lennie.&#xD;&#xA;&#xD;&#xA;Válasszon másik meghajtót vagy konvertálja át a kijelölt partíciót elsődlegesre, majd próbálkozzon újból!" version="1" />
+    <string key="opNotAllowed" value="A művelet nem hajtható végre!" version="1" />
+    <string key="errorNotMounted" value="Az EasyBCD bootolható meghajtót nem tud lecsatlakoztatni. Adjon betűjelet a kijelölt meghajtónak, indítsa újra az EasyBCD-t és próbálkozzon újra!" version="1" />
+    <string key="invalidDrive" value="Érvénytelen meghajtóművelet" version="1" />
+    <string key="bootableSuccess" value="Az EasyBCD átkonvertálta a kijelölt lemezt bootolható meghajtóvá. A kijelölt partíció boot-menü bejegyzéseinek beállításához használja a 'Fájl | A kijelölt BCD-tároló'-t és válassza a \\boot\\BCD-fájl-t az elkészített partíción!" version="1" />
+    <string key="mountBcdNow" value="Szeretné automatikusan betölteni az EasyBCD-ben újonnan létrehozott BCD-tárolót?" version="1" />
+    <string key="bootableTitle" value="Elkészült a bootolható lemez" version="1" />
+    <string key="accessDeniedText" value="Nem lehet hozzáférni a BCD-hez. Ellenórizze és gondoskodjon arról, hogy a kijelölt eszközön levő BCD-tároló ne legyen használatban!" version="1" />
+    <string key="partitionConverted" value="A partíció át lett konvertálva bootolható meghajtóvá" version="1" />
+    <string key="bcdRemove1" value="Ezt a különleges lehetőséget csak akkor használja, ha tökéletesen biztos abban, hogy el akarja távolítani a Windows Vista/7 boot-betöltőt!" version="1" />
+    <string key="bcdRemove2" value="Ez a tulajdonság a Windows XP bootolására csak akkor alkalmas, ha a megfelelő boot-fájlok már a helyükön vannak!" version="1" />
+    <string key="bcdRemove3" value="Valóban folytatja?" version="1" />
+    <string key="warning" value="Figyelem!" version="1" />
+    <string key="mbrSuccess" value="Az MBR írása megtörtént" version="1" />
+    <string key="bootloaderSuccess" value="Sikerült elmenteni a boot-betöltő beállításait" version="1" />
+    <string key="bcdReset" value="A BCD alephelyzetbe állt. Minden bejegyzés törölve lett!&#xD;&#xA;&#xD;&#xA;Fontos: Legalább egy bejegyzést hozzá kell adni, különben nem fog bootolni a PC!" version="1" />
+    <string key="bcdResetTitle" value="A BCD alaphelyzetbe állítása" version="1" />
+    <string key="selectBootTitle" value="Új boot-partíció kijelölése" version="1" />
+    <string key="selectBoot" value="Az EasyBCD ismét beállítja a rendszert a lent kijelölendő partícióról való bootoláshoz. Ez a művelet beállítja a BCD-tárolót a kijelölt lemezen, átmásolja az aktuális BCD-bejegyzést és aktívvá, illetve bootolhatóvá teszi a kijelölt &amp; partíciót." version="1" />
+    <string key="errorLogical" value="Olyan logikai meghajtón próbálta megváltoztatni a boot-partíciót, amelyen az nem lehetséges. A boot-partíciónak elsődlegesnek kell lennie.&#xD;&#xA;&#xD;&#xA;Válasszon másik meghajtót vagy konvertálja át előbb a kijelölt partíciót elsődlegesre, majd próbálkozzon üjra." version="1" />
+    <string key="bootChangedFormat" value="Az EasyBCD új boot-partícióvá tette a(z) {0} meghajtót és betöltődtek az új BCD-tároló módosításai, amelyek később megváltoztathatók. Ha ez a partíció az első boot-lemezen van, nem szükséges más műveletet végezni rajta. Ha nem így lenne, most kikapcsolhatja a PC-t és a BIOS-ban megváltoztathatja a boot-meghajtót a változtatások véglegesítéséhez." version="1" />
+    <string key="bootChangedTitle" value="Megváltozott a boot-partíció!" version="1" />
+    <string key="unsupportedOS" value="Ez a lehetőség csak Windows Vista, Windows 7 és Windows 8 alatt használható." version="1" />
+    <string key="unsupportedOSTitle" value="Nem-támogatott operációs rendszer!" version="1" />
+    <string key="errorNoRestore" value="Végzetes hiba: Nem sikerült helyreállítani a kijelölt tárolót!" version="1" />
+    <string key="errorNoRestoreTitle" value="Helyreállítási hiba!" version="1" />
+    <string key="confirmDelete" value="Valóban törölni szeretné a bejegyzést?" version="1" />
+    <string key="confirmDeleteTitle" value="Jóváhagyja a törlést?" version="1" />
+    <string key="entryDeleted" value="A boot-menü bejegyzés törölve!" version="1" />
+    <string key="thankYou" value="Támogatását nagyra értékeljük!" version="1" />
+    <string key="loadExternal" value="Az EasyBCD ezzel a képességgel tetszőleges külső BCD-adatbázist tud betölteni és használni. A változtatások csak erre a BCD-tárolóra vonatkoznak és nem érinti az alapértelmezett rendszerbeállításokat." version="1" />
+    <string key="loadExternalTitle" value="Új tároló kijelölése" version="1" />
+    <string key="easybcdFiles" value="EasyBCD fájlok" version="1" />
+    <string key="errorRO1" value="Nincs engedélye a kijelölt fájl írásához, a fájl írásvédett vagy írásvédett adathordozón van." version="1" />
+    <string key="errorRO2" value="Ha a folytatást választja, a BCD-tároló változtatásai nem lesznek elmentve. A folytatáshoz nyomja meg az 'Igen'-t és a BCD-tároló írásvédett módban töltődik be. Ha a 'Nem'-et nyomja meg, folytathatja az előző BCD-tároló használatát." version="1" />
+    <string key="errorROTitle" value="A BCD-tároló csak olvasható!" version="1" />
+    <string key="bcdLoadedFormat" value="A BCD-adatok betöltödtek innen: {0}" version="1" />
+    <string key="noBcd" value="Nincs betöltve BCD-tároló. Az EasyBCD korlátozott módban fut." version="1" />
+    <string key="confirmRestart" value="Valóban újraindítja a számítógépet?" version="1" />
+    <string key="confirmRestartTitle" value="Az újraindítás jóváhagyása" version="1" />
+    <string key="shutdownStarted" value="A kikapcsolás folytatása." version="1" />
+    <string key="hiddenBootIni" value="A Boot.ini rejtett boot-partíción van és nem lehet betölteni az EasyBCD-vel való szerkesztéshez.&#xD;&#xA;&#xD;&#xA;Rendeljen betűjelet a rejtett boot-partícióhoz vagy használja helyette a Windows XP kettős-boot automatikus beállítási képességét!" version="1" />
+    <string key="errorBootIniTitle" value="Nem lehet betölteni a boot.ini-t!" version="1" />
+    <string key="errorBootIniFormat" value="Az EasyBCD nem talált boot.ini fájlt a boot-partíción. {0}.&#xD;&#xA;&#xD;&#xA;Adjon hozzá új Windows XP vagy Windows 2000 bejegyzést, hogy a boot.ini automatikus beállítási képességét használhassa helyette!" version="1" />
+    <string key="errorUtility" value="Hiba történt a program futásakor!" version="1" />
+    <string key="sysInfo" value="Rendszeradatok" version="1" />
+    <string key="sysInfoText" value="Adatok megjelenítése a jelenlegi hardver és szoftverösszeállítástól függően. Ez a hardverhibák kizárására és az aktuális rendszerbeállítások gyors kiiratására való." version="1" />
+    <string key="powerConsole" value="EasyBCD Power Console" version="1" />
+    <string key="powerConsoleText" value="Gyors hozzáférés a parancssori héjhoz teljes rendszergazdai joggal. Rendszerfunkciók végrehajtására vagy a bcdedit és a bootsec.exe gyors elérésére való." version="1" />
+    <string key="sysRestore" value="Rendszerhelyreállítás" version="1" />
+    <string key="sysRestoreText" value="A rendszerhelyreállítás-panel megnyitása. A változtatások gyors visszaállítására vagy az olyan változtatások javítására szolgál, amelyek a PC hibás futását eredményezik." version="1" />
+    <string key="restoreCds" value="Windows Vista/7 rendszerhelyreállító CD" version="1" />
+    <string key="restoreCdsText" value="A Windows Vista és Windows 7 rendszerhelyreállító CD egy másolatának letöltése katasztrófa esetére. Az EasyDCD USB-ről való bootolásra használható." version="1" />
+    <string key="controlPanel" value="Vezérlőpult" version="1" />
+    <string key="controlPanelText" value="A vezérlőpult futtatása és tetszőleges használata." version="1" />
+    <string key="iRebootText" value="A NeoSmart Technologies' segélyalkalmazása EasyBCD-hez. Az iReboot az eszközsoron található (csak 400KB memóriát igényel!), ahol gyorsan és egyszerűen kiválasztható, hogy melyik operációs rendszer induljon el újra." version="1" />
+    <string key="errorNoEntries" value="Az EasyBCD észlelte, hogy nincs telepítve bejegyzés. Ha kilép az EasyBCD-ből és újraindítja a számítógépet, az nem fog bootolni.&#xD;&#xA;&#xD;&#xA;Valóban kilép, mielőtt új bejegyzést adna hozzá?" version="1" />
+    <string key="errorNoEntriesTitle" value="Nincs telepített bejegyzés!" version="1" />
+    <string key="errorPathSave" value="Az EasyBCD nem tudta alapértelmezett mentési könyvtárként menteni a jelenlegi mentési útvonalat. A beállítás letiltva." version="1" />
+    <string key="errorPathSaveTitle" value="Alapértelmezett mentés-elérési útvonal probléma" version="1" />
+    <string key="isoHelp1" value="Az EasyBCD kétféleképpen képes betölteni az ISO-képet. Nem minden ISO működik helyesen; a Linux setup-ISO rendszerint nem működik." version="1" />
+    <string key="isoHelp2" value="Futtatás lemezről: A bootolás gyorsabb, de a futás lassabb. A létrehozás során előfeldolgozásra is szükség van az EasyBCD részéről." version="1" />
+    <string key="isoHelp3" value="Betöltés a memóriából: Gyorsabban fut, de idő kell a bootolás alatt a kijelöléshez. Nagyobb lemez vagy régebbi PC esetén eredménytelen lehet." version="1" />
+    <string key="isoHelpTitle" value="Az ISO-beállításokról" version="1" />
+    <string key="warnDiffDevice" value="A kijelölt fájl nem azon az eszközön van, ahol a boot-fájlok. Ha ezt a bejegyzést nem a jelenlegi, hanem másik PC-n való bootolásra akarja használni, másolja ki ezt a fájlt külső meghajtóra, majd próbálkozzon újra.&#xD;&#xA;&#xD;&#xA;Mindenképpen folytatni szeretné?" version="1" />
+    <string key="diffDeviceTitle" value="Nem-hordozható bejegyzés található!" version="1" />
+    <string key="errorNoBcd" value="Nincs betöltött BCD-registry - futás csökkent-funkciós módban!" version="1" />
+    <string key="bcdExceptionFormat" value="BCD-esemény 0x{0:X3}" version="1" />
+    <string key="userCancel" value="A műveletet megszakította a felhasználó." version="1" />
+    <string key="renameSuccess" value="A bejegyzés átnevezve!" version="1" />
+    <string key="plop" value="EasyBCD BIOS-bővítő" version="1" />
+    <string key="entryRemovedFormat" value="{0} eltávolítva" version="1" />
+    <string key="drive2" value="Meghajtó" version="1" />
+    <string key="bcdResetStatus" value="A BCD alaphelyzetbe állt. Állítsa be újra!" version="1" />
+    <string key="bcdRepaired" value="A BCD kijavítva!" version="1" />
+    <string key="configSaved" value="A bejegyzés-beállítás mentve!" version="1" />
+    <string key="backupSuccess" value="A BCD mentve!" version="1" />
+    <string key="restoreSuccess" value="A helyreálítás megtörtént!" version="1" />
+    <string key="bcdRefresh" value="A cachelt BCD-adat frissítve!" version="1" />
+    <string key="optionsSaved" value="A beállítások elmentve!" version="1" />
+    <string key="orderSaved" value="A bejegyzés-sorrend elmentve!" version="1" />
+    <string key="easybcdStatus" value="EasyBCD állapot" version="1" />
+    <string key="saveFileTitle" value="Mentés másként" />
+    <string key="updateFoundText2" value="Új EasyBCD verzió található. Szeretne automatikusan frissíteni a legújabb verzióra?&#xD;&#xA;&#xD;&#xA;Az automatikus letöltéshez és frissítéshez nyomja meg az 'Igen', a változások listájának megtekintéséhez és a manuális frissítéshez a 'Nem', a megszakításhoz a 'Mégse' gombot." version="1" />
+  </strings>
+</localization>

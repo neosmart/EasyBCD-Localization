@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnAbort" value="&amp;Megszakítás" version="1" />
+    <string key="CommandWindow" value="EasyBCD parancsablak" version="1" />
+    <string key="MinimumWidth" value="427" />
+    <string key="MinimumHeight" value="279" version="6" />
+  </strings>
+</localization>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="accessViolationFormat" value="Nem sikerült a hozzáférés {0}-hoz. Ha ez cserélhető lemez, vegye ki, majd helyezze be újból és próbálkozzon ismét." version="1" />
+    <string key="failedSave" value="Nem sikerült elmenteni a változtatásokat!" version="1" />
+    <string key="accessDeniedTitle" value="A hozzáférés megtagadva" version="1" />
+    <string key="accessDeniedFormat" value="{0}-hoz való hozzáférés megtagadva. Ellenőrizze, hogy a fájl nincs-e használatban és hogy van-e engedélye ennek a helynek a törléséhez/módosításához." version="1" />
+    <string key="oneEntry" value="Ez a Windows bootloader egy bejegyzése." version="1" />
+    <string key="multiEntriesFormat" value="Összesen {0} bejegyzés van a bootloader-listában." version="1" />
+    <string key="entryNum" value="Bejegyzés #" version="1" />
+    <string key="name" value="Név" version="1" />
+    <string key="bcdId" value="BCD-azonosító" version="1" />
+    <string key="drive" value="Lemezmeghajtó" version="1" />
+    <string key="device" value="Eszköz" version="1" />
+    <string key="path" value="Elérési út" version="1" />
+    <string key="default" value="Alapértelmezett" version="1" />
+    <string key="timeout" value="Időtúllépés" version="1" />
+    <string key="none" value="Semmi" version="1" />
+    <string key="timeoutFormat" value="{0} másodperc" version="1" />
+    <string key="skipped" value="Kihagyva" version="1" />
+    <string key="bootDevice" value="Boot-meghajtó" version="1" />
+    <string key="ebcdBootDevice" value="EasyBCD Boot-eszköz" version="1" />
+    <string key="bootloaderPath" value="A bootloader elérési útja" version="1" />
+    <string key="bcdError" value="BCD-futási hiba!" version="1" />
+    <string key="ntNotFoundTitle" value="Nem található érvényes NT-telepítés!" version="1" />
+    <string key="ntNotFound" value="Az EasyBCD Egyik csatlakoztatott lemezmeghajtón sem talált érvényes Windows NT-2003 telepítést, ezért nem lehet folytatni." version="1" />
+    <string key="manuallyLoad" value="Szeretne manuálisan betölteni BCD-registryt az EasyBCD kezeléséhez? Az EasyBCD csak Windows Vista/7 bootloaderhez használható. XP-s környezetben nem működik." version="1" />
+    <string key="errorBcd" value="Hiba történt a BCD-registry megnyitásakor" version="1" />
+    <string key="locateValid" value="Érvényes BCD-tároló" version="1" />
+    <string key="bcdRegistry" value="BCD registry" version="1" />
+    <string key="partition" value="Partíció" version="1" />
+    <string key="unknown" value="Ismeretlen" version="1" />
+    <string key="gib" value="GiB" version="1" />
+    <string key="mib" value="MiB" version="1" />
+    <string key="as" value="mint(as)" version="1" />
+    <string key="defragFormat" value="A(z) {0} fájl töredezettségmentesítésének indítása" version="1" />
+    <string key="unnamed" value="Névtelen bejegyzés" version="1" />
+  </strings>
+</localization>

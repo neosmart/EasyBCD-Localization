@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnOK" value="Rendben" version="2" />
+    <string key="btnCancel" value="Mégse" version="2" />
+    <string key="chkExpertMode" value="Az EasyBCD futtatása szakértő-módban" version="1" />
+    <string key="chkRememberBackup" value="A BCD mentés-könyvtárának megjegyzése kilépéskor" version="1" />
+    <string key="lblExpertMode" value="A program szakértő módban nem vár a műveletek előtt a felhasználó jóváhagyására!" version="1" />
+    <string key="chkLoadDefaultBcd" value="A következő BCD-fájlok automatikus betöltése induláskor:" version="1" />
+    <string key="btnBrowseBcd" value="..." version="1" />
+    <string key="chkAutoUpdate" value="Automatikus frissítés mindig " version="1" />
+    <string key="chkRss" value="A NeoSmart Technologies Windows RSS Platform tartalmazza" version="1" />
+    <string key="numUpdateInterval" value="0" version="1" />
+    <string key="rdoDays" value="Nap" version="1" />
+    <string key="rdoWeeks" value="Hét" version="1" />
+    <string key="rdoMonths" value="Hónap" version="1" />
+    <string key="lblLastUpdateCheck" value="Az utolsó automatikus vizsgálat: " version="1" />
+    <string key="tabGeneralSettings" value="Általános beállítások" version="1" />
+    <string key="lblDefaultTab" value="Az alapértelmezett fül az induláskor: " version="1" />
+    <string key="lblDefaultDisplay" value="Az alapértelmezett megjelenítési-mód: " version="1" />
+    <string key="lblOverviewFont" value="Betű-leírás:" version="1" />
+    <string key="lblDetailedFont" value="A betű részletes nézete: " version="1" />
+    <string key="lblOverviewSize" value="Méret: " version="1" />
+    <string key="numFontOverview" value="8" version="1" />
+    <string key="lblOverviewPt" value="pt." version="1" />
+    <string key="lblDetailedSize" value="Méret: " version="1" />
+    <string key="numFontDetailed" value="8" version="1" />
+    <string key="lblDetailedPt" value="pt." version="1" />
+    <string key="chkWordWrap" value="Sortörés engedélyezése alapértelmezésben" version="1" />
+    <string key="chkSaveWindow" value="Az EasyBCD ablakméretének megőrzése kilépéskor" version="1" />
+    <string key="ResetSize" value="A megjelenítő beállításainak alaphelyzetbe állítása" version="1" />
+    <string key="tabDisplayOptions" value="A megjelenítő beállításai" version="1" />
+    <string key="OptionsDialog" value="Az EasyBCD beállításai" version="1" />
+    <string key="overview" value="Leírás" version="1" />
+    <string key="detailed" value="Részletes" version="1" />
+    <string key="locateBcd" value="Érvényews BCD-tároló keresése" version="1" />
+    <string key="never" value="Soha" version="1" />
+    <string key="MinimumWidth" value="452" />
+    <string key="MinimumHeight" value="359" />
+  </strings>
+</localization>

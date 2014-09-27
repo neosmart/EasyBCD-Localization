@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblApplyingActions" value="Az EasyBCD alkalmazása a kijelölt művelethez.." version="1" />
+    <string key="ProgressDialog" value="Várjon!" version="1" />
+    <string key="MinimumWidth" value="371" />
+    <string key="MinimumHeight" value="110" version="1" />
+  </strings>
+</localization>

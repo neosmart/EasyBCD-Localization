@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="rdoModeBasic" value="Laírás" version="1" />
+    <string key="rdoModeDetailed" value="Részletes (Hibakeresési mód)" version="1" />
+    <string key="chkWordWrap" value="Sortörés" version="1" />
+    <string key="grpDisplayMode" value="Megjelenítés-mód" version="1" />
+    <string key="tabViewSettings" value="1" version="1" />
+    <string key="rdoTimeoutCount" value="Visszaszámlálás innen:" version="1" />
+    <string key="numTimeout" value="0" version="1" />
+    <string key="rdoTimeoutNone" value="Várakozás a felhasználó kijelölésére" version="1" />
+    <string key="rdoTimeoutSkip" value="A boot-menü átugrása" version="1" />
+    <string key="btnSaveBCD" value="A beállítások mentése" version="1" />
+    <string key="groupBox2" value="Időtúllépési beállítások" version="1" />
+    <string key="btnUp" value="Fel" version="1" />
+    <string key="btnDown" value="Le" version="1" />
+    <string key="btnRenameEntry" value="Átnevezés" version="1" />
+    <string key="btnDelete" value="Törlés" version="1" />
+    <string key="groupBox1" value="A menütételek módosítása" version="1" />
+    <string key="tabEditMenu" value="2" version="1" />
+    <string key="btnBrowse" value="..." version="1" />
+    <string key="btnVhdBrowse" clone="btnBrowse" />
+    <string key="btnPeBrowse" clone="btnBrowse" />
+    <string key="btnFloppyBrowse" clone="btnBrowse" />
+    <string key="btnBackupBrowse" clone="btnBrowse" />
+    <string key="btnRestoreBrowse" clone="btnBrowse" />
+    <string key="btnIsoBrowse" clone="btnBrowse" />
+    <string key="lblName" value="Név:" version="1" />
+    <string key="lblVhdName" clone="lblName" />
+    <string key="lblIsoName" clone="lblName" />
+    <string key="lblPeName" clone="lblName" />
+    <string key="lblFloppyName" clone="lblName" />
+    <string key="lblWinName" clone="lblName" />
+    <string key="lblLinName" clone="lblName" />
+    <string key="lblMacName" clone="lblName" />
+    <string key="lblNewName" clone="lblName" />
+    <string key="lblType" value="Típus:" version="1" />
+    <string key="lblVhdType" clone="lblType" />
+    <string key="lblPeType" clone="lblType" />
+    <string key="lblWinType" clone="lblType" />
+    <string key="lblLinType" clone="lblType" />
+    <string key="lblPath" value="Elérési út:" version="1" />
+    <string key="lblVhdPath" clone="lblPath" />
+    <string key="lblIsoPath" clone="lblPath" />
+    <string key="lblWinPE_Path" clone="lblPath" />
+    <string key="lblFloppyPath" clone="lblPath" />
+    <string key="lblDrive" value="Meghajtó:" version="1" />
+    <string key="lblWinDrive" clone="lblDrive" />
+    <string key="lblLinDrive" clone="lblDrive" />
+    <string key="lblNewDrive" clone="lblDrive" />
+    <string key="btnAddNewEntry" value="Bejegyzés hozzáadása" version="1" />
+    <string key="btnAddLinux" clone="btnAddNewEntry" />
+    <string key="btnAddMac" clone="btnAddNewEntry" />
+    <string key="btnAddVhd" clone="btnAddNewEntry" />
+    <string key="btnAddIso" clone="btnAddNewEntry" />
+    <string key="btnAddPE" clone="btnAddNewEntry" />
+    <string key="btnAddFloppy" clone="btnAddNewEntry" />
+    <string key="btnAddWindows" clone="btnAddNewEntry" />
+    <string key="lblMode" value="Mód:" version="1" />
+    <string key="lblMacMode" clone="lblMode" />
+    <string key="lblIsoMode" clone="lblMode" />
+    <string key="lblFile" value="Fájl:" version="1" />
+    <string key="lblFile1" clone="lblFile" />
+    <string key="lblFile2" clone="lblFile" />
+    <string key="txtVhdName" value="NeoSmart VHD-kép" version="1" />
+    <string key="tabPage13" value="Lemezkép" version="1" />
+    <string key="txtIsoName" value="NeoSmart ISO-bejegyzés" version="1" />
+    <string key="tabPage14" value="ISO" version="1" />
+    <string key="txtPeName" value="NST WinPE-kép" version="1" />
+    <string key="chkEms" value="EMS engedélyezve" version="1" />
+    <string key="tabPage12" value="WinPE" version="1" />
+    <string key="txtFloppyName" value="NeoSmart Floppy-kép" version="1" />
+    <string key="tabFloppy" value="Floppy" version="1" />
+    <string key="btnPlopInstall" value="PLoP telepítése" version="1" />
+    <string key="btnPlopRemove" value="PLoP eltávolítása" version="1" />
+    <string key="lblBiosExtend" value="Az EasyBCD BIOS-bővítője hálózatról, CD-ről vagy USB-ről való bootolásra is használható a közvetlenül nem támogatott számítógépeken." version="1" />
+    <string key="tabPagePlop" value="BIOS-bővítő" version="1" />
+    <string key="grpPortable" value="Hordozható/külső adathordozó" version="1" />
+    <string key="lblWindowsAuto" value="Automatikus meghatározás" version="1" />
+    <string key="chkAutoXp" value="A megfelelő meghajtó automatikus felismerése" version="1" />
+    <string key="txtWinName" value="Microsoft Windows" version="1" />
+    <string key="tabPage8" value="Windows" version="1" />
+    <string key="chkGrub" value="Az EasyBCD GRUB-másolatának használata" version="1" />
+    <string key="txtLinName" value="NeoSmart Linux" version="1" />
+    <string key="lblLinAuto" value="Automatikus meghatározás" version="1" />
+    <string key="tabPage9" value="Linux/BSD" version="1" />
+    <string key="txtMacName" value="NST Mac OS X" version="1" />
+    <string key="tabPageMac" value="Mac" version="1" />
+    <string key="btnNeoGrub" value="Telepítés" version="1" />
+    <string key="btnNeoGrubConfig" value="Beállítás" version="1" />
+    <string key="lblNeoGrub" value="A NeoGrub boot-betöltő Linux és hagyományos Windows-verziók bootolására vagy meghajtók elrejtésére is használható." version="1" />
+    <string key="tabPage11" value="NeoGrub   " version="1" />
+    <string key="grpOS" value="Operációs rendszer" version="1" />
+    <string key="tabAddEntry" value="3" version="1" />
+    <string key="btnSaveSettings" value="A beállítások mentése" version="1" />
+    <string key="lblLocale" value="Hely(Locale):" version="1" />
+    <string key="tabEntryBasic" value="Alap" version="1" />
+    <string key="lblSafeMode" value="Védett-mód:" version="1" />
+    <string key="lblPae" value="PAE-támogatás: " version="1" />
+    <string key="lblDep" value="Nem-futtatható: " version="1" />
+    <string key="chkEntryUnsigned" value="Jelöletlen meghajtók használata 64-bites Windows alatt" version="1" />
+    <string key="tabEntryAdvanced" value="Haladó" version="1" />
+    <string key="chkEntryKernelDebug" value="A Windows futtatása Kernel-Debug módban" version="1" />
+    <string key="chkEntrySos" value="Futtatás SOS/Verbose-Boot módban" version="1" />
+    <string key="numEntryMemory" value="0" version="1" />
+    <string key="lblDeduct2" value="MiB levonva a fizikat memóriából" version="2" />
+    <string key="numEntryCpu" value="0" version="1" />
+    <string key="lblLimit2" value="Windows CPU/magkorlátozás" version="2" />
+    <string key="tabEntryDeveloper" value="Fejlesztő" version="1" />
+    <string key="lblAdvancedSettings" value="A bejegyzések módosításától függően néhány beállítás használhatatlan lehet." version="1" />
+    <string key="grpChangeSettings" value="A beállítások megváltoztatása" version="1" />
+    <string key="lblPickLH" value="Egy bejegyzés kivétele a lenti listából." version="1" />
+    <string key="grpSelectLH" value="Az OS kiválasztása" version="1" />
+    <string key="tabAdvanced" value="4" version="1" />
+    <string key="btnBackup" value="Biztonsági-mentés beállítások" version="1" />
+    <string key="btnRestore" value="A biztonsági-mentés helyreállítása" version="1" />
+    <string key="grpBackupRestore" value="A boot-betöltő beállításainak biztonsági mentése és helyreállítása" version="1" />
+    <string key="rdoBcdChange" value="A boot-meghajtó megváltoztatása" version="1" />
+    <string key="rdoBcdRepair" value="Boot-fájlok újrakészítése/javítása" version="1" />
+    <string key="btnBcdRescue" value="A művelet elvégzése" version="1" />
+    <string key="rdoBcdReset" value="A BCD beállításainak alaphelyzetbe állítása" version="1" />
+    <string key="grpDiagnostics" value="A BCD-kezelés beállításai" version="1" />
+    <string key="tabBcdInstall" value="5" version="1" />
+    <string key="btnMakeBootable" value="A BCD telepítése" version="1" />
+    <string key="lblUsbPartitions" value="Partíció:" version="1" />
+    <string key="lblCreateBootable" value="Az EasyBCD automatizálni tudja a bootolható adathordozó készítésének folyamatát. Az elkezdéshez jelöljön ki alább egy partíciót." version="1" />
+    <string key="grpCreateBootableExternal" value="Bootolható külső adathordozó létrhozása" version="1" />
+    <string key="btnMbrWrite" value="Az MBR írása" version="1" />
+    <string key="rdoMbrXP" value="A Windows XP boot-betöltő telepítése az MBR-be" version="1" />
+    <string key="rdoMbrVista" value="A Windows Vista/7 boot-betöltő telepítése az MBR-be" version="1" />
+    <string key="grpBootloader" value="Az MBR beállításai" version="1" />
+    <string key="tabMbrSetup" value="6" version="1" />
+    <string key="grpUtils" value="Hasznos segédprogramok" version="1" />
+    <string key="tabUtilities" value="7" version="1" />
+    <string key="btnBcdInstall" value="BCD biztonsági mentés/javítás" version="1" />
+    <string key="btnUtilities" value="Hasznos segédprogramok" version="1" />
+    <string key="btnMbrSetup" value="BCD-technológia (Deployment)" version="1" />
+    <string key="btnAdvanced" value="Haladó beállítások" version="1" />
+    <string key="btnAddEntry" value="Új bejegyzés hozzáadása" version="1" />
+    <string key="btnEditMenu" value="A boot-menü szerkesztése" version="1" />
+    <string key="btnViewSettings" value="A beállítások megtekintése" version="1" />
+    <string key="grpToolbox" value="EasyBCD eszköztár" version="1" />
+    <string key="mnuSelectBcd" value="&amp;A BCD-tároló kijelölése" version="1" />
+    <string key="mnuLanguage" value="&amp;A nyelv kijelölése" version="1" />
+    <string key="mnuLoadSystemBcd" value="A rends&amp;zer-BCD betöltése" version="1" />
+    <string key="mnuRescan" value="A BCD-tároló &amp;frissítése" version="1" />
+    <string key="mnuRegister" value="&amp;Regisztrálás" version="1" />
+    <string key="mnuDonate" value="&amp;Adomány" version="1" />
+    <string key="mnuUpdate" value="Frissítés ke&amp;resése" version="1" />
+    <string key="mnuExit" value="&amp;Kilépés" version="1" />
+    <string key="mnuFile" value="&amp;Fájl" version="1" />
+    <string key="mnuOptions" value="&amp;Beállítások" version="1" />
+    <string key="mnuEditLegacy" value="A meg&amp;levő bejegyzések szerkesztése" version="1" />
+    <string key="mnuRestart" value="A számítógép új&amp;raindítása" version="1" />
+    <string key="mnuTools" value="&amp;Eszközök" version="1" />
+    <string key="mnuDocumentation" value="Dok&amp;umentáció" version="1" />
+    <string key="mnuSupport" value="Támogatá&amp;s igénylése" version="1" />
+    <string key="mnuBug" value="Hiba&amp;jelentés" version="1" />
+    <string key="mnuDonate2" value="&amp;Adomány" version="1" />
+    <string key="mnuAbout" value="&amp;Névjegy" version="1" />
+    <string key="mnuHelp" value="&amp;Súgó" version="1" />
+    <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" version="1" />
+    <string key="colName" value="Bejegyzés" version="1" />
+    <string key="colDefault" value="Alapértelmezett" version="1" />
+    <string key="lstVhdEntry" value="Microsoft VHD" version="1" />
+    <string key="lstRawHD" value="Raw merevlemez-kép" version="1" />
+    <string key="lstRawPartition" value="Raw partíciókép" version="1" />
+    <string key="lstRunDisk" value="Futtatás lemezről" version="1" />
+    <string key="lstLoadMem" value="Betöltés memóriából" version="1" />
+    <string key="lstWim" value="WIM-kép (Ram-lemez)" version="1" />
+    <string key="lstExtracted" value="Kibontott fájlrendszer-elrendezés" version="1" />
+    <string key="lstWin7" value="Windows Vista/7/8" version="2" />
+    <string key="lstWinNt" value="Windows NT/2k/XP/2k3" version="1" />
+    <string key="lstWin9x" value="Windows 95/98/ME" version="1" />
+    <string key="lstWinDos" value="MS-DOS 6.x" version="1" />
+    <string key="lstNixGrub" value="GRUB (Legacy)" version="1" />
+    <string key="lstNixGrub2" value="GRUB 2" version="1" />
+    <string key="lstNixLilo" value="LILO/eLILO" version="1" />
+    <string key="lstNixBsd" value="FreeBSD/PC-BSD" version="1" />
+    <string key="lstNixWubi" value="Wubi" version="1" />
+    <string key="lstNixSys" value="SysLinux" version="1" />
+    <string key="lstEfi" value="EFI (Alapértelmezett)" version="1" />
+    <string key="lstMbr" value="MBR" version="1" />
+    <string key="lstOptIn" value="OptIn" version="1" />
+    <string key="lstOptOut" value="OptOut" version="1" />
+    <string key="lstAlwaysOn" value="Mindig Be" version="1" />
+    <string key="lstAlwaysOff" value="Mindig Ki" version="1" />
+    <string key="paeDefault" value="Alapértelmezett" version="1" />
+    <string key="paeEnable" value="Engedélyezés" version="1" />
+    <string key="paeDisable" value="Tiltás" version="1" />
+    <string key="safeNormal" value="Hagyományos" version="1" />
+    <string key="safeMode" value="Védett-mód" version="1" />
+    <string key="safeNetworking" value="Védett-mód w/ Hálózat" version="1" />
+    <string key="safeCmd" value="Parancssor/Másik héj" version="1" />
+    <string key="safeVga" value="Alap VGA" version="1" />
+    <string key="safeAD" value="Aktív könyvtár javítás" version="1" />
+    <string key="emptyList" value="Nem található bejegyzés!" version="1" />
+    <string key="MinimumWidth" value="583" />
+    <string key="MinimumHeight" value="456" version="2" />
+  </strings>
+</localization>

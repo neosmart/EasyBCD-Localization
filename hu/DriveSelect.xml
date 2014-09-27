@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblDriveSelect" value="Új boot-meghajtó:" version="1" />
+    <string key="lblBody" value="Az EasyBCD újrarendezi a rendszert, hogy a lent kijelölt partícióról bootoljon. Ez a művelet beállítja a BCD-tárolót a kijelölt lemezen, átmásolja az aktuális BCD-bejegyzéseket és a kijelölt partíciót aktív bootolhatóra &amp; állítja." version="1" />
+    <string key="OK_Button" value="&amp;Rendben" version="1" />
+    <string key="Cancel_Button" value="&amp;Mégse" version="1" />
+    <string key="DriveSelect" value="A meghajtó kijelölése" version="1" />
+    <string key="errorAlreadyBoot" value="A kijelölt meghajtó az aktuális boot-meghajtó. A folytatáshoz válasszon másikat!" version="1" />
+    <string key="errorAlreadyBootTitle" value="Válasszon másik meghajtót!" version="1" />
+    <string key="MinimumWidth" value="518" />
+    <string key="MinimumHeight" value="199" />
+  </strings>
+</localization>
