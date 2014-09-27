@@ -3,5 +3,7 @@
   <strings>
     <string key="btnAbort" value="&amp;Avbryt" version="1" />
     <string key="CommandWindow" value="EasyBCD kommandofönster  " version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

@@ -8,5 +8,7 @@
     <string key="DriveSelect" value="Enhetsval" version="1" />
     <string key="errorAlreadyBoot" value="Den enhet du valt är redan aktiv boot-enhet. Välj en annan disk för att fortsätta!" version="1" />
     <string key="errorAlreadyBootTitle" value="Välj en annan enhet!" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

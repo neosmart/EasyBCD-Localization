@@ -160,5 +160,10 @@ Alternativt gränssnitt
 Enkel grafik
 Active Directory-reparation" version="1" />
     <string key="emptyList" value="Inga startposter hittades!" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+    <string key="efiTitle" value="EFI bootloader upptäckt!" version="1" />
+    <string key="efiMessage" value="EasyBCD har upptäckt att din dator startar i EFI-läge. På grund av begränsningar, implementerade av Microsoft, kan många av EasyBCD:s multistartfunktioner inte användas i EFI-läge och har därför inaktiverats.&#xD;&#xA;&#xD;&#xA;Tryck 'OK' för att fortsätta, eller 'Hjälp' för att läsa mer om begränsningarna och möjliga lösningar." />
+    <string key="lstFreeDos" derive="true" />
   </strings>
 </localization>

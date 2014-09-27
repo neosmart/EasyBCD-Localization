@@ -3,5 +3,7 @@
   <strings>
     <string key="lblApplyingActions" value="EasyBCD verkställer vald åtgärd..." version="1" />
     <string key="ProgressDialog" value="Vänta..." version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" value="110" />
   </strings>
 </localization>

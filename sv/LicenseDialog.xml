@@ -18,5 +18,7 @@
     <string key="regExceptionTitle" value="Kunde inte registrera licensen" version="1" />
     <string key="btnContinue" value="Fortsätt" version="1" />
     <string key="regSuccess" value="Registreringen slutförd!" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" value="334" />
   </strings>
 </localization>

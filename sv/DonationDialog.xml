@@ -8,5 +8,7 @@
     <string key="donationTitle" value="Hjälp EasyBCD att hjälpa dig!" version="1" />
     <string key="lblYouDonate" value="Vill du donera för att hjälpa EasyBCD, rädda fler datorer?" version="1" />
     <string key="DonationDialog" value="Har EasyBCD hjälpt dig?" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" value="342" version="5" />
   </strings>
 </localization>
