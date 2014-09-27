@@ -162,39 +162,15 @@
     <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" version="1" />
     <string key="colName" value="Entry" version="1" />
     <string key="colDefault" value="Default" version="1" />
-    <string key="cbxVhdType" value="Microsoft VHD
-Raw Hard Disk Image
-Raw Partition Image" version="1" />
-    <string key="cbxIsoMode" value="Run from Disk
-Load from Memory" version="1" />
-    <string key="cbxPeType" value="WIM Image (Ramdisk)
-Extracted Filesystem Layout" version="1" />
-    <string key="cbxWinType" value="Windows Vista/7/8
-Windows NT/2k/XP/2k3
-Windows 95/98/ME
-MS-DOS 6.x
-FreeDOS" version="1" />
-    <string key="cbxLinType" value="GRUB (Legacy)
-GRUB 2
-LILO/eLILO
-FreeBSD/PC-BSD
-Wubi
-SysLinux" version="1" />
-    <string key="cbxMacType" value="EFI (Default)
-MBR" version="1" />
-    <string key="cbxEntryDep" value="OptIn
-OptOut
-Always On
-Always Off" version="1" />
-    <string key="cbxEntryPae" value="Default
-Enable
-Disable" version="1" />
-    <string key="cbxEntrySafe" value="Normal
-Safe Mode
-Safe Mode w/ Networking
-Command Line/Alternate Shell
-Basic VGA
-Active Directory Repair" version="1" />
+    <string key="cbxVhdType" value="Microsoft VHD&#xD;&#xA;Raw Hard Disk Image&#xD;&#xA;Raw Partition Image" version="1" />
+    <string key="cbxIsoMode" value="Run from Disk&#xD;&#xA;Load from Memory" version="1" />
+    <string key="cbxPeType" value="WIM Image (Ramdisk)&#xD;&#xA;Extracted Filesystem Layout" version="1" />
+    <string key="cbxWinType" value="Windows Vista/7/8&#xD;&#xA;Windows NT/2k/XP/2k3&#xD;&#xA;Windows 95/98/ME&#xD;&#xA;MS-DOS 6.x&#xD;&#xA;FreeDOS" version="1" />
+    <string key="cbxLinType" value="GRUB (Legacy)&#xD;&#xA;GRUB 2&#xD;&#xA;LILO/eLILO&#xD;&#xA;FreeBSD/PC-BSD&#xD;&#xA;Wubi&#xD;&#xA;SysLinux" version="1" />
+    <string key="cbxMacType" value="EFI (Default)&#xD;&#xA;MBR" version="1" />
+    <string key="cbxEntryDep" value="OptIn&#xD;&#xA;OptOut&#xD;&#xA;Always On&#xD;&#xA;Always Off" version="1" />
+    <string key="cbxEntryPae" value="Default&#xD;&#xA;Enable&#xD;&#xA;Disable" version="1" />
+    <string key="cbxEntrySafe" value="Normal&#xD;&#xA;Safe Mode&#xD;&#xA;Safe Mode w/ Networking&#xD;&#xA;Command Line/Alternate Shell&#xD;&#xA;Basic VGA&#xD;&#xA;Active Directory Repair" version="1" />
     <string key="emptyList" value="No entries detected!" version="1" />
     <string key="MinimumWidth" value="583" />
     <string key="MinimumHeight" value="456" version="2" />
