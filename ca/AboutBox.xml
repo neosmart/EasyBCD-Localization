@@ -5,7 +5,7 @@
     <string key="seatsAllowed" value="usuaris/dispositius permesos" version="1" />
     <string key="unlicensed" value="Còpia sense llicència!" version="1" />
     <string key="version" value="Versió" version="1" />
-    <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - 2012" version="2" />
+    <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - {0}" version="2" />
     <string key="aboutText1" value="EasyBCD és la eina definitiva per treballar amb el gestor d'arrencada. No es garantitza que EasyBCD treballi amb totes les versions de Windows - asseguris sempre de que estigui utilitzant la darrera versió disponible. &#xD;&#xA;&#xD;&#xA;• Cap de desenvolupament: Mahmoud H. Al-Qudsi&#xD;&#xA;• Traducció al Català: Manel Fernàndez&#xD;&#xA;• Ingredients actius: Sang, suor i llàgrimes&#xD;&#xA;• Mogut per C++, C#, Dr. Pepper, Excedrin, i Visine&#xD;&#xA;• Les vostres arrencades son nostres!" version="1" />
     <string key="thanksFormat" value="Moltes gràcies als equips de Grub4Dos, PLoP,{0} i UltraDefrag!&#xD;&#xA;&#xD;&#xA;Aquesta distribució de EasyBCD surt amb components (Grub4Dos i UltraDefrag) llicenciats sota els termes de llicència GPLv2. Per més informació, si us plau vegi l'arxiu LICENSE al directori d'instalació." version="1" />
     <string key="title" value="Quant {0}" version="1" />

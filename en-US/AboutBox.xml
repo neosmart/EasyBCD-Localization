@@ -5,6 +5,7 @@
     <string key="seatsAllowed" value="users/devices allowed" version="1" />
     <string key="unlicensed" value="Unlicensed copy!" version="1" />
     <string key="version" value="Version" version="1" />
+    <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - {0}" version="2" />
     <string key="aboutText1" value="EasyBCD is the ultimate bootloader &amp; bootloader management tool. There is no guarantee that EasyBCD will work with all versions of Windows - always make sure you're using the latest version available. &#xD;&#xA;&#xD;&#xA;• Lead developer: Mahmoud H. Al-Qudsi&#xD;&#xA;• Active Ingredients: Sweat, blood, and tears&#xD;&#xA;• Powered by C++, C#, Dr. Pepper, Excedrin, and Visine&#xD;&#xA;• All your boot are belong to us!" version="1" />
     <string key="thanksFormat" value="Special thanks to the Grub4Dos, PLoP,{0} and UltraDefrag teams!&#xD;&#xA;&#xD;&#xA;This EasyBCD distribution ships with standalone components (Grub4Dos and UltraDefrag) licensed under the terms of the GPLv2 license. For more information, please see the LICENSE file in the installation directory." version="1" />
     <string key="title" value="About {0}" version="1" />

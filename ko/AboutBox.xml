@@ -5,7 +5,7 @@
     <string key="seatsAllowed" value="사용자/장치 허용" version="1" />
     <string key="unlicensed" value="비등록판!" version="1" />
     <string key="version" value="버전" version="1" />
-    <string key="copyright" value="저작권© 네오스마트 테크놀로지 2006 - 2012" version="2" />
+    <string key="copyright" value="저작권© 네오스마트 테크놀로지 2006 - {0}" version="2" />
     <string key="aboutText1" value="이지비씨디는 최고의 부트로더이며,&#xD;&#xA;동시에  부트로더 관리도구입니다.&#xD;&#xA;이지비씨디가 윈도우 모든 버전에서 작동되는 것을 보장하지는 않습니다.&#xD;&#xA;- 항상 당신이 사용하고 있는 것이 구할 수 있는 최신판인지 확인하십시오&#xD;&#xA;&#xD;&#xA;* 주개발자: Mahmoud H, Al-Qudsi&#xD;&#xA;* 활성 첨가물: 땀, 피 , 눈물&#xD;&#xA;• Powered by C++, C#, Dr. Pepper, Excedrin, and Visine&#xD;&#xA;* 모든 당신의 부팅은 우리에게 달려있다!&#xD;&#xA;" version="1" />
     <string key="thanksFormat" value="Grub4Dos,Plop,{0} and UltraDefrag Teams 에 매우 감사합니다 !&#xD;&#xA;&#xD;&#xA;이지비씨디 배포는 GPLv2 라이센스하에 단독 구성요소(Grub4Dos and UltraDefrag)와&#xD;&#xA;함께 출하된다&#xD;&#xA;자세한 정보는 설치 디렉토리속의 라이센스 파일을 참조하세요&#xD;&#xA;&#xD;&#xA;" version="1" />
     <string key="title" value="{0}에 대하여" version="1" />

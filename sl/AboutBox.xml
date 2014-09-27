@@ -2,7 +2,6 @@
 <localization>
   <strings>
     <string key="OKButton" value="&amp;V redu" />
-    <string key="AboutBox" value="O programu." />
     <string key="seatsAllowed" value="avtorizirani uporabniki in naprave" />
     <string key="unlicensed" value="Kopija brez licence!" />
     <string key="version" value="Inačica" />

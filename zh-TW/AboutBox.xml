@@ -5,7 +5,7 @@
     <string key="seatsAllowed" value="允許的使用者/裝置" version="1" />
     <string key="unlicensed" value="未授權副本!" version="1" />
     <string key="version" value="版本" version="1" />
-    <string key="copyright" value="著作權 © NeoSmart Technologies 2006 - 2012" version="2" />
+    <string key="copyright" value="著作權 © NeoSmart Technologies 2006 - {0}" version="2" />
     <string key="aboutText1" value="EasyBCD 是終極 Bootloader &amp; Bootloader 管理工具。 EasyBCD 不保證能在所有的 Windows 版本工作 - 請始終確認您使用可用的最新版本。 &#xD;&#xA;&#xD;&#xA;• Lead developer: Mahmoud H. Al-Qudsi&#xD;&#xA;• Active Ingredients: Sweat, blood, and tears&#xD;&#xA;• Powered by C++, C#, Dr. Pepper, Excedrin, and Visine&#xD;&#xA;• All your boot are belong to us!" version="1" />
     <string key="thanksFormat" value="特別感謝 Grub4Dos, PLoP,{0} 和 UltraDefrag 團隊!&#xD;&#xA;&#xD;&#xA;此 EasyBCD 與單獨元件 (Grub4Dos 和 UltraDefrag) 一起發佈，以 GPLv2 授權條款授權。 更多資訊，請查看安裝目錄中 LICENSE 檔案。" version="1" />
     <string key="title" value="關於 {0}" version="1" />

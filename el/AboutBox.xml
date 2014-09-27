@@ -3,7 +3,7 @@
   <strings>
     <string key="title" value="Σχετικά {0}" version="1" />
     <string key="OKButton" value="&amp;OK" version="1" />
-    <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - 2012" version="2" />
+    <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - {0}" version="2" />
     <string key="version" value="Έκδοση" version="1" />
     <string key="MinimumWidth" value="486" />
     <string key="MinimumHeight" value="376" version="6" />
