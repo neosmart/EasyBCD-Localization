@@ -69,7 +69,7 @@
     <string key="errorNotPrimary" value="Startpartitionen måste vara en primär partition.&#xD;&#xA;&#xD;&#xA;Välj en annan partition eller gör den valda partitionen till primär partition, och försök sedan igen." version="1" />
     <string key="errorNotMounted" value="EasyBCD kan inte göra omonterade diskenheter startbara. Tilldela den aktuella enheten en enhetsbokstav, starta om EasyBCD och försök igen." version="1" />
     <string key="invalidDrive" value="Ogiltig enhetsåtgärd" version="1" />
-    <string key="bootableSuccess" value="EasyBCD har konverterat den aktuella disken till en startbar enhet. För att konfigurera startmenyposterna på den aktuella enheten, måste du gå till 'Arkiv/Välj BCD-adress' och välja \\boot\\BCD på den partition du just förberett." version="1" />
+    <string key="bootableSuccess" value="EasyBCD har konverterat den aktuella disken till en startbar enhet. För att konfigurera startmenyposterna på den aktuella enheten, måste du gå till 'Arkiv/Välj BCD-adress' och välja \Boot\BCD på den partition du just förberett." version="1" />
     <string key="mountBcdNow" value="Vill du läsa in den nyskapade BCD-platsen i EasyBCD nu?" version="1" />
     <string key="bootableTitle" value="Startbar diskenhet skapad" version="1" />
     <string key="accessDeniedText" value="Tillträde till BCD nekades. Kontrollera att BCD-platsen på den aktuella enheten inte används." version="1" />

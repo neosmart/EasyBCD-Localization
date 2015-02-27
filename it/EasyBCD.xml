@@ -69,7 +69,7 @@
     <string key="opNotAllowed" value="Operazione non consentita!" version="1" />
     <string key="errorNotMounted" value="EasyBCD non può rendere avviabili unità non montate. Assegna una lettera all'unità selezionata, riavvia  EasyBCD e riprova." version="1" />
     <string key="invalidDrive" value="Operazione su unità non valida" version="1" />
-    <string key="bootableSuccess" value="EasyBCD ha convertito con successo l'unità selezionata in una avviabile. Per configurare le voci del menu di avvio sulla partizione selezionata, usare 'File | Seleziona Store BCD' e scegli il file \\boot\\BCD nella partizione appena preparata." version="1" />
+    <string key="bootableSuccess" value="EasyBCD ha convertito con successo l'unità selezionata in una avviabile. Per configurare le voci del menu di avvio sulla partizione selezionata, usare 'File | Seleziona Store BCD' e scegli il file \Boot\BCD nella partizione appena preparata." version="1" />
     <string key="mountBcdNow" value="Vuoi caricare automaticamente il BCD store appena creato in EasyBCD?" version="1" />
     <string key="bootableTitle" value="Disco di avvio creato" version="1" />
     <string key="accessDeniedText" value="Impossibile ottenere accesso al BCD. Controlla ed accertati che il BCD store nel dispositivo selezionato non sia attualmente in uso." version="1" />

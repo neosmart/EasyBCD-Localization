@@ -69,7 +69,7 @@
     <string key="opNotAllowed" value="Operació no permesa!" version="1" />
     <string key="errorNotMounted" value="EasyBCD no pot fer arrencable un disc no muntat. Assigneu una lletra al disc seleccionat, reinicieu EasyBCD, i torneu a probar." version="1" />
     <string key="invalidDrive" value="Operació de disc invàlida" version="1" />
-    <string key="bootableSuccess" value="EasyBCD ha convertit amb èxit el disc seleccionat en arrencable. Per configurar les entrades del menú d'arrencada a la partició seleccionada heu d'utilitzar &quot;Arxiu | Seleccionar magatzem BCD&quot; i triar l'arxui \\boot\\BCD a la partició que acabeu de preparar." version="1" />
+    <string key="bootableSuccess" value="EasyBCD ha convertit amb èxit el disc seleccionat en arrencable. Per configurar les entrades del menú d'arrencada a la partició seleccionada heu d'utilitzar &quot;Arxiu | Seleccionar magatzem BCD&quot; i triar l'arxui \Boot\BCD a la partició que acabeu de preparar." version="1" />
     <string key="mountBcdNow" value="Voleu carregar automàticament ara a EasyBCD el magatzem BCD creat de nou?" version="1" />
     <string key="bootableTitle" value="S'ha creat un disc d'arrencada" version="1" />
     <string key="accessDeniedText" value="Incapaç d'obtenir accés al BCD. Comproveu que el magatzem BCD del dispositiu seleccionat no està actualment en ús." version="1" />

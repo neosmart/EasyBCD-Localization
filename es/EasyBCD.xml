@@ -69,7 +69,7 @@
     <string key="opNotAllowed" value="Operación no permitida!" version="1" />
     <string key="errorNotMounted" value="EasyBCD no puede hacer arrancable un disco no montado. Asigne una letra al disco seleccionado, reinicie EasyBCD, y vuelva a probar." version="1" />
     <string key="invalidDrive" value="Operación de disco inválida" version="1" />
-    <string key="bootableSuccess" value="EasyBCD ha convertido con éxito el disco seleccionado en arrancable. Para configurar las entradas del menú de arranque en la partición seleccionada ha de utilizar &quot;Archivo | Seleccionar almacén BCD&quot; y escoger el archivo \\boot\\BCD en la partición que acaba de preparar." version="1" />
+    <string key="bootableSuccess" value="EasyBCD ha convertido con éxito el disco seleccionado en arrancable. Para configurar las entradas del menú de arranque en la partición seleccionada ha de utilizar &quot;Archivo | Seleccionar almacén BCD&quot; y escoger el archivo \Boot\BCD en la partición que acaba de preparar." version="1" />
     <string key="mountBcdNow" value="Quiere cargar automaticamente ahora a EasyBCD el almacén BCD creado de nuevo?" version="1" />
     <string key="bootableTitle" value="Se ha creado un disco de arranque" version="1" />
     <string key="accessDeniedText" value="Imposible obtener acceso al BCD. Compruebe que el almacén BCD del dispositivo seleccionado no está actualmente en uso." version="1" />

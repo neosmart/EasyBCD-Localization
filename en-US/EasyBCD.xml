@@ -69,7 +69,7 @@
     <string key="opNotAllowed" value="Operation Not Allowed!" version="1" />
     <string key="errorNotMounted" value="EasyBCD cannot make unmounted drives bootable. Please assign a letter to the selected drive, restart EasyBCD, and try again." version="1" />
     <string key="invalidDrive" value="Invalid Drive Operation" version="1" />
-    <string key="bootableSuccess" value="EasyBCD has successfully converted the selected disk into a bootable drive. In order to configure the boot menu entries on the selected partition, you must use 'File | Select BCD Store' and choose the \\boot\\BCD file on the partition you just prepped." version="1" />
+    <string key="bootableSuccess" value="EasyBCD has successfully converted the selected disk into a bootable drive. In order to configure the boot menu entries on the selected partition, you must use 'File | Select BCD Store' and choose the \Boot\BCD file on the partition you just prepped." version="1" />
     <string key="mountBcdNow" value="Would you like to automatically load the newly-created BCD store in EasyBCD now?" version="1" />
     <string key="bootableTitle" value="Bootable Disk Created" version="1" />
     <string key="accessDeniedText" value="Unable to obtain access to the BCD. Please check and make sure that the BCD store on the selected device is not currently in use." version="1" />

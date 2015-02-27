@@ -69,7 +69,7 @@
     <string key="opNotAllowed" value="不允许操作！" version="1" />
     <string key="errorNotMounted" value="EasyBCD不能卸载驱动器的引导。请选定一个驱动器号，重新启动的EasyBCD，并再次尝试。" version="1" />
     <string key="invalidDrive" value="无效的驱动器操作" version="1" />
-    <string key="bootableSuccess" value="EasyBCD已成功地将选定的磁盘转化为可引导驱动器。为了配置所选分区的启动菜单项，你必须使用“文件|选择BCD存储和使用你刚才选择分区上的\\boot\\BCD文件。" version="1" />
+    <string key="bootableSuccess" value="EasyBCD已成功地将选定的磁盘转化为可引导驱动器。为了配置所选分区的启动菜单项，你必须使用“文件|选择BCD存储和使用你刚才选择分区上的\Boot\BCD文件。" version="1" />
     <string key="mountBcdNow" value="你想自动加载新创建的BCD存储到EasyBCD中吗？" version="1" />
     <string key="bootableTitle" value="磁盘引导已创建" version="1" />
     <string key="accessDeniedText" value="无法获取BCD。请检查并确保所选设备上的BCD存储目前未使用。" version="1" />

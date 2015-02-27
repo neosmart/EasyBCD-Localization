@@ -87,7 +87,7 @@
     <string key="opNotAllowed" value="Operation nicht erlaubt!" version="1" />
     <string key="errorNotMounted" value="EasyBCD kann unbenannte Laufwerke nicht startfähig machen. Bitte weisen Sie dem gewählten Laufwerk einen Laufwerksbuchstaben zu, starten Sie EasyBCD neu und versuchen Sie es nochmal." version="1" />
     <string key="invalidDrive" value="Ungültige Laufwerksoperation" version="1" />
-    <string key="bootableSuccess" value="EasyBCD hat das gewählte Laufwerk erfolgreich in ein startfähiges Laufwerk umgewandelt. Um die Startmenüeinträge zu konfigurieren, müssen Sie 'Datei | BCD Speicher auswählen' benützen und die \\boot\\BCD -Datei wählen auf dem Laufwerk, das gerade vorbereitet wurde.." version="1" />
+    <string key="bootableSuccess" value="EasyBCD hat das gewählte Laufwerk erfolgreich in ein startfähiges Laufwerk umgewandelt. Um die Startmenüeinträge zu konfigurieren, müssen Sie 'Datei | BCD Speicher auswählen' benützen und die \Boot\BCD -Datei wählen auf dem Laufwerk, das gerade vorbereitet wurde.." version="1" />
     <string key="mountBcdNow" value="Möchten Sie automatisch den neuerzeugten BCD Speicher in EasyBCD speichern?" version="1" />
     <string key="bootableTitle" value="Startfähiges Laufwerk erzeugt" version="1" />
     <string key="accessDeniedText" value="Kein Zugriff auf die BCD möglich. Bitte prüfen Sie das und machen Sie sicher, daß der BCD Speicher auf dem gewählten Gerät nicht in Gebrauch ist." version="1" />

@@ -69,7 +69,7 @@
     <string key="opNotAllowed" value="不允許操作!" version="1" />
     <string key="errorNotMounted" value="EasyBCD 無法製作未掛載的磁碟機可開機。 請指派代號到選取的磁碟區，重新啟動 EasyBCD，並重試。" version="1" />
     <string key="invalidDrive" value="無效的磁碟機操作" version="1" />
-    <string key="bootableSuccess" value="EasyBCD 已成功轉換選取的磁碟為可開機磁碟機。 為了在選取的分割區組態開機選單，您必須使用 [檔案 | 選取 BCD 存放] 並選擇在您剛備妥分割區的 \\boot\\BCD 檔案。" version="1" />
+    <string key="bootableSuccess" value="EasyBCD 已成功轉換選取的磁碟為可開機磁碟機。 為了在選取的分割區組態開機選單，您必須使用 [檔案 | 選取 BCD 存放] 並選擇在您剛備妥分割區的 \Boot\BCD 檔案。" version="1" />
     <string key="mountBcdNow" value="您希望立即在 EasyBCD 自動載入最新建立的 BCD 存放嗎?" version="1" />
     <string key="bootableTitle" value="可開機磁碟已建立" version="1" />
     <string key="accessDeniedText" value="無法獲得存取 BCD。 請檢查並確認在選取裝置的 BCD 存放目前未使用中。" version="1" />

@@ -69,7 +69,7 @@
     <string key="opNotAllowed" value="Opération non permise !" version="1" />
     <string key="errorNotMounted" value="EasyBCD ne peut pas rendre bootable les disques démontés. Veuillez affecter une lettre à l'unité sélectionnée, redémarrer EasyBCD et réessayez." version="1" />
     <string key="invalidDrive" value="Opération disque non valide" version="1" />
-    <string key="bootableSuccess" value="EasyBCD a réussi à convertir le disque sélectionné en disque amorçable. Afin de configurer les entrées du menu de démarrage sur ​​la partition sélectionnée, vous devez utiliser «Fichier | Sélectionner magasin BCD» et choisir le fichier \\boot\\BCD sur la partition que vous venez de préparer." version="1" />
+    <string key="bootableSuccess" value="EasyBCD a réussi à convertir le disque sélectionné en disque amorçable. Afin de configurer les entrées du menu de démarrage sur ​​la partition sélectionnée, vous devez utiliser «Fichier | Sélectionner magasin BCD» et choisir le fichier \Boot\BCD sur la partition que vous venez de préparer." version="1" />
     <string key="mountBcdNow" value="Voulez-vous charger automatiquement le magasin BCD nouvellement créé dans EasyBCD maintenant ?" version="1" />
     <string key="bootableTitle" value="Disque amorçable créé" version="1" />
     <string key="accessDeniedText" value="Impossible d'accéder à la BCD.Veuillez vérifier et vous assurer que le magasin BCD sur le périphérique sélectionné n'est pas en cours d'utilisation.&#xD;&#xA;" version="1" />

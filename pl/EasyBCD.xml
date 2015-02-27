@@ -69,7 +69,7 @@
     <string key="opNotAllowed" value="Operacja nie dozwolona!" version="1" />
     <string key="errorNotMounted" value="EasyBCD nie może wskazać niezamontowanego napędu  jako startowego. Proszę, przypisz literę do wskazanego napędu, zrestartuj EasyBCD i spróbuj ponownie." version="1" />
     <string key="invalidDrive" value="Niepoprawny Napęd" version="1" />
-    <string key="bootableSuccess" value="EasyBCD pomyślnie skonwertowało zaznaczony dysk do napędu startowego. Celem skonfigurowania wpisów menu startowego dla zaznaczonej partycji, musisz wybrać 'Plik | Wybierz skłas BCD' i wskaż plik \\boot\\BCD na przygotowanej partycji." version="1" />
+    <string key="bootableSuccess" value="EasyBCD pomyślnie skonwertowało zaznaczony dysk do napędu startowego. Celem skonfigurowania wpisów menu startowego dla zaznaczonej partycji, musisz wybrać 'Plik | Wybierz skłas BCD' i wskaż plik \Boot\BCD na przygotowanej partycji." version="1" />
     <string key="mountBcdNow" value="Czy chcesz teraz automatycznie wczytać nowo utworzony skład BCD do EasyBCD?" version="1" />
     <string key="confirmDelete" value="Czy jesteś pewny, że chcesz skasować ten wpis?" version="1" />
     <string key="partitionConverted" value="Partycję przekształcono na dysk startowy" version="1" />

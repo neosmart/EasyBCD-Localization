@@ -137,7 +137,7 @@
     </string>
     <string key="invalidDrive" value="Operação de Drive Inválido" version="1">
     </string>
-    <string key="bootableSuccess" value="O EasyBCD converteu com suceso o disco selecionado em um drive inicializável. Para poer configurar as entradas de menu do boo na partição selecionada, você deve usar 'Arquivo | Selecionar Registro BCD' e escolher o arquivo \\boot\\BCD na partição preparada." version="1">
+    <string key="bootableSuccess" value="O EasyBCD converteu com suceso o disco selecionado em um drive inicializável. Para poer configurar as entradas de menu do boo na partição selecionada, você deve usar 'Arquivo | Selecionar Registro BCD' e escolher o arquivo \Boot\BCD na partição preparada." version="1">
     </string>
     <string key="mountBcdNow" value="Gostaria de carregar automaticamente o registro BCD recém criado no EasyBCD agora?" version="1">
     </string>

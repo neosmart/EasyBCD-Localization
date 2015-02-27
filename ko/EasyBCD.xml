@@ -67,7 +67,7 @@
     <string key="opNotAllowed" value="작동 허가 안됨 !" version="1" />
     <string key="errorNotMounted" value="이지비씨디는 unmounted 드라이브를 부팅가능하게 할 수 없다.&#xD;&#xA;선택된 드라이브를 마운트하고 나서 이지비씨디를 재시작하여 다시 시도" version="1" />
     <string key="invalidDrive" value="부정확한 드라이브 작동" version="1" />
-    <string key="bootableSuccess" value="이지비씨디가 선택된 디스크를 부팅가능 디스크로 성공적으로 변환하였다.&#xD;&#xA;선택된 파티션에 부트메뉴 명단을 구성하기위해서는, 'File l Select BCD Dtore' 사용하고&#xD;&#xA;당신이 바로 준비한 파티션에 있는 \\boot\\BCD 파일을 선택하라." version="1" />
+    <string key="bootableSuccess" value="이지비씨디가 선택된 디스크를 부팅가능 디스크로 성공적으로 변환하였다.&#xD;&#xA;선택된 파티션에 부트메뉴 명단을 구성하기위해서는, 'File l Select BCD Dtore' 사용하고&#xD;&#xA;당신이 바로 준비한 파티션에 있는 \Boot\BCD 파일을 선택하라." version="1" />
     <string key="mountBcdNow" value="지금 이지비씨디로 새로 작성된 BCD store를 자동적으로 탑재하시겠습니까?" version="1" />
     <string key="bootableTitle" value="부팅가능한 디스크 생성" version="1" />
     <string key="accessDeniedText" value="BCD로 접속할 수없음. 선택된 장치의 BCD store가 현재 사용중이 아닌 지를 &#xD;&#xA;조사하고 확인하시오." version="1" />

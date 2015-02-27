@@ -69,7 +69,7 @@
     <string key="opNotAllowed" value="A művelet nem hajtható végre!" version="1" />
     <string key="errorNotMounted" value="Az EasyBCD bootolható meghajtót nem tud lecsatlakoztatni. Adjon betűjelet a kijelölt meghajtónak, indítsa újra az EasyBCD-t és próbálkozzon újra!" version="1" />
     <string key="invalidDrive" value="Érvénytelen meghajtóművelet" version="1" />
-    <string key="bootableSuccess" value="Az EasyBCD átkonvertálta a kijelölt lemezt bootolható meghajtóvá. A kijelölt partíció boot-menü bejegyzéseinek beállításához használja a 'Fájl | A kijelölt BCD-tároló'-t és válassza a \\boot\\BCD-fájl-t az elkészített partíción!" version="1" />
+    <string key="bootableSuccess" value="Az EasyBCD átkonvertálta a kijelölt lemezt bootolható meghajtóvá. A kijelölt partíció boot-menü bejegyzéseinek beállításához használja a 'Fájl | A kijelölt BCD-tároló'-t és válassza a \Boot\BCD-fájl-t az elkészített partíción!" version="1" />
     <string key="mountBcdNow" value="Szeretné automatikusan betölteni az EasyBCD-ben újonnan létrehozott BCD-tárolót?" version="1" />
     <string key="bootableTitle" value="Elkészült a bootolható lemez" version="1" />
     <string key="accessDeniedText" value="Nem lehet hozzáférni a BCD-hez. Ellenórizze és gondoskodjon arról, hogy a kijelölt eszközön levő BCD-tároló ne legyen használatban!" version="1" />

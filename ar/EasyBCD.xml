@@ -115,7 +115,7 @@
     <string key="opNotAllowed" value="العملية غير مسموح بها!" version="1" />
     <string key="errorNotMounted" value="لا يستطيع EasyBCD جعل السواقات الغير مركبة قابلة للإقلاع. رجاءاً عيّن حرف للسواقة المختارة, أعد تشغيل EasyBCD , وأعد المحاولة." version="1" />
     <string key="invalidDrive" value="عملية السواقة غير صالحة" version="1" />
-    <string key="bootableSuccess" value="قام EasyBCD بنجاح بتحويل القرص المختار الى سواقة قابلة للإقلاع. لكي تقوم بتعديل إدخالات قائمة الإقلاع على التقسيم المختار, يجب ان تستخدم ’ملف | إختر مخزن BCD ’ ثم أختر ملف \\boot\\BCD على التقسيم الذي حضّرته." version="1" />
+    <string key="bootableSuccess" value="قام EasyBCD بنجاح بتحويل القرص المختار الى سواقة قابلة للإقلاع. لكي تقوم بتعديل إدخالات قائمة الإقلاع على التقسيم المختار, يجب ان تستخدم ’ملف | إختر مخزن BCD ’ ثم أختر ملف \Boot\BCD على التقسيم الذي حضّرته." version="1" />
     <string key="mountBcdNow" value="هل ترغب ان يحمّل المخزن المُنشأ حديثاً بصورة ذاتياً في EasyBCD الآن؟" version="1" />
     <string key="bootableTitle" value="تم إنشاء القرص القابل للإقلاع" version="1" />
     <string key="accessDeniedText" value="غير قادر على الوصول الى BCD . رجاءاً افحص وتأكد من أن مخزن BCD على الجهاز المختار غير مستخدم حالياً." version="1" />
