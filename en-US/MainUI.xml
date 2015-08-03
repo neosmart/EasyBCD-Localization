@@ -94,6 +94,7 @@
     <string key="tabAddEntry" value="3" version="1" />
     <string key="btnSaveSettings" value="Save Settings" version="1" />
     <string key="lblLocale" value="Locale:" version="1" />
+    <string key="lblMenuLocale" clone="lblLocale" />
     <string key="tabEntryBasic" value="Basic" version="1" />
     <string key="lblSafeMode" value="Safe Mode:" version="1" />
     <string key="lblPae" value="PAE Support: " version="1" />
