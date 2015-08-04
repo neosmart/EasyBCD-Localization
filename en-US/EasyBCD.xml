@@ -116,8 +116,8 @@
     <string key="powerConsoleText" value="Quick access to a command-line shell with full administrative privileges. Use it for carrying out system functions or quick access to bcdedit and bootsect.exe." version="1" />
     <string key="sysRestore" value="System Restore" version="1" />
     <string key="sysRestoreText" value="Opens the System Restore panel, use it to quickly revert/fix any changes that leave your PC in trouble." version="1" />
-    <string key="restoreCds" value="Windows Vista/7 System Restore CDs" version="1" />
-    <string key="restoreCdsText" value="Download a copy of the Windows Vista and Windows 7 system restore CDs to keep at hand in case disaster strikes. You can use EasyBCD to boot into these recovery discs from a USB." version="1" />
+    <string key="restoreCds" value="EasyRE Windows Recovery CDs" version="2" />
+    <string key="restoreCdsText" value="Easy Recovery Essentials for Windows is a bootable repair and recovery CD/USB that can automatically fix your PC the next time it won't boot. EasyRE's one-click repair will search for and fix almost all boot errors, including BSODs, BCD errors, partition misconfiguration errors, and more." version="2" />
     <string key="controlPanel" value="Control Panel" version="1" />
     <string key="controlPanelText" value="Launch the Control Panel, and use it to do whatever you like." version="1" />
     <string key="iRebootText" value="NeoSmart Technologies' helper app for EasyBCD. iReboot sits in your taskbar (taking up only 400KB of memory!) and lets you choose which operating system to reboot into quickly and easily." version="1" />
