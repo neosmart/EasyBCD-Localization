@@ -11,7 +11,7 @@
     <string key="rdoTimeoutNone" value="Wait for user selection" version="1" />
     <string key="rdoTimeoutSkip" value="Skip the boot menu" version="1" />
     <string key="btnSaveBCD" value="Save Settings" version="1" />
-    <string key="grpTimeout" value="Timeout Options" version="1" />
+    <string key="grpTimeout" value="Menu Options" version="2" />
     <string key="btnUp" value="Up" version="1" />
     <string key="btnDown" value="Down" version="1" />
     <string key="btnRenameEntry" value="Rename" version="1" />
@@ -127,8 +127,8 @@
     <string key="lblCreateBootable" value="EasyBCD can automate the process of creating bootable media. Select a partition below to begin." version="1" />
     <string key="grpCreateBootableExternal" value="Create Bootable External Media" version="1" />
     <string key="btnMbrWrite" value="Write MBR" version="1" />
-    <string key="rdoMbrXP" value="Install the Windows XP bootloader to the MBR" version="1" />
-    <string key="rdoMbrVista" value="Install the Windows Vista/7 bootloader to the MBR" version="1" />
+    <string key="rdoMbrXP" value="Install the Windows XP NTLDR bootloader" version="2" />
+    <string key="rdoMbrVista" value="Install the Vista+ BCD/bootmgr bootloader" version="2" />
     <string key="grpBootloader" value="MBR Configuration Options" version="1" />
     <string key="tabMbrSetup" value="6" version="1" />
     <string key="grpUtils" value="Useful Utilities" version="1" />
@@ -166,7 +166,7 @@
     <string key="cbxVhdType" value="Microsoft VHD&#xD;&#xA;Raw Hard Disk Image&#xD;&#xA;Raw Partition Image" version="1" />
     <string key="cbxIsoMode" value="Run from Disk&#xD;&#xA;Load from Memory" version="1" />
     <string key="cbxPeType" value="WIM Image (Ramdisk)&#xD;&#xA;Extracted Filesystem Layout" version="1" />
-    <string key="cbxWinType" value="Windows Vista/7/8&#xD;&#xA;Windows NT/2k/XP/2k3&#xD;&#xA;Windows 95/98/ME&#xD;&#xA;MS-DOS 6.x&#xD;&#xA;FreeDOS" version="1" />
+    <string key="cbxWinType" value="Windows Vista/7/8/10&#xD;&#xA;Windows NT/2k/XP/2k3&#xD;&#xA;Windows 95/98/ME&#xD;&#xA;MS-DOS 6.x&#xD;&#xA;FreeDOS" version="2" />
     <string key="cbxLinType" value="GRUB (Legacy)&#xD;&#xA;GRUB 2&#xD;&#xA;LILO/eLILO&#xD;&#xA;FreeBSD/PC-BSD&#xD;&#xA;Wubi&#xD;&#xA;SysLinux" version="1" />
     <string key="cbxMacType" value="EFI (Default)&#xD;&#xA;MBR" version="1" />
     <string key="cbxEntryDep" value="OptIn&#xD;&#xA;OptOut&#xD;&#xA;Always On&#xD;&#xA;Always Off" version="1" />

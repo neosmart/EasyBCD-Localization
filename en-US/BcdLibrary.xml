@@ -24,7 +24,7 @@
     <string key="bcdError" value="BCD Execution Error!" version="1" />
     <string key="ntNotFoundTitle" value="Valid NT Install Not Found!" version="1" />
     <string key="ntNotFound" value="EasyBCD failed to detect a valid installation of Windows NT-2003 on all mounted drives and was unable to continue." version="1" />
-    <string key="manuallyLoad" value="Would you like to manually load a BCD registry for EasyBCD to manage? Please note that EasyBCD requires the Windows Vista/7 bootloader, and will not work in XP-only environments." version="1" />
+    <string key="manuallyLoad" value="Would you like to manually load a BCD registry for EasyBCD to manage? Please note that EasyBCD requires the BCD bootloader (installed by default on Windows Vista and higher), and will not work in XP-only environments." version="2" />
     <string key="errorBcd" value="Error Opening BCD Registry" version="1" />
     <string key="locateValid" value="Locate a valid BCD store" version="1" />
     <string key="bcdRegistry" value="BCD Registry" version="1" />

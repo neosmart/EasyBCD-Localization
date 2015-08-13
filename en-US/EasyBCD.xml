@@ -74,7 +74,7 @@
     <string key="bootableTitle" value="Bootable Disk Created" version="1" />
     <string key="accessDeniedText" value="Unable to obtain access to the BCD. Please check and make sure that the BCD store on the selected device is not currently in use." version="1" />
     <string key="partitionConverted" value="Partition converted to bootable drive" version="1" />
-    <string key="bcdRemove1" value="This is an advanced option that should only be use if you're absolutely sure you wish to uninstall the Windows Vista/7 Bootloader!" version="1" />
+    <string key="bcdRemove1" value="This is an advanced option that should only be use if you're absolutely sure you wish to uninstall the BCD/BOOTMGR bootloader! This version of the bootloader is required to boot into Windows Vista or higher!" version="2" />
     <string key="bcdRemove2" value="This feature will only boot into Windows XP if the proper boot files are already in place!" version="1" />
     <string key="bcdRemove3" value="Are you sure you wish to continue?" version="1" />
     <string key="warning" value="Warning!" version="1" />
@@ -87,7 +87,7 @@
     <string key="errorLogical" value="An attempt was made to change the boot partition to a logical drive, which is not allowed. The boot partition must be a primary partition.&#xD;&#xA;&#xD;&#xA;Please either select a different drive or convert the selected partition to primary first, then try again." version="1" />
     <string key="bootChangedFormat" value="EasyBCD has successfully made drive {0} the new boot partition, and has loaded the new BCD store for modification, should you wish to make any further changes. If this partition is on your first boot disk, you don't need to take any further action. If it's not, you should now turn off your PC and change the boot drive from the BIOS for the changes to take effect." version="1" />
     <string key="bootChangedTitle" value="Boot Partition Changed" version="1" />
-    <string key="unsupportedOS" value="This option is only available on Windows Vista, Windows 7, and Windows 8." version="1" />
+    <string key="unsupportedOS" value="This option is only available on Windows Vista and higher." version="2" />
     <string key="unsupportedOSTitle" value="Unsupported Operating System!" version="1" />
     <string key="errorNoRestore" value="Fatal error: Unable to restore selected store." version="1" />
     <string key="errorNoRestoreTitle" value="Restore Error" version="1" />
