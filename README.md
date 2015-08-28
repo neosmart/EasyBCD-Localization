@@ -22,7 +22,7 @@ These are the languages currently available in this repository, thanks to the se
 * Polish (Polski) - Kili
 * Portuguese (Português) - igorruckert
 * Russian (Русский) - niknikch45 & co.
-* Slovenian (Slovenščina) - Deseti_brat
+* Slovenian (Slovenščina) - Marjan Mirai
 * Swedish (Svenska) - Åke Engelbrektson
 * Turkish (Türkçe) - Fara Delisi
 * Ukrainian (Українська) - z_mashine
