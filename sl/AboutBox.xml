@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="OKButton" value="&amp;V redu" />
-    <string key="seatsAllowed" value="avtorizirani uporabniki in naprave" />
-    <string key="unlicensed" value="Kopija brez licence!" />
-    <string key="version" value="Inačica" />
-    <string key="copyright" value="Avtorske pravice © Technologies NeoSmart 2006 - 2011" />
-    <string key="aboutText1" value="EasyBCD je najboljši zagonski nalagalnik in orodje za upravljanje zagona. Nobenega zagotovila ni, da bo EasyBCD deloval z vsemi različicami operacijskega sistema Windows - vedno se prepričajte, da uporabljate najnovejšo različico orodja.&#xD;&#xA;&#xD;&#xA;• Vodilni razvijalec: H. Mahmud Al-Qudsi&#xD;&#xA;• Aktivne sestavine: znoj, kri in solze&#xD;&#xA;• Powered by C + +, C #, dr Pepper, Excedrin in Visine&#xD;&#xA;• Vsi zagoni pripadajo nam!" />
-    <string key="thanksFormat" value="Posebna zahvala Grub4Dos, PLoP, {0} in UltraDefrag ekipam!&#xD;&#xA;&#xD;&#xA;To EasyBCD distribucije, distribuirane s samostojnih delov (Grub4Dos in UltraDefrag), imajo dovoljenje v skladu s pogoji iz GPLv2 dovoljenj. Za več informacij si oglejte datoteko z licenco v namestitvenem imeniku.&#xD;&#xA;Prevod v Slovenščino ''marjan.mirai@gmail.com''" />
-    <string key="MinimumHeight" value="376" />
+    <string key="OKButton" value="&amp;V redu" verison="1" />
+    <string key="seatsAllowed" value="avtorizirani uporabniki in naprave" verison="1" />
+    <string key="unlicensed" value="Kopija brez licence!" verison="1" />
+    <string key="version" value="Inačica" verison="1"  />
+    <string key="copyright" value="Avtorske pravice © Technologies NeoSmart 2006 - {0}" verison="2" />
+    <string key="aboutText1" value="EasyBCD je najboljši zagonski nalagalnik in orodje za upravljanje zagona. Nobenega zagotovila ni, da bo EasyBCD deloval z vsemi različicami operacijskega sistema Windows - vedno se prepričajte, da uporabljate najnovejšo različico orodja.&#xD;&#xA;&#xD;&#xA;• Vodilni razvijalec: H. Mahmud Al-Qudsi&#xD;&#xA;• Prevod v slovenski jezik: marjan.mirai@gmail.com &#xD;&#xA;• Narejeno z C + +, C #, dr Pepper, Excedrin in Visine" verison="1" />
+    <string key="thanksFormat" value="Posebna zahvala Grub4Dos, PLoP, {0} in UltraDefrag ekipam!&#xD;&#xA;&#xD;&#xA; Ta EasyBCD distribucija, distribuirana s samostojnih komponent(Grub4Dos in UltraDefrag) ima dovoljenje v skladu s pogoji iz GPLv2 licence. Za več informacij si oglejte datoteko z licenco v namestitvenem imeniku." verison="1" />
+    <string key="MinimumHeight" value="376" verison="6" />
     <string key="MinimumWidth" value="486" />
-    <string key="title" value="O programu.. {0}" />
+    <string key="title" value="O programu {0}" verison="1" />
   </strings>
 </localization>

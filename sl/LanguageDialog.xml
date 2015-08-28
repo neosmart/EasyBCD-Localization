@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="MinimumHeight" value="87" />
+    <string key="title" value="Izberite jezik" verison="1" />
+    <string key="btnGo" value="Pojdi" verison="1" />
     <string key="MinimumWidth" value="317" />
-    <string key="btnGo" value="Pojdi" />
-    <string key="title" value="Izberite jezik" />
+    <string key="MinimumHeight" value="87" verison="3" />
   </strings>
 </localization>

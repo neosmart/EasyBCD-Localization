@@ -3,6 +3,7 @@
   <locale>
     <name>Slovenščina</name>
     <rtl>false</rtl>
-    <parentLocale>en-US</parentLocale>
+    <parentLocale>
+	</parentLocale>
   </locale>
 </localization>

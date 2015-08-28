@@ -1,165 +1,182 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="rdoModeBasic" value="Pregled" />
-    <string key="rdoModeDetailed" value="Podrobno (razhroščevalni način)" />
-    <string key="chkWordWrap" value="Prelom besed" />
-    <string key="grpDisplayMode" value="Zaslonski način" />
-    <string key="tabViewSettings" value="1" />
-    <string key="rdoTimeoutCount" value="Odštevanje od" />
-    <string key="numTimeout" value="0" />
-    <string key="rdoTimeoutNone" value="Počakaj na uporabniško izbiro" />
-    <string key="rdoTimeoutSkip" value="Preskoči zagonski meni" />
-    <string key="btnSaveBCD" value="Posnemi nastavitve" />
-    <string key="grpTimeout" value="Možnosti zakasnitve" />
-    <string key="btnUp" value="Gor" />
-    <string key="btnDown" value="Dol" />
-    <string key="btnRenameEntry" value="Preimenuj" />
-    <string key="btnDelete" value="Briši" />
-    <string key="grpModifyEntries" value="Spremeni vnose " />
-    <string key="tabEditMenu" value="2" />
-    <string key="btnBrowse" value="..." />
-    <string key="lblName" value="Ime:" />
-    <string key="lblType" value="Tip:" />
-    <string key="lblPath" value="Pot:" />
-    <string key="lblDrive" value="Pogon:" />
-    <string key="btnAddNewEntry" value="Dodaj vnos" />
-    <string key="lblMode" value="Način:" />
-    <string key="lblFile" value="Datoteka:" />
-    <string key="txtVhdName" value="NeoSmart VHD slika" />
-    <string key="tabPageVhd" value="Posnetek diska" />
-    <string key="txtIsoName" value="NeoSmart ISO vnos" />
-    <string key="tabPageIso" value="ISO" />
-    <string key="txtPeName" value="NST WinPE slika" />
-    <string key="chkEms" value="EMS omogočen" />
-    <string key="tabPageWinPE" value="WinPE" />
-    <string key="txtFloppyName" value="NeoSmart slika diskete" />
-    <string key="tabPageFloppy" value="Disketa" />
-    <string key="btnPlopInstall" value="Namesti PloP" />
-    <string key="btnPlopRemove" value="OdstraniPLoP" />
-    <string key="lblBiosExtend" value="EasyBCD BIOS razširitev se lahko uporablja za zagon iz omrežja, CD ali USB na računalnikih, ki tega izvorno ne podpirajo." />
-    <string key="tabPagePlop" value="BIOS razširitev" />
-    <string key="grpPortable" value="Prenosni ali zunanji medij" />
-    <string key="lblWindowsAuto" value="Samodejno določeno" />
-    <string key="chkAutoXp" value="Samodejno zaznaj pravi pogon" />
-    <string key="txtWinName" value="Microsoft Windows" />
-    <string key="tabPageWin" value="Windows" />
-    <string key="chkGrub" value="Uporabi EasyBCD kopijo GRUB" />
-    <string key="txtLinName" value="NeoSmart Linux" />
-    <string key="lblLinAuto" value="Samodejno določeno" />
-    <string key="tabPageLinux" value="Linux/BSD" />
-    <string key="txtMacName" value="NST Mac OS X" />
-    <string key="tabPageMac" value="Mac" />
-    <string key="btnNeoGrub" value="Nameščeno" />
-    <string key="btnNeoGrubConfig" value="Nastavi" />
-    <string key="lblNeoGrub" value="NeoGrub zagonski nalagalnik se lahko uporablja za zagon v Linux in opuščenih različicah sistema Windows ali celo skritih pogonov." />
-    <string key="tabPageNeoGrub" value="NeoGrub   " />
-    <string key="grpOS" value="Operacijski sistemi" />
-    <string key="tabAddEntry" value="3" />
-    <string key="btnSaveSettings" value="Shrani nastavitve" />
-    <string key="lblLocale" value="Lokalno:" />
-    <string key="tabEntryBasic" value="Osnovno" />
-    <string key="lblSafeMode" value="Varen način" />
-    <string key="lblPae" value="PAE podpora: " />
-    <string key="lblDep" value="DIP:" />
-    <string key="chkEntryUnsigned" value="Dovoli uporabo nepodpisanih gonilnikov na 64-bitnem&#xD;&#xA;operacijskem sistemu Windows" />
-    <string key="tabEntryAdvanced" value="Napredno" />
-    <string key="chkEntryKernelDebug" value="Zaženi Windows v načinu razhroščevanja jedra" />
-    <string key="chkEntrySos" value="Zaženi v zagonskem načinu SOS/Verbose" />
-    <string key="numEntryMemory" value="0" />
-    <string key="lblDeduct2" value="MiB izvajan iz fizičnega pomnilnika" />
-    <string key="numEntryCpu" value="0" />
-    <string key="lblLimit2" value="Meja Windows CPU/jedra" />
-    <string key="tabEntryDeveloper" value="Razvijalec" />
-    <string key="lblAdvancedSettings" value="Upoštevajte, da nekaterih nastavitev, odvisno od vnosa, ni možno spreminjati." />
-    <string key="grpChangeSettings" value="Spremeni nastavitve" />
-    <string key="lblPickLH" value="Izberite vnos s spodnjega seznama ." />
-    <string key="btnRestore" value="Obnovi z varnostne kopije" />
-    <string key="btnBackup" value="Nastavitve varnostnega kopiranja" />
-    <string key="tabAdvanced" value="4" />
-    <string key="grpSelectLH" value="Izberite OS" />
-    <string key="grpBackupRestore" value="Nastavitve varnostnega kopiranja in obnove zagonskega nalagalnika" />
-    <string key="rdoBcdRepair" value="Poustvari/popravi zagonske datoteke" />
-    <string key="MinimumWidth" value="610" />
+    <string key="rdoModeBasic" value="Pregled" version="1" />
+    <string key="rdoModeDetailed" value="Podrobno (razhroščevalni način)" version="1" />
+    <string key="chkWordWrap" value="Prelom besed" version="1" />
+    <string key="grpDisplayMode" value="Zaslonski način" version="1" />
+    <string key="tabViewSettings" value="1" version="1" />
+    <string key="rdoTimeoutCount" value="Odštevanje od" version="1" />
+    <string key="numTimeout" value="0" version="1" />
+    <string key="rdoTimeoutNone" value="Počakaj na uporabniško izbiro" version="1" />
+    <string key="rdoTimeoutSkip" value="Preskoči zagonski meni" version="1" />
+    <string key="btnSaveBCD" value="Posnemi nastavitve" version="1" />
+    <string key="grpTimeout" value="Možnosti zakasnitve" version="1" />
+    <string key="btnUp" value="Gor" version="1" />
+    <string key="btnDown" value="Dol" version="1" />
+    <string key="btnRenameEntry" value="Preimenuj" version="1" />
+    <string key="btnDelete" value="Briši" version="1" />
+    <string key="grpModifyEntries" value="Spremeni vnose " version="1" />
+    <string key="tabEditMenu" value="2" version="1" />
+    <string key="btnBrowse" value="..." version="1" />
+    <string key="btnVhdBrowse" clone="btnBrowse" version="1" />
+    <string key="btnPeBrowse" clone="btnBrowse" version="1" />
+    <string key="btnFloppyBrowse" clone="btnBrowse" version="1" />
+    <string key="btnBackupBrowse" clone="btnBrowse" version="1" />
+    <string key="btnRestoreBrowse" clone="btnBrowse" version="1" />
+    <string key="btnIsoBrowse" clone="btnBrowse" version="1" />  
+    <string key="lblName" value="Ime:" version="1" />
+    <string key="lblVhdName" clone="lblName" version="1" />
+    <string key="lblIsoName" clone="lblName" version="1" />
+    <string key="lblPeName" clone="lblName" version="1" />
+    <string key="lblFloppyName" clone="lblName" version="1" />
+    <string key="lblWinName" clone="lblName" version="1" />
+    <string key="lblLinName" clone="lblName" version="1" />
+    <string key="lblMacName" clone="lblName" version="1" />
+    <string key="lblNewName" clone="lblName" version="1" />   
+    <string key="lblType" value="Tip:" version="1" />
+    <string key="lblVhdType" clone="lblType" version="1" />
+    <string key="lblPeType" clone="lblType" version="1" />
+    <string key="lblWinType" clone="lblType" version="1" />
+    <string key="lblLinType" clone="lblType" version="1" />   
+   <string key="lblPath" value="Pot:" version="1" />
+    <string key="lblVhdPath" clone="lblPath" version="1" />
+    <string key="lblIsoPath" clone="lblPath" version="1" />
+    <string key="lblWinPE_Path" clone="lblPath" version="1" />
+    <string key="lblFloppyPath" clone="lblPath" version="1" />
+    <string key="lblDrive" value="Pogon:" version="1" />
+    <string key="lblWinDrive" clone="lblDrive" version="1" />
+    <string key="lblLinDrive" clone="lblDrive" version="1" />
+    <string key="lblNewDrive" clone="lblDrive" version="1" />
+    <string key="btnAddNewEntry" value="Dodaj vnos" version="1" />
+    <string key="btnAddLinux" clone="btnAddNewEntry" version="1" />
+    <string key="btnAddMac" clone="btnAddNewEntry" version="1" />
+    <string key="btnAddVhd" clone="btnAddNewEntry" version="1" />
+    <string key="btnAddIso" clone="btnAddNewEntry" version="1" />
+    <string key="btnAddPE" clone="btnAddNewEntry" version="1" />
+    <string key="btnAddFloppy" clone="btnAddNewEntry" version="1" />
+    <string key="btnAddWindows" clone="btnAddNewEntry" version="1" />
+    <string key="lblMode" value="Način:" version="1" />
+    <string key="lblMacMode" clone="lbl način" version="1" />
+    <string key="lblIsoMode" clone="lbl način" version="1" />
+    <string key="lblFile" value="Datoteka:" version="1" />
+    <string key="lblFile1" clone="lbl datoteka" version="1" />
+    <string key="lblFile2" clone="lbl datoteka" version="1" />
+    <string key="txtVhdName" value="NeoSmart VHD slika" version="1" />
+    <string key="tabPageVhd" value="Posnetek diska" version="1" />
+    <string key="txtIsoName" value="NeoSmart ISO vnos" version="1" />
+    <string key="tabPageIso" value="ISO" version="1" />
+    <string key="txtPeName" value="NST WinPE slika" version="1" />
+    <string key="chkEms" value="EMS omogočen" version="1" />
+    <string key="tabPageWinPE" value="WinPE" version="1" />
+    <string key="txtFloppyName" value="NeoSmart slika diskete" version="1" />
+    <string key="tabPageFloppy" value="Disketa" version="1" />
+    <string key="btnPlopInstall" value="Namesti PloP" version="1" />
+    <string key="btnPlopRemove" value="OdstraniPLoP" version="1" />
+    <string key="lblBiosExtend" value="EasyBCD BIOS razširitev se lahko uporablja za zagon iz omrežja, CD ali USB na računalnikih, ki tega izvorno ne podpirajo." version="1" />
+    <string key="tabPagePlop" value="BIOS razširitev" version="1" />
+    <string key="grpPortable" value="Prenosni ali zunanji medij" version="1" />
+    <string key="lblWindowsAuto" value="Samodejno določeno" version="1" />
+    <string key="chkAutoXp" value="Samodejno zaznaj pravi pogon" version="1" />
+    <string key="txtWinName" value="Microsoft Windows" version="1" />
+    <string key="tabPageWin" value="Windows" version="1" />
+    <string key="chkGrub" value="Uporabi EasyBCD kopijo GRUB" version="1" />
+    <string key="txtLinName" value="NeoSmart Linux" version="1" />
+    <string key="lblLinAuto" value="Samodejno določeno" version="1" />
+    <string key="tabPageLinux" value="Linux/BSD" version="1" />
+    <string key="txtMacName" value="NST Mac OS X" version="1" />
+    <string key="tabPageMac" value="Mac" version="1" />
+    <string key="btnNeoGrub" value="Nameščeno" version="1" />
+    <string key="btnNeoGrubConfig" value="Nastavi" version="1" />
+    <string key="lblNeoGrub" value="NeoGrub zagonski nalagalnik se lahko uporablja za zagon v Linux in opuščenih različicah sistema Windows ali celo skritih pogonov." version="1" />
+    <string key="tabPageNeoGrub" value="NeoGrub   " version="1" />
+    <string key="grpOS" value="Operacijski sistemi" version="1" />
+    <string key="tabAddEntry" value="3" version="1" />
+    <string key="btnSaveSettings" value="Shrani nastavitve" version="1" />
+    <string key="lblLocale" value="Lokalno:" version="1" />
+    <string key="tabEntryBasic" value="Osnovno" version="1" />
+    <string key="lblSafeMode" value="Varen način" version="1" />
+    <string key="lblPae" value="PAE podpora: " version="1" />
+    <string key="lblDep" value="DIP:" version="1" />
+    <string key="chkEntryUnsigned" value="Dovoli uporabo nepodpisanih gonilnikov na 64-bitnem&#xD;&#xA;operacijskem sistemu Windows" version="1" />
+    <string key="tabEntryAdvanced" value="Napredno" version="1" />
+    <string key="chkEntryKernelDebug" value="Zaženi Windows v načinu razhroščevanja jedra" version="1" />
+    <string key="chkEntrySos" value="Zaženi v zagonskem načinu SOS/podrobnosti" version="1" />
+    <string key="numEntryMemory" value="0" version="1" />
+    <string key="lblDeduct2" value="MiB izvajan iz fizičnega pomnilnika" version="1" />
+    <string key="numEntryCpu" value="0" version="1" />
+    <string key="lblLimit2" value="Meja Windows CPU/jedra" version="1" />
+    <string key="tabEntryDeveloper" value="Razvijalec" version="1" />
+    <string key="lblAdvancedSettings" value="Upoštevajte, da nekaterih nastavitev, odvisno od vnosa, ni možno spreminjati." version="1" />
+    <string key="grpChangeSettings" value="Spremeni nastavitve" version="1" />
+    <string key="lblPickLH" value="Izberite vnos s spodnjega seznama ." version="1" />
+    <string key="grpSelectLH" value="Izberite OS" version="1" />  
+    <string key="tabAdvanced" value="4" version="1" />   
+    <string key="btnBackup" value="Nastavitve varnostnega kopiranja" version="1" />
+     <string key="btnRestore" value="Obnovi z varnostne kopije" version="1" />
+    <string key="grpBackupRestore" value="Nastavitve varnostnega kopiranja in obnove zagonskega nalagalnika" version="1" />
+    <string key="rdoBcdChange" value="Spremeni zagonski pogon" version="1" />
+    <string key="rdoBcdRepair" value="Poustvari/popravi zagonske datoteke" version="1" />
+    <string key="btnBcdRescue" value="Izvedba ukrepa" version="1" />
+    <string key="rdoBcdReset" value="Ponastavi BCD nastavitev" version="1" />   
+    <string key="grpDiagnostics" value="BCD možnosti upravljanja" version="1" />
+    <string key="tabBcdInstall" value="5" version="1" />
+    <string key="btnMakeBootable" value="Namesti BCD" version="1" />
+    <string key="lblUsbPartitions" value="Razdelek:" version="1" />
+    <string key="lblCreateBootable" value="EasyBCD lahko avtomatizira postopek oblikovanja zagonskih medijev. Za začetek Izberite razdelek spodaj." version="1" />
+    <string key="grpCreateBootableExternal" value="Ustvarite zunanji zagonski medij" version="1" />
+    <string key="btnMbrWrite" value="Zapiši MBR" version="1" />
+    <string key="rdoMbrXP" value="Namesti Windows XP zagonski nalagalnik v MBR" version="1" />
+    <string key="rdoMbrVista" value="Namesti operacijski sistem Windows Vista ali Win7 zagonski nalagalnik v MBR" version="1" />
+    <string key="grpBootloader" value="Nastavitvene možnosti MBR" version="1" />
+    <string key="tabMbrSetup" value="6" version="1" />
+    <string key="grpUtils" value="Uporabni pripomočki" version="1" />
+    <string key="tabUtilities" value="7" version="1" />
+    <string key="btnBcdInstall" value="BCD varnostno kopiranje/popravilo" version="1" />
+    <string key="btnUtilities" value="Uporabni pripomočki" version="1" />
+    <string key="btnMbrSetup" value="BCD priprava" version="1" />
+    <string key="btnAdvanced" value="Napredne nastavitve" version="1" />
+    <string key="btnAddEntry" value="Dodajte nov vnos" version="1" />
+    <string key="btnEditMenu" value="Urejanje zagonskega menija" version="1" />
+    <string key="btnViewSettings" value="Ogled nastavitev" version="1" /> 
+    <string key="grpToolbox" value="EasyBCD orodjarna" version="1" />      
+    <string key="mnuSelectBcd" value="&amp;Izberite BCD shrambo" version="1" />
+    <string key="mnuLanguage" value="&amp;izberite jezik" version="1" />
+    <string key="mnuLoadSystemBcd" value="Naloži sis&amp;tem BCD" version="1" />
+    <string key="mnuRescan" value="Os&amp;veži BCD shrambo" version="1" />
+    <string key="mnuRegister" value="&amp;Registrirajte" version="1" />
+    <string key="mnuDonate" value="P&amp;rispevajte" version="1" />
+    <string key="mnuUpdate" value="&amp;Posodobi" version="1" />
+    <string key="mnuExit" value="I&amp;zhod" version="1" />
+    <string key="mnuFile" value="&amp;Datoteka" version="1" />
+    <string key="mnuOptions" value="M&amp;ožnosti" version="1" />
+    <string key="mnuEditLegacy" value="&amp;Urejanje vnosov v .." version="1" />
+    <string key="mnuRestart" value="&amp;Ponovni zagon" version="1" />
+    <string key="mnuTools" value="&amp;Orodja" version="1" />
+    <string key="mnuDocumentation" value="Doku&amp;mentacija" version="1" />
+    <string key="mnuSupport" value="Pomo&amp;č" version="1" />
+    <string key="mnuBug" value="Pošlji &amp;hrošča" version="1" />
+    <string key="mnuDonate2" value="&amp;Prispevajtete" version="1" />
+    <string key="mnuAbout" value="&amp;O programu..." version="1" />
+    <string key="mnuHelp" value="P&amp;omoč" version="1" />    
+    <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" ersion="1" />
+    <string key="colName" value="Vnos" version="1" />  
+    <string key="colDefault" value="Privzeto" version="1" />
+    <string key="cbxVhdType" value="Microsoft VHD&#xD;&#xA;Raw slika trdega diska&#xD;&#xA;Raw slika razdelka" version="1" />
+    <string key="cbxIsoMode" value="Zaženi z diska&#xD;&#xA;naloži iz spomina" version="1" />
+    <string key="cbxPeType" value="WIM slika (pomnilniški disk)&#xD;&#xA;Ekstrahirana slika datotečnega sistema" version="1" />
+    <string key="cbxWinType" value="Windows Vista/7/8&#xD;&#xA;Windows NT/2k/XP/2k3&#xD;&#xA;Windows 95/98/ME&#xD;&#xA;MS-DOS 6.x&#xD;&#xA;FreeDOS" version="1" />
+    <string key="cbxLinType" value="GRUB (Legacy)&#xD;&#xA;GRUB 2&#xD;&#xA;LILO/eLILO&#xD;&#xA;FreeBSD/PC-BSD&#xD;&#xA;Wubi&#xD;&#xA;SysLinux" version="1" />
+    <string key="cbxMacType" value="EFI (privzeto)&#xD;&#xA;MBR" version="1" />
+    <string key="cbxEntryDep" value="Opcijsko vključeno&#xD;&#xA;Opcijsko izključeno&#xD;&#xA;Vedno vključeno&#xD;&#xA;Vedno izključeno" version="1" />
+    <string key="cbxEntryPae" value="Privzeto&#xD;&#xA;Omogoči&#xD;&#xA;Onemogoči" version="1" />
+    <string key="cbxEntrySafe" value="Normalno&#xD;&#xA;Varni način&#xD;&#xA;Varni način z internetom&#xD;&#xA;Ukazna vrstica /alternat. lupina&#xD;&#xA;Osnovno VGA&#xD;&#xA;Active Directory Repair " version="1" />
+    <string key="emptyList" value="Vnosi niso zaznani!" version="1" />
+    <string key="MinimumWidth" value="583" />
     <string key="MinimumHeight" value="456" />
-    <string key="emptyList" value="Ni vnosov" />
-    <string key="grpDiagnostics" value="BCD možnosti upravljanja" />
-    <string key="btnBcdRescue" value="Izvedba ukrepa" />
-    <string key="rdoBcdReset" value="Ponastavi BCD nastavitev" />
-    <string key="tabBcdInstall" value="5" />
-    <string key="btnMakeBootable" value="Namesti BCD" />
-    <string key="lblUsbPartitions" value="Razdelek:" />
-    <string key="lblCreateBootable" value="EasyBCD lahko avtomatizira postopek oblikovanja zagonskih medijev. Za začetek Izberite razdelek spodaj." />
-    <string key="grpCreateBootableExternal" value="Ustvarite zunanji zagonski medij" />
-    <string key="btnMbrWrite" value="Zapiši MBR" />
-    <string key="rdoMbrXP" value="Namesti Windows XP zagonski nalagalnik v MBR" />
-    <string key="rdoMbrVista" value="Namesti operacijski sistem Windows Vista ali Win7 zagonski nalagalnik v MBR" />
-    <string key="grpBootloader" value="Nastavitvene možnosti MBR" />
-    <string key="tabMbrSetup" value="6" />
-    <string key="grpUtils" value="Uporabni pripomočki" />
-    <string key="tabUtilities" value="7" />
-    <string key="btnBcdInstall" value="BCD varnostno kopiranje in popravilo" />
-    <string key="btnUtilities" value="Uporabni pripomočki" />
-    <string key="btnMbrSetup" value="BCD priprava" />
-    <string key="btnAdvanced" value="Napredne nastavitve" />
-    <string key="btnAddEntry" value="Dodajte nov vnos" />
-    <string key="btnEditMenu" value="Urejanje zagonskega menija" />
-    <string key="btnViewSettings" value="Ogled nastavitev" />
-    <string key="grpToolbox" value="EasyBCD orodjarna" />
-    <string key="mnuSelectBcd" value="&amp;Izberite BCD shrambo" />
-    <string key="mnuLanguage" value="&amp;izberite jezik" />
-    <string key="mnuLoadSystemBcd" value="Naloži sis&amp;tem BCD" />
-    <string key="mnuRescan" value="Os&amp;vežii BCD shrambo" />
-    <string key="mnuRegister" value="&amp;Registrirajte" />
-    <string key="mnuDonate" value="P&amp;rispevajte" />
-    <string key="mnuUpdate" value="&amp;Posodobi" />
-    <string key="mnuExit" value="I&amp;zhod" />
-    <string key="mnuFile" value="&amp;Datoteka" />
-    <string key="mnuOptions" value="M&amp;ožnosti" />
-    <string key="mnuEditLegacy" value="&amp;Urejanje vnosov v .." />
-    <string key="mnuRestart" value="&amp;Ponovni zagon" />
-    <string key="mnuTools" value="&amp;Orodja" />
-    <string key="mnuDocumentation" value="Doku&amp;mentacija" />
-    <string key="mnuSupport" value="Pomo&amp;č" />
-    <string key="mnuBug" value="Pošlji &amp;hrošča" />
-    <string key="mnuDonate2" value="&amp;Prispevajte" />
-    <string key="mnuAbout" value="&amp;O programu..." />
-    <string key="mnuHelp" value="P&amp;omoč" />
-    <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" />
-    <string key="colName" value="Vnos" />
-    <string key="colDefault" value="Privzeto" />
-    <string key="lstVhdEntry" value="Microsoft VHD" />
-    <string key="lstRawHD" value="Slika Raw trdega diska" />
-    <string key="lstRawPartition" value="Slika Raw razdelka" />
-    <string key="lstRunDisk" value="Zaženi z diska" />
-    <string key="lstLoadMem" value="Zaženi s spomina" />
-    <string key="lstWim" value="WIM slika (Ramdisk)" />
-    <string key="lstExtracted" value="Ekstrahirana postavitev datotečnega sistema" />
-    <string key="lstWin7" value="Windows Vista/7/8" />
-    <string key="lstWinNt" value="Windows NT/2k/XP/2k3" />
-    <string key="lstWin9x" value="Windows 95/98/ME" />
-    <string key="lstWinDos" value="MS-DOS 6.x" />
-    <string key="lstNixGrub" value="GRUB (Legacy)" />
-    <string key="lstNixGrub2" value="GRUB 2" />
-    <string key="lstNixLilo" value="LILO/eLILO" />
-    <string key="lstNixBsd" value="FreeBSD/PC-BSD" />
-    <string key="lstNixWubi" value="Wubi" />
-    <string key="lstNixSys" value="SysLinux" />
-    <string key="lstEfi" value="EFI (privzeto)" />
-    <string key="lstMbr" value="MBR" />
-    <string key="lstOptIn" value="OptIn" />
-    <string key="lstOptOut" value="OptOut" />
-    <string key="lstAlwaysOn" value="Vedno vključeno" />
-    <string key="lstAlwaysOff" value="Vedno izključeno" />
-    <string key="paeDefault" value="Privzeto" />
-    <string key="paeEnable" value="Omogočen" />
-    <string key="paeDisable" value="Onemogočen" />
-    <string key="safeMode" value="Varnostni način" />
-    <string key="safeNetworking" value="Varni način + mreža" />
-    <string key="safeCmd" value="Ukazna vrstica / nadomestna školjka" />
-    <string key="safeVga" value="Osnovni VGA" />
-    <string key="safeAD" value="Popravila z Active Directory" />
-    <string key="safeNormal" value="Normalen" />
-    <string key="rdoBcdChange" value="Spremeni zagonski pogon" />
+    <string key="efiTitle" value="Zaznan EFI zagonski nalagalnik!" version="1" />
+    <string key="efiMessage" value="EasyBCDje zaznal, da je vaš računalnik trenutno zagan v EFI načinu. Zaradi Microsoftovih omejitev, veliko več-zagonskih funkcij EasyBCD ni mogoče uporabiti v EFI načinu in bodo onemoočene.&#xD;&#xA;&#xD;&#xA;Za nadaljevanje pritisnite 'V redu', če pa želite izvedeti več teh omejitvah in možnih obvodih, pa pritisnite  'Pomoč'." version="1" />
+    <string key="lstFreeDos" value="FreeDOS" />
+    <string key="chkMetroUI" value="Uporabi Metro zagoski nalagalnik" version="1" />
   </strings>
 </localization>
