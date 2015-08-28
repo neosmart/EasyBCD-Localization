@@ -69,7 +69,7 @@
     <string key="opNotAllowed" value="Operacija ni dovoljena!" inačica="1" />
     <string key="errorNotMounted" value="EasyBCD ne more kreirati  ne nameščenega pogona kot zagonskega. Prosimo, dodeliti črko izbranemu pogonu, znova zaženite EasyBCD in poskusite znova." inačica="1" />
     <string key="invalidDrive" value="Neveljavna operacija pogona" inačica="1" />
-    <string key="bootableSuccess" value="EasyBCD je uspešno pretvoril izbrani disk v zagonskega . Za nastavitev vnosov menija zagona na izbrani razdelek, morate uporabiti &quot;Datoteka | Izberite BCD shramba&quot; in izberite \\ zagon\\ BCD datoteko na razdeleku, ki ste ga pravkar pripravili." inačica="1" />
+    <string key="bootableSuccess" value="EasyBCD je uspešno pretvoril izbrani disk v zagonskega . Za nastavitev vnosov menija zagona na izbrani razdelek, morate uporabiti &quot;Datoteka | Izberite BCD shramba&quot; in izberite \BOOT\BCD datoteko na razdeleku, ki ste ga pravkar pripravili." inačica="1" />
     <string key="mountBcdNow" value="Želite samodejno naložiti novo ustvarjene BCD shrambo v EasyBCD?" inačica="1" />
     <string key="bootableTitle" value="Zagonski disk kreiran" inačica="1" />
     <string key="accessDeniedText" value="Ni dostopa do BCD. Preverite in se prepričajte, če  ni  BCD shramba na izbrani napravi trenutno  v uporabi." inačica="1" />
