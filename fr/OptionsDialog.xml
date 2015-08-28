@@ -3,7 +3,7 @@
   <strings>
     <string key="btnOK" value="OK" version="2" />
     <string key="btnCancel" value="Annuler" version="2" />
-    <string key="chkExpertMode" value="lancer EasyBCD en mode expert" version="1" />
+    <string key="chkExpertMode" value="Lancer EasyBCD en mode expert" version="1" />
     <string key="chkRememberBackup" value="Se souvenir du dossier de sauvegarde de la BCD en quittant" version="1" />
     <string key="lblExpertMode" value="Le mode expert n'est pas la pour guider l'utilisateur avant une action avancée !" version="1" />
     <string key="chkLoadDefaultBcd" value="Charger automatiquement le fichier BCD suivant au démarrage :" version="1" />
