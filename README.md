@@ -11,18 +11,20 @@ These are the languages currently available in this repository, thanks to the se
 * Catalan (Català) - Manel Fernàndez
 * Chinese (Simplified) (简体字) - Dancing Zhao
 * Chinese (Taiwanese) (繁體中文) - fei
+* Czech (Čeština) - Tomanek1
 * German (Deutsch) - Wolfgang Milhard
-* English (United States) - NeoSmart Technologies
+* English - NeoSmart Technologies
 * Spanish (Español) - Manel Fernàndez
 * French (Français) - Guillaume van den Bavière & co.
-* Greek (ελληνικά) - kostas85
+* Greek (Ελληνικά) - kostas85
 * Hebrew (עִבְרִית) - xman2012
+* Hungarian (Magyar) - Jé Em
 * Italian (Italiano) - Paolo Viappiani
 * Korean (한국어) - Youngju Yun
 * Polish (Polski) - Kili
 * Portuguese (Português) - igorruckert
 * Russian (Русский) - niknikch45 & co.
-* Slovenian (Slovenščina) - Marjan Mirai
+* Slovenian (Slovenščina) - Deseti_brat
 * Swedish (Svenska) - Åke Engelbrektson
 * Turkish (Türkçe) - Fara Delisi
 * Ukrainian (Українська) - z_mashine
