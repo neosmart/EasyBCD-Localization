@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="chkDontRemind" value="Znovu nepřipomínat" version="1" />
+    <string key="btnCancel" value="Ne &amp;Děkuju" version="1" />
+    <string key="btnDonate" value="&amp;Přispět" version="1" />
+    <string key="lblDonationIntro" value="Program EasyBCD Community Edition je 100% zdarma a plánujeme to tak nechat. Ale to že je zdarma, neznamená, že je jeho vývoj a testování levnější než u komerčního softwaru.&#xD;&#xA;&#xD;&#xA;Do této chvíle byl tento program stáhnut více než 25 milionkrát, a zachránil bezpočet počítačů před zničením." version="1" />
+    <string key="donationTitle" value="Podpořte vývoj EasyBCD." version="1" />
+    <string key="lblYouDonate" value="Přispějte programu EasyBCD k záchraně více počítačů!" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+    <string key="DonationDialog" value="Pomohl vám EasyBCD?" version="1" />
+  </strings>
+</localization>

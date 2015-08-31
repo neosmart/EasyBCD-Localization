@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnOK" derive="true" />
+    <string key="btnCancel" value="Zrušit" version="2" />
+    <string key="chkExpertMode" value="Spustit EasyBCD v Expert módu" version="1" />
+    <string key="chkRememberBackup" value="Zapamatovat si BCD zálohovací adresář před vypnutím" version="1" />
+    <string key="lblExpertMode" value="Expert mód uživateli nezabrání provést potencionálně nebezpečné akce!" version="1" />
+    <string key="chkLoadDefaultBcd" value="Při startu automaticky načíst následující BCD soubor:" version="1" />
+    <string key="btnBrowseBcd" derive="true" />
+    <string key="chkAutoUpdate" value="Automaticky aktualizovat každý:" version="1" />
+    <string key="chkRss" value="Zahrnout NeoSmart Technologies do Windows RSS Platform" version="1" />
+    <string key="rdoDays" value="Den" version="1" />
+    <string key="rdoWeeks" value="Týden" version="1" />
+    <string key="rdoMonths" value="Měsíc" version="1" />
+    <string key="numUpdateInterval" derive="true" />
+    <string key="lblLastUpdateCheck" value="Poslední kontrola provedena: " version="1" />
+    <string key="tabGeneralSettings" value="Hlavní nastavení" version="1" />
+    <string key="lblDefaultTab" value="Hlavní panel při startu: " version="1" />
+    <string key="lblDefaultDisplay" value="Základní zobrazení: " version="1" />
+    <string key="lblOverviewFont" value="Font popisků:" version="1" />
+    <string key="lblDetailedFont" value="Font detailů:" version="1" />
+    <string key="lblOverviewSize" value="Velikost: " version="1" />
+    <string key="numFontOverview" derive="true" />
+    <string key="lblOverviewPt" derive="true" />
+    <string key="lblDetailedSize" value="Velikost: " version="1" />
+    <string key="numFontDetailed" derive="true" />
+    <string key="lblDetailedPt" derive="true" />
+    <string key="chkWordWrap" value="Původní zalamování textu" version="1" />
+    <string key="chkSaveWindow" value="Uložit velikost EasyBCD okna před ukončením aplikace" version="1" />
+    <string key="ResetSize" value="Obnovit původní zobrazení" version="1" />
+    <string key="tabDisplayOptions" value="Nastavení zobrazení" version="1" />
+    <string key="OptionsDialog" value="Nastavení EasyBCD" version="1" />
+    <string key="overview" value="Přehledný" version="1" />
+    <string key="detailed" value="Detailní" version="1" />
+    <string key="locateBcd" value="Zvolte platné BCD uložiště" version="1" />
+    <string key="never" value="Nikdy" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+  </strings>
+</localization>

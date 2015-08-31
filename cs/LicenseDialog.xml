@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linkLabel" value="Tato kopie EasyBCD požaduje zakoupení licenčního klíče.&#xD;&#xA;&#xD;&#xA;Prosím vložte buď emailovou adresu, nebo nebo licenční číslo spojené s vaší objednávkou. Klikněte zde k zakoupení klíče, nebo kontaktujte Sales@NeoSmart.net pro další informace." version="1" />
+    <string key="regFail" value="Neplatný email nebo licenční klíč. Prosím zkuste znova." version="1" />
+    <string key="regFailTitle" value="Registrace NEúspěšná." version="1" />
+    <string key="seats" value="Kapacita" version="1" />
+    <string key="regExceptionTitle" value="Registrace se nezdařila" version="1" />
+    <string key="btnContinue" value="Pokračovat" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="regSuccess" value="Registrace dokončena!" version="1" />
+    <string key="MinimumHeight" derive="true" />
+    <string key="regException" value="Chyba při získávání licence ze vzdáleného serveru. Prosím ujistěte se, že jste připojen k internetu a zkuste to znovu." version="1" />
+    <string key="licenseKey" value="Licenční klíč" version="1" />
+    <string key="email" value="Email" version="1" />
+    <string key="lblLicenseKey" value="Email nebo licenční klíč:" version="1" />
+    <string key="lblTitle" value="EasyBCD Commercial Edition" version="1" />
+    <string key="btnRegister" value="&amp;Registrovat" version="1" />
+    <string key="btnSkip" value="&amp;Přeskočit" version="1" />
+    <string key="linkEmail" derive="true" />
+    <string key="linkClick" value="Klikněte zde" version="1" />
+    <string key="LicenseDialog" derive="true" />
+  </strings>
+</localization>

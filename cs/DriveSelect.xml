@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="MinimumHeight" derive="true" />
+    <string key="lblDriveSelect" value="Nová Bootovací Jednotka:" version="1" />
+    <string key="lblBody" value="EasyBCD přenastaví váš systém k bootování z oddílu který vyberete níže. Tento proces nastaví ukládání BCD na zvolený disk, překopíruje aktuální BCD, a nastaví zvolený oddíl aktivní a bootovatelný." version="1" />
+    <string key="DriveSelect" derive="true" />
+    <string key="Cancel_Button" value="&amp;Zrušit" version="1" />
+    <string key="OK_Button" derive="true" />
+    <string key="errorAlreadyBoot" value="Jednotka, kterou jste vybrali je právě aktuální bootovací jednotkou. Pro pokračování vyberte jinou jednotku!" version="1" />
+    <string key="errorAlreadyBootTitle" value="Prosím vyberte jinou jednotku!" version="1" />
+    <string key="MinimumWidth" derive="true" />
+  </strings>
+</localization>

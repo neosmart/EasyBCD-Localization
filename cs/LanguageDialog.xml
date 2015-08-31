@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="title" value="Vybrat jazyk" version="1" />
+    <string key="btnGo" value="Zvolit" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+  </strings>
+</localization>

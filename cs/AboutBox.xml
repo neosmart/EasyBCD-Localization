@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OKButton" derive="true" />
+    <string key="seatsAllowed" value="uživatel/zařízení povoleno" version="1" />
+    <string key="version" value="Verze" version="1" />
+    <string key="unlicensed" value="Nelicencovaná kopie!" version="1" />
+    <string key="copyright" derive="true" />
+    <string key="aboutText1" value="EasyBCD je jedinečný a vrcholný bootovací nástroj. Není zaručeno, že tento program bude funkční pod všemi verzemi Windows - vždy se ujistěte, že máte nainstalovanou poslední verzi programu. &#xD;&#xA;&#xD;&#xA;• Vedoucí vývojář: Mahmoud H. Al-Qudsi&#xD;&#xA;• Hlavní složky: Pot, krev, a slzy&#xD;&#xA;• Poháněno pomocí: C++, C#, Dr. Pepper, Excedrinem a Visine&#xD;&#xA;• Všechny vaše bootovací oddíly patří nám!" version="1" />
+    <string key="thanksFormat" value="Zvláštní poděkování patří Grub4Dos, PLoP,{0} a UltraDefrag týmu!&#xD;&#xA;&#xD;&#xA;Tato EasyBCD distribuce spolu s ostatníma komponentama (Grub4Dos a UltraDefrag) jsou chráněny GPLv2 licencí. Pro více informací prosím navštivte soubor s licenčníma podmínkama v adresáři instalace.&#xD;&#xA;&#xD;&#xA;Zodpovědná osoba za český překlad: Tomanek1@seznam.cz" version="1" />
+    <string key="title" value="O {0}" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+  </strings>
+</localization>

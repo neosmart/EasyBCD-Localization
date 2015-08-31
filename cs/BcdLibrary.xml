@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="timeout" derive="true" />
+    <string key="name" value="Název" version="1" />
+    <string key="path" value="Cesta" version="1" />
+    <string key="default" value="Výchozí" version="1" />
+    <string key="drive" value="Jednotka" version="1" />
+    <string key="device" value="Zařízení" version="1" />
+    <string key="none" value="Žádný" version="1" />
+    <string key="multiEntriesFormat" value="V bootloaderu je celkem {0} vstupních zařízení." version="1" />
+    <string key="partition" value="Oddíl" version="1" />
+    <string key="gib" derive="true" />
+    <string key="mib" derive="true" />
+    <string key="as" derive="true" />
+    <string key="unknown" value="Neznámé" version="1" />
+    <string key="unnamed" value="Bezejmenný vstup" version="1" />
+    <string key="defragFormat" value="Začínám defragmentaci souboru {0}" version="1" />
+    <string key="bcdRegistry" derive="true" />
+    <string key="errorBcd" value="Chyba otevárání BCD Registru" version="1" />
+    <string key="locateValid" value="Zvolte platné BCD uložiště" version="1" />
+    <string key="manuallyLoad" derive="true" />
+    <string key="ntNotFoundTitle" value="Platná instalace NT nenalezena!" version="1" />
+    <string key="ntNotFound" value="Programu se nepodařilo nalézt platnou instalaci Windows NT-2003 na připojených jednotkách a proto nemůže pokračovat." version="1" />
+    <string key="bootDevice" value="Bootovací Jednotka" version="1" />
+    <string key="bcdId" derive="true" />
+    <string key="failedSave" value="Chyba při ukládání" version="1" />
+    <string key="accessDeniedTitle" value="Přístup odepřen" version="1" />
+    <string key="oneEntry" value="Ve Windows bootloaderu je pouze jeden vstup." version="1" />
+    <string key="accessDeniedFormat" value="Přístup k {0} byl odepřen. Prosím ověřte, zdali není soubor právě používán a že máte oprávnění pro jeho úpravy a mazání." version="1" />
+    <string key="accessViolationFormat" value="Nepodařilo se získat přístup k {0}. Pokud se jedná o vyměnitelný disk, vyzkoušejte ho odpojit a znovu připojit." version="1" />
+    <string key="timeoutFormat" value="{0} sekund" version="1" />
+    <string key="skipped" value="Přeskočeno" version="1" />
+    <string key="bootloaderPath" value="Bootloader cesta" version="1" />
+    <string key="entryNum" value="Vstup #" version="1" />
+    <string key="bcdError" value="BCD Chyba při provedení!" version="1" />
+    <string key="ebcdBootDevice" value="EasyBCD Bootovací Zařízení" version="1" />
+  </strings>
+</localization>

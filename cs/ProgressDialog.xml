@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+    <string key="ProgressDialog" value="Prosím vyčkejte" version="1" />
+    <string key="lblApplyingActions" value="EasyBCD provádí zvolené operace.." version="1" />
+  </strings>
+</localization>

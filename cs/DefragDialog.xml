@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnAbort" value="&amp;Zrušit" version="1" />
+    <string key="CommandWindow" value="EasyBCD Příkazové Okno" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+  </strings>
+</localization>

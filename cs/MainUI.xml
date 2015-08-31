@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnUp" value="Nahoru" version="1" />
+    <string key="btnDown" value="Dolů" version="1" />
+    <string key="btnRenameEntry" value="Přejmenovat" version="1" />
+    <string key="grpTimeout" value="Nastavení Timeoutu" version="1" />
+    <string key="btnDelete" value="Odstranit" version="1" />
+    <string key="grpModifyEntries" value="Upravit vstupy" version="1" />
+    <string key="tabEditMenu" derive="true" />
+    <string key="btnBrowse" derive="true" />
+    <string key="btnSaveBCD" value="Uložit nastavení" version="1" />
+    <string key="rdoTimeoutSkip" value="Přeskočit boot menu" version="1" />
+    <string key="rdoTimeoutNone" value="Počkat na výběr uživatelem" version="1" />
+    <string key="rdoTimeoutCount" value="Odpočítávat od " version="1" />
+    <string key="numTimeout" derive="true" />
+    <string key="grpDisplayMode" value="Způsob zobrazení" version="1" />
+    <string key="tabViewSettings" derive="true" />
+    <string key="chkWordWrap" value="Zalamování textu" version="1" />
+    <string key="lblName" value="Název:" version="1" />
+    <string key="rdoModeDetailed" value="Detailní (Debug Mode)" version="1" />
+    <string key="rdoModeBasic" value="Přehledně" version="1" />
+    <string key="lblType" value="Typ:" version="1" />
+    <string key="lblPath" value="Cesta:" version="1" />
+    <string key="lblDrive" value="Jednotka:" version="1" />
+    <string key="btnAddNewEntry" value="Přidat vstup" version="1" />
+    <string key="lblFile" value="Soubor:" version="1" />
+    <string key="lblMode" value="Způsob:" version="1" />
+    <string key="txtVhdName" derive="true" />
+    <string key="tabPageVhd" value="Obraz disku" version="1" />
+    <string key="txtIsoName" derive="true" />
+    <string key="tabPageIso" derive="true" />
+    <string key="txtPeName" derive="true" />
+    <string key="chkEms" value="EMS Povoleno" version="1" />
+    <string key="tabPageWinPE" derive="true" />
+    <string key="txtFloppyName" derive="true" />
+    <string key="tabPageFloppy" derive="true" />
+    <string key="btnPlopInstall" value="Instalovat PLoP" version="1" />
+    <string key="btnPlopRemove" value="Odebrat PLoP" version="1" />
+    <string key="lblBiosExtend" value="EasyBCD BIOS extender může být využit k bootování ze sítě, CD, nebo USB na počítači, který to původně neumožňuje." version="1" />
+    <string key="tabPagePlop" derive="true" />
+    <string key="grpPortable" value="Přenositelná/Externí media" version="1" />
+    <string key="chkGrub" derive="true" />
+    <string key="chkAutoXp" value="Automaticky zjistit správnou jednotku" version="1" />
+    <string key="btnNeoGrub" value="Instalovat" version="1" />
+    <string key="tabPageMac" derive="true" />
+    <string key="txtMacName" derive="true" />
+    <string key="tabPageWin" derive="true" />
+    <string key="txtLinName" derive="true" />
+    <string key="lblLinAuto" value="Automaticky určen" version="1" />
+    <string key="lblWindowsAuto" derive="true" />
+    <string key="chkMetroUI" value="Použít Metro bootloader" />
+    <string key="lstFreeDos" derive="true" />
+    <string key="efiMessage" value="EasyBCD zjistilo, že váš počítač aktuálně bootuje v EFI modu. Kvůli omezení provedená Microsoftem, mnoho z EasyBCD bootovacích vlastností nemůže být v EFI módu použito a musí být vypnuty.&#xD;&#xA;&#xD;&#xA;Stiskněte 'OK' pro pokračování, nebo 'Pomoc' k zjištění více informací." version="1" />
+    <string key="txtWinName" derive="true" />
+    <string key="btnSaveSettings" value="Uložit nastavení" version="1" />
+    <string key="tabAddEntry" derive="true" />
+    <string key="grpOS" value="Operační systém" version="1" />
+    <string key="tabPageNeoGrub" derive="true" />
+    <string key="lblNeoGrub" value="NeoGrub bootloader může být použit k nabootování Linuxu a předchozích verzí Windows, nebo skrytí některých jednotek." version="1" />
+    <string key="btnNeoGrubConfig" value="Nastavit" version="1" />
+    <string key="tabPageLinux" derive="true" />
+    <string key="lblLocale" value="Umístění:" version="1" />
+    <string key="btnMakeBootable" value="Instalovat BCD" version="1" />
+    <string key="rdoMbrXP" value="Instalovat Windows XP bootloader na MBR" version="1" />
+    <string key="mnuTools" value="&amp;Nástroje" version="1" />
+    <string key="mnuRestart" value="&amp;Restartovat Počítač" version="1" />
+    <string key="mnuEditLegacy" derive="true" />
+    <string key="mnuOptions" value="Nastavení" version="1" />
+    <string key="mnuDocumentation" value="&amp;Dokumentace" version="1" />
+    <string key="mnuSupport" value="Nápověda" version="1" />
+    <string key="mnuExit" value="&amp;Konec" version="1" />
+    <string key="mnuFile" value="&amp;Soubor" version="1" />
+    <string key="mnuUpdate" value="Hledat aktualizace" version="1" />
+    <string key="mnuDonate" value="&amp;Přispět" version="1" />
+    <string key="mnuRegister" value="&amp;Registrovat" version="1" />
+    <string key="mnuRescan" value="Aktualizovat BCD Uložiště" version="1" />
+    <string key="mnuLoadSystemBcd" value="Načíst BCD systému" version="1" />
+    <string key="mnuLanguage" value="&amp;Vybrat jazyk" version="1" />
+    <string key="mnuSelectBcd" value="&amp;Vybrat BCD Uložiště" version="1" />
+    <string key="mnuBug" value="&amp;Ohlásit chybu" version="1" />
+    <string key="mnuDonate2" value="Přispět" version="1" />
+    <string key="mnuAbout" value="O programu" version="1" />
+    <string key="mnuHelp" value="Nápověda" version="1" />
+    <string key="MainUI" derive="true" />
+    <string key="colName" value="Vstup" version="1" />
+    <string key="emptyList" value="Nic nenalezeno!" version="1" />
+    <string key="colDefault" value="Výchozí" version="1" />
+    <string key="btnBcdInstall" value="BCD Záloha/Oprava" version="1" />
+    <string key="tabUtilities" derive="true" />
+    <string key="btnUtilities" value="Užitečné funkce" version="1" />
+    <string key="btnMbrSetup" value="BCD Nasazení" version="1" />
+    <string key="btnAdvanced" value="Pokročilá nastavení" version="1" />
+    <string key="btnAddEntry" value="Přidat nový vstup" version="1" />
+    <string key="btnEditMenu" value="Upravit Boot Menu" version="1" />
+    <string key="btnViewSettings" value="Zobrazit Nastavení" version="1" />
+    <string key="grpToolbox" value="EasyBCD Nástroje" version="1" />
+    <string key="grpUtils" value="Užitečné funkce" version="1" />
+    <string key="tabMbrSetup" derive="true" />
+    <string key="btnBackup" value="Zálohovat Nastavení" version="1" />
+    <string key="btnRestore" value="Obnovit zálohu" version="1" />
+    <string key="tabAdvanced" derive="true" />
+    <string key="grpSelectLH" value="Výběr OS" version="1" />
+    <string key="lblPickLH" value="Vyberte vstup ze seznamu k upravení" version="1" />
+    <string key="grpChangeSettings" value="Změny nastavení" version="1" />
+    <string key="lblAdvancedSettings" value="Povšiměte si, že některá nastavení mohou být nepřístupná v závislosti na upravovaném vstupu." version="1" />
+    <string key="tabEntryDeveloper" value="Vývojář" version="1" />
+    <string key="lblLimit2" value="Windows limit CPU/jádro" version="2" />
+    <string key="numEntryCpu" derive="true" />
+    <string key="lblDeduct2" value="MiB odebrané z fyzické paměti" version="2" />
+    <string key="numEntryMemory" derive="true" />
+    <string key="chkEntrySos" value="Spustit v SOS/Verbose-Boot Modu" version="1" />
+    <string key="chkEntryKernelDebug" value="Spustit Windows v Kernel-Debug Modu" version="1" />
+    <string key="chkEntryUnsigned" value="Povolit použití nepodepsaných ovladačů na 64-Bit Windows" version="1" />
+    <string key="tabEntryAdvanced" value="Pokročilé" version="1" />
+    <string key="lblDep" derive="true" />
+    <string key="tabEntryBasic" value="Základní" version="1" />
+    <string key="lblSafeMode" value="Bezpečný mód:" version="1" />
+    <string key="lblPae" value="Podpora PAE:" version="1" />
+    <string key="rdoMbrVista" value="Instalovat Windows Vista/7 bootloader na MBR" version="1" />
+    <string key="grpBootloader" value="MBR Možnosti Nastavení" version="1" />
+    <string key="lblCreateBootable" value="EasyBCD umí zautomatizovat proces vytvoření bootovacího media. Vyberte níže oddíl kterým začne." version="1" />
+    <string key="btnMbrWrite" value="Zapsat MBR" version="1" />
+    <string key="lblUsbPartitions" value="Oddíl:" version="1" />
+    <string key="tabBcdInstall" derive="true" />
+    <string key="grpDiagnostics" value="Správa BCD Nastavení" version="1" />
+    <string key="grpCreateBootableExternal" value="Vytvoření Externího Bootovacího Media" version="1" />
+    <string key="grpBackupRestore" value="Záloha a Obnova Bootloader Nastavení" version="1" />
+    <string key="cbxVhdType" derive="true" />
+    <string key="efiTitle" value="EFI Bootloader Nalezen!" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+    <string key="rdoBcdRepair" value="Znovu-vytvořit/opravit boot soubor" version="1" />
+    <string key="btnBcdRescue" value="Provést Akci" version="1" />
+    <string key="rdoBcdReset" value="Obnovit BCD konfiguraci" version="1" />
+    <string key="rdoBcdChange" value="Změnit boot jednotku" version="1" />
+    <string key="cbxWinType" derive="true" />
+    <string key="cbxLinType" derive="true" />
+    <string key="cbxMacType" value="EFI (Výchozí)&#xD;&#xA;MBR" version="1" />
+    <string key="cbxIsoMode" value="Načíst z Disku&#xD;&#xA;Načíst z Paměti" version="1" />
+    <string key="cbxPeType" derive="true" />
+    <string key="cbxEntryPae" value="Výchozí&#xD;&#xA;Zapnuto&#xD;&#xA;Vypnuto" version="1" />
+    <string key="cbxEntrySafe" derive="true" />
+    <string key="cbxEntryDep" value="OptIn&#xD;&#xA;OptOut&#xD;&#xA;Vždy zapnuto&#xD;&#xA;Vždy vypnuto" version="1" />
+  </strings>
+</localization>
