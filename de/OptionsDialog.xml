@@ -35,7 +35,7 @@
     <string key="detailed" value="Detailliert" version="1" />
     <string key="locateBcd" value="Einen gültigen BCD Speicher auswählen" version="1" />
     <string key="never" value="Nie" version="1" />
-    <string key="MinimumWidth" value="452" />
+    <string key="MinimumWidth" value="475" />
     <string key="MinimumHeight" value="359" />
   </strings>
 </localization>

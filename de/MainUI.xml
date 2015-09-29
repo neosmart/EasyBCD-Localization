@@ -151,7 +151,7 @@
     <string key="lblPath" value="Pfad:" version="1" />
     <string key="lblDrive" value="Laufwerk:" version="1" />
     <string key="MinimumHeight" value="456" version="2" />
-    <string key="MinimumWidth" value="583" />
+    <string key="MinimumWidth" value="600" />
     <string key="mnuLanguage" value="Auswahl &amp;Sprache" version="1" />
     <string key="cbxVhdType" value="Microsoft VHD (viruelle Festplatte)&#xD;&#xA;Raw Format Festplatten Abbild&#xD;&#xA;Raw Format Partitions Abbild" version="1" />
     <string key="cbxPeType" value="WIM Windows Image Format (Ramdisk)&#xD;&#xA;Extrahiertes Filesystem Layout" version="1" />
