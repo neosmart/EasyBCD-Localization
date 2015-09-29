@@ -2,11 +2,11 @@
 <localization>
   <strings>
     <string key="title" value="Σχετικά {0}" version="1" />
-    <string key="OKButton" value="&amp;OK" version="1" />
-    <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - {0}" version="2" />
+    <string key="OKButton" derive="true" />
+    <string key="copyright" derive="true" />
     <string key="version" value="Έκδοση" version="1" />
-    <string key="MinimumWidth" value="486" />
-    <string key="MinimumHeight" value="376" version="6" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
     <string key="seatsAllowed" value="Χρήστες/Συσκευές που επιτρέπονται" version="1" />
     <string key="unlicensed" value="Αντίγραφο χωρίς άδεια χρήσης!" version="1" />
     <string key="aboutText1" value="Το EasyBCD είναι το απόλυτο εργαλείο διαχείρισης προγράμματος εκκίνησης. Δεν υπάρχει καμία εγγύηση ότι το EasyBCD θα συνεργαστεί με όλες τις εκδόσεις των Windows. Πάντα να βεβαιώνεστε ότι χρησιμοποιείτε την πιο πρόσφατη έκδοση που είναι διαθέσιμη.&#xD;&#xA;&#xD;&#xA;• Ανάπτυξη: Mahmoud H. Al-Qudsi&#xD;&#xA;• Ανάπτυξη προγράμματος σε C + +, C #, Dr. Pepper, Excedrin, και Visine" version="1" />

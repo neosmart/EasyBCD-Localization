@@ -8,7 +8,7 @@
     <string key="DriveSelect" value="選取磁碟機" version="1" />
     <string key="errorAlreadyBoot" value="您選取的磁碟機已經是目前開機磁碟機。 請選取不同磁碟機繼續!" version="1" />
     <string key="errorAlreadyBootTitle" value="請選取另一個磁碟機!" version="1" />
-    <string key="MinimumWidth" value="518" />
-    <string key="MinimumHeight" value="199" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

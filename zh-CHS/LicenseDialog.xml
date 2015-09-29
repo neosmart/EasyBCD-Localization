@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="linkLabel" value="This copy of EasyBCD requires the purchase of a commercial license.&#xD;&#xA;&#xD;&#xA;Please enter either the email address or the license number associated with your purchase. Click here to purchase a license, or contact Sales@NeoSmart.net for support." version="1" />
+    <string key="linkLabel" derive="true" />
     <string key="linkClick" value="点击这里" version="1" />
-    <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
+    <string key="linkEmail" derive="true" />
     <string key="btnSkip" value="跳过" version="1" />
     <string key="btnRegister" value="注册" version="1" />
     <string key="lblTitle" value="EasyBCD商业版" version="1" />

@@ -9,7 +9,7 @@
     <string key="multiEntriesFormat" value="總計 {0} 個項目在 Bootloader。" version="1" />
     <string key="entryNum" value="項目 #" version="1" />
     <string key="name" value="名稱" version="1" />
-    <string key="bcdId" value="BCD ID" version="1" />
+    <string key="bcdId" derive="true" />
     <string key="drive" value="磁碟機" version="1" />
     <string key="device" value="裝置" version="1" />
     <string key="path" value="路徑" version="1" />
@@ -30,8 +30,8 @@
     <string key="bcdRegistry" value="BCD 登錄檔" version="1" />
     <string key="partition" value="分割區" version="1" />
     <string key="unknown" value="未知" version="1" />
-    <string key="gib" value="GiB" version="1" />
-    <string key="mib" value="MiB" version="1" />
+    <string key="gib" derive="true" />
+    <string key="mib" derive="true" />
     <string key="as" value="以" version="1" />
     <string key="defragFormat" value="開始重組檔案 {0}" version="1" />
     <string key="unnamed" value="未命名項目" version="1" />

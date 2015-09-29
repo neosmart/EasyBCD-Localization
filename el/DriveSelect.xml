@@ -2,11 +2,11 @@
 <localization>
   <strings>
     <string key="Cancel_Button" value="&amp;Ακύρωση" version="1" />
-    <string key="MinimumWidth" value="518" />
-    <string key="MinimumHeight" value="199" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
     <string key="lblDriveSelect" value="Νέος δίσκος εκκίνησης:" version="1" />
     <string key="lblBody" value="Το EasyBCD θα ξανά ρυθμίσει το σύστημά σας για να εκκινήσει από το διαμέρισμα που θα επιλέξετε παρακάτω. Αυτή η διαδικασία θα δημιουργήσει ένα κατάλογο BCD στον επιλεγμένο δίσκο, αντιγράψτε τις τρέχουσες καταχωρήσεις BCD και κάντε το επιλεγμένο διαμέρισμα ενεργό και με δυνατότητα εκκίνησης." version="1" />
-    <string key="OK_Button" value="&amp;OK" version="1" />
+    <string key="OK_Button" derive="true" />
     <string key="DriveSelect" value="Επιλογή δίσκου" version="1" />
     <string key="errorAlreadyBoot" value="Η μονάδα δίσκου που έχετε επιλέξει είναι ήδη η τρέχουσα μονάδα δίσκου εκκίνησης. Παρακαλώ επιλέξτε μια διαφορετική μονάδα δίσκου για να συνεχίσετε!" version="1" />
     <string key="errorAlreadyBootTitle" value="Παρακαλώ επιλέξτε μια άλλη μονάδα δίσκου!" version="1" />

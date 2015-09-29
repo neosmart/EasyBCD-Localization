@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="OKButton" value="&amp;OK" version="1" />
+    <string key="OKButton" derive="true" />
     <string key="seatsAllowed" value="użytkownicy/urządzenia dozwolone" version="1" />
     <string key="unlicensed" value="Kopia nielicencjonowana!" version="1" />
     <string key="version" value="Wersja" version="1" />

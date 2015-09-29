@@ -5,9 +5,9 @@
     <string key="rdoModeDetailed" value="详细（调试模式）" version="1" />
     <string key="chkWordWrap" value="自动换行" version="1" />
     <string key="grpDisplayMode" value="显示模式" version="1" />
-    <string key="tabViewSettings" value="1" version="1" />
+    <string key="tabViewSettings" derive="true" />
     <string key="rdoTimeoutCount" value="倒计时(秒)：" version="1" />
-    <string key="numTimeout" value="0" version="1" />
+    <string key="numTimeout" derive="true" />
     <string key="rdoTimeoutNone" value="等待用户选择" version="1" />
     <string key="rdoTimeoutSkip" value="跳过启动菜单" version="1" />
     <string key="btnSaveBCD" value="保存设置" version="1" />
@@ -17,8 +17,8 @@
     <string key="btnRenameEntry" value="重命名" version="1" />
     <string key="btnDelete" value="删除" version="1" />
     <string key="grpModifyEntries" value="修改菜单项" version="1" />
-    <string key="tabEditMenu" value="2" version="1" />
-    <string key="btnBrowse" value="..." version="1" />
+    <string key="tabEditMenu" derive="true" />
+    <string key="btnBrowse" derive="true" />
     <string key="lblName" value="名称:" version="1" />
     <string key="lblType" value="类型:" version="1" />
     <string key="lblPath" value="路径:" version="1" />
@@ -29,10 +29,10 @@
     <string key="txtVhdName" value="NeoSmart VHD的图像" version="1" />
     <string key="tabPageVhd" value="磁盘映像" version="1" />
     <string key="txtIsoName" value="NeoSmart的ISO条目" version="1" />
-    <string key="tabPageIso" value="ISO" version="1" />
+    <string key="tabPageIso" derive="true" />
     <string key="txtPeName" value="NST WinPE映像" version="1" />
     <string key="chkEms" value="启用EMS" version="1" />
-    <string key="tabPageWinPE" value="WinPE" version="1" />
+    <string key="tabPageWinPE" derive="true" />
     <string key="txtFloppyName" value="NeoSmart Floppy映像" version="1" />
     <string key="tabPageFloppy" value="软盘 Floppy" version="1" />
     <string key="btnPlopInstall" value="安装PLoP" version="1" />
@@ -42,20 +42,20 @@
     <string key="grpPortable" value="便携式/外接存储介质" version="1" />
     <string key="lblWindowsAuto" value="自动确定" version="1" />
     <string key="chkAutoXp" value="自动检测正确的驱动" version="1" />
-    <string key="txtWinName" value="Microsoft Windows" version="1" />
-    <string key="tabPageWin" value="Windows" version="1" />
+    <string key="txtWinName" derive="true" />
+    <string key="tabPageWin" derive="true" />
     <string key="chkGrub" value="使用EasyBCD的GRUB副本" version="1" />
-    <string key="txtLinName" value="NeoSmart Linux" version="1" />
+    <string key="txtLinName" derive="true" />
     <string key="lblLinAuto" value="自动确定" version="1" />
-    <string key="tabPageLinux" value="Linux/BSD" version="1" />
-    <string key="txtMacName" value="NST Mac OS X" version="1" />
-    <string key="tabPageMac" value="Mac" version="1" />
+    <string key="tabPageLinux" derive="true" />
+    <string key="txtMacName" derive="true" />
+    <string key="tabPageMac" derive="true" />
     <string key="btnNeoGrub" value="安装" version="1" />
     <string key="btnNeoGrubConfig" value="配置" version="1" />
     <string key="lblNeoGrub" value="NeoGrub的引导程序可用于启动到Linux和旧版的Windows，或者隐藏驱动器。" version="1" />
-    <string key="tabPageNeoGrub" value="NeoGrub   " version="1" />
+    <string key="tabPageNeoGrub" derive="true" />
     <string key="grpOS" value="操作系统" version="1" />
-    <string key="tabAddEntry" value="3" version="1" />
+    <string key="tabAddEntry" derive="true" />
     <string key="btnSaveSettings" value="保存设置" version="1" />
     <string key="lblLocale" value="区域设置：" version="1" />
     <string key="tabEntryBasic" value="基本" version="1" />
@@ -66,16 +66,16 @@
     <string key="tabEntryAdvanced" value="高级" version="1" />
     <string key="chkEntryKernelDebug" value="在内核调试模式下运行Windows" version="1" />
     <string key="chkEntrySos" value="在 SOS/Verbose-Boot 模式中运行" version="1" />
-    <string key="numEntryMemory" value="0" version="1" />
+    <string key="numEntryMemory" derive="true" />
     <string key="lblDeduct2" value="MiB从物理内存中扣除" version="2" />
-    <string key="numEntryCpu" value="0" version="1" />
+    <string key="numEntryCpu" derive="true" />
     <string key="lblLimit2" value="Windows的CPU /核心限制" version="2" />
     <string key="tabEntryDeveloper" value="开发" version="1" />
     <string key="lblAdvancedSettings" value="注意：某些修改的条目可能不可用。" version="1" />
     <string key="grpChangeSettings" value="更改设置" version="1" />
     <string key="lblPickLH" value="从下面的列表中选择一个条目来调整。" version="1" />
     <string key="grpSelectLH" value="选择一个操作系统" version="1" />
-    <string key="tabAdvanced" value="4" version="1" />
+    <string key="tabAdvanced" derive="true" />
     <string key="btnBackup" value="备份BootLoader" version="1" />
     <string key="btnRestore" value="还原BootLoader" version="1" />
     <string key="grpBackupRestore" value="备份和还原BootLoader" version="1" />
@@ -84,7 +84,7 @@
     <string key="btnBcdRescue" value="执行动作" version="1" />
     <string key="rdoBcdReset" value="恢复BCD配置" version="1" />
     <string key="grpDiagnostics" value="BCD管理选项" version="1" />
-    <string key="tabBcdInstall" value="5" version="1" />
+    <string key="tabBcdInstall" derive="true" />
     <string key="btnMakeBootable" value="安装 BCD" version="1" />
     <string key="lblUsbPartitions" value="分区：" version="1" />
     <string key="lblCreateBootable" value="EasyBCD可以自动创建可启动媒体的过程。选择一个分区开始。" version="1" />
@@ -93,9 +93,9 @@
     <string key="rdoMbrXP" value="在MBR中安装Windows XP的bootloader " version="1" />
     <string key="rdoMbrVista" value="在MBR中安装Windows Vista/7的bootloader &#xD;&#xA;" version="1" />
     <string key="grpBootloader" value="MBR配置选项" version="1" />
-    <string key="tabMbrSetup" value="6" version="1" />
+    <string key="tabMbrSetup" derive="true" />
     <string key="grpUtils" value="实用工具" version="1" />
-    <string key="tabUtilities" value="7" version="1" />
+    <string key="tabUtilities" derive="true" />
     <string key="btnBcdInstall" value="BCD备份/修复" version="1" />
     <string key="btnUtilities" value="实用工具" version="1" />
     <string key="btnMbrSetup" value="BCD部署" version="1" />
@@ -126,38 +126,12 @@
     <string key="MainUI" value="EasyBCD 2.0 - NeoSmart 的技术" version="1" />
     <string key="colName" value="条目" version="1" />
     <string key="colDefault" value="默认" version="1" />
-    <string key="cbxVhdType" value="Microsoft VHD
-Raw Hard Disk 映像
-Raw分区映像" version="1" />
-    <string key="cbxIsoMode" value="从磁盘运行
-从内存加载" version="1" />
-    <string key="cbxPeType" value="WIM映像（Ramdisk）
-提取文件格式" version="1" />
-    <string key="lstWin7" derive="true" />
-    <string key="lstWinNt" derive="true" />
-    <string key="lstWin9x" derive="true" />
-    <string key="lstWinDos" derive="true" />
-    <string key="lstNixGrub" derive="true" />
-    <string key="lstNixGrub2" derive="true" />
-    <string key="lstNixLilo" derive="true" />
-    <string key="lstNixBsd" derive="true" />
-    <string key="lstNixWubi" derive="true" />
-    <string key="lstNixSys" derive="true" />
-    <string key="lstEfi" value="EFI (默认)" version="1" />
-    <string key="lstMbr" derive="true" />
-    <string key="cbxEntryDep" value="启用选择
-禁用选择
-常开
-常关" version="1" />
-    <string key="cbxEntryPae" value="默认
-启用
-禁用" version="1" />
-    <string key="cbxEntrySafe" value="正常
-安全模式
-带网络的安全模式
-命令行/命令行管理程序
-基本VGA
-Active Directory修复" version="1" />
+    <string key="cbxVhdType" value="Microsoft VHD&#xD;&#xA;Raw Hard Disk 映像&#xD;&#xA;Raw分区映像" version="1" />
+    <string key="cbxIsoMode" value="从磁盘运行&#xD;&#xA;从内存加载" version="1" />
+    <string key="cbxPeType" value="WIM映像（Ramdisk）&#xD;&#xA;提取文件格式" version="1" />
+    <string key="cbxEntryDep" value="启用选择&#xD;&#xA;禁用选择&#xD;&#xA;常开&#xD;&#xA;常关" version="1" />
+    <string key="cbxEntryPae" value="默认&#xD;&#xA;启用&#xD;&#xA;禁用" version="1" />
+    <string key="cbxEntrySafe" value="正常&#xD;&#xA;安全模式&#xD;&#xA;带网络的安全模式&#xD;&#xA;命令行/命令行管理程序&#xD;&#xA;基本VGA&#xD;&#xA;Active Directory修复" version="1" />
     <string key="emptyList" value="没有检测项" version="1" />
   </strings>
 </localization>

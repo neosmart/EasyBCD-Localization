@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="email" value="Email" version="1" />
-    <string key="MinimumWidth" value="511" />
-    <string key="MinimumHeight" value="334" />
+    <string key="email" derive="true" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
     <string key="linkClick" value="Κάντε κλικ εδώ" version="1" />
-    <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
+    <string key="linkEmail" derive="true" />
     <string key="btnRegister" value="&amp;Εγγραφή" version="1" />
     <string key="btnContinue" value="Συνέχεια" version="1" />
     <string key="linkLabel" value="Αυτό το αντίγραφο του EasyBCD απαιτεί την αγορά μιας εμπορικής άδειας.&#xD;&#xA;&#xD;&#xA;Παρακαλώ εισάγετε είτε τη διεύθυνση e-mail ή τον αριθμό αδείας που σχετίζονται με την αγορά σας. Κάντε κλικ εδώ για να αγοράσετε μια άδεια, ή επικοινωνήστε στο Sales@NeoSmart.net για υποστήριξη." version="1" />

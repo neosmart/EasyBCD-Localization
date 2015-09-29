@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="btnOK" value="OK" version="2" />
+    <string key="btnOK" derive="true" />
     <string key="btnCancel" value="Ακύρωση" version="2" />
-    <string key="btnBrowseBcd" value="..." version="1" />
+    <string key="btnBrowseBcd" derive="true" />
     <string key="MinimumWidth" value="550" />
-    <string key="MinimumHeight" value="359" />
+    <string key="MinimumHeight" derive="true" />
     <string key="chkAutoUpdate" value="Αυτόματη ενημέρωση κάθε" version="1" />
-    <string key="numUpdateInterval" value="0" version="1" />
+    <string key="numUpdateInterval" derive="true" />
     <string key="rdoDays" value="Μέρα(ες)" version="1" />
     <string key="rdoWeeks" value="Εβδομάδα(ες)" version="1" />
     <string key="rdoMonths" value="Μήνας(ες)" version="1" />
     <string key="lblLastUpdateCheck" value="Τελευταίος αυτόματος έλεγχος:" version="1" />
     <string key="tabGeneralSettings" value="Γενικές Ρυθμίσεις" version="1" />
     <string key="lblOverviewSize" value="Μέγεθος:" version="1" />
-    <string key="numFontOverview" value="8" version="1" />
-    <string key="lblOverviewPt" value="pt." version="1" />
+    <string key="numFontOverview" derive="true" />
+    <string key="lblOverviewPt" derive="true" />
     <string key="lblDetailedSize" value="Μέγεθος:" version="1" />
-    <string key="numFontDetailed" value="8" version="1" />
-    <string key="lblDetailedPt" value="pt." version="1" />
+    <string key="numFontDetailed" derive="true" />
+    <string key="lblDetailedPt" derive="true" />
     <string key="OptionsDialog" value="Ρυθμίσεις του EasyBCD" version="1" />
     <string key="overview" value="Επισκόπηση" version="1" />
     <string key="detailed" value="Λεπτομερής" version="1" />

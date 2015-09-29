@@ -13,7 +13,6 @@
     <string key="isoFiles" value="Εικόνες ISO" version="1" />
     <string key="imgFiles" value="Αρχεία IMG" version="1" />
     <string key="warning" value="Προσοχή!" version="1" />
-    <string key="sysInfo" value="Πληροφορίες Συστήματος" version="1" />
     <string key="controlPanel" value="Πίνακας Ελέγχου" version="1" />
     <string key="isoHelpTitle" value="Σχετικά με τις επιλογές των ISO" version="1" />
     <string key="drive2" value="Δίσκος" version="1" />
@@ -48,7 +47,7 @@
     <string key="msdosHelp" value="Για να εκκινήσετε MS-DOS 6.x ή Windows 3.x, IO.SYS και MSDOS.SYS πρέπει να είναι κατά την έναρξη του ενεργού διαμερίσματος.&#xD;&#xA;&#xD;&#xA;Για περισσότερες πληροφορίες σχετικά με τον τρόπο που αυτό επιτυγχάνεται, πατήστε «Ναι» για να ανοίξει η σελίδα βοήθειας του EasyBCD  για DOS καταχωρήσεις. Αν δεν θέλετε να δείτε την βοήθεια τώρα, πατήστε «Όχι»." version="1" />
     <string key="msdosHelpTitle" value="Ανάγνωση της βοήθειας του EasyBCD MS-DOS;" version="1" />
     <string key="addedFormat" value="{0} προστέθηκαν στο μενού εκκίνησης με επιτυχία!" version="1" />
-    <string key="neogrubBootloader" value="NeoGrub Bootloader" version="1" />
+    <string key="neogrubBootloader" derive="true" />
     <string key="neogrubRemoved" value="Το NeoGrub αφαιρέθηκε με επιτυχία!" version="1" />
     <string key="vhdErrorTitle" value="Σφάλμα κατά την προσθήκη του VHD" version="1" />
     <string key="errorSpaces" value="Η διαδρομή της εικόνας δεν πρέπει να περιέχει κενά διαστήματα. Παρακαλώ διορθώστε το και προσπαθήστε ξανά." version="1" />
@@ -83,15 +82,14 @@
     <string key="confirmRestartTitle" value="Επιβεβαίωση Επανεκκίνησης" version="1" />
     <string key="shutdownStarted" value="Ο τερματισμός ξεκίνησε." version="1" />
     <string key="errorBootIniTitle" value="Δεν είναι δυνατή η φόρτωση του boot.ini!" version="1" />
-    <string key="sysRestore" value="Επαναφορά Συστήματος" version="1" />
     <string key="restoreCds" derive="true" />
     <string key="controlPanelText" value="Ξεκινήστε τον Πίνακα Ελέγχου, και χρησιμοποιήστε τον για να κάνετε ό, τι θέλετε." version="1" />
     <string key="errorNoEntriesTitle" value="Δεν υπάρχουν εγκατεστημένες καταχωρήσεις!" version="1" />
     <string key="diffDeviceTitle" value="Μη φορητή καταχώρηση δίσκου εντοπίστηκε!" version="1" />
-    <string key="bcdExceptionFormat" value="BCD Exception 0x{0:X3}" version="1" />
+    <string key="bcdExceptionFormat" derive="true" />
     <string key="userCancel" value="Η λειτουργία ακυρώθηκε από το χρήστη." version="1" />
     <string key="renameSuccess" value="Η καταχώρηση μετονομάστηκε επιτυχώς" version="1" />
-    <string key="plop" value="EasyBCD BIOS Extender" version="1" />
+    <string key="plop" derive="true" />
     <string key="entryRemovedFormat" value="{0} έχουν αφαιρεθεί" version="1" />
     <string key="bcdRepaired" value="Το BCD επιδιορθώθηκε με επιτυχία " version="1" />
     <string key="configSaved" value="Οι ρυθμίσεις της καταχώρησης αποθηκεύτηκαν με επιτυχία." version="1" />
@@ -129,7 +127,6 @@
     <string key="bcdLoadedFormat" value="Φορτώθηκαν οι πληροφορίες BCD από {0}" version="1" />
     <string key="noBcd" value="Δεν φορτώθηκε BCD. Το EasyBCD λειτουργεί σε περιορισμένη λειτουργία." version="1" />
     <string key="errorUtility" value="Παρουσιάστηκε σφάλμα κατά την εκκίνηση της εφαρμογής" version="1" />
-    <string key="sysRestoreText" value="Ανοίγει τον Πίνακα Επαναφοράς Συστήματος, χρησιμοποιήστε το για να επαναφέρετε/διορθώσετε γρήγορα τυχόν αλλαγές σε υπολογιστές σας που αντιμετωπίζουν προβλήματα." version="1" />
     <string key="restoreCdsText" value="Το Easy Recovery Essentials (EasyRE) για Windows είναι ένα πρόγραμμα που μπορεί να διορθώσει αυτόματα προβλήματα στην αποτυχία εκκίνησης του υπολογιστή και μπορεί να τρέξει από CD ή USB." version="2" />
     <string key="errorPathSaveTitle" value="Πρόβλημα προεπιλεγμένης διαδρομής αντιγράφων ασφαλείας" version="1" />
     <string key="errorNoBcd" value="Δεν φορτώθηκε μητρώο BCD - λειτουργεί σε κατάσταση περιορισμένης λειτουργικότητας!" version="1" />
@@ -139,8 +136,7 @@
     <string key="updateFoundText2" value="Μια νέα έκδοση του EasyBCD έχει βρεθεί. Θα θέλατε το EasyBCD να ενημερωθεί αυτόματα με την τελευταία έκδοση;&#xD;&#xA;&#xD;&#xA;Πατήστε &quot;Ναι&quot; για να γίνει αυτόματα λήψη και αναβάθμιση, &quot;Όχι&quot; για να δείτε τη λίστα των αλλαγών και να αναβαθμίσετε χειροκίνητα, ή &quot;Ακύρωση&quot; για να ακυρώσετε." version="1" />
     <string key="hiddenBootIni" value="Το boot.ini βρίσκεται στο κρυφό διαμέρισμα εκκίνησης και δεν μπορεί να φορτωθεί για επεξεργασία από το EasyBCD.&#xD;&#xA;&#xD;&#xA;Παρακαλούμε δώστε ένα γράμμα μονάδας δίσκου στο κρυφό διαμέρισμα εκκίνησης ή χρησιμοποιήστε το Windows XP dual-boot auto-configuration χαρακτηριστικό αντ 'αυτού." version="1" />
     <string key="errorBootIniFormat" value="Το EasyBCD δεν μπορεί να ανιχνεύσει ένα υπάρχον αρχείο boot.ini στο διαμέρισμα εκκίνησης {0}.&#xD;&#xA;&#xD;&#xA;Παρακαλώ προσθέστε μία νέα καταχώρηση για Windows XP ή Windows 2000, για να χρησιμοποιήσετε το χαρακτηριστικό της αυτόματης διαμόρφωσης boot.ini." version="1" />
-    <string key="sysInfoText" value="Εμφανίζει πληροφορίες σχετικά με το τρέχον υλικό σας και τη διαμόρφωση λογισμικού. Χρήσιμο για εύρεση βλαβών υλικού και για μία γρήγορη αναφορά της τρέχουσας ρύθμισης του συστήματος." version="1" />
-    <string key="powerConsole" value="EasyBCD Power Console" version="1" />
+    <string key="powerConsole" derive="true" />
     <string key="powerConsoleText" value="Γρήγορη πρόσβαση σε γραμμή εντολών με πλήρη δικαιώματα διαχειριστή. Χρησιμοποιήστε το για την εκτέλεση εντολών του συστήματος ή για γρήγορη πρόσβαση στο bcdedit και Bootsect.exe." version="1" />
     <string key="iRebootText" value="Εφαρμογή της NeoSmart Technologies για το EasyBCD. Το iReboot βρίσκεται στη γραμμή εργασιών (καταναλώνει μόνο 400KB μνήμης!) και σας βοηθάει να επιλέξετε το λειτουργικό σύστημα για επανεκκινήση γρήγορα και εύκολα." version="1" />
     <string key="errorNoEntries" value="Το EasyBCD εντόπισε ότι δεν υπάρχουν εγκατεστημένες καταχωρήσεις. Αν βγείτε από το EasyBCD και κάνετε επανεκκίνηση του υπολογιστή σας δεν θα ξεκινήσει κανονικά.&#xD;&#xA;&#xD;&#xA;Είστε βέβαιοι ότι θέλετε να βγείτε πριν προσθέσετε μια νέα καταχώρηση;" version="1" />

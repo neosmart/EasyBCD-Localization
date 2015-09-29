@@ -10,6 +10,6 @@
     <string key="thanksFormat" derive="true" />
     <string key="title" value="Om {0}" version="1" />
     <string key="MinimumWidth" derive="true" />
-    <string key="MinimumHeight" value="376" version="6" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

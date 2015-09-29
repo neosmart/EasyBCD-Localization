@@ -2,7 +2,7 @@
 <localization>
   <strings>
     <string key="OKButton" value="ОК" version="1" />
-    <string key="seatsAllowed" value="users/devices allowed" version="1" />
+    <string key="seatsAllowed" derive="true" />
     <string key="unlicensed" value="Не лицензионная копия!" version="1" />
     <string key="version" value="Версия" version="1" />
     <string key="copyright" value="Все права защищены © NeoSmart Technologies 2006 - {0}" version="2" />
@@ -10,6 +10,6 @@
     <string key="thanksFormat" value="Особая благодарность командам Grub4Dos, PLoP,{0} и UltraDefrag!&#xD;&#xA;&#xD;&#xA;В EasyBCD включены в качестве самостоятельных модулей Grub4Dos и UltraDefrag, распространяемые на условиях лицензии GPLv2. Для дополнительной информации смотрите файл лицензии в корневом каталоге." version="1" />
     <string key="title" value="О программе {0}" version="1" />
     <string key="MinimumWidth" value="512" />
-    <string key="MinimumHeight" value="376" version="6" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

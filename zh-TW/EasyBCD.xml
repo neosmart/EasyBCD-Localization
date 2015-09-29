@@ -32,7 +32,7 @@
     <string key="msdosHelp" value="為了 EasyBCD 開機到 MS-DOS 6.x 或 Windows 3.x，IO.SYS 和 MSDOS.SYS 必須在啟動分割區的開始。&#xD;&#xA;&#xD;&#xA;如何完成的更多資訊，請按下 [是] 開啟 DOS 基礎項目的 EasyBCD 文件頁。 如果您不希望立即檢視文件，請按下 [否]。" version="1" />
     <string key="msdosHelpTitle" value="讀取 EasyBCD 的 MS-DOS 文件?" version="1" />
     <string key="addedFormat" value="{0} 加入到開機選單成功!" version="1" />
-    <string key="neogrubBootloader" value="NeoGrub Bootloader" version="1" />
+    <string key="neogrubBootloader" derive="true" />
     <string key="neogrubRemoved" value="NeoGrub 移除成功!" version="1" />
     <string key="vhdErrorTitle" value="加入 VHD 項目錯誤" version="1" />
     <string key="errorSpaces" value="映像路徑必須不包含任何空格，請修正並重試。" version="1" />
@@ -135,7 +135,7 @@
     <string key="bcdExceptionFormat" value="BCD 異常 0x{0:X3}" version="1" />
     <string key="userCancel" value="使用者取消操作。" version="1" />
     <string key="renameSuccess" value="項目重新命名成功" version="1" />
-    <string key="plop" value="EasyBCD BIOS Extender" version="1" />
+    <string key="plop" derive="true" />
     <string key="entryRemovedFormat" value="{0} 已移除" version="1" />
     <string key="drive2" value="磁碟機" version="1" />
     <string key="bcdResetStatus" value="BCD 重設成功。 請立即重新組態!" version="1" />

@@ -7,10 +7,10 @@
     <string key="chkRememberBackup" value="結束時記住 BCD 備份目錄" version="1" />
     <string key="lblExpertMode" value="專家模式在進行進階動作時不提示使用者!" version="1" />
     <string key="chkLoadDefaultBcd" value="啟動時自動載入以下 BCD 檔案:" version="1" />
-    <string key="btnBrowseBcd" value="..." version="1" />
+    <string key="btnBrowseBcd" derive="true" />
     <string key="chkAutoUpdate" value="自動更新間隔 " version="1" />
     <string key="chkRss" value="包含 NeoSmart Technologies 在 Windows RSS 平台" version="1" />
-    <string key="numUpdateInterval" value="0" version="1" />
+    <string key="numUpdateInterval" derive="true" />
     <string key="rdoDays" value="天" version="1" />
     <string key="rdoWeeks" value="星期" version="1" />
     <string key="rdoMonths" value="個月" version="1" />
@@ -21,11 +21,11 @@
     <string key="lblOverviewFont" value="總覽字型:" version="1" />
     <string key="lblDetailedFont" value="詳細資料檢視字型: " version="1" />
     <string key="lblOverviewSize" value="大小: " version="1" />
-    <string key="numFontOverview" value="8" version="1" />
-    <string key="lblOverviewPt" value="pt." version="1" />
+    <string key="numFontOverview" derive="true" />
+    <string key="lblOverviewPt" derive="true" />
     <string key="lblDetailedSize" value="大小: " version="1" />
-    <string key="numFontDetailed" value="8" version="1" />
-    <string key="lblDetailedPt" value="pt." version="1" />
+    <string key="numFontDetailed" derive="true" />
+    <string key="lblDetailedPt" derive="true" />
     <string key="chkWordWrap" value="預設啟用自動換行" version="1" />
     <string key="chkSaveWindow" value="結束時儲存 EasyBCD 視窗大小" version="1" />
     <string key="ResetSize" value="重設顯示選項" version="1" />
@@ -35,7 +35,7 @@
     <string key="detailed" value="詳細資料" version="1" />
     <string key="locateBcd" value="尋找有效的 BCD 存放" version="1" />
     <string key="never" value="永不" version="1" />
-    <string key="MinimumWidth" value="452" />
-    <string key="MinimumHeight" value="359" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

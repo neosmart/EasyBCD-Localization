@@ -83,10 +83,6 @@
     <string key="controlPanelText" value="Spustí ovládací panely systému Windows pro další práci." version="1" />
     <string key="powerConsole" derive="true" />
     <string key="powerConsoleText" value="Rychlý přístup k příkazové řádce s plnými právy administrátora. Pro rychlé využití funkcí systému, nebo rychlému přístupu k bcdedit a bootsect.exe." version="1" />
-    <string key="sysInfo" value="Systémové Informace" version="1" />
-    <string key="sysInfoText" value="Zobrazí informace týkající se aktuálního softwarového a hardwarového nastavení." version="1" />
-    <string key="sysRestore" value="Obnova Systému" version="1" />
-    <string key="sysRestoreText" value="Otevře panel obnovy systému, pro použití rychlé opravy/obnovy změn, které ve vašem PC způsobily problémy." version="1" />
     <string key="restoreCds" derive="true" />
     <string key="errorBootIniTitle" value="Není možno načíst boot.ini" version="1" />
     <string key="errorBootIniFormat" value="EasyBCD nemohl najít existující soubor boot.ini ve spouštěcím oddílu {0}.&#xD;&#xA;&#xD;&#xA;Prosím přidejte nový Windows XP nebo Windows 2000 vstup k použití boot.ini automatickému nastavení." version="1" />

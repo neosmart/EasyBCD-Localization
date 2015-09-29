@@ -9,7 +9,7 @@
     <string key="multiEntriesFormat" value="有一个{0}项已列入bootloader." version="1" />
     <string key="entryNum" value="条目 #" version="1" />
     <string key="name" value="名称" version="1" />
-    <string key="bcdId" value="BCD ID" version="1" />
+    <string key="bcdId" derive="true" />
     <string key="drive" value="驱动器" version="1" />
     <string key="device" value="设备" version="1" />
     <string key="path" value="路径" version="1" />
@@ -30,8 +30,8 @@
     <string key="bcdRegistry" value="BCD注册表" version="1" />
     <string key="partition" value="分区" version="1" />
     <string key="unknown" value="未知" version="1" />
-    <string key="gib" value="GiB" version="1" />
-    <string key="mib" value="MiB" version="1" />
+    <string key="gib" derive="true" />
+    <string key="mib" derive="true" />
     <string key="as" value="作为" version="1" />
     <string key="defragFormat" value="开始整理{0}文件碎片" version="1" />
     <string key="unnamed" value="未命名条目" version="1" />

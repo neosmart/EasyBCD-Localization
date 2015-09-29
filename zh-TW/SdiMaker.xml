@@ -6,7 +6,7 @@
     <string key="Body" value="為了繼續，EasyBCD 需要存取 Windows Vista 或以上安裝媒體 (通常是 DVD 或光碟映像)。 &#xD;&#xA;&#xD;&#xA;請插入 DVD 到您的光碟機或掛載光碟映像，然後按一下 [確定] 繼續。" version="2" />
     <string key="SdiMaker" value="插入 Windows 安裝媒體" version="1" />
     <string key="mediaNotFound" value="偵測不到有效的 Windows 安裝媒體。" version="1" />
-    <string key="MinimumWidth" value="381" />
-    <string key="MinimumHeight" value="196" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

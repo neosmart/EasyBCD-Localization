@@ -6,7 +6,7 @@
     <string key="btnDonate" value="&amp;Δωρεά" version="1" />
     <string key="donationTitle" value="Βοηθήστε το EasyBCD!" version="1" />
     <string key="MinimumWidth" value="650" />
-    <string key="MinimumHeight" value="342" version="5" />
+    <string key="MinimumHeight" derive="true" />
     <string key="lblDonationIntro" value="Το EasyBCD είναι 100% ελεύθερο λογισμικό, και σκοπεύουμε να το κρατήσουμε με αυτόν τον τρόπο. Αλλά μόνο και μόνο επειδή είναι δωρεάν δεν σημαίνει ότι δεν κοστίζει καθόλου για την ανάπτυξη και τις δοκιμές.&#xD;&#xA;&#xD;&#xA;Μέχρι σήμερα, το EasyBCD έχει μεταφορτωθεί δωρεάν πάνω από 25 εκατ. φορές σώζοντας αμέτρητους H/Y." version="1" />
     <string key="lblYouDonate" value="Μπορείτε να κάνετε δωρεά για να βοηθήσετε το EasyBCD να σώσει περισσότερους Η/Υ;" version="1" />
     <string key="DonationDialog" value="Σας βοήθησε το EasyBCD;" version="1" />

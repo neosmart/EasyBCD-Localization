@@ -9,7 +9,7 @@
     <string key="seatsAllowed" value="المستخدمين/الاجهزة المسموحة" version="1" />
     <string key="thanksFormat" value="شكر خاص للفرق  Grub4Dos, PLoP,{0} and UltraDefrag &#xD;&#xA;هذه التوزيعة من EasyBCD تأتي مع مكونات مستقلة  (Grub4Dos و UltraDefrag)  مرخصة تحت شروط رخصة GPLv2. لمزيد من المعلومات, رجاءاً راجع ملف الرخصة في مجلد التثبيت." version="1" />
     <string key="title" value="عن {0}" version="1" />
-    <string key="MinimumWidth" value="486" />
-    <string key="MinimumHeight" value="376" version="6" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

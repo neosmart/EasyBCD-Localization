@@ -4,7 +4,7 @@
     <string key="failedSave" value="Απέτυχε η αποθήκευση των αλλαγών!" version="1" />
     <string key="accessDeniedTitle" value="Δεν επιτρέπεται η πρόσβαση" version="1" />
     <string key="name" value="Όνομα" version="1" />
-    <string key="bcdId" value="BCD ID" version="1" />
+    <string key="bcdId" derive="true" />
     <string key="device" value="Συσκευή" version="1" />
     <string key="default" value="Προεπιλεγμένο" version="1" />
     <string key="skipped" value="Παραλείφθηκαν" version="1" />
@@ -30,8 +30,8 @@
     <string key="locateValid" value="Εντοπίστε ένα έγκυρο BCD" version="1" />
     <string key="bcdRegistry" value="Μητρώο BCD" version="1" />
     <string key="partition" value="Διαμέρισμα" version="1" />
-    <string key="gib" value="GiB" version="1" />
-    <string key="mib" value="MiB" version="1" />
+    <string key="gib" derive="true" />
+    <string key="mib" derive="true" />
     <string key="as" value="ως" version="1" />
     <string key="defragFormat" value="Έναρξη ανασυγκρότησης του αρχείου {0}" version="1" />
     <string key="unnamed" value="Καταχώρηση χωρίς όνομα" version="1" />

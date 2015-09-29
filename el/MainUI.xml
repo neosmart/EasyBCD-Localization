@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="numTimeout" value="0" version="1" />
+    <string key="numTimeout" derive="true" />
     <string key="btnSaveBCD" value="Αποθήκευση ρυθμίσεων" version="1" />
     <string key="btnUp" value="Πάνω" version="1" />
     <string key="btnDown" value="Κάτω" version="1" />
     <string key="btnRenameEntry" value="Μετονομασία" version="1" />
     <string key="btnDelete" value="Διαγραφή" version="1" />
-    <string key="btnBrowse" value="..." version="1" />
+    <string key="btnBrowse" derive="true" />
     <string key="lblType" value="Τύπος:" version="1" />
     <string key="lblName" value="Όνομα:" version="1" />
     <string key="lblFile" value="Αρχείο:" version="1" />
-    <string key="MinimumHeight" value="456" version="2" />
+    <string key="MinimumHeight" derive="true" />
     <string key="MinimumWidth" value="730" />
     <string key="rdoModeDetailed" value="Λεπτομέρειες (Εντοπισμός σφαλμάτων)" version="1" />
     <string key="rdoModeBasic" value="Γενικά" version="1" />
     <string key="chkWordWrap" value="Αναδίπλωση λέξεων" version="1" />
     <string key="grpDisplayMode" value="Τρόπος Εμφάνισης" version="1" />
-    <string key="tabViewSettings" value="1" version="1" />
+    <string key="tabViewSettings" derive="true" />
     <string key="rdoTimeoutCount" value="Αντίστροφη μέτρηση από" version="1" />
     <string key="rdoTimeoutNone" value="Περίμενε επιλογή του χρήστη" version="1" />
     <string key="rdoTimeoutSkip" value="Παράλειψη μενού εκκίνησης" version="1" />
     <string key="grpTimeout" value="Επιλογές μενού" version="2" />
     <string key="grpModifyEntries" value="Τροποποίηση Καταχωρήσεων Μενού" version="1" />
-    <string key="tabEditMenu" value="2" version="1" />
+    <string key="tabEditMenu" derive="true" />
     <string key="lblPath" value="Διαδρομή:" version="1" />
     <string key="lblDrive" value="Δίσκος:" version="1" />
     <string key="btnAddNewEntry" value="Προσθήκη καταχώρησης" version="1" />
@@ -34,7 +34,7 @@
     <string key="tabPageIso" derive="true" />
     <string key="txtPeName" value="Εικόνα NST WinPE" version="1" />
     <string key="chkEms" value="Ενεργοποιημένο EMS" version="1" />
-    <string key="tabPageWinPE" value="WinPE" version="1" />
+    <string key="tabPageWinPE" derive="true" />
     <string key="txtFloppyName" value="Εικόνα δισκέτας NeoSmart" version="1" />
     <string key="tabPageFloppy" value="Δισκέτα" version="1" />
     <string key="btnPlopInstall" value="Εγκατάσταση του PLoP" version="1" />
@@ -42,18 +42,18 @@
     <string key="tabPagePlop" derive="true" />
     <string key="lblWindowsAuto" value="Προσδιορίζεται αυτόματα" version="1" />
     <string key="chkAutoXp" value="Αυτόματος εντοπισμός σωστού δίσκου" version="1" />
-    <string key="txtWinName" value="Microsoft Windows" version="1" />
-    <string key="tabPageWin" value="Windows" version="1" />
-    <string key="txtLinName" value="NeoSmart Linux" version="1" />
+    <string key="txtWinName" derive="true" />
+    <string key="tabPageWin" derive="true" />
+    <string key="txtLinName" derive="true" />
     <string key="lblLinAuto" value="Καθορίζεται αυτόματα " version="1" />
-    <string key="tabPageLinux" value="Linux/BSD" version="1" />
-    <string key="txtMacName" value="NST Mac OS X" version="1" />
-    <string key="tabPageMac" value="Mac" version="1" />
+    <string key="tabPageLinux" derive="true" />
+    <string key="txtMacName" derive="true" />
+    <string key="tabPageMac" derive="true" />
     <string key="btnNeoGrub" value="Εγκατάσταση" version="1" />
     <string key="btnNeoGrubConfig" value="Ρύθμιση" version="1" />
     <string key="tabPageNeoGrub" value="NeoGrub" version="1" />
     <string key="grpOS" value="Λειτουργικά Συστήματα" version="1" />
-    <string key="tabAddEntry" value="3" version="1" />
+    <string key="tabAddEntry" derive="true" />
     <string key="btnSaveSettings" value="Αποθήκευση ρυθμίσεων" version="1" />
     <string key="lblLocale" value="Γλώσσα" version="1" />
     <string key="tabEntryBasic" value="Κανονικό" version="1" />
@@ -63,13 +63,13 @@
     <string key="chkEntryUnsigned" value="Επιτρέπετε χρήση προγραμμάτων οδήγησης χωρίς υπογραφή για 64-bit των Windows" version="1" />
     <string key="tabEntryAdvanced" value="Για Προχωρημένους" version="1" />
     <string key="chkEntryKernelDebug" value="Εκτέλεση των Windows σε λειτουργία Kernel-Debug" version="1" />
-    <string key="numEntryMemory" value="0" version="1" />
-    <string key="numEntryCpu" value="0" version="1" />
-    <string key="tabAdvanced" value="4" version="1" />
-    <string key="tabBcdInstall" value="5" version="1" />
-    <string key="tabMbrSetup" value="6" version="1" />
+    <string key="numEntryMemory" derive="true" />
+    <string key="numEntryCpu" derive="true" />
+    <string key="tabAdvanced" derive="true" />
+    <string key="tabBcdInstall" derive="true" />
+    <string key="tabMbrSetup" derive="true" />
     <string key="grpUtils" value="Χρήσιμα Προγράμματα" version="1" />
-    <string key="tabUtilities" value="7" version="1" />
+    <string key="tabUtilities" derive="true" />
     <string key="btnBcdInstall" value="Επισκευή/Backup BCD " version="1" />
     <string key="btnUtilities" value="Χρήσιμα Προγράμματα" version="1" />
     <string key="btnMbrSetup" value="Εγκατάσταση BCD" version="1" />
@@ -102,10 +102,8 @@
     <string key="lblUsbPartitions" value="Διαμέρισμα:" version="1" />
     <string key="btnMbrWrite" value="Εγγραφή MBR" version="1" />
     <string key="grpToolbox" value="EasyBCD Εργαλειοθήκη" version="1" />
-    <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" version="1" />
+    <string key="MainUI" derive="true" />
     <string key="colDefault" value="Προεπιλεγμένο" version="1" />
-    <string key="lstRunDisk" value="Εκτέλεση από δίσκο" version="1" />
-    <string key="lstWim" value="WIM Image (Ramdisk)" version="1" />
     <string key="cbxWinType" derive="true" />
     <string key="cbxLinType" derive="true" />
     <string key="cbxMacType" derive="true" />
@@ -137,7 +135,6 @@
     <string key="grpBootloader" value="Επιλογές διαμόρφωσης του MBR " version="1" />
     <string key="colName" value="Καταχώριση" version="1" />
     <string key="cbxIsoMode" value="Εκτέλεση από δίσκο&#xD;&#xA;Φόρτωση από Μνήμη" version="1" />
-    <string key="lstExtracted" value="Extracted Filesystem Layout" version="1" />
     <string key="emptyList" value="Δεν εντοπίστηκαν καταχωρήσεις!" version="1" />
     <string key="cbxVhdType" derive="true" />
     <string key="cbxPeType" derive="true" />

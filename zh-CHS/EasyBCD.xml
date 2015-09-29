@@ -110,12 +110,8 @@
     <string key="errorBootIniTitle" value="无法加载BOOT.INI！" version="1" />
     <string key="errorBootIniFormat" value="EasyBCD在启动分区{0}上无法检测到现有的Boot.ini文件。&#xD;&#xA;&#xD;&#xA;请添加一个新的Windows XP或Windows2000项，而不是使用的boot.ini自动配置功能。" version="1" />
     <string key="errorUtility" value="错误的运行实例" version="1" />
-    <string key="sysInfo" value="系统信息" version="1" />
-    <string key="sysInfoText" value="显示您当前的硬件和软件配置的信息。为牵制硬件故障，并迅速得到当前系统设置的转储。" version="1" />
     <string key="powerConsole" value="EasyBCD电源控制台" version="1" />
     <string key="powerConsoleText" value="快速访问具有完全管理权限的命令行外壳。使用它进行系统的功能或快速访问BCDEDIT和bootsect.exe" version="1" />
-    <string key="sysRestore" value="系统还原" version="1" />
-    <string key="sysRestoreText" value="打开“系统还原”面板，用它来快速恢复/修复任何更改使你的电脑告别烦恼。" version="1" />
     <string key="restoreCds" value="Windows Vista /7系统恢复光盘" version="1" />
     <string key="restoreCdsText" value="万一灾难发生可下载Windows Vista和Windows7系统恢复光盘的副本。您可以从USB启动使用EasyBCD加载这些恢复光盘。" version="1" />
     <string key="controlPanel" value="控制面板" version="1" />

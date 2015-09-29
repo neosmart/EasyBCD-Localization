@@ -5,9 +5,9 @@
     <string key="rdoModeDetailed" value="詳細資料 (除錯模式)" version="1" />
     <string key="chkWordWrap" value="自動換行" version="1" />
     <string key="grpDisplayMode" value="顯示模式" version="1" />
-    <string key="tabViewSettings" value="1" version="1" />
+    <string key="tabViewSettings" derive="true" />
     <string key="rdoTimeoutCount" value="倒數開始" version="1" />
-    <string key="numTimeout" value="0" version="1" />
+    <string key="numTimeout" derive="true" />
     <string key="rdoTimeoutNone" value="等待使用者選取" version="1" />
     <string key="rdoTimeoutSkip" value="略過開機選單" version="1" />
     <string key="btnSaveBCD" value="儲存設定" version="1" />
@@ -17,102 +17,65 @@
     <string key="btnRenameEntry" value="重新命名" version="1" />
     <string key="btnDelete" value="刪除" version="1" />
     <string key="grpModifyEntries" value="修改選單項目" version="1" />
-    <string key="tabEditMenu" value="2" version="1" />
-    <string key="btnBrowse" value="..." version="1" />
-    <string key="btnVhdBrowse" clone="btnBrowse" />
-    <string key="btnPeBrowse" clone="btnBrowse" />
-    <string key="btnFloppyBrowse" clone="btnBrowse" />
-    <string key="btnBackupBrowse" clone="btnBrowse" />
-    <string key="btnRestoreBrowse" clone="btnBrowse" />
-    <string key="btnIsoBrowse" clone="btnBrowse" />
+    <string key="tabEditMenu" derive="true" />
+    <string key="btnBrowse" derive="true" />
     <string key="lblName" value="名稱:" version="1" />
-    <string key="lblVhdName" clone="lblName" />
-    <string key="lblIsoName" clone="lblName" />
-    <string key="lblPeName" clone="lblName" />
-    <string key="lblFloppyName" clone="lblName" />
-    <string key="lblWinName" clone="lblName" />
-    <string key="lblLinName" clone="lblName" />
-    <string key="lblMacName" clone="lblName" />
-    <string key="lblNewName" clone="lblName" />
     <string key="lblType" value="類型:" version="1" />
-    <string key="lblVhdType" clone="lblType" />
-    <string key="lblPeType" clone="lblType" />
-    <string key="lblWinType" clone="lblType" />
-    <string key="lblLinType" clone="lblType" />
     <string key="lblPath" value="路徑:" version="1" />
-    <string key="lblVhdPath" clone="lblPath" />
-    <string key="lblIsoPath" clone="lblPath" />
-    <string key="lblWinPE_Path" clone="lblPath" />
-    <string key="lblFloppyPath" clone="lblPath" />
     <string key="lblDrive" value="磁碟機:" version="1" />
-    <string key="lblWinDrive" clone="lblDrive" />
-    <string key="lblLinDrive" clone="lblDrive" />
-    <string key="lblNewDrive" clone="lblDrive" />
     <string key="btnAddNewEntry" value="加入項目" version="1" />
-    <string key="btnAddLinux" clone="btnAddNewEntry" />
-    <string key="btnAddMac" clone="btnAddNewEntry" />
-    <string key="btnAddVhd" clone="btnAddNewEntry" />
-    <string key="btnAddIso" clone="btnAddNewEntry" />
-    <string key="btnAddPE" clone="btnAddNewEntry" />
-    <string key="btnAddFloppy" clone="btnAddNewEntry" />
-    <string key="btnAddWindows" clone="btnAddNewEntry" />
     <string key="lblMode" value="模式:" version="1" />
-    <string key="lblMacMode" clone="lblMode" />
-    <string key="lblIsoMode" clone="lblMode" />
     <string key="lblFile" value="檔案:" version="1" />
-    <string key="lblFile1" clone="lblFile" />
-    <string key="lblFile2" clone="lblFile" />
-    <string key="txtVhdName" value="NeoSmart VHD Image" version="1" />
+    <string key="txtVhdName" derive="true" />
     <string key="tabPageVhd" value="磁碟映像" version="1" />
-    <string key="txtIsoName" value="NeoSmart ISO Entry" version="1" />
-    <string key="tabPageIso" value="ISO" version="1" />
-    <string key="txtPeName" value="NST WinPE Image" version="1" />
+    <string key="txtIsoName" derive="true" />
+    <string key="tabPageIso" derive="true" />
+    <string key="txtPeName" derive="true" />
     <string key="chkEms" value="啟用 EMS" version="1" />
-    <string key="tabPageWinPE" value="WinPE" version="1" />
-    <string key="txtFloppyName" value="NeoSmart Floppy Image" version="1" />
+    <string key="tabPageWinPE" derive="true" />
+    <string key="txtFloppyName" derive="true" />
     <string key="tabPageFloppy" value="軟碟" version="1" />
     <string key="btnPlopInstall" value="安裝 PLoP" version="1" />
     <string key="btnPlopRemove" value="移除 PLoP" version="1" />
     <string key="lblBiosExtend" value="EasyBCD 的 BIOS Extender 能作為本身不支援的電腦從網路、CD、或 USB 開機。" version="1" />
-    <string key="tabPagePlop" value="BIOS Extender" version="1" />
+    <string key="tabPagePlop" derive="true" />
     <string key="grpPortable" value="卸除式/外部媒體" version="1" />
     <string key="lblWindowsAuto" value="自動判斷" version="1" />
     <string key="chkAutoXp" value="自動偵測正確磁碟機" version="1" />
-    <string key="txtWinName" value="Microsoft Windows" version="1" />
-    <string key="tabPageWin" value="Windows" version="1" />
+    <string key="txtWinName" derive="true" />
+    <string key="tabPageWin" derive="true" />
     <string key="chkGrub" value="使用 EasyBCD 的 GRUB 副本" version="1" />
-    <string key="txtLinName" value="NeoSmart Linux" version="1" />
+    <string key="txtLinName" derive="true" />
     <string key="lblLinAuto" value="自動判斷" version="1" />
-    <string key="tabPageLinux" value="Linux/BSD" version="1" />
-    <string key="txtMacName" value="NST Mac OS X" version="1" />
-    <string key="tabPageMac" value="Mac" version="1" />
+    <string key="tabPageLinux" derive="true" />
+    <string key="txtMacName" derive="true" />
+    <string key="tabPageMac" derive="true" />
     <string key="btnNeoGrub" value="安裝" version="1" />
     <string key="btnNeoGrubConfig" value="組態" version="1" />
     <string key="lblNeoGrub" value="NeoGrub Bootloader 能作為 Linux 和舊版 Windows 或甚至隱藏磁碟機的開機。" version="1" />
-    <string key="tabPageNeoGrub" value="NeoGrub   " version="1" />
+    <string key="tabPageNeoGrub" derive="true" />
     <string key="grpOS" value="作業系統" version="1" />
-    <string key="tabAddEntry" value="3" version="1" />
+    <string key="tabAddEntry" derive="true" />
     <string key="btnSaveSettings" value="儲存設定" version="1" />
     <string key="lblLocale" value="地區:" version="1" />
-    <string key="lblMenuLocale" clone="lblLocale" />
     <string key="tabEntryBasic" value="基本" version="1" />
     <string key="lblSafeMode" value="安全模式:" version="1" />
     <string key="lblPae" value="PAE 支援: " version="1" />
-    <string key="lblDep" value="NoExecute: " version="1" />
+    <string key="lblDep" derive="true" />
     <string key="chkEntryUnsigned" value="允許在 64 位元 Windows 使用未指派的磁碟機" version="1" />
     <string key="tabEntryAdvanced" value="進階" version="1" />
     <string key="chkEntryKernelDebug" value="執行 Windows 在 Kernel-Debug 模式" version="1" />
     <string key="chkEntrySos" value="執行在 SOS/Verbose-Boot 模式" version="1" />
-    <string key="numEntryMemory" value="0" version="1" />
+    <string key="numEntryMemory" derive="true" />
     <string key="lblDeduct2" value="MiB 從實體記憶體扣除" version="2" />
-    <string key="numEntryCpu" value="0" version="1" />
+    <string key="numEntryCpu" derive="true" />
     <string key="lblLimit2" value="Windows CPU/核心限制" version="2" />
     <string key="tabEntryDeveloper" value="開發人員" version="1" />
     <string key="lblAdvancedSettings" value="備註: 某些設定可能無法使用根據所修改的項目。" version="1" />
     <string key="grpChangeSettings" value="變更設定" version="1" />
     <string key="lblPickLH" value="從以下清單挑選要調整的項目。" version="1" />
     <string key="grpSelectLH" value="選取作業系統" version="1" />
-    <string key="tabAdvanced" value="4" version="1" />
+    <string key="tabAdvanced" derive="true" />
     <string key="btnBackup" value="備份設定" version="1" />
     <string key="btnRestore" value="還原備份" version="1" />
     <string key="grpBackupRestore" value="備份和還原 Bootloader 設定" version="1" />
@@ -121,7 +84,7 @@
     <string key="btnBcdRescue" value="執行動作" version="1" />
     <string key="rdoBcdReset" value="重設 BCD 組態" version="1" />
     <string key="grpDiagnostics" value="BCD 管理選項" version="1" />
-    <string key="tabBcdInstall" value="5" version="1" />
+    <string key="tabBcdInstall" derive="true" />
     <string key="btnMakeBootable" value="安裝 BCD" version="1" />
     <string key="lblUsbPartitions" value="分割區:" version="1" />
     <string key="lblCreateBootable" value="EasyBCD 能自動建立可開機媒體的程序。 選取以下分割區來開始。" version="1" />
@@ -130,9 +93,9 @@
     <string key="rdoMbrXP" value="安裝 Windows XP NTLDR Bootloader" version="2" />
     <string key="rdoMbrVista" value="安裝 Vista+ BCD/Bootmgr Bootloader" version="2" />
     <string key="grpBootloader" value="MBR 組態選項" version="1" />
-    <string key="tabMbrSetup" value="6" version="1" />
+    <string key="tabMbrSetup" derive="true" />
     <string key="grpUtils" value="有用的公用程式" version="1" />
-    <string key="tabUtilities" value="7" version="1" />
+    <string key="tabUtilities" derive="true" />
     <string key="btnBcdInstall" value="BCD 備份/修復" version="1" />
     <string key="btnUtilities" value="有用的公用程式" version="1" />
     <string key="btnMbrSetup" value="BCD 部署" version="1" />
@@ -160,24 +123,24 @@
     <string key="mnuDonate2" value="贊助(&amp;D)" version="1" />
     <string key="mnuAbout" value="關於(&amp;B)" version="1" />
     <string key="mnuHelp" value="說明(&amp;H)" version="1" />
-    <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" version="1" />
+    <string key="MainUI" derive="true" />
     <string key="colName" value="項目" version="1" />
     <string key="colDefault" value="預設" version="1" />
     <string key="cbxVhdType" value="Microsoft VHD&#xD;&#xA;Raw 硬碟映像&#xD;&#xA;Raw 分割區映像" version="1" />
     <string key="cbxIsoMode" value="從磁碟執行&#xD;&#xA;從記憶體載入" version="1" />
     <string key="cbxPeType" value="WIM 映像 (Ramdisk)&#xD;&#xA;Extracted Filesystem Layout" version="1" />
-    <string key="cbxWinType" value="Windows Vista/7/8/10&#xD;&#xA;Windows NT/2k/XP/2k3&#xD;&#xA;Windows 95/98/ME&#xD;&#xA;MS-DOS 6.x&#xD;&#xA;FreeDOS" version="2" />
+    <string key="cbxWinType" derive="true" />
     <string key="cbxLinType" value="GRUB (舊版)&#xD;&#xA;GRUB 2&#xD;&#xA;LILO/eLILO&#xD;&#xA;FreeBSD/PC-BSD&#xD;&#xA;Wubi&#xD;&#xA;SysLinux" version="1" />
     <string key="cbxMacType" value="EFI (預設)&#xD;&#xA;MBR" version="1" />
     <string key="cbxEntryDep" value="OptIn&#xD;&#xA;OptOut&#xD;&#xA;始終開啟&#xD;&#xA;始終關閉" version="1" />
     <string key="cbxEntryPae" value="預設&#xD;&#xA;啟用&#xD;&#xA;停用" version="1" />
     <string key="cbxEntrySafe" value="標準&#xD;&#xA;安全模式&#xD;&#xA;安全模式含網路&#xD;&#xA;命令列 / 替代殼層&#xD;&#xA;基本 VGA&#xD;&#xA;Active Directory 修復" version="1" />
     <string key="emptyList" value="偵測不到項目!" version="1" />
-    <string key="MinimumWidth" value="583" />
-    <string key="MinimumHeight" value="456" version="2" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
     <string key="efiTitle" value="偵測到 EFI Bootloader!" version="1" />
     <string key="efiMessage" value="EasyBCD 偵測到您的系統目前開機在 EFI 模式。 由於 Microsoft 的設定限制，許多 EasyBCD 的多重開機功能無法在 EFI 模式使用且已停用。&#xD;&#xA;&#xD;&#xA;按下 [確定] 以繼續或 [說明] 以深入了解這些限制和可能的解決方案。" version="1" />
-    <string key="lstFreeDos" value="FreeDOS" />
+    <string key="lstFreeDos" derive="true" />
     <string key="chkMetroUI" value="使用 Metro Bootloader" />
   </strings>
 </localization>
