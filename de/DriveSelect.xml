@@ -2,11 +2,11 @@
 <localization>
   <strings>
     <string key="lblDriveSelect" value="Neues Startlaufwerk:" version="1" />
-    <string key="lblBody" value="EasyBCD wird Ihr System neu konfigurieren um von der unten gewählten Partition zu starten. Dieser Prozess wird einen BCD Speicher auf dem gewählten Laufwerk einrichten, die momentanen BCD-Einträge dorthin kopieren und die gewählte Partition aktiv und startfähig machen." version="1" />
+    <string key="lblBody" value="EasyBCD wird Ihr System neu konfigurieren, um von der unten gewählten Partition zu starten. Dieser Prozess wird einen BCD Speicher auf dem gewählten Laufwerk einrichten, die momentanen BCD-Einträge dorthin kopieren und die gewählte Partition aktiv und startfähig machen." version="1" />
     <string key="OK_Button" value="&amp;OK" version="1" />
-    <string key="Cancel_Button" value="&amp;Verwerfen" version="1" />
+    <string key="Cancel_Button" value="Verwerfen" version="1" />
     <string key="DriveSelect" value="Laufwerksauswahl" version="1" />
-    <string key="errorAlreadyBoot" value="Das Laufwerk, das Sie gewählt haben ist bereits das momentane Startlaufwerk. Bitte wählen Sie ein anderes Laufwerk, um fortzufahren!" version="1" />
+    <string key="errorAlreadyBoot" value="Das Laufwerk, das Sie gewählt haben, ist bereits das momentane Startlaufwerk. Bitte wählen Sie ein anderes Laufwerk, um fortzufahren!" version="1" />
     <string key="errorAlreadyBootTitle" value="Bitte ein anderes Laufwerk wählen!" version="1" />
     <string key="MinimumWidth" value="518" />
     <string key="MinimumHeight" value="199" />

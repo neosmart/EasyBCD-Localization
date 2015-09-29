@@ -13,8 +13,8 @@
     <string key="licenseKey" value="Ключ ліцензії" version="1" />
     <string key="seats" value="Кількість" version="1" />
     <string key="regFailTitle" value="Невдала реєстрація!" version="1" />
-    <string key="regFail" value="Невірний Email чи ключ ліцензії. Будь ласка, повторіть спробу." version="1" />
-    <string key="regException" value="Сталася помилка при підключенні до віддаленого сервера. Будь ласка, переконайтеся, що ви підключені до мережі Інтернет або спробуйте пізніше." version="1" />
+    <string key="regFail" value="Невірний email чи ключ ліцензії. Будь ласка, повторіть спробу." version="1" />
+    <string key="regException" value="Сталася помилка при підключенні до сервера. Будь ласка, переконайтеся, що ви підключені до мережі Інтернет або спробуйте пізніше." version="1" />
     <string key="regExceptionTitle" value="Неможливо зареєструватися!" version="1" />
     <string key="btnContinue" value="Продовжити" version="1" />
     <string key="regSuccess" value="Реєстрацію завершено!" version="1" />

@@ -4,15 +4,15 @@
     <string key="linkLabel" value="Diese Kopie erfordert den Erwerb einer kommerziellen Lizenz.&#xD;&#xA;&#xD;&#xA;Bitte entweder die Emailadresse oder die Lizenznummer entsprechend Ihres Erwerbes eingeben. Hier klicken um eine Lizenz zu erwerben, oder kontaktieren Sie Sales@NeoSmart.net für Unterstützung..&#xD;&#xA;&#xD;&#xA;" version="1" />
     <string key="linkClick" value="Hier klicken" version="1" />
     <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
-    <string key="btnSkip" value="Überspringen" version="1" />
+    <string key="btnSkip" value="Über&amp;springen" version="1" />
     <string key="btnRegister" value="&amp;Registrieren" version="1" />
     <string key="lblTitle" value="EasyBCD kommerzielle Version" version="1" />
-    <string key="lblLicenseKey" value="Emailaresse oder Lizenzschlüssel:" version="1" />
+    <string key="lblLicenseKey" value="Emailadresse oder Lizenzschlüssel:" version="1" />
     <string key="LicenseDialog" value="EasyBCD Kommerzielle Version" version="1" />
     <string key="email" value="Emailadresse" version="1" />
     <string key="licenseKey" value="Lizenzschlüssel" version="1" />
     <string key="seats" value="Arbeitsplätze" version="1" />
-    <string key="regFailTitle" value="Registrierung gescheitert!" version="1" />
+    <string key="regFailTitle" value="Registrierung fehlgeschlagen!" version="1" />
     <string key="regFail" value="Email-Adresse oder Lizenz-Schlüssel nicht korrekt. Bitte versuchen Sie es nocheinmal." version="1" />
     <string key="regException" value="Fehlermeldung aufgetreten während die Lizenzdaten vom Server übertragen wurden. Bitte stellen Sie sicher daß Sie mit dem Internet verbunden sind oder versuchen Sie es später nocheinmal." version="1" />
     <string key="regExceptionTitle" value="Registrierung fehlgeschlagen" version="1" />

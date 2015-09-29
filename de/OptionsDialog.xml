@@ -14,26 +14,26 @@
     <string key="chkAutoUpdate" value="Automatisches Update alle" version="1" />
     <string key="rdoDays" value="Tag(e)" version="1" />
     <string key="rdoMonths" value="Monat(e)" version="1" />
-    <string key="lblLastUpdateCheck" value="Letzte automatische Update-Prüfung:" version="1" />
+    <string key="lblLastUpdateCheck" value="Letzte automatische Update-Prüfung: " version="1" />
     <string key="tabGeneralSettings" value="Allgemeine Einstellungen" version="1" />
     <string key="lblDefaultTab" value="Standard-Anzeige beim Start:" version="1" />
     <string key="lblDefaultDisplay" value="Voreingesteller Anzeige Modus:" version="1" />
-    <string key="lblOverviewFont" value="Schriftart Überblick:" version="1" />
-    <string key="lblDetailedFont" value="Schriftart Details:" version="1" />
+    <string key="lblOverviewFont" value="Schriftart für Überblick:" version="1" />
+    <string key="lblDetailedFont" value="Schriftart für Details:" version="1" />
     <string key="lblOverviewSize" value="Größe:" version="1" />
     <string key="numFontOverview" value="8" version="1" />
-    <string key="lblOverviewPt" value="pt." version="1" />
+    <string key="lblOverviewPt" value="Pkt. " version="1" />
     <string key="lblDetailedSize" value="Größe:" version="1" />
     <string key="numFontDetailed" value="8" version="1" />
-    <string key="lblDetailedPt" value="pt." version="1" />
-    <string key="chkWordWrap" value="Zeilenumbruch" version="1" />
+    <string key="lblDetailedPt" value="Pkt. " version="1" />
+    <string key="chkWordWrap" value="Zeilenumbruch (als Voreinstellung)" version="1" />
     <string key="chkSaveWindow" value="Beim Verlassen von EasyBCD Fenstergröße speichern" version="1" />
     <string key="ResetSize" value="Standardwerte Anzeige" version="1" />
     <string key="tabDisplayOptions" value="Anzeigeoptionen" version="1" />
     <string key="OptionsDialog" value="EasyBCD Einstellungen" version="1" />
     <string key="overview" value="Überblick" version="1" />
     <string key="detailed" value="Detailliert" version="1" />
-    <string key="locateBcd" value="Einen gültigen BCD Speicher wählen" version="1" />
+    <string key="locateBcd" value="Einen gültigen BCD Speicher auswählen" version="1" />
     <string key="never" value="Nie" version="1" />
     <string key="MinimumWidth" value="452" />
     <string key="MinimumHeight" value="359" />

@@ -69,12 +69,12 @@
     <string key="opNotAllowed" value="不允許操作!" version="1" />
     <string key="errorNotMounted" value="EasyBCD 無法製作未掛載的磁碟機可開機。 請指派代號到選取的磁碟區，重新啟動 EasyBCD，並重試。" version="1" />
     <string key="invalidDrive" value="無效的磁碟機操作" version="1" />
-    <string key="bootableSuccess" value="EasyBCD 已成功轉換選取的磁碟為可開機磁碟機。 為了在選取的分割區組態開機選單，您必須使用 [檔案 | 選取 BCD 存放] 並選擇在您剛備妥分割區的 \Boot\BCD 檔案。" version="1" />
+    <string key="bootableSuccess" value="EasyBCD 已成功轉換選取的磁碟為可開機磁碟機。 為了在選取的分割區組態開機選單，您必須使用 [檔案 | 選取 BCD 存放] 並在您剛備妥的分割區選擇 \Boot\BCD 檔案。" version="1" />
     <string key="mountBcdNow" value="您希望立即在 EasyBCD 自動載入最新建立的 BCD 存放嗎?" version="1" />
     <string key="bootableTitle" value="可開機磁碟已建立" version="1" />
     <string key="accessDeniedText" value="無法獲得存取 BCD。 請檢查並確認在選取裝置的 BCD 存放目前未使用中。" version="1" />
     <string key="partitionConverted" value="分割區轉換成可開機磁碟機" version="1" />
-    <string key="bcdRemove1" value="這個進階選項除非您絕對確定希望解除安裝 Windows Vista/7 Bootloader 才使用!" version="1" />
+    <string key="bcdRemove1" value="除非您絕對確認希望解除安裝 BCD/BOOTMGR Bootloader，才使用這個進階選項 ! 需要這個版本的 Bootloader 以開機到 Windows Vista 或以上!" version="2" />
     <string key="bcdRemove2" value="除非正確的開機檔案已經到位，此功能才能開機到 Windows XP!" version="1" />
     <string key="bcdRemove3" value="您確定您希望繼續嗎?" version="1" />
     <string key="warning" value="警告!" version="1" />
@@ -87,7 +87,7 @@
     <string key="errorLogical" value="嘗試進行變更開機分割區為邏輯磁碟機，不允許。 開機分割區必須為主分割區。&#xD;&#xA;&#xD;&#xA;請選取不同的磁碟機或先轉換選取的分割區為主要，然後重試。" version="1" />
     <string key="bootChangedFormat" value="EasyBCD 已成功在磁碟機 {0} 產生新的開機分割區，且載入新的 BCD 存放作為修改，如果您希望進行任何進一步變更。 如果此分割區在您的第一個開機磁碟，您不需要採取任何進一步動作。 如果不是，您應立即關閉您的 PC 並從 BIOS 變更開機磁碟機使變更生效。" version="1" />
     <string key="bootChangedTitle" value="開機分割區已變更" version="1" />
-    <string key="unsupportedOS" value="此選項只能在 Windows Vista, Windows 7, 和 Windows 8 可以使用。" version="1" />
+    <string key="unsupportedOS" value="此選項只在 Windows Vista 和以上可以使用。" version="2" />
     <string key="unsupportedOSTitle" value="不支援的作業系統!" version="1" />
     <string key="errorNoRestore" value="嚴重錯誤: 無法還原選取的存放。" version="1" />
     <string key="errorNoRestoreTitle" value="還原錯誤" version="1" />
@@ -110,16 +110,16 @@
     <string key="errorBootIniTitle" value="無法載入 boot.ini!" version="1" />
     <string key="errorBootIniFormat" value="EasyBCD 無法偵測現有 boot.ini 檔案在開機分割區 {0}。&#xD;&#xA;&#xD;&#xA;請新增 Windows XP 或 Windows 2000 項目以使用 boot.ini 自動組態功能替代。" version="1" />
     <string key="errorUtility" value="執行公用程式發生錯誤" version="1" />
-    <string key="sysInfo" value="系統資訊" version="1" />
-    <string key="sysInfoText" value="顯示有關您目前硬體和軟體組態的資訊。 有助於掌握硬體失敗和快速取得目前系統設定的傾印。" version="1" />
-    <string key="powerConsole" value="EasyBCD Power Console" version="1" />
+    <string key="usbCreatorText" value="Easy USB 建立工具使其非常快速和輕鬆地轉換 ISO 映像，針對 Windows Setup 和其它還原工具到可開機 USB (不需要 CDs 或 DVDs)，只要按幾下按鍵。" version="1" />
+    <string key="usbCreator" value="Easy USB 建立工具" version="1" />
+    <string key="powerConsole" value="EasyBCD 強大主控台" version="1" />
     <string key="powerConsoleText" value="以完整系統管理員特殊權限快速存取命令列提示字元。 使用此進行系統功能或快速存取 bcdedit 和 bootsect.exe。" version="1" />
-    <string key="sysRestore" value="系統還原" version="1" />
-    <string key="sysRestoreText" value="開啟系統還原面板，用其快速恢復/修復任何留在您 PC 造成問題的變更。" version="1" />
-    <string key="restoreCds" value="Windows Vista/7 系統還原光碟" version="1" />
-    <string key="restoreCdsText" value="下載 Windows Vista 和 Windows 7 系統還原 CD 副本在手以防災難發生。 您可以使用 EasyBCD 從 USB 開機到這些還原光碟。" version="1" />
+    <string key="oemKeyText" value="使用 NeoSmart Technologies 的免費 Windows OEM 產品金鑰工具，來查詢和檢索電腦或筆電中內建 Windows 8 和 Windows 10 的 Windows 產品金鑰。" version="1" />
+    <string key="oemKey" value="Windows 產品金鑰工具" version="1" />
+    <string key="restoreCds" value="EasyRE Windows 還原光碟" version="2" />
+    <string key="restoreCdsText" value="Easy Recovery Essentials for Windows 是可開機修復和還原 CD/USB，能在下次無法開機時自動修復您的電腦。 EasyRE 的按 1 鍵修復將搜尋和修復幾乎所有的開機錯誤，包含 BSODs、BCD 錯誤、分割區錯誤組態的錯誤，和更多。" version="2" />
     <string key="controlPanel" value="控制台" version="1" />
-    <string key="controlPanelText" value="啟動控制台，並使用您所要的功能。" version="1" />
+    <string key="controlPanelText" value="啟動控制台，並使用您想要的功能。" version="1" />
     <string key="iRebootText" value="NeoSmart Technologies 針對 EasyBCD 的協助程式。 iReboot 位於您的工作列 (只佔 400KB 的記憶體!)，讓您快速並輕易的選擇要重新開機的作業系統。" version="1" />
     <string key="errorNoEntries" value="EasyBCD 偵測到目前未安裝項目。 如果您結束 EasyBCD 並重新啟動您的電腦，將會無法開機。&#xD;&#xA;&#xD;&#xA;您確定要結束而不新增項目嗎?" version="1" />
     <string key="errorNoEntriesTitle" value="未安裝項目!" version="1" />
@@ -148,6 +148,8 @@
     <string key="orderSaved" value="項目順序已儲存" version="1" />
     <string key="easybcdStatus" value="EasyBCD 狀態" version="1" />
     <string key="saveFileTitle" value="另存新檔" />
-    <string key="updateFoundText2" value="發現 EasyBCD 的新版本。 您希望 EasyBCD 自動更新成最新版本嗎?&#xD;&#xA;&#xD;&#xA;按下 [是] 自動下載並更新，[否] 查看變更清單並手動更新，或 [取消] 取消。" version="1" />
+    <string key="updateFoundText2" value="發現 EasyBCD 的新版本。 您希望 EasyBCD 自動更新成最新版本嗎?&#xD;&#xA;&#xD;&#xA;按下 [是] 自動下載並更新，[否] 查看變更清單並手動更新，或 [取消] 來取消。" version="1" />
+    <string key="help" value="說明" />
+    <string key="browse" value="瀏覽" />
   </strings>
 </localization>

@@ -1,13 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="btnAbort" value="&amp;Abortar" version="1">
-    </string>
-    <string key="CommandWindow" value="Janela de Comando do EasyBCD" version="1">
-    </string>
-    <string key="MinimumWidth" value="427">
-    </string>
-    <string key="MinimumHeight" value="279" version="6">
-    </string>
+    <string key="btnAbort" value="&amp;Abortar" version="1" />
+    <string key="CommandWindow" value="Janela de Comando do EasyBCD" version="1" />
+    <string key="MinimumWidth" value="427" />
+    <string key="MinimumHeight" value="279" version="6" />
   </strings>
 </localization>

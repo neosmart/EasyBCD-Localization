@@ -20,8 +20,8 @@
     <string key="tabViewSettings" value="1" version="1" />
     <string key="rdoTimeoutCount" value="Αντίστροφη μέτρηση από" version="1" />
     <string key="rdoTimeoutNone" value="Περίμενε επιλογή του χρήστη" version="1" />
-    <string key="rdoTimeoutSkip" value="Παραλείψη μενού εκκίνησης" version="1" />
-    <string key="grpTimeout" value="Επιλογές Λήξης Χρόνου" version="1" />
+    <string key="rdoTimeoutSkip" value="Παράλειψη μενού εκκίνησης" version="1" />
+    <string key="grpTimeout" value="Επιλογές μενού" version="1" />
     <string key="grpModifyEntries" value="Τροποποίηση Καταχωρήσεων Μενού" version="1" />
     <string key="tabEditMenu" value="2" version="1" />
     <string key="lblPath" value="Διαδρομή:" version="1" />
@@ -45,7 +45,7 @@
     <string key="txtWinName" value="Microsoft Windows" version="1" />
     <string key="tabPageWin" value="Windows" version="1" />
     <string key="txtLinName" value="NeoSmart Linux" version="1" />
-    <string key="lblLinAuto" value="Kαθορίζεται αυτόματα " version="1" />
+    <string key="lblLinAuto" value="Καθορίζεται αυτόματα " version="1" />
     <string key="tabPageLinux" value="Linux/BSD" version="1" />
     <string key="txtMacName" value="NST Mac OS X" version="1" />
     <string key="tabPageMac" value="Mac" version="1" />
@@ -57,7 +57,7 @@
     <string key="btnSaveSettings" value="Αποθήκευση ρυθμίσεων" version="1" />
     <string key="lblLocale" value="Γλώσσα" version="1" />
     <string key="tabEntryBasic" value="Κανονικό" version="1" />
-    <string key="lblSafeMode" value="Ασφαλής λειτουργεία" version="1" />
+    <string key="lblSafeMode" value="Ασφαλής λειτουργία" version="1" />
     <string key="lblPae" value="Υποστήριξη PAE:" version="1" />
     <string key="lblDep" value="Χωρίς εκτέλεση:" version="1" />
     <string key="chkEntryUnsigned" value="Επιτρέπετε χρήση προγραμμάτων οδήγησης χωρίς υπογραφή για 64-bit των Windows" version="1" />
@@ -106,32 +106,12 @@
     <string key="colDefault" value="Προεπιλεγμένο" version="1" />
     <string key="lstRunDisk" value="Εκτέλεση από δίσκο" version="1" />
     <string key="lstWim" value="WIM Image (Ramdisk)" version="1" />
-    <string key="cbxWinType" value="Windows Vista/7/8
-Windows NT/2k/XP/2k3
-Windows 95/98/ME
-MS-DOS 6.x
-FreeDOS" version="1" />
-    <string key="cbxLinType" value="GRUB (Legacy)
-GRUB 2
-LILO/eLILO
-FreeBSD/PC-BSD
-Wubi
-SysLinux" version="1" />
-    <string key="cbxMacType" value="EFI (Default)
-MBR" version="1" />
-    <string key="cbxEntryDep" value="OptIn
-OptOut
-Πάντα ενεργό
-Πάντα ανενεργό" version="1" />
-    <string key="cbxEntryPae" value="Προεπιλογή
-Ενεργοποιημένο
-Απενεργοποιημένο" version="1" />
-    <string key="cbxEntrySafe" value="Κανονική εκκίνηση
-Ασφαλής Λειτουργία
-Ασφαλής Λειτουργία με δίκτυο
-Γραμμή εντολών
-Βασική VGA
-Active Directory Repair" version="1" />
+    <string key="cbxWinType" value="Windows Vista/7/8/10&#xD;&#xA;Windows NT/2k/XP/2k3&#xD;&#xA;Windows 95/98/ME&#xD;&#xA;MS-DOS 6.x&#xD;&#xA;FreeDOS" version="1" />
+    <string key="cbxLinType" value="GRUB (Legacy)&#xD;&#xA;GRUB 2&#xD;&#xA;LILO/eLILO&#xD;&#xA;FreeBSD/PC-BSD&#xD;&#xA;Wubi&#xD;&#xA;SysLinux" version="1" />
+    <string key="cbxMacType" value="EFI (Default)&#xD;&#xA;MBR" version="1" />
+    <string key="cbxEntryDep" value="OptIn&#xD;&#xA;OptOut&#xD;&#xA;Πάντα ενεργό&#xD;&#xA;Πάντα ανενεργό" version="1" />
+    <string key="cbxEntryPae" value="Προεπιλογή&#xD;&#xA;Ενεργοποιημένο&#xD;&#xA;Απενεργοποιημένο" version="1" />
+    <string key="cbxEntrySafe" value="Κανονική εκκίνηση&#xD;&#xA;Ασφαλής Λειτουργία&#xD;&#xA;Ασφαλής Λειτουργία με δίκτυο&#xD;&#xA;Γραμμή εντολών&#xD;&#xA;Βασική VGA&#xD;&#xA;Active Directory Repair" version="1" />
     <string key="lblBiosExtend" value="Το EasyBCD BIOS extender μπορεί να χρησιμοποιηθεί για να γίνει εκκίνηση από δίκτυο, CD ή USB σε υπολογιστές που δεν τον υποστηρίζουν." version="1" />
     <string key="grpPortable" value="Φορητά/Εξωτερικά μέσα" version="1" />
     <string key="chkGrub" value="Χρησιμοποίηση EasyBCD GRUB" version="1" />
@@ -152,14 +132,18 @@ Active Directory Repair" version="1" />
     <string key="grpDiagnostics" value="Επιλογές διαχείρισης BCD" version="1" />
     <string key="grpCreateBootableExternal" value="Δημιουργία δυνατότητα εκκίνησης εξωτερικών μέσων" version="1" />
     <string key="lblCreateBootable" value="Το EasyBCD μπορεί να αυτοματοποιήσει τη διαδικασία δημιουργίας μέσων με δυνατότητα εκκίνησης. Επιλέξτε ένα διαμέρισμα παρακάτω για να ξεκινήσετε." version="1" />
-    <string key="rdoMbrXP" value="Εγκατάσταση του προγράμματος εκκίνησης των Windows XP στο MBR" version="1" />
-    <string key="rdoMbrVista" value="Εγκατάσταση του προγράμματος εκκίνησης των Windows Vista/7 στο MBR" version="1" />
+    <string key="rdoMbrXP" value="Εγκατάσταση του προγράμματος εκκίνησης Windows XP NTLDR" version="1" />
+    <string key="rdoMbrVista" value="Εγκατάσταση του προγράμματος εκκίνησης Vista+  BCD (bootmgr)" version="1" />
     <string key="grpBootloader" value="Επιλογές διαμόρφωσης του MBR " version="1" />
     <string key="colName" value="Καταχώριση" version="1" />
-    <string key="cbxIsoMode" value="Εκτέλεση από δίσκο
-Φόρτωση από Μνήμη" version="1" />
+    <string key="cbxIsoMode" value="Εκτέλεση από δίσκο&#xD;&#xA;Φόρτωση από Μνήμη" version="1" />
     <string key="lstExtracted" value="Extracted Filesystem Layout" version="1" />
-
     <string key="emptyList" value="Δεν εντοπίστηκαν καταχωρήσεις!" version="1" />
+    <string key="cbxVhdType" value="Microsoft VHD&#xD;&#xA;Raw Hard Disk Image&#xD;&#xA;Raw Partition Image" />
+    <string key="cbxPeType" value="WIM Image (Ramdisk)&#xD;&#xA;Extracted Filesystem Layout" />
+    <string key="efiTitle" value="Ανιχνεύτηκε EFI Bootloader!" />
+    <string key="efiMessage" value="Το EasyBCD ανίχνευσε ότι ο υπολογιστής εκκινεί μέσω EFI. Πολλές λειτουργίες του EasyBCD δεν μπορούν να εκτελεστούν σε EFI και έχουν απενεργοποιηθεί.&#xD;&#xA;&#xD;&#xA;Πατήστε «Εντάξει» για να συνεχίσετε ή «Βοήθεια» για να μάθετε περισσότερες λεπτομέρειες για αυτούς τους περιορισμούς και πιθανές λύσεις." />
+    <string key="lstFreeDos" value="FreeDOS" />
+    <string key="chkMetroUI" value="Use Metro bootloader" />
   </strings>
 </localization>

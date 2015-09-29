@@ -1,12 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="chkDontRemind" value="Non chidermelo in futuro" version="1" />
-    <string key="btnCancel" value="No &amp;grazie" version="1" />
+    <string key="chkDontRemind" value="Non chiedermelo più" version="1" />
+    <string key="btnCancel" value="&amp;No grazie" version="1" />
     <string key="btnDonate" value="&amp;Dona" version="1" />
-    <string key="lblDonationIntro" value="EasyBCD Community Edition é un sotware gratuito al 100%, ed intendiamo mantenerlo tale. Ma il fatto che sia gratuito non significa che i costi di sviluppo e prova siano inferiori.&#xD;&#xA;&#xD;&#xA;Ad oggi, EasyBCD é stato scaricato più di 25 milioni di volte ed ha risolto tantissimi casi, talora salvando il computer dalla distruzione." version="1" />
+    <string key="lblDonationIntro" value="EasyBCD Community Edition é un sotware gratuito al 100%, ed intendiamo mantenerlo tale. Ma il fatto che sia gratuito non significa che i costi di sviluppo e prova siano inferiori.&#xD;&#xA;&#xD;&#xA;Ad oggi EasyBCD é stato scaricato più di 25 milioni di volte ed ha risolto tantissimi casi, talora salvando il computer dalla distruzione." version="1" />
     <string key="donationTitle" value="Aiuta EasyBCD ad aiutarti!" version="1" />
     <string key="lblYouDonate" value="Vuoi fare una donazione per aiutare EasyBCD a salvare più PC?" version="1" />
     <string key="DonationDialog" value="L'uso di EasyBCD ti ha aiutato?" version="1" />
+    <string key="MinimumWidth" value="481" />
+    <string key="MinimumHeight" value="342" />
   </strings>
 </localization>

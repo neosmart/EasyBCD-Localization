@@ -74,7 +74,7 @@
     <string key="bootableTitle" value="Disque amorçable créé" version="1" />
     <string key="accessDeniedText" value="Impossible d'accéder à la BCD.Veuillez vérifier et vous assurer que le magasin BCD sur le périphérique sélectionné n'est pas en cours d'utilisation.&#xD;&#xA;" version="1" />
     <string key="partitionConverted" value="Partition convertie en volume de démarrage" version="1" />
-    <string key="bcdRemove1" value="Ceci est une option avancée qui ne doit être utilisée que si vous êtes absolument sûr de vouloir désinstaller le chargeur d'amorçage de Windows Vista/7/8 !" version="1" />
+    <string key="bcdRemove1" value="Ceci est une option avancée qui ne doit être utilisée que si vous êtes absolument sûr de vouloir désinstaller le chargeur d'amorçage ! Cette version du chargeur d'amorçage est requis pour démarrer sur Windows Vista ou plus récent !" version="1" />
     <string key="bcdRemove2" value="Cette fonctionnalité ne démarre sous Windows XP que si les fichiers de démarrage appropriées sont déjà en place !" version="1" />
     <string key="bcdRemove3" value="Etes vous sûr de vouloir continuer ?" version="1" />
     <string key="warning" value="Attention !" version="1" />
@@ -87,7 +87,7 @@
     <string key="errorLogical" value="Une tentative a été faite de changer en partition de démarrage un disque logique, ce qui n'est pas autorisé. La partition de démarrage doit être une partition primaire.&#xD;&#xA;&#xD;&#xA;Veuillez sélectionner un autre lecteur ou convertir la partition sélectionnée en partition primaire, puis réessayez.&#xD;&#xA;" version="1" />
     <string key="bootChangedFormat" value="EasyBCD a réussi à faire du volume {0} la nouvelle partition de démarrage et a chargé le nouveau magasin BCD pour modification, si vous souhaitez apporter d'autres changements. Si cette partition est sur votre premier disque de démarrage, vous n'avez pas besoin de prendre d'autres mesures. Si ce n'est pas le cas, vous devez redémarrer votre ordinateur et changer le disque de démarrage dans le BIOS pour que les modifications prennent effet.&#xD;&#xA;" version="1" />
     <string key="bootChangedTitle" value="Partition de démarrage modifiée" version="1" />
-    <string key="unsupportedOS" value="Cette option est uniquement disponible sur Windows Vista, Windows 7 et Windows 8.&#xD;&#xA;" version="1" />
+    <string key="unsupportedOS" value="Cette option est uniquement disponible sur Windows Vista ou plus récent.&#xD;&#xA;" version="1" />
     <string key="unsupportedOSTitle" value="Système d'exploitation non pris en charge !" version="1" />
     <string key="errorNoRestore" value="Erreur fatale : impossible de restaurer le magasin sélectionné.&#xD;&#xA;" version="1" />
     <string key="errorNoRestoreTitle" value="Erreur de restauration" version="1" />
@@ -116,8 +116,8 @@
     <string key="powerConsoleText" value="Accès rapide à un shell en ligne de commande avec des privilèges administrateurs complets. Utilisez-le pour lancer des fonctions du système ou pour un accès rapide à bcdedit et bootsect.exe." version="1" />
     <string key="sysRestore" value="restauration du système" version="1" />
     <string key="sysRestoreText" value="Ouvre le panneau de restauration du système, utilisez le pour rapidement annuler/corriger tout changement qui met votre PC en difficulté." version="1" />
-    <string key="restoreCds" value="CD de restauration système Windows Vista/7" version="1" />
-    <string key="restoreCdsText" value="Téléchargez une copie du CD de restauration système Windows Vista et Windows 7 pour le garder à portée de main en cas de sinistre. Vous pouvez utiliser EasyBCD pour démarrer du disque de récupération à partir d'un périphérique USB." version="1" />
+    <string key="restoreCds" value="EasyRE Windows Recovery CDs" version="1" />
+    <string key="restoreCdsText" value="Easy Recovery Essentials pour Windows est un CD/USB de récupération et de réparation de démarrage qui peut réparer automatiquement votre PC la fois où il ne veut pas démarrer. En un seul clic de réparation, EasyRE va rechercher et réparer presque toutes les erreurs de démarrage, incluant les BSODs, les erreurs du registre de démarrage, les erreur de configuration de partition et plus encore." version="1" />
     <string key="controlPanel" value="Panneau de configuration" version="1" />
     <string key="controlPanelText" value="Lancez le Panneau de configuration et utiliser le pour faire ce que vous voulez." version="1" />
     <string key="iRebootText" value="Application d'aide de NeoSmart Technologies pour EasyBCD. iReboot se place dans votre barre des tâches (il se contente de 400 Ko de mémoire !) et vous permet de choisir  rapidement et facilement sur quel système d'exploitation redémarrer." version="1" />
@@ -149,5 +149,11 @@
     <string key="easybcdStatus" value="Statut d'EasyBCD" version="1" />
     <string key="saveFileTitle" value="Enregistrer sous" />
     <string key="updateFoundText2" value="Une nouvelle version de EasyBCD a été détectée. Désirez vous mettre à jour automatiquement EasyBCD vers la dernière version ?&#xD;&#xA;&#xD;&#xA;Cliquez sur 'Oui' pour télécharger et mettre à jour automatiquement, sur 'Non' pour voir la liste des changements et mettre à jour manuellement, ou sur 'Annuler' pour annuler." version="1" />
+    <string key="help" value="Aide" />
+    <string key="browse" value="Parcourir" />
+    <string key="usbCreatorText" value="Easy USB Creator rend ridiculement rapide et facile de convertir des images ISO pour l'installation de Windows et d'autres outils de récupération dans une clé USB amorçable (aucun CD ou DVD nécessaires) en un seul clic." />
+    <string key="usbCreator" value="Easy USB Creator" />
+    <string key="oemKeyText" value="Utilisez l'outil de clé de produit Windows OEM gratuit de NeoSmart Technologies pour rechercher et récupérer la clé de produit Windows inscrite dans votre PC ou portable sous Windows 8 et Windows 10" />
+    <string key="oemKey" value="Windows Product Key Tool" />
   </strings>
 </localization>

@@ -3,8 +3,8 @@
   <strings>
     <string key="chkDontRemind" value="Mich nicht mehr erinnern" version="1" />
     <string key="btnCancel" value="Nein, Danke" version="1" />
-    <string key="btnDonate" value="&amp;Ich möchte spenden" version="1" />
-    <string key="lblDonationIntro" value="EasyBCD Community Edition ist 100% kostenlose Software, und wir beabsichtigen das beizubehalten. Aber nur weil es kostenlos ist, heißt das, daß es zumindest die Entwicklung und die Tests Geld kostet.&#xD;&#xA;Bis jetzt wurde EasyBCD über 25 Millionen mal heruntergeladen, um zahllose Computer vor der Zerstörung zu schützen." version="1" />
+    <string key="btnDonate" value="Ich möchte spenden" version="1" />
+    <string key="lblDonationIntro" value="EasyBCD Community Edition ist 100% kostenlose Software, und wir beabsichtigen das beizubehalten. Aber nur weil es kostenlos ist, heißt das, daß es zumindest die Entwicklung und die Tests Geld kosten.&#xD;&#xA;Bis jetzt wurde EasyBCD über 25 Millionen mal heruntergeladen, um zahllose Computer vor der Zerstörung zu schützen." version="1" />
     <string key="donationTitle" value="Hilf EasyBCD, hilf dir selbst!" version="1" />
     <string key="lblYouDonate" value="Wollen Sie spenden, daß EasyBCD mehr PCs retten kann?" version="1" />
     <string key="DonationDialog" value="Hat EasyBCD Ihnen geholfen?" version="1" />

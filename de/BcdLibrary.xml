@@ -22,14 +22,14 @@
     <string key="ebcdBootDevice" value="EasyBCD Start Gerät" version="1" />
     <string key="bootloaderPath" value="Bootloader Pfad" version="1" />
     <string key="bcdError" value="BCD Ausführungsfehler!" version="1" />
-    <string key="ntNotFoundTitle" value="Keine gültige NT-Installation gefunden!" version="1" />
+    <string key="ntNotFoundTitle" value="Keine gültige NT Installation gefunden!" version="1" />
     <string key="ntNotFound" value="EasyBCD hat keine gültige Windows NT-2003  Installation auf den vorhandenen Laufwerken gefunden und kann nicht fortgeführt werden." version="1" />
-    <string key="manuallyLoad" value="Wollen Sie eine BCD-Registrierungsdatei manuell laden für das EasyBCD Management? Bitte beachten Sie, daß EasyBCD den Windows Vista / 7 Bootloader benötigt und nicht in reinen XP- Umgebungen funktioniert." version="1" />
-    <string key="errorBcd" value="Fehler beim Öffnen der BCD Registry" version="1" />
+    <string key="manuallyLoad" value="Wollen Sie eine BCD-Datei manuell für das EasyBCD Management laden? Bitte beachten Sie, daß EasyBCD den standardmäßig installierten Windows-Loader von Vista (oder höherer Win-Version) benötigt und nicht in einer reinen XP- Umgebungen funktioniert." version="2" />
+    <string key="errorBcd" value="Fehler beim Öffnen der BCD Datei" version="1" />
     <string key="locateValid" value="Gültigen BCD Speicher angeben" version="1" />
-    <string key="bcdRegistry" value="BCD Registry" version="1" />
+    <string key="bcdRegistry" value="BCD Datei" version="1" />
     <string key="partition" value="Partition" version="1" />
-    <string key="unknown" value="Unbekannt(e)" version="1" />
+    <string key="unknown" value="Unbekannt" version="1" />
     <string key="gib" value="GByte" version="1" />
     <string key="mib" value="MByte" version="1" />
     <string key="as" value="als" version="1" />

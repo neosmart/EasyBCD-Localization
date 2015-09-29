@@ -15,24 +15,24 @@
     <string key="updateFailed" value="Ricerca di aggiornamenti non riuscita. Errore nello stabilire una connessione di rete." version="1" />
     <string key="updateFailedSB" value="Controllo degli aggiornamenti di EasyBCD non riuscito: " version="1" />
     <string key="updateFound" value="Rilevata una nuova versione di EasyBCD!" version="1" />
-    <string key="updateFoundText" value="E' stata trovata una nuova versione di EasyBCD. Vuoi andare alla pagina di download di EasyBCD per eseguire adesso l'aggiornamento alla versione aggiornata?" version="1" />
+    <string key="updateFoundText" value="E' stata trovata una nuova versione di EasyBCD. Vuoi andare alla pagina di download di EasyBCD per eseguire adesso l'aggiornamento al'ultima versione?" version="1" />
     <string key="updateNone" value="Il programma installato è aggiornato." version="1" />
     <string key="install" value="Installa" version="1" />
     <string key="remove" value="Rimuovi" version="1" />
-    <string key="adminLine1" value="EasyBCD richiede i privilegi di Amministratore per operare correttamente e non può perciò proseguire." version="1" />
-    <string key="adminLine2" value="Per favore esegui l'acecsso come Amministratore se intendi continuare." version="1" />
+    <string key="adminLine1" value="EasyBCD richiede i privilegi di Amministratore per operare correttamente e non può quindi proseguire." version="1" />
+    <string key="adminLine2" value="Per favore esegui l'accesso come Amministratore se intendi continuare." version="1" />
     <string key="adminTitle" value="Permesso negato" version="1" />
     <string key="easybcdBackup" value="EasyBCD Backup" version="1" />
-    <string key="yes" value="Yes" version="1" />
+    <string key="yes" value="Si" version="1" />
     <string key="no" value="No" version="1" />
     <string key="registryFailed" value="Non é possibile scrivere le impostazioni del registro" version="1" />
     <string key="commercialEdition" value="Edizione commerciale" version="1" />
     <string key="communityEdition" value="Community Edition" version="1" />
     <string key="failedAddTitle" value="Impossibile aggiungere una voce!" version="1" />
-    <string key="msdosHelp" value="Perchè EasyBCD possa eseguire i boot in modalità MS-DOS 6.x o Windows 3.x, i file IO.SYS and MSDOS.SYS devono trovarsi all'inizio della partizione attiva.&#xD;&#xA;&#xD;&#xA;Per maggiori informazioni su come ottenere tale caratteristica, seleziona 'Sì' per aprire la pagina di documentazione di EasyBCD per voci basate su DOS. Se preferisci non prendere visione adesso della documentazione, seleziona invece 'No'." version="1" />
+    <string key="msdosHelp" value="Perchè EasyBCD possa eseguire i boot in modalità MS-DOS 6.x o Windows 3.x, i file IO.SYS and MSDOS.SYS devono trovarsi all'inizio della partizione attiva.&#xD;&#xA;&#xD;&#xA;Per maggiori informazioni su come ottenere tale caratteristica, seleziona 'Si' per aprire la pagina di documentazione di EasyBCD per voci basate su DOS. Se preferisci non prendere visione adesso della documentazione, seleziona invece 'No'." version="1" />
     <string key="msdosHelpTitle" value="Consultare la documentazione di EasyBCD'relativa ad MS-DOS?" version="1" />
-    <string key="addedFormat" value="{0} menu aggiunte con successo al menu di boot!" version="1" />
-    <string key="neogrubBootloader" value="Gestore di boot NeoGrub" version="1" />
+    <string key="addedFormat" value="{0} voci aggiunte con successo al menu di boot!" version="1" />
+    <string key="neogrubBootloader" value="Gestore boot NeoGrub" version="1" />
     <string key="neogrubRemoved" value="NeoGrub rimosso con successo!" version="1" />
     <string key="vhdErrorTitle" value="Errore nell'aggiunta di una voce VHD" version="1" />
     <string key="errorSpaces" value="Il percorso dell'immagine non deve contenere spazi. Correggi l'errore e riprova." version="1" />
@@ -50,7 +50,7 @@
     <string key="safeIntro" value="EasyBCD consente di creare voci aggiuntive per eseguire il boot nello stesso sistema operativo, ma con opzioni differenti. Creando una nuova voce ed assegnandogli uno dei flag di 'Modalità provvisoria', si può usare per eseguire velocemente il debug del sistema." version="1" />
     <string key="safeNormal" value="Normale: disabilita tutte le opzioni di ripristino, consentendo di eseguire il boot normalmente." version="1" />
     <string key="safeVga" value="Basic VGA: carica i driver video di base, ripristinando la risoluzione dello schermo." version="1" />
-    <string key="safeNetworking" value="Modalità provvisoria con rete: avvio in modalità provvisoria accesso ad Internet ed alla rete locale." version="1" />
+    <string key="safeNetworking" value="Modalità provvisoria con rete: avvio in modalità provvisoria con accesso ad Internet ed alla rete locale." version="1" />
     <string key="safeMode" value="Modalità provvisoria: Avvio in modalità provvsioria senza alcun accesso di rete. Utile se i driver della rete sono stati corrotti." version="1" />
     <string key="safeAD" value="Active Directory Repair: avvia Windows Server 2008 nella modalità Active Directory Repair." version="1" />
     <string key="safeTitle" value="Opzioni della modalità provvisoria" version="1" />
@@ -58,23 +58,23 @@
     <string key="paeDefault" value="Predefinità: Windows stabilirà come la memoria deve venire mappata." version="1" />
     <string key="paeEnable" value="Abilitazione forzata: impone la mappatura della memoria." version="1" />
     <string key="paeDisable" value="Disabilitazione forzata: disabilita la mappatura della memoria extra." version="1" />
-    <string key="paeTitle" value="Opzioni PAE" version="1" />
+    <string key="paeTitle" value="Circa le opzioni PAE" version="1" />
     <string key="nxIntro" value="DEP/NoExecute é un sistema di individuazione di script maligni basato sull'hardware ed introdotto con Windows XP SP2 che può aiutare a proteggere il sistema da attacchi ma che può causare anche qualche problema di compatibilità." version="1" />
     <string key="nxOptIn" value="OptIn: il core di Windows core é protetto con DEP." version="1" />
     <string key="nxOptOut" value="OptOut: sia Windows che le applicazioni sono protetti con DEP." version="1" />
     <string key="nxOn" value="AlwaysOn: DEP é abilitato per tutte le applicazioni." version="1" />
     <string key="nxOff" value="AlwaysOff: DEP é disabilitato sia per per Windows che per tutte le applicazioni." version="1" />
-    <string key="nxTitle" value="DEP/NoExecute" version="1" />
+    <string key="nxTitle" value="Circa DEP/NoExecute" version="1" />
     <string key="errorNotPrimary" value="La partizione di avvio deve essere primaria.&#xD;&#xA;&#xD;&#xA;Seleziona una diversa unità o converti in primo luogo la partizione selezionata in primaria e riprova." version="1" />
     <string key="opNotAllowed" value="Operazione non consentita!" version="1" />
     <string key="errorNotMounted" value="EasyBCD non può rendere avviabili unità non montate. Assegna una lettera all'unità selezionata, riavvia  EasyBCD e riprova." version="1" />
     <string key="invalidDrive" value="Operazione su unità non valida" version="1" />
-    <string key="bootableSuccess" value="EasyBCD ha convertito con successo l'unità selezionata in una avviabile. Per configurare le voci del menu di avvio sulla partizione selezionata, usare 'File | Seleziona Store BCD' e scegli il file \Boot\BCD nella partizione appena preparata." version="1" />
+    <string key="bootableSuccess" value="EasyBCD ha convertito con successo l'unità selezionata in una avviabile. Per configurare le voci del menu di avvio sulla partizione selezionata, usa 'File | Seleziona Store BCD' e scegli il file \Boot\BCD nella partizione appena preparata." version="1" />
     <string key="mountBcdNow" value="Vuoi caricare automaticamente il BCD store appena creato in EasyBCD?" version="1" />
     <string key="bootableTitle" value="Disco di avvio creato" version="1" />
     <string key="accessDeniedText" value="Impossibile ottenere accesso al BCD. Controlla ed accertati che il BCD store nel dispositivo selezionato non sia attualmente in uso." version="1" />
     <string key="partitionConverted" value="Partizione convertita in disco avviabile" version="1" />
-    <string key="bcdRemove1" value="Questa é un'opzione avanzata che dovrebbe essere usata soltanto se si é assolutamente certi di voler disinstallare il gestore di boot di Windows Vista/7/8!" version="1" />
+    <string key="bcdRemove1" value="Questa é un'opzione avanzata che dovrebbe essere usata soltanto se si é assolutamente certi di voler disinstallare il gestore di boot di Windows. Queso componente é necessario per il funzionamento di tutte le versioni di Windows successive ad XP (Vista e seguenti)!" version="1" />
     <string key="bcdRemove2" value="Questa caratteristica consentirà di avviare soltanto in Windows XP se gli opportuni file di avvio sono già al loro posto!" version="1" />
     <string key="bcdRemove3" value="Sei sicuro di voler continuare?" version="1" />
     <string key="warning" value="Attenzione!" version="1" />
@@ -84,10 +84,10 @@
     <string key="bcdResetTitle" value="Ripristino BCD" version="1" />
     <string key="selectBootTitle" value="Scegli la nuova partizione di avvio" version="1" />
     <string key="selectBoot" value="EasyBCD ri-configurerà il sistema per l'avvio dalla patizione di seguito selezionata. Questo processo creerà un BCD store nell'unità selezionata, sovrascriverà le voci BCD attuali e renderà la partizione selezionata sia attiva &amp; che bootabile." version="1" />
-    <string key="errorLogical" value="E' stato fatto un tentativo di stabilire come partizione di avvio un'unità logica, il che non é consentito. La partizione di avvio deve essere primaria.&#xD;&#xA;&#xD;&#xA;Scegli una unitàe differente oppure converti la partizione selezionata in primaria, poi riprova." version="1" />
+    <string key="errorLogical" value="È stato fatto un tentativo di stabilire come partizione di avvio un'unità logica, il che non é consentito. La partizione di avvio deve essere primaria.&#xD;&#xA;&#xD;&#xA;Scegli una unitàe differente oppure converti la partizione selezionata in primaria, poi riprova." version="1" />
     <string key="bootChangedFormat" value="EasyBCD ha configurato correttamente il disco {0} come nuova partizione di avvio ed ha caricato il nuovo BCD store per le modifiche, nel caso desideri apportare cambiamenti. Se questa partizione si trova già sul primo disco di avvio, non occorre fare altro. In caso contrario, spegni il PC e cambia le impostazioni del disco di avvio nel BIOS affinchè le modifiche abbiano effetto." version="1" />
-    <string key="bootChangedTitle" value="Modificata partizione di avvio" version="1" />
-    <string key="unsupportedOS" value="Questa opzione é disponibile soltanto con Windows Vista, Windows 7, e Windows 8." version="1" />
+    <string key="bootChangedTitle" value="Partizione di avvio modificata" version="1" />
+    <string key="unsupportedOS" value="Questa opzione é disponibile soltanto con Windows Vista e versioni successive." version="1" />
     <string key="unsupportedOSTitle" value="Sistema operativo non supportato!" version="1" />
     <string key="errorNoRestore" value="Errore irreversibile: impossibile ripristinare lo store selezionato." version="1" />
     <string key="errorNoRestoreTitle" value="Errore di ripristino" version="1" />
@@ -96,9 +96,9 @@
     <string key="entryDeleted" value="Voce del menu di avvio eliminata" version="1" />
     <string key="thankYou" value="Il vostro supporto é gradito ed apprezzato!" version="1" />
     <string key="loadExternal" value="Con questa caratteristica, EasyBCD caricherà ed userà un database BCD esterno di vostra scelta. Le modifiche verranno apportate a tale BCD store e non influenzeranno la configurazione predefinita del sistema." version="1" />
-    <string key="loadExternalTitle" value="Scelta di un nuovo sStore" version="1" />
+    <string key="loadExternalTitle" value="Scelta di un nuovo Store" version="1" />
     <string key="easybcdFiles" value="File di EasyBCD" version="1" />
-    <string key="errorRO1" value="Non si ha l'autorizzazione per scrivere sul file selezionato, il file é di sola lettura oppure é archiviato su un dispositivo a sola lettura." version="1" />
+    <string key="errorRO1" value="Non si ha l'autorizzazione per scrivere nel file selezionato, il file é di sola lettura oppure é archiviato in un dispositivo a sola lettura." version="1" />
     <string key="errorRO2" value="Se si sceglie di continuare, i cambiamenti introdotti a questo BCD store non saranno salvati. Selezionare 'Sì' per continuare e caricare questo BCD store in modalità di sola lettura oppure 'No' per continuare usando il precedente BCD store." version="1" />
     <string key="errorROTitle" value="Individuato BCD Store di sola lettura" version="1" />
     <string key="bcdLoadedFormat" value="Informazioni BCD caricate da {0}" version="1" />
@@ -106,9 +106,9 @@
     <string key="confirmRestart" value="Sei sicuro di voler riavviare il computer?" version="1" />
     <string key="confirmRestartTitle" value="Conferma il riavvio del computer" version="1" />
     <string key="shutdownStarted" value="Spegnimento iniziato." version="1" />
-    <string key="hiddenBootIni" value="Boot.ini é ubicato nella partizione di avvio nascosta e non può essere caricato per la modifica utente da EasyBCD.&#xD;&#xA;&#xD;&#xA;Assegna una lettera alla partizione nascosta di avvio oppure usare la caratteristica di auto configurazione dual-boot di Windows XP." version="1" />
+    <string key="hiddenBootIni" value="Boot.ini é ubicato nella partizione di avvio nascosta e non può essere caricato per la modifica utente da EasyBCD.&#xD;&#xA;&#xD;&#xA;Assegna una lettera alla partizione nascosta di avvio oppure usa la caratteristica di auto configurazione dual-boot di Windows XP." version="1" />
     <string key="errorBootIniTitle" value="Impossibile caricare il file boot.ini!" version="1" />
-    <string key="errorBootIniFormat" value="EasyBCD non é in grado di individuare un file boot.ini esistente sulla partizione di avvio {0}.&#xD;&#xA;&#xD;&#xA;Aggiungi una nuova voce Windows XP oppure Windows 2000 per usare invece la caratteristica di auto configurazione del file boot.ini." version="1" />
+    <string key="errorBootIniFormat" value="EasyBCD non é in grado di individuare un file boot.ini esistente sulla partizione di avvio {0}.&#xD;&#xA;&#xD;&#xA;Aggiungi una nuova voce Windows XP oppure Windows 2000 per usare la caratteristica di auto configurazione del file boot.ini." version="1" />
     <string key="errorUtility" value="Errore nel funzionamento del programma" version="1" />
     <string key="sysInfo" value="Informazioni sul sistema" version="1" />
     <string key="sysInfoText" value="Visualizza informazioni sull'hardware e sulla configurazione software. Utile per individuare e correggere problemi hardware e per ottenere velocemente lo stato della configuazione attuale del sistema." version="1" />
@@ -117,7 +117,7 @@
     <string key="sysRestore" value="Ripristino del sistema" version="1" />
     <string key="sysRestoreText" value="Apre il pannello dell'utilità di ripristino del sistema. Da usare per annullare od apportare velocemente modifiche in caso di problemi." version="1" />
     <string key="restoreCds" value="CD di ripristino di sistema di Windows" version="1" />
-    <string key="restoreCdsText" value="Scarica una copia dei CD di ripristino di sistema di Windows Vista e Windows 7 /8da tenere a portata di mano in caso di necessità. E' possibile impiegare EasyBCD per avviare il sistema con questi dischi di ripristino anche attraverso una porta USB." version="1" />
+    <string key="restoreCdsText" value="Easy Recovery Essentials per Windows è uno strumento di riparazione e ripristino avviabile (da CD o da porta USB) che è in grado di riparare automaticamente il PC allorquando non riesce più ad avviarsi. Questo strumento con un semplice click cerca e ripara quasi tutti gli errori di boot, inclusi i BSOD, gli errori nel BCD, gli errori nella configurazione delle partizioni, ecc.&#xD;&#xA;" version="1" />
     <string key="controlPanel" value="Pannello di controllo" version="1" />
     <string key="controlPanelText" value="Carica il Pannello di controllo e da lì esegue qualsiasi azione si desideri." version="1" />
     <string key="iRebootText" value="Applicazione di aiuto NeoSmart Technologies per EasyBCD. iReboot risiede nella barra di sistema (occupa soltanto 400KB di memoria!) e consente di segliere facilmente e velocemente con quale sistema operativo riavviare." version="1" />
@@ -148,6 +148,12 @@
     <string key="orderSaved" value="Ordine delle voci salvato" version="1" />
     <string key="easybcdStatus" value="Stato di EasyBCD" version="1" />
     <string key="saveFileTitle" value="Salva come" />
-    <string key="updateFoundText2" value="E' stata trovata una nuova versione di EasyBCD. Vuoi che EasyBCD si aggiorni automaticamente?&#xD;&#xA;&#xD;&#xA;Seleziona 'Sì' per scaricare ed aggiornare, 'No' per vedere l'elenco dei cambiamenti ed aggiornare manualmente o 'Annulla' per ignorare." version="1" />
+    <string key="updateFoundText2" value="È stata trovata una nuova versione di EasyBCD. Vuoi che EasyBCD si aggiorni automaticamente?&#xD;&#xA;&#xD;&#xA;Seleziona 'Sì' per scaricare ed aggiornare, 'No' per vedere l'elenco dei cambiamenti ed aggiornare manualmente o 'Annulla' per ignorare." version="1" />
+    <string key="usbCreatorText" value="Easy USB Creator rende facile e veloce l'inserimento di immagini ISO per l'installazione di Windows o di strumenti di ripristino in un dispositivo avviabile USB mediante un semplice click." />
+    <string key="usbCreator" value="Easy USB Creator" />
+    <string key="oemKeyText" value="Si può usare lo strumento gratuito Windows OEM Product Key Tool di NeoSmart Technologies per prendere visione ed eventualmente recuperare il codice prodotto di Windows installato nei PC fissi o portatili." />
+    <string key="oemKey" value="Windows Product Key Tool&#xD;&#xA;" />
+    <string key="help" value="Aiuto" />
+    <string key="browse" value="Sfoglia" />
   </strings>
 </localization>

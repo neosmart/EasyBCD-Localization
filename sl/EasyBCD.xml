@@ -2,7 +2,7 @@
 <localization>
   <strings>
     <string key="linuxAuto" value="Samodejno iskanje in nalaganje" inačica="1" />
-    <string key="communityText" value="Program EasyBCD skupnosti je prosta licenca za nekomercialne namene.&#xD;&#xA;Če uporabljate to programsko opremo v komercialnem okolju, kliknite za nakup komercialne licence »Prekliči« . V nasprotnem primeru kliknite 'V redu' za nadaljevanje." inačica="1" />
+    <string key="communityText" value="Program EasyBCD skupnosti je brezplačna licenca za nekomercialne namene.&#xD;&#xA;Če uporabljate to programsko opremo v komercialnem okolju, kliknite za nakup komercialne licence »Prekliči« . V nasprotnem primeru kliknite 'V redu' za nadaljevanje." inačica="1" />
     <string key="communityTitle" value="Program EasyBCD skupnosti" inačica="1" />
     <string key="bcdInUse" value="Trenutna datoteka je v uporabi in je ni mogoče odpreti z EasyBCD. Če hočete, da (ponovno) izbere sistemsko skladišče, pritisnite ''Ne'' in nato uporabite  &quot;Naloži sistemsko skladišče'' iz menija ''Datoteka''.&#xD;&#xA;&#xD;&#xA;Bi radi, da izbrali drugo skladišče za uporabo v EasyBCD?" inačica="1" />
     <string key="bcdInUseTitle" value="Napaka - nedovoljen dostop" inačica="1" />
@@ -69,7 +69,7 @@
     <string key="opNotAllowed" value="Operacija ni dovoljena!" inačica="1" />
     <string key="errorNotMounted" value="EasyBCD ne more kreirati  ne nameščenega pogona kot zagonskega. Prosimo, dodeliti črko izbranemu pogonu, znova zaženite EasyBCD in poskusite znova." inačica="1" />
     <string key="invalidDrive" value="Neveljavna operacija pogona" inačica="1" />
-    <string key="bootableSuccess" value="EasyBCD je uspešno pretvoril izbrani disk v zagonskega . Za nastavitev vnosov menija zagona na izbrani razdelek, morate uporabiti &quot;Datoteka | Izberite BCD shramba&quot; in izberite \BOOT\BCD datoteko na razdeleku, ki ste ga pravkar pripravili." inačica="1" />
+    <string key="bootableSuccess" value="EasyBCD je uspešno pretvoril izbrani disk v zagonskega . Za nastavitev vnosov menija zagona na izbrani razdelek, morate uporabiti &quot;Datoteka | Izberite BCD shramba&quot; in izberite \BOOT\BCD datoteko na razdelku, ki ste ga pravkar pripravili." inačica="1" />
     <string key="mountBcdNow" value="Želite samodejno naložiti novo ustvarjene BCD shrambo v EasyBCD?" inačica="1" />
     <string key="bootableTitle" value="Zagonski disk kreiran" inačica="1" />
     <string key="accessDeniedText" value="Ni dostopa do BCD. Preverite in se prepričajte, če  ni  BCD shramba na izbrani napravi trenutno  v uporabi." inačica="1" />
@@ -110,13 +110,12 @@
     <string key="errorBootIniTitle" value="Ne morem naložiti datoteke Boot.ini!" verison="1" />
     <string key="errorBootIniFormat" value="EasyBCD-a ni zaznal  datoteke boot.ini na zagonskem razdelku  {0}.&#xD;&#xA;&#xD;&#xA;Namesto tega dodajte nov  Windows XP ali Windows 2000 vnos za uporabo boot.ini samodejne konfiguracije." verison="1" />
     <string key="errorUtility" value="Prišlo je do napake delujočega pripomočka" verison="1" />
-    <string key="sysInfo" value="Sistemske informacije" verison="1" />
-    <string key="sysInfoText" value="Prikaže podatke o trenutni konfiguraciji strojne in programske opreme. Uporabno za odpravljanje okvar strojne opreme in za hitro ugotavljanje napak sedanjega namestitvenega sistema." verison="1" />
-    <string key="powerConsole" value="EasyBCD-a pospeševalna konzola" verison="1" />
+    <string key="usbCreatorText" value="Easy USB kreator omogoča  hitro in enostavno pretvorbo ISO slike za Windows Setup, in drugih orodij za obnovitev, v zagonski USB (CD-ji ali DVD-ji  niso potrebni) s samo enim klikom." version="1" />
+    <string key="usbCreator" value="Easy USB kreator" version="1" /> 
+  <string key="powerConsole" value="EasyBCD-a pospeševalna konzola" verison="1" />
     <string key="powerConsoleText" value="Hiter dostop do ukazne vrstice  z vsemi administrativnimi privilegiji. Uporabite ga za izvajanje sistemske funkcije ali hiter dostop do bcdedit in Bootsect.exe." verison="1" />
-    <string key="sysRestore" value="Obnovitev sistema" verison="1" />
-    <string key="sysRestoreText" value="Odpre sistemsko nadzorno ploščo za obnovitev sistema. Uporabno za hitro povrnitev in  popravilo vseh sprememb, ki povzročajo težave v  vašem računalniku." verison="1" />
-    <string key="restoreCds" value="Windows Vista in Win7 zgoščenke sistemske obnovitve" verison="1" />
+    <string key="oemKeyText" value="Uporabite brezplačno OEM orodje NeoSmart tehnologije, za iskanje in pridobivanje ključev Windows izdelkov, vdelanih v vašem namiznem ali prenosnem računalniku, za Windows 8 in10." version="1" />
+    <string key="oemKey" value="Orodje Windows Product Key" version="1" />    <string key="restoreCds" value="Win Vista in Win7 sistemske obnovitve" verison="1" />
     <string key="restoreCdsText" value="Prenesite kopijo  sistemskih obnovitvenih CD-je operacijskega sistema Windows Vista in Windows 7  in jih imejte pri roki v primeru nesreče. Lahko uporabite EasyBCD za zagon teh obnovitvenih diskov z USB." verison="1" />
     <string key="controlPanel" value="Nadzorna plošča" verison="1" />
     <string key="controlPanelText" value="Prilagodite računalnik po svojih željah" verison="1" />
@@ -149,5 +148,7 @@
     <string key="easybcdStatus" value="EasyBCD status" verison="1" />
     <string key="saveFileTitle" value="Shrani kot" />
     <string key="updateFoundText2" value="Najdena je bila nova različica EasyBCD. Želite, da se EasyBCD samodejno posodablja?&#xD;&#xA;&#xD;&#xA;Pritisnite 'Da' za samodejen prenos in nadgradnjo, &quot;Ne&quot; za prikaz seznama sprememb in posodobite ročno ali &quot;Prekliči&quot; za preklic." verison="1" />
+    <string key="help" value="Pomoč" />
+    <string key="browse" value="Brskanje" />
   </strings>
 </localization>

@@ -3,7 +3,7 @@
   <strings>
     <string key="btnAbort" value="&amp;Prekini" verison="1" />
     <string key="CommandWindow" value="EasyBCD ukazno okno" verison="1" />
-    <string key="MinimumWidth" value="427" verison="1" />
+    <string key="MinimumWidth" value="427" />
     <string key="MinimumHeight" value="279" verison="1" />
   </strings>
 </localization>

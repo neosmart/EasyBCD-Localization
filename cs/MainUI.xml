@@ -4,7 +4,7 @@
     <string key="btnUp" value="Nahoru" version="1" />
     <string key="btnDown" value="Dolů" version="1" />
     <string key="btnRenameEntry" value="Přejmenovat" version="1" />
-    <string key="grpTimeout" value="Nastavení Timeoutu" version="1" />
+    <string key="grpTimeout" value="Nastavení Timeoutu" version="2" />
     <string key="btnDelete" value="Odstranit" version="1" />
     <string key="grpModifyEntries" value="Upravit vstupy" version="1" />
     <string key="tabEditMenu" derive="true" />
@@ -37,10 +37,10 @@
     <string key="tabPageFloppy" derive="true" />
     <string key="btnPlopInstall" value="Instalovat PLoP" version="1" />
     <string key="btnPlopRemove" value="Odebrat PLoP" version="1" />
-    <string key="lblBiosExtend" value="EasyBCD BIOS extender může být využit k bootování ze sítě, CD, nebo USB na počítači, který to původně neumožňuje." version="1" />
+    <string key="lblBiosExtend" value="EasyBCD BIOS extender může být využit k bootování ze sítě, CD, nebo USB na počítači, který to nativně neumožňuje." version="1" />
     <string key="tabPagePlop" derive="true" />
     <string key="grpPortable" value="Přenositelná/Externí media" version="1" />
-    <string key="chkGrub" derive="true" />
+    <string key="chkGrub" value="Použít vestavěnou EasyBCD kopii GRUB." version="1" />
     <string key="chkAutoXp" value="Automaticky zjistit správnou jednotku" version="1" />
     <string key="btnNeoGrub" value="Instalovat" version="1" />
     <string key="tabPageMac" derive="true" />
@@ -57,7 +57,7 @@
     <string key="tabAddEntry" derive="true" />
     <string key="grpOS" value="Operační systém" version="1" />
     <string key="tabPageNeoGrub" derive="true" />
-    <string key="lblNeoGrub" value="NeoGrub bootloader může být použit k nabootování Linuxu a předchozích verzí Windows, nebo skrytí některých jednotek." version="1" />
+    <string key="lblNeoGrub" value="NeoGrub bootloader může být použit k bootování Linuxu a předchozích verzí Windows, nebo skrytí některých jednotek." version="1" />
     <string key="btnNeoGrubConfig" value="Nastavit" version="1" />
     <string key="tabPageLinux" derive="true" />
     <string key="lblLocale" value="Umístění:" version="1" />

@@ -15,23 +15,23 @@
     <string key="isoFiles" value="ISO obraz" version="1" />
     <string key="vhdFiles" derive="true" />
     <string key="wimFiles" derive="true" />
-    <string key="communityText" value="EasyBCD Community Edition je volně šiřitelná pro nekomerční užití.&#xD;&#xA;Pokud tento software používáte pro komerční účely, prosím klikněte na 'Zrušit' pro zakoupení komerční licence. Jinak klikněte na 'OK' pro pokračování." version="1" />
+    <string key="communityText" value="EasyBCD Community Edition je možno zdarma využívat pro nekomerční účely.&#xD;&#xA;Pokud tento software používáte pro komerční účely, prosím klikněte na 'Zrušit' pro zakoupení komerční licence. Jinak klikněte na 'OK' pro pokračování." version="1" />
     <string key="updateFailed" value="Kontrola aktualizací selhala. Problém s internetovým spojením." version="1" />
     <string key="updateCheck" value="Kontrola aktualizací programu..." version="1" />
     <string key="updateNone" value="Vaše verze programu je aktuální." version="1" />
-    <string key="updateFoundText" value="Nová verze programu nalezena. Chcete přesměrovat na stránku s poslední verzí programu?" version="1" />
-    <string key="updateFound" value="Nalezena nová verze programu!" version="1" />
+    <string key="updateFoundText" value="Nová verze programu nalezena. Chcete přesměrovat na stránku ke stažení poslední verze programu?" version="1" />
+    <string key="updateFound" value="Byla nalezena nová verze programu!" version="1" />
     <string key="updateFailedSB" value="Kontrola aktualizací selhala: " version="1" />
     <string key="install" value="Instalovat" version="1" />
     <string key="adminLine1" value="EasyBCD vyžaduje administrátorská práva a nemůže proto pokračovat." version="1" />
     <string key="remove" value="Odebrat" version="1" />
     <string key="adminLine2" value="K pokračování se prosím přihlašte jako administrátor." version="1" />
     <string key="invalidPathTitle" value="Chybná cesta!" version="1" />
-    <string key="invalidPath" value="Chybný soubor nebo cesta. Prosím zadejte platnou cestu k pokračování." version="1" />
+    <string key="invalidPath" value="Chybný soubor nebo cesta. Prosím zadejte platnou cestu pro pokračování." version="1" />
     <string key="accessDenied" value="Přístup odepřen!" version="1" />
     <string key="uncUnsupported" value="Cesta v síti není pro tuto vlastnost podporovaná. Prosím zadejte jinou cestu a zkuste to znova." version="1" />
     <string key="bcdInUseTitle" value="Chyba omezení přístupu" version="1" />
-    <string key="bcdInUse" value="Složka je využívaná a nemůže být programem otevřena. Pokud se skoušíte vybrat systémové uložiště, stiskněte Ne a potom použijte &quot;Načíst BCD Systému&quot; možnosti ze Soubor v menu.&#xD;&#xA;&#xD;&#xA;Chcete vybrat jiné uložiště pro využívání programu?" version="1" />
+    <string key="bcdInUse" value="Složka je využívaná a nemůže být programem otevřena. Pokud se snažíte vybrat systémové uložiště, stiskněte Ne a potom použijte &quot;Načíst BCD Systému&quot; možnosti ze Soubor v menu.&#xD;&#xA;&#xD;&#xA;Chcete vybrat jiné uložiště pro využívání programu?" version="1" />
     <string key="communityTitle" derive="true" />
     <string key="easybcdStatus" derive="true" />
     <string key="bcdReset" value="BCD bylo úspěšně resetováno. Všechny vstupy byly vymazány!&#xD;&#xA;&#xD;&#xA;Důležité: Musíte přidat alespoň jeden vstup, nebo váš počítač nenabootuje!" version="1" />
@@ -43,7 +43,7 @@
     <string key="entryDeleted" value="Bootovací vstup vymazán" version="1" />
     <string key="saveFileTitle" value="Uložit jako" />
     <string key="updateFoundText2" value="Nová verze programu nalezena. Chcete stáhnout poslední verzi programu EasyBCD?&#xD;&#xA;&#xD;&#xA;Stiskněte 'Ano' pro automatické stáhnutí a aktualizaci, 'Ne' k prohlédnutí seznamu posledních změn, nebo 'Zrušit' k ukončení." version="1" />
-    <string key="orderSaved" value="Pořadí vstupu uloženo" version="1" />
+    <string key="orderSaved" value="Pořadí vstupů uloženo" version="1" />
     <string key="optionsSaved" value="Nastavení úspěšně uloženo!" version="1" />
     <string key="bcdRefresh" value="Dočasná BCD data byla úspěšně aktualizovaná." version="1" />
     <string key="restoreSuccess" value="Obnova úspěšně dokončena" version="1" />
@@ -61,11 +61,11 @@
     <string key="isoHelp3" value="Načítání z paměti: Rychlejší běh, ale zabere čas během bootování. Může selhat u větších disků, nebo starších počítačů." version="1" />
     <string key="isoHelp2" value="Načíst z Disku: Zajistí rychlejší bootování, ale pomalejší běh. Taky požaduje předzpracování pomocí EasyBCD během vytvoření." version="1" />
     <string key="isoHelp1" value="EasyBCD podporuje načítání ISO obrazů dvěma rozdílnými způsoby. Prosím všimněte si, že ne všechny ISO obrazy budou pracovat správně; Nastavení pro Linunux často nefunguje." version="1" />
-    <string key="warnDiffDevice" value="Zvolený soubor je na jiném zařízení, než bootovací soubory. Pokud chcete využívat toto zařízení k bootovaní na jiném než aktuálním PC, měl byste zkopírovat tyto soubory na externí jednotku a opakovat akci.&#xD;&#xA;&#xD;&#xA;Přejete si přesto dále pokračovat?" version="1" />
+    <string key="warnDiffDevice" value="Zvolený soubor je na jiném zařízení, než bootovací soubory. Pokud chcete využívat toto zařízení k bootovaní na jiném než aktuálním PC, měl byste zkopírovat tyto soubory na danou jednotku a opakovat akci.&#xD;&#xA;&#xD;&#xA;Přejete si přesto dále pokračovat?" version="1" />
     <string key="bootableTitle" value="Bootovací Disk Vytvořen" version="1" />
     <string key="accessDeniedText" value="Nebylo možné získat přístup k BCD. Prosím ujistěte se, že BCD uložené na vybraném zařízení není aktuálně využíváno." version="1" />
-    <string key="mountBcdNow" value="Chcete automaticky načíst nově-vytvořené BCD v EasyBCD?" version="1" />
-    <string key="bootableSuccess" value="EasyBCD úspěštně převedlo zvolený disk na bootovací jednotku. Abyste upravili vstupy na bootovací menu zvolené partition, musíte použít 'Soubor | Vybrat BCD Uložiště' a vybrat \Boot\BCD soubor na partition kterou jste teď připravil." version="1" />
+    <string key="mountBcdNow" value="Chcete načíst nově vytvořené BCD uložiště v EasyBCD?" version="1" />
+    <string key="bootableSuccess" value="EasyBCD úspěštně převedlo zvolený disk na bootovací jednotku. Abyste upravili vstupy v bootovacím menu zvoleného oddílu, musíte zvolit  'Soubor | Vybrat BCD Uložiště' a najít soubor v '\Boot\BCD' na oddílu který jste právě připravil." version="1" />
     <string key="invalidDrive" value="Neplatná Disková operace" version="1" />
     <string key="safeTitle" value="O bezpečném módu" version="1" />
     <string key="imgFiles" derive="true" />
@@ -73,10 +73,10 @@
     <string key="neogrubBootloader" derive="true" />
     <string key="neogrubRemoved" value="NeoGrub úspěšně odebrán!" version="1" />
     <string key="addedFormat" value="{0} přidán do boot menu úspěšně!" version="1" />
-    <string key="vhdErrorTitle" value="Chyba Přidávání VHD Vstupu" version="1" />
+    <string key="vhdErrorTitle" value="Chyba při přidávání VHD Vstupu" version="1" />
     <string key="isoErrorTitle" value="Chyba přidávání ISO vstupu" version="1" />
-    <string key="restoreCdsText" value="Stáhne kopii obnovovacího CD systému Windows Vista, nebo Windows 7, aby bylo po ruce v případě selhání systému. Potom můžete použít EasyBCD k nabootování do tohoto disku pomocí USB." version="1" />
-    <string key="iRebootText" value="NeoSmart Technologies je pomocná aplikace EasyBCD. iReboot běží ve tvých procesech (zabere pouze 400KB paměti!) a umožní ti vybrat, který operační systém chceš nabootovat rychle a jednoduše." version="1" />
+    <string key="restoreCdsText" value="Stáhne kopii obnovovacího CD systému Windows Vista, nebo Windows 7, aby bylo po ruce v případě selhání systému. Potom můžete použít EasyRE k nabootování do tohoto disku pomocí USB." version="2" />
+    <string key="iRebootText" value="NeoSmart Technologies je pomocná aplikace pro EasyBCD. iReboot běží ve tvých procesech (zabere pouze 400KB paměti!) a umožní ti vybrat, který operační systém chceš příště nabootovat rychle a jednoduše." version="1" />
     <string key="errorPathSaveTitle" value="Problém s cestou k zálohování" version="1" />
     <string key="errorNoEntriesTitle" value="Žádné vstupy nenainstalovány!" version="1" />
     <string key="controlPanel" value="Ovládací panely" version="1" />
@@ -87,24 +87,24 @@
     <string key="sysInfoText" value="Zobrazí informace týkající se aktuálního softwarového a hardwarového nastavení." version="1" />
     <string key="sysRestore" value="Obnova Systému" version="1" />
     <string key="sysRestoreText" value="Otevře panel obnovy systému, pro použití rychlé opravy/obnovy změn, které ve vašem PC způsobily problémy." version="1" />
-    <string key="restoreCds" value="Windows Vista/7 CD Obnovy systému" version="1" />
-    <string key="errorBootIniTitle" value="Nepovedlo se načíst boot.ini" version="1" />
+    <string key="restoreCds" derive="true" />
+    <string key="errorBootIniTitle" value="Není možno načíst boot.ini" version="1" />
     <string key="errorBootIniFormat" value="EasyBCD nemohl najít existující soubor boot.ini ve spouštěcím oddílu {0}.&#xD;&#xA;&#xD;&#xA;Prosím přidejte nový Windows XP nebo Windows 2000 vstup k použití boot.ini automatickému nastavení." version="1" />
-    <string key="confirmDeleteTitle" value="Potvrzujete vymazání?" version="1" />
+    <string key="confirmDeleteTitle" value="Potvrdit vymazání?" version="1" />
     <string key="confirmDelete" value="Jste si jistý, že chcete vymazat tento vstup?" version="1" />
     <string key="errorNoRestoreTitle" value="Chyba obnovování" version="1" />
     <string key="errorNoRestore" value="Fatal error: Nebylo možné obnovit zvolené uložiště." version="1" />
     <string key="unsupportedOSTitle" value="Nepodporovaný Operační Systém!" version="1" />
     <string key="bootChangedTitle" value="Bootovací oddíl změn" version="1" />
-    <string key="unsupportedOS" value="Tato možnost je dostupná pouze pro Windows Vista, Windows 7, a Windows 8." version="1" />
+    <string key="unsupportedOS" value="Tato možnost je dostupná pouze pro Windows Vista a vyšší." version="2" />
     <string key="selectBootTitle" value="Vyberte nový bootovací oddíl" version="1" />
     <string key="bootloaderSuccess" value="Nastavení bootloaderu úspěšně uloženo" version="1" />
     <string key="mbrSuccess" value="MBR úspěšně zapsán" version="1" />
     <string key="warning" value="Varování!" version="1" />
     <string key="bcdRemove3" value="Jste si jist, že chcete pokračovat?" version="1" />
-    <string key="partitionConverted" value="Partition převedena na bootovací jednotku" version="1" />
+    <string key="partitionConverted" value="Oddíl převeden na bootovací jednotku" version="1" />
     <string key="bcdRemove1" value="Toto je pokročilá možnost, která by měla být použita jenom pokud jste si naprosto jist, že chcete odinstalovat Windows Vista/7 bootloader!" version="1" />
-    <string key="paeDefault" value="Výchozí: Nechat Windows určit jak hodně paměti má být namapováno." version="1" />
+    <string key="paeDefault" value="Výchozí: Nechat Windows určit jak kolik paměti má být namapováno." version="1" />
     <string key="paeTitle" value="O nastavení PAE" version="1" />
     <string key="easybcdFiles" value="EasyBCD Soubory" version="1" />
     <string key="loadExternalTitle" value="Vyberte nové uložiště" version="1" />
@@ -112,7 +112,7 @@
     <string key="failedAddTitle" value="Chyba při přidání vstupu!" version="1" />
     <string key="msdosHelp" derive="true" />
     <string key="msdosHelpTitle" value="Chcete přečíst MS-DOS dokumentaci?" version="1" />
-    <string key="errorSpaces" value="Cesta k obrázku nesmí obsahovat mezery. Prosím opravte ji a zkuste to znovu." version="1" />
+    <string key="errorSpaces" value="Cesta k obrazu nesmí obsahovat mezery. Prosím opravte ji a zkuste to znovu." version="1" />
     <string key="floppyErrorTitle" value="Chyba Přidání Floppy Vstupu" version="1" />
     <string key="safeIntro" value="EasyBCD vám umožní vytvořit nový bootovací vstup do vašeho OS s jiným nastavením. Vytvořením tohoto vstupu a přidáním do safe mode výběru ho můžete použít k rychlému debugu vašeho systému." version="1" />
     <string key="safeNormal" value="Normal: Vypne všechny obnovovací možnosti, umožní nabootovat OS normálně." version="1" />
@@ -133,9 +133,9 @@
     <string key="paeDisable" value="Vypnuto: Vypne mapování extra paměti." version="1" />
     <string key="paeEnable" value="Zapnuto: Vynutí mapování paměti" version="1" />
     <string key="errorROTitle" value="Nalezeno BCD pouze pro čtení" version="1" />
-    <string key="bcdRemove2" value="Tato vlastnost nabootuje pouze Windows XP pokud jsou vhodné boot soubory na místě!" version="1" />
+    <string key="bcdRemove2" value="Tato volba umožní bootovat pouze Windows XP a to pokud jsou patřičné boot soubory už na místě!" version="1" />
     <string key="nxOn" value="AlwaysOn: DEP je zapnuto pro všechny aplikace" version="1" />
-    <string key="nxOff" value="AlwaysOff: DEP je vypnuto pro Windows a a všechny aplikace" version="1" />
+    <string key="nxOff" value="AlwaysOff: DEP je vypnuto pro Windows a všechny aplikace" version="1" />
     <string key="nxOptOut" value="OptOut: Windows a aplikace jsou chráněny DEP." version="1" />
     <string key="nxIntro" value="DEP/NoExecute je systém hardwarové vrstvy představený ve Windows XP SP2, detekující zákeřné skripty, čímž může pomoct ochránit váš systém od útoku, ale je známý problémy s kompatibilitou." version="1" />
     <string key="nxOptIn" value="OptIn: Jádro Windows je chráněno DEP." version="1" />
@@ -146,8 +146,14 @@
     <string key="errorUtility" derive="true" />
     <string key="hiddenBootIni" value="Boot.ini je umístěn na skrytém bootovacím oddílu a nemůže být načten programem.&#xD;&#xA;&#xD;&#xA;Buď přiřaďte jednotce písmeno, nebo použijte Windows XP dual-boot auto-konfigurační doplněk." version="1" />
     <string key="loadExternal" value="S tímto doplňkem EasyBCD načte a použije vámi zvolenou externí BCD databázi. Změny budou provedeny na daném BCD uložišti a neovlivní výchozí nastavení systému." version="1" />
-    <string key="bootChangedFormat" value="EasyBCD úspěšně vytvořilo jednotku {0} novým bootovacím oddílem, a načetlo nové BCD uložiště, na kterém by měly být dělány všechny budoucí úpravy. Pokud je tento oddíl na vašem prvním bootovacím disku, nemusíte provádět žádné další operace. Pokud není, měl by jste restartovat váš počítač a změnit bootovací disk v BIOSu k potvrzení změn." version="1" />
+    <string key="bootChangedFormat" value="EasyBCD úspěšně nastavilo jednotku {0} novým bootovacím oddílem a načetlo nové BCD uložiště, na kterém by měly být dělány všechny budoucí úpravy. Pokud je tento oddíl na vašem prvním bootovacím disku, nemusíte provádět žádné další operace. Pokud není, měl by jste restartovat váš počítač a změnit bootovací disk v BIOSu k potvrzení změn." version="1" />
     <string key="selectBoot" value="EasyBCD rekonfiguruje váš systém k bootování ze zvoleného oddílu vybraného níže. Tento proces nastaví BCD uložiště na zvolený disk, zkopíruje aktuální BCD vstupy, a nastaví zvolený oddíl aktivním a bootovatelným." version="1" />
     <string key="errorLogical" value="Pokusil jste se vytvořit bootovací oddíl na logické jednotce, což není povoleno. Bootovací oddíl musí být primárním oddílem.&#xD;&#xA;&#xD;&#xA;Buď vyberte jinou jednotku, nebo nebo převeďte zvolený oddíl na primární a opakujte akci." version="1" />
+    <string key="usbCreatorText" value="Easy USB Creator byl vytvořen pro nejjednodušší možné vytvoření bootovatelného USB media. Program vyžaduje pouze zvolení ISO obrazu s instalátorem Windows a zvolení daného USB média. Jeho převedení bude vytvořeno kliknutím na jediné tlačítko!" version="1" />
+    <string key="usbCreator" derive="true" />
+    <string key="oemKeyText" value="Program NeoSmart Technologies' free Windows OEM Product Key Tool slouží k vyhledání a získání licenčního klíče vestavěného ve vašem PC, nebo notebooku s Windows 8 a Windows 10." version="1" />
+    <string key="oemKey" derive="true" />
+    <string key="help" value="Pomoc" />
+    <string key="browse" value="Procházet" />
   </strings>
 </localization>

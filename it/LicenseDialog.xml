@@ -4,14 +4,14 @@
     <string key="linkLabel" value="Questa copia di EasyBCD richiede l'acquisto di una apposita licenza.&#xD;&#xA;&#xD;&#xA;Inserisci l'indirizzo email oppure il numero della licenza associati all'acquisto. Fai clic qui per acquistare una licenza oppure contattare sales@neosmart.net per assistenza." version="1" />
     <string key="linkClick" value="Fai clic qui" version="1" />
     <string key="linkEmail" value="sales@neosmart.net" version="1" />
-    <string key="btnSkip" value="S&amp;alta" version="1" />
+    <string key="btnSkip" value="&amp;Salta" version="1" />
     <string key="btnRegister" value="&amp;Registra" version="1" />
     <string key="lblTitle" value="Versione commerciale di EasyBCD" version="1" />
     <string key="lblLicenseKey" value="Email o numero della licenza:" version="1" />
     <string key="LicenseDialog" value="Versione commerciale di EasyBCD" version="1" />
     <string key="email" value="Email" version="1" />
     <string key="licenseKey" value="Numero della licenza" version="1" />
-    <string key="seats" value="License" version="1" />
+    <string key="seats" value="Posti" version="1" />
     <string key="regFailTitle" value="Registrazione fallita!" version="1" />
     <string key="regFail" value="Indirizzo email oppure numero di licenza errato. Riprova." version="1" />
     <string key="regException" value="Si é verificato un errore nell'ottenimento della licenza dal server remoto. Accertati di essere connesso ad Internet o riprova più tardi." version="1" />

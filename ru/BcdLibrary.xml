@@ -1,31 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="accessViolationFormat" value="Нет доступа к {0}. Если это съемный диск, переподключите его и попробуйте снова." version="1" />
+    <string key="accessViolationFormat" value="Нет прямого доступа к {0}. Если это съемный диск, переподключите его и попробуйте снова." version="1" />
     <string key="failedSave" value="Не удалось сохранить изменения!" version="1" />
-    <string key="accessDeniedTitle" value="Отказано в доступе" version="1" />
-    <string key="accessDeniedFormat" value="Отказано в доступе к {0}. Файл или уже используется, или у Вас недостаточно прав." version="1" />
-    <string key="oneEntry" value="Сейчас в загрузчике одна запись." version="1" />
-    <string key="multiEntriesFormat" value="В загрузчике {0} записи(ей) об операционных системах." version="1" />
+    <string key="accessDeniedTitle" value="Отказано в доступе!" version="1" />
+    <string key="accessDeniedFormat" value="Отказано в доступе к {0}. Файл уже используется или у Вас недостаточно прав." version="1" />
+    <string key="oneEntry" value="В загрузчике одна запись." version="1" />
+    <string key="multiEntriesFormat" value="В загрузчике {0} записи(ей)." version="1" />
     <string key="entryNum" value="Запись #" version="1" />
     <string key="name" value="Имя" version="1" />
-    <string key="bcdId" value="BCD ID" version="1" />
+    <string key="bcdId" value="Идентификатор BCD" version="1" />
     <string key="drive" value="Диск" version="1" />
     <string key="device" value="Устройство" version="1" />
     <string key="path" value="Путь" version="1" />
     <string key="default" value="По умолчанию" version="1" />
     <string key="timeout" value="Таймаут" version="1" />
     <string key="none" value="Нет" version="1" />
-    <string key="timeoutFormat" value="{0} секунд (ы)" version="1" />
+    <string key="timeoutFormat" value="{0} секунд(ы)" version="1" />
     <string key="skipped" value="Пропустить меню" version="1" />
     <string key="bootDevice" value="Диск начальной загрузки" version="1" />
     <string key="ebcdBootDevice" value="Расположение BCD" version="1" />
     <string key="bootloaderPath" value="Путь к загрузчику" version="1" />
     <string key="bcdError" value="Ошибка выполнения BCD!" version="1" />
-    <string key="ntNotFoundTitle" value="Не удалось обнаружить установленную Windows NT!" version="1" />
+    <string key="ntNotFoundTitle" value="Не обнаружено установленной Windows NT!" version="1" />
     <string key="ntNotFound" value="Не удалось обнаружить установленной ОС Windows NT-2003 ни на одном из смонтированных разделов. Невозможно продолжить." version="1" />
-    <string key="manuallyLoad" value="Вы хотите загрузить конфигурацию BCD для редактирования в EasyBCD? Обратите внимание: EasyBCD пользуется загрузчиком Windows Vista/7/8, а он не будет работать там, где установлены одни только предшествующие Windows." version="1" />
-    <string key="errorBcd" value="Ошибка открытия BCD конфигурации" version="1" />
+    <string key="manuallyLoad" value="Вы хотите загрузить конфигурацию BCD для редактирования в EasyBCD? Обратите внимание: EasyBCD требуется загрузчик BCD (устанавливается по умолчанию в Windows Vista и выше) и он не работает с Windows XP." version="2" />
+    <string key="errorBcd" value="Ошибка открытия BCD!" version="1" />
     <string key="locateValid" value="Укажите правильное расположение BCD" version="1" />
     <string key="bcdRegistry" value="BCD конфигурация" version="1" />
     <string key="partition" value="Раздел" version="1" />

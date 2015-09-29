@@ -8,28 +8,28 @@
     <string key="tabViewSettings" value="1" version="1" />
     <string key="rdoTimeoutCount" value="Wartezeit vor Start (Sek.)" version="1" />
     <string key="numTimeout" value="0" version="1" />
-    <string key="rdoTimeoutNone" value="Warte auf Nutzerauswahl" version="1" />
+    <string key="rdoTimeoutNone" value="Warte auf Auswahl" version="1" />
     <string key="rdoTimeoutSkip" value="Startmenü überspringen" version="1" />
     <string key="btnSaveBCD" value="Einstellungen speichern" version="1" />
-    <string key="grpTimeout" value="Zeitüberschreitungs Optionen" version="1" />
+    <string key="grpTimeout" value="Menü Optionen" version="2" />
     <string key="btnUp" value="Hinauf" version="1" />
     <string key="btnDown" value="Hinunter" version="1" />
     <string key="btnRenameEntry" value="Umbenennen" version="1" />
     <string key="btnDelete" value="Löschen" version="1" />
     <string key="grpModifyEntries" value="Menü-Einträge ändern" version="1" />
     <string key="tabEditMenu" value="2" version="1" />
-    <string key="txtVhdName" value="NeoSmart VHD Image" version="1" />
-    <string key="tabPageVhd" value="Disk Image" version="1" />
+    <string key="txtVhdName" value="NeoSmart VHD Abbild" version="1" />
+    <string key="tabPageVhd" value="Datenträger Abbild" version="1" />
     <string key="txtIsoName" value="NeoSmart ISO Eintrag" version="1" />
     <string key="tabPageIso" value="ISO" version="1" />
-    <string key="txtPeName" value="NST WinPE Image" version="1" />
+    <string key="txtPeName" value="NST WinPE Abbild" version="1" />
     <string key="chkEms" value="EMS aktiviert" version="1" />
     <string key="tabPageWinPE" value="WinPE" version="1" />
-    <string key="txtFloppyName" value="NeoSmart Floppy Image" version="1" />
-    <string key="tabPageFloppy" value="Floppy" version="1" />
+    <string key="txtFloppyName" value="NeoSmart Diskette Abbild" version="1" />
+    <string key="tabPageFloppy" value="Diskette" version="1" />
     <string key="btnPlopInstall" value="Installiere PLoP" version="1" />
     <string key="btnPlopRemove" value="Entferne PLoP" version="1" />
-    <string key="lblBiosExtend" value="EasyBCD's BIOS Extender kann benützt werden, um vom Netzwerk, CD ode USB zu starten auf Computern, die das normalerweise nicht untersützen." version="1" />
+    <string key="lblBiosExtend" value="EasyBCD's BIOS Extender kann benützt werden, um vom Netzwerk, CD oder USB zu starten auf Computern, die das normalerweise nicht untersützen." version="1" />
     <string key="tabPagePlop" value="BIOS Extender" version="1" />
     <string key="grpPortable" value="Portable/Externe Medien" version="1" />
     <string key="lblWindowsAuto" value="Automatisch erkannt" version="1" />
@@ -44,13 +44,13 @@
     <string key="tabPageMac" value="Mac" version="1" />
     <string key="btnNeoGrub" value="Installieren" version="1" />
     <string key="btnNeoGrubConfig" value="Konfigurieren" version="1" />
-    <string key="lblNeoGrub" value="Der NeoGrub Bootloader kann benutzt werden, um Linux und ältere Versionen von Windows zu starten oder auch versteckte Laufwerke." version="1" />
+    <string key="lblNeoGrub" value="Der NeoGrub Bootloader kann benutzt werden, um Linux und ältere Versionen von Windows zu starten oder auch Laufwerke zu verstecken." version="1" />
     <string key="tabPageNeoGrub" value="NeoGrub   " version="1" />
     <string key="grpOS" value="Betriebssysteme" version="1" />
     <string key="tabAddEntry" value="3" version="1" />
     <string key="btnSaveSettings" value="Einstellungen speichern" version="1" />
-    <string key="lblLocale" value="Land:" version="1" />
-    <string key="tabEntryBasic" value="Basis" version="1" />
+    <string key="lblLocale" value="Sprache:" version="1" />
+    <string key="tabEntryBasic" value="Grundeinstellungen" version="1" />
     <string key="lblSafeMode" value="Sicherer Modus" version="1" />
     <string key="lblPae" value="PAE Unterstützung: " version="1" />
     <string key="lblDep" value="NoExecute (DEP):" version="1" />
@@ -59,17 +59,17 @@
     <string key="chkEntryKernelDebug" value="Windows im Kernel-Debug Modus starten" version="1" />
     <string key="chkEntrySos" value="Starten in SOS / kommentiertem Start-Modus" version="1" />
     <string key="numEntryMemory" value="0" version="1" />
-    <string key="lblDeduct2" value="MByte vom physichen Speicher" version="2" />
+    <string key="lblDeduct2" value="MByte vom physischen Speicher" version="2" />
     <string key="numEntryCpu" value="0" version="1" />
-    <string key="lblLimit2" value="Windows CPU/Kern Beschränkung" version="2" />
+    <string key="lblLimit2" value="Windows CPU/Beschränkung auf Kerne" version="2" />
     <string key="tabEntryDeveloper" value="Entwickler" version="1" />
     <string key="lblAdvancedSettings" value="Beachten Sie, daß einige Einstellungen nicht verfügbar sind, abhängig vom zu modifizierenden Eintrag." version="1" />
     <string key="grpChangeSettings" value="Einstellungen ändern" version="1" />
     <string key="lblPickLH" value="Einen Eintrag aus der Liste unten auswählen zur Optimierung." version="1" />
     <string key="grpSelectLH" value="Betriebssystem auswählen" version="1" />
     <string key="tabAdvanced" value="4" version="1" />
-    <string key="btnBackup" value="Sichere Backup" version="1" />
-    <string key="btnRestore" value="Backup wiederherstellen" version="1" />
+    <string key="btnBackup" value="Einstellungen in angebene Backup-Datei sichern" version="1" />
+    <string key="btnRestore" value="Einstellungen aus Backup-Datei wiederherstellen" version="1" />
     <string key="grpBackupRestore" value="Backup und Wiederherstellung der Bootloader Einstellungen" version="1" />
     <string key="rdoBcdChange" value="Startlaufwerk wechseln" version="1" />
     <string key="rdoBcdRepair" value="Start-Dateien wiederherstellen / reparieren" version="1" />
@@ -79,11 +79,11 @@
     <string key="tabBcdInstall" value="5" version="1" />
     <string key="btnMakeBootable" value="Installiere BCD" version="1" />
     <string key="lblUsbPartitions" value="Partition:" version="1" />
-    <string key="lblCreateBootable" value="EasyBCD kann den Prozess zur Herstellung startfähiger Medien automatisieren. Unten eine Partition auswählen zum Start." version="1" />
+    <string key="lblCreateBootable" value="EasyBCD kann den Prozess zur Herstellung startfähiger Medien automatisieren. Unten eine Partition zum Start auswählen." version="1" />
     <string key="grpCreateBootableExternal" value="Erzeuge startfähiges Medium" version="1" />
     <string key="btnMbrWrite" value="Schreibe MBR" version="1" />
-    <string key="rdoMbrXP" value="Installiere den Windows XP Bootloader im MBR" version="1" />
-    <string key="rdoMbrVista" value="Installiere den Windowws Vista / 7 Bootloader im MBR" version="1" />
+    <string key="rdoMbrXP" value="Installiere den Windows XP NTLDR Bootloader " version="2" />
+    <string key="rdoMbrVista" value="Installiere den Windows Vista (oder höher) BCD/bootmgr Bootloader" version="2" />
     <string key="grpBootloader" value="MBR Konfigurationsoptionen" version="1" />
     <string key="tabMbrSetup" value="6" version="1" />
     <string key="grpUtils" value="Nützliche Werkzeuge" version="1" />
@@ -96,17 +96,17 @@
     <string key="btnEditMenu" value="Start-Menü bearbeiten" version="1" />
     <string key="btnViewSettings" value="Momentane Einstellungen" version="1" />
     <string key="grpToolbox" value="EasyBCD Werkzeug-Box" version="1" />
-    <string key="mnuSelectBcd" value="BCD Speicher auswählen" version="1" />
-    <string key="mnuLoadSystemBcd" value="Lade S&amp;ystem BCD" version="1" />
+    <string key="mnuSelectBcd" value="BCD &amp;Speicher auswählen" version="1" />
+    <string key="mnuLoadSystemBcd" value="Lade S&amp;ystem-BCD" version="1" />
     <string key="mnuRescan" value="BCD Speicher erneuern" version="1" />
     <string key="mnuRegister" value="&amp;Registrieren" version="1" />
     <string key="mnuDonate" value="Spen&amp;den" version="1" />
-    <string key="mnuUpdate" value="Nach Updates suchen" version="1" />
-    <string key="mnuExit" value="EasyBCD Beenden" version="1" />
+    <string key="mnuUpdate" value="Nach &amp;Updates suchen" version="1" />
+    <string key="mnuExit" value="Beenden" version="1" />
     <string key="mnuFile" value="Datei" version="1" />
     <string key="mnuOptions" value="O&amp;ptionen" version="1" />
-    <string key="mnuEditLegacy" value="boot.ini älterer Systeme bearbeiten" version="1" />
-    <string key="mnuRestart" value="Neustart Computer" version="1" />
+    <string key="mnuEditLegacy" value="boot.ini ä&amp;lterer Systeme bearbeiten" version="1" />
+    <string key="mnuRestart" value="Neusta&amp;rt Computer" version="1" />
     <string key="mnuTools" value="Werkzeuge" version="1" />
     <string key="mnuDocumentation" value="Dokumentations-Webseite" version="1" />
     <string key="mnuSupport" value="&amp;Support Forum" version="1" />
@@ -120,8 +120,7 @@
     <string key="lstVhdEntry" derive="true" />
     <string key="lstRawHD" value="Raw Festplatten Image" version="1" />
     <string key="lstRawPartition" value="Raw Partition Image" version="1" />
-    <string key="cbxIsoMode" value="Von Festplatte starten
-Aus dem Speicher laden" version="1" />
+    <string key="cbxIsoMode" value="Von Datenträger starten&#xD;&#xA;Aus dem Speicher laden" version="1" />
     <string key="lstWim" derive="true" />
     <string key="lstExtracted" value="Extrahiertes Dateisystem Struktur" version="1" />
     <string key="lstWin7" derive="true" />
@@ -140,15 +139,8 @@ Aus dem Speicher laden" version="1" />
     <string key="lstOptOut" derive="true" />
     <string key="lstAlwaysOn" value="Immer Ein" version="1" />
     <string key="lstAlwaysOff" value="Immer Aus" version="1" />
-    <string key="cbxEntryPae" value="Voreinstellung
-Aktivieren
-Deaktivieren" version="1" />
-    <string key="cbxEntrySafe" value="Normal
-Sicherer Modus
-Sicherer Modus w/ mit Netzwerk
-Eingabezeile / Alternative Oberfläche
-Basis VGA
-Aktive Verzeichnisreparatur" version="1" />
+    <string key="cbxEntryPae" value="Voreinstellung&#xD;&#xA;Aktivieren&#xD;&#xA;Deaktivieren" version="1" />
+    <string key="cbxEntrySafe" value="Normal&#xD;&#xA;Sicherer Modus&#xD;&#xA;Sicherer Modus w/ mit Netzwerk&#xD;&#xA;Eingabezeile / Alternative Oberfläche&#xD;&#xA;Standard VGA&#xD;&#xA;Aktive Verzeichnisreparatur" version="1" />
     <string key="emptyList" value="Keine Einträge gefunden!" version="1" />
     <string key="lblName" value="Name:" version="1" />
     <string key="btnBrowse" derive="true" />
@@ -161,5 +153,15 @@ Aktive Verzeichnisreparatur" version="1" />
     <string key="MinimumHeight" value="456" version="2" />
     <string key="MinimumWidth" value="583" />
     <string key="mnuLanguage" value="Auswahl &amp;Sprache" version="1" />
+    <string key="cbxVhdType" value="Microsoft VHD (viruelle Festplatte)&#xD;&#xA;Raw Format Festplatten Abbild&#xD;&#xA;Raw Format Partitions Abbild" version="1" />
+    <string key="cbxPeType" value="WIM Windows Image Format (Ramdisk)&#xD;&#xA;Extrahiertes Filesystem Layout" version="1" />
+    <string key="cbxWinType" value="Windows Vista/7/8/10&#xD;&#xA;Windows NT/2k/XP/2k3&#xD;&#xA;Windows 95/98/ME&#xD;&#xA;MS-DOS 6.x&#xD;&#xA;FreeDOS" version="2" />
+    <string key="cbxLinType" value="GRUB (alte Version)&#xD;&#xA;GRUB 2&#xD;&#xA;LILO/eLILO&#xD;&#xA;FreeBSD/PC-BSD&#xD;&#xA;Wubi&#xD;&#xA;SysLinux" version="1" />
+    <string key="cbxMacType" value="EFI Extensible Firmware Interface (Voreinstellung)&#xD;&#xA;MBR (Master Boot Record)" version="1" />
+    <string key="cbxEntryDep" value="OptIn&#xD;&#xA;OptOut&#xD;&#xA;Immer An&#xD;&#xA;Immer Aus" version="1" />
+    <string key="efiTitle" value="EFI Bootloader gefunden!" version="1" />
+    <string key="efiMessage" value="EasyBCD hat festgestellt daß Ihr System momentan im EFI Modus startet. Wegen der von Microsoft gesetzten Beschränkungen können viele von EasyBCD's Mehrfach-Start-Optionen nicht verwendet werden und wurden deaktiviert.&#xD;&#xA;&#xD;&#xA;Drücken Sie 'OK' um fortzufahren oder 'Hilfe' um mehr über diese Beschränkungen und mögliche Umgehungslösungen zu erfahren.." version="1" />
+    <string key="lstFreeDos" value="FreeDOS" />
+    <string key="chkMetroUI" value="Benütze Metro Bootloader" />
   </strings>
 </localization>

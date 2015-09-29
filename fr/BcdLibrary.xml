@@ -24,7 +24,7 @@
     <string key="bcdError" value="Erreur d'exécution BCD !" version="1" />
     <string key="ntNotFoundTitle" value="Installation NT valide non trouvée !" version="1" />
     <string key="ntNotFound" value="EasyBCD n'a pas détecté d'installation valide de Windows NT-2003 sur aucun des lecteurs montés et ne peut pas continuer." version="1" />
-    <string key="manuallyLoad" value="Voulez-vous charger manuellement un registre BCD pour qu'EasyBCD le gére ? Veuillez noter qu'EasyBCD nécessite un chargeur d'amorçage Windows Vista/7/8 et ne fonctionnera pas sous un environnement Windows XP." version="1" />
+    <string key="manuallyLoad" value="Voulez-vous charger manuellement un registre BCD pour qu'EasyBCD le gére ? Veuillez noter qu'EasyBCD nécessite un chargeur d'amorçage Windows Vista ou plus récent et ne fonctionnera pas sous un environnement Windows XP." version="1" />
     <string key="errorBcd" value="Erreur à l'ouverture du registre BCD" version="1" />
     <string key="locateValid" value="Veuillez sélectionner un magasin BCD valide." version="1" />
     <string key="bcdRegistry" value="Registre BCD" version="1" />

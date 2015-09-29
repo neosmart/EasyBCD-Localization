@@ -2,11 +2,13 @@
 <localization>
   <strings>
     <string key="lblDriveSelect" value="Nuovo disco di boot:" version="1" />
-    <string key="lblBody" value="EasyBCD ri-configurerà il sistema in modo da eseguire il boot dalla partizione qui di seguito selezionata. Questo processo darà luogo alla memorizzazione di una voce BCD nel disco selezionato, sovrascriverà la voce BCD attuale e renderà la partizione selezionata attiva e &amp; bootabile." version="1" />
+    <string key="lblBody" value="EasyBCD riconfigurerà il sistema in modo da eseguire il boot dalla partizione qui di seguito selezionata. Questo processo darà luogo alla memorizzazione di una voce BCD nel disco selezionato, sovrascriverà la voce BCD attuale e renderà la partizione selezionata attiva ed avviabile." version="1" />
     <string key="OK_Button" value="&amp;OK" version="1" />
     <string key="Cancel_Button" value="&amp;Annulla" version="1" />
     <string key="DriveSelect" value="Seleziona disco" version="1" />
-    <string key="errorAlreadyBoot" value="Il disco selezionato é già il disco di boot attuale. Sceglie un disco diverso per continuare!" version="1" />
-    <string key="errorAlreadyBootTitle" value="Seglie un altro disco!" version="1" />
+    <string key="errorAlreadyBoot" value="Il disco selezionato é già il disco di boot corrente. Scegli un disco diverso per continuare!" version="1" />
+    <string key="errorAlreadyBootTitle" value="Scegli un altro disco!" version="1" />
+    <string key="MinimumWidth" value="518" />
+    <string key="MinimumHeight" value="199" />
   </strings>
 </localization>

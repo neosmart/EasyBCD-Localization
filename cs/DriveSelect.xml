@@ -3,7 +3,7 @@
   <strings>
     <string key="MinimumHeight" derive="true" />
     <string key="lblDriveSelect" value="Nová Bootovací Jednotka:" version="1" />
-    <string key="lblBody" value="EasyBCD přenastaví váš systém k bootování z oddílu který vyberete níže. Tento proces nastaví ukládání BCD na zvolený disk, překopíruje aktuální BCD, a nastaví zvolený oddíl aktivní a bootovatelný." version="1" />
+    <string key="lblBody" value="EasyBCD přenastaví váš systém k bootování z oddílu který vyberete níže. Tento proces vytvoří složku s BCD na zvolený disk, překopíruje tím aktuální BCD a nastaví zvolený oddíl aktivní a bootovatelný." version="1" />
     <string key="DriveSelect" derive="true" />
     <string key="Cancel_Button" value="&amp;Zrušit" version="1" />
     <string key="OK_Button" derive="true" />

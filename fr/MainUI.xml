@@ -11,7 +11,7 @@
     <string key="rdoTimeoutNone" value="En attente" version="1" />
     <string key="rdoTimeoutSkip" value="Aucun" version="1" />
     <string key="btnSaveBCD" value="Enregistrer" version="1" />
-    <string key="grpTimeout" value="Options du compte à rebours" version="1" />
+    <string key="grpTimeout" value="Options du menu de démarrage" version="1" />
     <string key="btnUp" value="Monter" version="1" />
     <string key="btnDown" value="Descendre" version="1" />
     <string key="btnRenameEntry" value="Renommer" version="1" />
@@ -57,7 +57,7 @@
     <string key="grpOS" value="Systèmes d'exploitation" version="1" />
     <string key="tabAddEntry" value="3" version="1" />
     <string key="btnSaveSettings" value="Enregistrer" version="1" />
-    <string key="lblLocale" value="Lieu :" version="1" />
+    <string key="lblLocale" value="Paramètre régional :" version="1" />
     <string key="tabEntryBasic" value="De base" version="1" />
     <string key="lblSafeMode" value="Mode sans échec :" version="1" />
     <string key="lblPae" value="Support de la PAE :" version="1" />
@@ -90,8 +90,8 @@
     <string key="lblCreateBootable" value="EasyBCD permet d'automatiser le processus de création de médias amorçables. Veuillez sélectionner une partition pour commencer :" version="1" />
     <string key="grpCreateBootableExternal" value="Créer un média externe amorçable" version="1" />
     <string key="btnMbrWrite" value="Ecraser la MBR" version="1" />
-    <string key="rdoMbrXP" value="Installer le chargeur d'amorçage Windows XP dans la MBR" version="1" />
-    <string key="rdoMbrVista" value="Installer le chargeur d'amorçage Windows Vista/7/8 dans la MBR" version="1" />
+    <string key="rdoMbrXP" value="Installer le chargeur d'amorçage Windows XP" version="1" />
+    <string key="rdoMbrVista" value="Installer le chargeur d'amorçage Windows Vista ou plus récent" version="1" />
     <string key="grpBootloader" value="Options de configuration de la MBR" version="1" />
     <string key="tabMbrSetup" value="6" version="1" />
     <string key="grpUtils" value="Utilitaires" version="1" />
@@ -126,13 +126,9 @@
     <string key="MainUI" value="EasyBCD 2.2 - NeoSmart Technologies" version="1" />
     <string key="colName" value="Entrée(s)" version="1" />
     <string key="colDefault" value="Par défaut" version="1" />
-    <string key="cbxVhdType" value="Disque dur virtuel Microsoft
-Image disque dur raw
-Image partition raw" version="1" />
-    <string key="cbxIsoMode" value="Exécuter à partir du disque
-Charger à partir de la mémoire" version="1" />
-    <string key="cbxPeType" value="Image WIN (Ramdisk)
-Disposition extraite du système de fichier" version="1" />
+    <string key="cbxVhdType" value="Disque dur virtuel Microsoft&#xD;&#xA;Image disque dur raw&#xD;&#xA;Image partition raw" version="1" />
+    <string key="cbxIsoMode" value="Exécuter à partir du disque&#xD;&#xA;Charger à partir de la mémoire" version="1" />
+    <string key="cbxPeType" value="Image WIN (Ramdisk)&#xD;&#xA;Disposition extraite du système de fichier" version="1" />
     <string key="lstWin7" derive="true" />
     <string key="lstWinNt" derive="true" />
     <string key="lstWin9x" derive="true" />
@@ -145,21 +141,18 @@ Disposition extraite du système de fichier" version="1" />
     <string key="lstNixSys" derive="true" />
     <string key="lstEfi" value="EFI (par défaut)" version="1" />
     <string key="lstMbr" derive="true" />
-    <string key="cbxEntryDep" value="OptIn
-OptOut
-AlwaysOn
-AlwaysOff" version="1" />
-    <string key="cbxEntryPae" value="Par défaut
-Activée
-Désactivée" version="1" />
-    <string key="cbxEntrySafe" value="Désactivé
-Sans prise en charge réseau
-Avec prise en charge réseau
-En ligne de commande
-Mode VGA
-Réparation Active Directory" version="1" />
+    <string key="cbxEntryDep" value="OptIn&#xD;&#xA;OptOut&#xD;&#xA;AlwaysOn&#xD;&#xA;AlwaysOff" version="1" />
+    <string key="cbxEntryPae" value="Par défaut&#xD;&#xA;Activée&#xD;&#xA;Désactivée" version="1" />
+    <string key="cbxEntrySafe" value="Désactivé&#xD;&#xA;Sans prise en charge réseau&#xD;&#xA;Avec prise en charge réseau&#xD;&#xA;En ligne de commande&#xD;&#xA;Mode VGA&#xD;&#xA;Réparation Active Directory" version="1" />
     <string key="emptyList" value="Aucune entrée détectée !" version="1" />
     <string key="MinimumWidth" value="630" />
     <string key="MinimumHeight" value="500" version="2" />
+    <string key="cbxWinType" value="Windows Vista/7/8/10&#xD;&#xA;Windows NT/2k/XP/2k3&#xD;&#xA;Windows 95/98/ME&#xD;&#xA;MS-DOS 6.x&#xD;&#xA;FreeDOS" />
+    <string key="cbxLinType" value="GRUB (Legacy)&#xD;&#xA;GRUB 2&#xD;&#xA;LILO/eLILO&#xD;&#xA;FreeBSD/PC-BSD&#xD;&#xA;Wubi&#xD;&#xA;SysLinux&#xD;&#xA;" />
+    <string key="cbxMacType" value="EFI (Default)&#xD;&#xA;MBR" />
+    <string key="efiTitle" value="Chargeur d'amorçage EFI détecté !" />
+    <string key="efiMessage" value="EasyBCD a détecté que votre machine démarre habituellement en mode EFI. En raison de limites fixées par Microsoft, quelques une des fonctionnalités de multi démarrage de EasyBCD ne peuvent pas être utilisées en mode EFI et ont été désactivées.&#xD;&#xA;&#xD;&#xA;Cliquez sur 'OK' pour continuer ou 'Aide' pour en savoir plus sur ces limitations et solutions posibles." />
+    <string key="lstFreeDos" value="FreeDOS" />
+    <string key="chkMetroUI" value="Utiliser le chargeur d'amorçage Metro" />
   </strings>
 </localization>

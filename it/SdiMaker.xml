@@ -3,8 +3,10 @@
   <strings>
     <string key="OK_Button" value="OK" version="1" />
     <string key="Cancel_Button" value="Annulla" version="1" />
-    <string key="Body" value="Per poter continuare, EasyBCD deve accedere al supporto di installazione di Windows Vista o Windows 7/8 (normalmente un DVD od un file immagine). &#xD;&#xA;&#xD;&#xA;Inserisci il DVD nell'unità ottica oppure monta il file immagine, poi seleziona 'OK' per continuare." version="1" />
+    <string key="Body" value="Per poter continuare, EasyBCD deve accedere al supporto di installazione di Windows Vista o versioni più recenti (normalmente un DVD od un file immagine). &#xD;&#xA;&#xD;&#xA;Inserisci il DVD nell'unità ottica oppure monta il file immagine, poi seleziona OK per continuare." version="1" />
     <string key="SdiMaker" value="Inserisci il supporto di installazione di Windows" version="1" />
     <string key="mediaNotFound" value="Non é stato trovato alcun supporto di installazione di Windows valido." version="1" />
+    <string key="MinimumWidth" value="381" />
+    <string key="MinimumHeight" value="196" />
   </strings>
 </localization>

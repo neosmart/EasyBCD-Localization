@@ -3,7 +3,7 @@
   <strings>
     <string key="OK_Button" derive="true" />
     <string key="Cancel_Button" value="Zrušit" version="1" />
-    <string key="Body" value="Aby jste mohli pokračovat, EasyBCD potřebuje přístup k Windows Vista nebo Windows 7 instalačnímu médiu (obvykle disk DVD nebo obraz disku). &#xD;&#xA;&#xD;&#xA;Prosím vložte disk DVD do vaší optické mechaniky, nebo vytvořte obraz disku. Poté stiskněte tlačítko OK pro pokračování." version="1" />
+    <string key="Body" value="Aby jste mohli pokračovat, EasyBCD potřebuje přístup k Windows Vista nebo Windows 7 instalačnímu médiu (obvykle disk DVD nebo obraz disku). &#xD;&#xA;&#xD;&#xA;Prosím vložte disk DVD do vaší optické mechaniky, nebo připojte obraz disku. Poté stiskněte tlačítko OK pro pokračování." version="2" />
     <string key="SdiMaker" value="Vložte instalační disk Windows" version="1" />
     <string key="mediaNotFound" value="Nebyl nalezen platný instalační disk Windows." version="1" />
     <string key="MinimumWidth" derive="true" />

@@ -24,7 +24,7 @@
     <string key="bcdError" value="BCD 執行錯誤!" version="1" />
     <string key="ntNotFoundTitle" value="找不到有效的 NT 安裝!" version="1" />
     <string key="ntNotFound" value="EasyBCD 在所有掛載的磁碟機偵測有效的 Windows NT-2003 安裝失敗且無法繼續。" version="1" />
-    <string key="manuallyLoad" value="您希望手動載入要管理的 EasyBCD BCD 登錄檔嗎? 請注意，EasyBCD 需要 Windows Vista/7 Bootloader，且無法在只有 XP 的環境動作。" version="1" />
+    <string key="manuallyLoad" value="您希望手動載入要管理的 EasyBCD BCD 登錄檔嗎? 請注意，EasyBCD Bootloader (預設在 Windows Vista 和以上安裝)，且無法在只有 XP 的環境動作。" version="2" />
     <string key="errorBcd" value="開啟 BCD 登錄檔錯誤" version="1" />
     <string key="locateValid" value="尋找有效的 BCD 存放" version="1" />
     <string key="bcdRegistry" value="BCD 登錄檔" version="1" />

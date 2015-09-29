@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="chkDontRemind" value="Больше не напоминать об этом" version="1" />
+    <string key="chkDontRemind" value="Больше не напоминать" version="1" />
     <string key="btnCancel" value="Нет, спасибо" version="1" />
     <string key="btnDonate" value="Пожертвовать" version="1" />
-    <string key="lblDonationIntro" value="EasyBCD (свободная версия) на 100% бесплатное программное обеспечение и мы намерены сохранить его таковым. Но это не значит, что его разработка и тестирование производятся даром.&#xD;&#xA;&#xD;&#xA;EasyBCD уже скачали более 25 млн раз, что уберегло множество компьютеров от краха системы." version="1" />
+    <string key="lblDonationIntro" value="EasyBCD Community Edition на 100% бесплатное программное обеспечение и мы намерены сохранить его таковым. Но это не значит, что его разработка и тестирование производятся даром.&#xD;&#xA;&#xD;&#xA;На сегодня EasyBCD скачали уже более 25 млн раз, что уберегло множество компьютеров от краха системы." version="1" />
     <string key="donationTitle" value="Помогая EasyBCD, помогаешь себе!" version="1" />
-    <string key="lblYouDonate" value="Вы готовы помочь EasyBCD и спасти больше ПК?" version="1" />
+    <string key="lblYouDonate" value="Вы готовы помочь EasyBCD и уберечь больше ПК?" version="1" />
     <string key="DonationDialog" value="EasyBCD помог Вам?" version="1" />
     <string key="MinimumWidth" value="540" />
     <string key="MinimumHeight" value="342" version="5" />

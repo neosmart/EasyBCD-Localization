@@ -17,7 +17,7 @@
     <string key="regException" value="Prišlo je do napake pri pridobitvi dovoljenja iz oddaljenega strežnika. Prepričajte se, da ste povezani v internet ali poskusite znova pozneje" verison="1" />
     <string key="regExceptionTitle" value="Registracija ni možna" verison="1" />
     <string key="btnContinue" value="Naprej" verison="1" />
-    <string key="regSuccess" value="Registracija je uspela!" verison="1" />
+    <string key="regSuccess" value="Registracija je komčana!" verison="1" />
     <string key="MinimumWidth" value="511" />
     <string key="MinimumHeight" value="334" />
   </strings>

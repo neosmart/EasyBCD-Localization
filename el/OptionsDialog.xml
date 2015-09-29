@@ -24,7 +24,7 @@
     <string key="detailed" value="Λεπτομερής" version="1" />
     <string key="never" value="Ποτέ" version="1" />
     <string key="chkExpertMode" value="Εκτέλεση του EasyBCD σε λειτουργία για προχωρημένους" version="1" />
-    <string key="chkRememberBackup" value="Να θυμάτε τον κατάλογο αντιγράφων ασφαλείας του BCD κατά την έξοδο" version="1" />
+    <string key="chkRememberBackup" value="Να θυμάται τον κατάλογο αντιγράφων ασφαλείας του BCD κατά την έξοδο" version="1" />
     <string key="lblExpertMode" value="Η λειτουργ. για προχωρ. δεν θα ζητά επιβεβαίωση από το χρήστη πριν από τις αλλαγές!" version="1" />
     <string key="chkLoadDefaultBcd" value="Αυτόματη φόρτωση του ακόλουθου αρχείου BCD κατά την εκκίνηση:" version="1" />
     <string key="chkRss" value="Συμπερίληψη του NeoSmart Technologies στο Windows Platform RSS" version="1" />
