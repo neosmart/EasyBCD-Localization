@@ -3,7 +3,7 @@
   <strings>
     <string key="title" value="Scegli una lingua" version="1" />
     <string key="btnGo" value="Vai" version="1" />
-    <string key="MinimumHeight" value="87" />
+    <string key="MinimumHeight" derive="true" />
     <string key="MinimumWidth" derive="true" />
   </strings>
 </localization>

@@ -25,7 +25,7 @@
     <string key="bcdError" value="BCD Σφάλμα εκτέλεσης!" version="1" />
     <string key="ntNotFoundTitle" value="Έγκυρη εγκατάσταση NT δεν βρέθηκε!" version="1" />
     <string key="ntNotFound" value="Το EasyBCD απέτυχε να εντοπίσει μια έγκυρη εγκατάσταση των Windows NT-2003 σε όλες τις συνδεδεμένες μονάδες δίσκων και δεν μπορεί να συνεχίσει." version="1" />
-    <string key="manuallyLoad" value="Θα θέλατε να τοποθετήσετε χειροκίνητα ένα μητρώο BCD και να το διαχειριστείτε με το EasyBCD; Παρακαλώ σημειώστε ότι το EasyBCD απαιτεί το BCD πρόγραμμα εκκίνησης (bootloader) το οποίο είναι εγκατεστημένο σε λειτουργικό Windows Vista και νεότερο και δεν θα λειτουργήσει σε Windows XP λειτουργικό." version="1" />
+    <string key="manuallyLoad" value="Θα θέλατε να τοποθετήσετε χειροκίνητα ένα μητρώο BCD και να το διαχειριστείτε με το EasyBCD; Παρακαλώ σημειώστε ότι το EasyBCD απαιτεί το BCD πρόγραμμα εκκίνησης (bootloader) το οποίο είναι εγκατεστημένο σε λειτουργικό Windows Vista και νεότερο και δεν θα λειτουργήσει σε Windows XP λειτουργικό." version="2" />
     <string key="errorBcd" value="Σφάλμα κατά το άνοιγμα του BCD Μητρώου" version="1" />
     <string key="locateValid" value="Εντοπίστε ένα έγκυρο BCD" version="1" />
     <string key="bcdRegistry" value="Μητρώο BCD" version="1" />

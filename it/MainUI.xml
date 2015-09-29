@@ -82,8 +82,8 @@
     <string key="lblCreateBootable" value="EasyBCD può rendere automatico il processo di creazione di media avviabili. Scegliere una partizione dall'elenco sottostante per iniziare." version="1" />
     <string key="grpCreateBootableExternal" value="Creazione di media esterni avviabili" version="1" />
     <string key="btnMbrWrite" value="Scrivi l'MBR" version="1" />
-    <string key="rdoMbrXP" value="Installa il bootloader NTLDR di Windows XP" version="1" />
-    <string key="rdoMbrVista" value="Installa il bootloader e bootmanager BCD di Windows (Vista e versioni successive)" version="1" />
+    <string key="rdoMbrXP" value="Installa il bootloader NTLDR di Windows XP" version="2" />
+    <string key="rdoMbrVista" value="Installa il bootloader e bootmanager BCD di Windows (Vista e versioni successive)" version="2" />
     <string key="grpBootloader" value="Opzioni configurazione MBR" version="1" />
     <string key="tabMbrSetup" value="6" version="1" />
     <string key="grpUtils" value="Strumenti utili" version="1" />
@@ -148,24 +148,24 @@
     <string key="btnAddNewEntry" value="Aggiungi voce" version="1" />
     <string key="lblMode" value="Modalità:" version="1" />
     <string key="lblFile" value="File:" version="1" />
-    <string key="grpTimeout" value="Opzioni del menu" />
-    <string key="grpModifyEntries" value="Modifica le scelte del menu" />
-    <string key="tabPageVhd" value="Immagine disco" />
-    <string key="tabPageIso" value="ISO" />
-    <string key="tabPageWinPE" value="WinPE" />
-    <string key="tabPageFloppy" value="Floppy" />
-    <string key="tabPageWin" value="Windows" />
-    <string key="tabPageLinux" value="Linux/BSD&#xD;&#xA;" />
-    <string key="tabPageNeoGrub" value="NeoGrub   &#xD;&#xA;" />
+    <string key="grpTimeout" value="Opzioni del menu" version="2" />
+    <string key="grpModifyEntries" value="Modifica le scelte del menu" version="1" />
+    <string key="tabPageVhd" value="Immagine disco" version="1" />
+    <string key="tabPageIso" derive="true" />
+    <string key="tabPageWinPE" derive="true" />
+    <string key="tabPageFloppy" derive="true" />
+    <string key="tabPageWin" derive="true" />
+    <string key="tabPageLinux" derive="true" />
+    <string key="tabPageNeoGrub" derive="true" />
     <string key="cbxWinType" derive="true" />
     <string key="cbxLinType" derive="true" />
     <string key="cbxMacType" derive="true" />
     <string key="cbxEntryDep" derive="true" />
-    <string key="MinimumWidth" value="583" />
-    <string key="MinimumHeight" value="456" />
-    <string key="efiTitle" value="Trovato Bootloader EFI!" />
-    <string key="efiMessage" value="EasyBCD ha rilevato che il sistema si sta correntemente avviando in modalità EFI. A causa delle limitazioni imposte da Microsoft, alcune funzioni di multi-boot di EasyBCD non possono essere usate in modalità EFI e sono state pertanto disabilitate.&#xD;&#xA;&#xD;&#xA;Premere 'OK' per continuare oppure 'Aiuto' per ulteriori informazioni circa queste limitazioni e le possibili contromisure.&#xD;&#xA;" />
-    <string key="lstFreeDos" value="FreeDOS&#xD;&#xA;" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+    <string key="efiTitle" value="Trovato Bootloader EFI!" version="1" />
+    <string key="efiMessage" value="EasyBCD ha rilevato che il sistema si sta correntemente avviando in modalità EFI. A causa delle limitazioni imposte da Microsoft, alcune funzioni di multi-boot di EasyBCD non possono essere usate in modalità EFI e sono state pertanto disabilitate.&#xD;&#xA;&#xD;&#xA;Premere 'OK' per continuare oppure 'Aiuto' per ulteriori informazioni circa queste limitazioni e le possibili contromisure.&#xD;&#xA;" version="1" />
+    <string key="lstFreeDos" derive="true" />
     <string key="chkMetroUI" value="Usa il bootloader Metro" />
   </strings>
 </localization>

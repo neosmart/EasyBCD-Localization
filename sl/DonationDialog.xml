@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="chkDontRemind" value="Ne opominjaj me" verison="1" />
-    <string key="btnCancel" value="Ne &amp; Hvala" verison="1" />
-    <string key="btnDonate" value="&amp;Prispevajte" verison="1" />
-    <string key="lblDonationIntro" value="EasyBCD  je 100% brezplačna programska oprema in želimo, da tako tudi ostane. Vendar samo zato, ker je brezplačna še ne pomeni, da razvoj in preizkušanje nič ne stane.&#xD;&#xA;Do danes je bil EasyBCD brezplačno prenesen več kot 25 milijon krat in pomagal varovati številne računalnike pred poškodbami." verison="1"  />
-    <string key="donationTitle" value="Pomoč EasyBCD je pomoč vam!" verison="1" />
-    <string key="lblYouDonate" value="Darujte in pomagajte EasyBCD rešiti še več računalnikov!" verison="1" />
-    <string key="DonationDialog" value="Vam je EasyBCD pomagal?" verison="1" />
+    <string key="chkDontRemind" value="Ne opominjaj me" />
+    <string key="btnCancel" value="Ne &amp; Hvala" />
+    <string key="btnDonate" value="&amp;Prispevajte" />
+    <string key="lblDonationIntro" value="EasyBCD  je 100% brezplačna programska oprema in želimo, da tako tudi ostane. Vendar samo zato, ker je brezplačna še ne pomeni, da razvoj in preizkušanje nič ne stane.&#xD;&#xA;Do danes je bil EasyBCD brezplačno prenesen več kot 25 milijon krat in pomagal varovati številne računalnike pred poškodbami." />
+    <string key="donationTitle" value="Pomoč EasyBCD je pomoč vam!" />
+    <string key="lblYouDonate" value="Darujte in pomagajte EasyBCD rešiti še več računalnikov!" />
+    <string key="DonationDialog" value="Vam je EasyBCD pomagal?" />
     <string key="MinimumWidth" value="491" />
-    <string key="MinimumHeight" value="342" verison="5" />
-	</strings>
+    <string key="MinimumHeight" value="342" />
+  </strings>
 </localization>

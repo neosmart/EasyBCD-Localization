@@ -11,7 +11,7 @@
     <string key="rdoTimeoutNone" value="En attente" version="1" />
     <string key="rdoTimeoutSkip" value="Aucun" version="1" />
     <string key="btnSaveBCD" value="Enregistrer" version="1" />
-    <string key="grpTimeout" value="Options du menu de démarrage" version="1" />
+    <string key="grpTimeout" value="Options du menu de démarrage" version="2" />
     <string key="btnUp" value="Monter" version="1" />
     <string key="btnDown" value="Descendre" version="1" />
     <string key="btnRenameEntry" value="Renommer" version="1" />
@@ -90,8 +90,8 @@
     <string key="lblCreateBootable" value="EasyBCD permet d'automatiser le processus de création de médias amorçables. Veuillez sélectionner une partition pour commencer :" version="1" />
     <string key="grpCreateBootableExternal" value="Créer un média externe amorçable" version="1" />
     <string key="btnMbrWrite" value="Ecraser la MBR" version="1" />
-    <string key="rdoMbrXP" value="Installer le chargeur d'amorçage Windows XP" version="1" />
-    <string key="rdoMbrVista" value="Installer le chargeur d'amorçage Windows Vista ou plus récent" version="1" />
+    <string key="rdoMbrXP" value="Installer le chargeur d'amorçage Windows XP" version="2" />
+    <string key="rdoMbrVista" value="Installer le chargeur d'amorçage Windows Vista ou plus récent" version="2" />
     <string key="grpBootloader" value="Options de configuration de la MBR" version="1" />
     <string key="tabMbrSetup" value="6" version="1" />
     <string key="grpUtils" value="Utilitaires" version="1" />
@@ -141,18 +141,18 @@
     <string key="lstNixSys" derive="true" />
     <string key="lstEfi" value="EFI (par défaut)" version="1" />
     <string key="lstMbr" derive="true" />
-    <string key="cbxEntryDep" value="OptIn&#xD;&#xA;OptOut&#xD;&#xA;AlwaysOn&#xD;&#xA;AlwaysOff" version="1" />
+    <string key="cbxEntryDep" value="OptIn&#xD;&#xA;OptOut&#xD;&#xA;Toujours actif&#xD;&#xA;Toujours inactif" version="1" />
     <string key="cbxEntryPae" value="Par défaut&#xD;&#xA;Activée&#xD;&#xA;Désactivée" version="1" />
     <string key="cbxEntrySafe" value="Désactivé&#xD;&#xA;Sans prise en charge réseau&#xD;&#xA;Avec prise en charge réseau&#xD;&#xA;En ligne de commande&#xD;&#xA;Mode VGA&#xD;&#xA;Réparation Active Directory" version="1" />
     <string key="emptyList" value="Aucune entrée détectée !" version="1" />
     <string key="MinimumWidth" value="630" />
     <string key="MinimumHeight" value="500" version="2" />
-    <string key="cbxWinType" value="Windows Vista/7/8/10&#xD;&#xA;Windows NT/2k/XP/2k3&#xD;&#xA;Windows 95/98/ME&#xD;&#xA;MS-DOS 6.x&#xD;&#xA;FreeDOS" />
-    <string key="cbxLinType" value="GRUB (Legacy)&#xD;&#xA;GRUB 2&#xD;&#xA;LILO/eLILO&#xD;&#xA;FreeBSD/PC-BSD&#xD;&#xA;Wubi&#xD;&#xA;SysLinux&#xD;&#xA;" />
-    <string key="cbxMacType" value="EFI (Default)&#xD;&#xA;MBR" />
-    <string key="efiTitle" value="Chargeur d'amorçage EFI détecté !" />
-    <string key="efiMessage" value="EasyBCD a détecté que votre machine démarre habituellement en mode EFI. En raison de limites fixées par Microsoft, quelques une des fonctionnalités de multi démarrage de EasyBCD ne peuvent pas être utilisées en mode EFI et ont été désactivées.&#xD;&#xA;&#xD;&#xA;Cliquez sur 'OK' pour continuer ou 'Aide' pour en savoir plus sur ces limitations et solutions posibles." />
-    <string key="lstFreeDos" value="FreeDOS" />
+    <string key="cbxWinType" derive="true" />
+    <string key="cbxLinType" derive="true" />
+    <string key="cbxMacType" derive="true" />
+    <string key="efiTitle" value="Chargeur d'amorçage EFI détecté !" version="1" />
+    <string key="efiMessage" value="EasyBCD a détecté que votre machine démarre habituellement en mode EFI. En raison de limites fixées par Microsoft, quelques une des fonctionnalités de multi démarrage de EasyBCD ne peuvent pas être utilisées en mode EFI et ont été désactivées.&#xD;&#xA;&#xD;&#xA;Cliquez sur 'OK' pour continuer ou 'Aide' pour en savoir plus sur ces limitations et solutions posibles." version="1" />
+    <string key="lstFreeDos" derive="true" />
     <string key="chkMetroUI" value="Utiliser le chargeur d'amorçage Metro" />
   </strings>
 </localization>

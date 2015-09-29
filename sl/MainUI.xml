@@ -24,7 +24,7 @@
     <string key="btnFloppyBrowse" clone="btnBrowse" />
     <string key="btnBackupBrowse" clone="btnBrowse" />
     <string key="btnRestoreBrowse" clone="btnBrowse" />
-    <string key="btnIsoBrowse" clone="btnBrowse" />  
+    <string key="btnIsoBrowse" clone="btnBrowse" />
     <string key="lblName" value="Ime:" version="1" />
     <string key="lblVhdName" clone="lblName" />
     <string key="lblIsoName" clone="lblName" />
@@ -33,13 +33,13 @@
     <string key="lblWinName" clone="lblName" />
     <string key="lblLinName" clone="lblName" />
     <string key="lblMacName" clone="lblName" />
-    <string key="lblNewName" clone="lblName" />   
+    <string key="lblNewName" clone="lblName" />
     <string key="lblType" value="Tip:" version="1" />
     <string key="lblVhdType" clone="lblType" />
     <string key="lblPeType" clone="lblType" />
     <string key="lblWinType" clone="lblType" />
-    <string key="lblLinType" clone="lblType" />   
-   <string key="lblPath" value="Pot:" version="1" />
+    <string key="lblLinType" clone="lblType" />
+    <string key="lblPath" value="Pot:" version="1" />
     <string key="lblVhdPath" clone="lblPath" />
     <string key="lblIsoPath" clone="lblPath" />
     <string key="lblWinPE_Path" clone="lblPath" />
@@ -111,15 +111,15 @@
     <string key="lblAdvancedSettings" value="Upoštevajte, da nekaterih nastavitev, odvisno od vnosa, ni možno spreminjati." version="1" />
     <string key="grpChangeSettings" value="Spremeni nastavitve" version="1" />
     <string key="lblPickLH" value="Izberite vnos s spodnjega seznama ." version="1" />
-    <string key="grpSelectLH" value="Izberite OS" version="1" />  
-    <string key="tabAdvanced" value="4" version="1" />   
+    <string key="grpSelectLH" value="Izberite OS" version="1" />
+    <string key="tabAdvanced" value="4" version="1" />
     <string key="btnBackup" value="Nastavitve varnostnega kopiranja" version="1" />
-     <string key="btnRestore" value="Obnovi z varnostne kopije" version="1" />
+    <string key="btnRestore" value="Obnovi z varnostne kopije" version="1" />
     <string key="grpBackupRestore" value="Nastavitve varnostnega kopiranja in obnove zagonskega nalagalnika" version="1" />
     <string key="rdoBcdChange" value="Spremeni zagonski pogon" version="1" />
     <string key="rdoBcdRepair" value="Poustvari/popravi zagonske datoteke" version="1" />
     <string key="btnBcdRescue" value="Izvedba ukrepa" version="1" />
-    <string key="rdoBcdReset" value="Ponastavi BCD nastavitev" version="1" />   
+    <string key="rdoBcdReset" value="Ponastavi BCD nastavitev" version="1" />
     <string key="grpDiagnostics" value="BCD možnosti upravljanja" version="1" />
     <string key="tabBcdInstall" value="5" version="1" />
     <string key="btnMakeBootable" value="Namesti BCD" version="1" />
@@ -139,8 +139,8 @@
     <string key="btnAdvanced" value="Napredne nastavitve" version="1" />
     <string key="btnAddEntry" value="Dodajte nov vnos" version="1" />
     <string key="btnEditMenu" value="Urejanje zagonskega menija" version="1" />
-    <string key="btnViewSettings" value="Ogled nastavitev" version="1" /> 
-    <string key="grpToolbox" value="EasyBCD orodjarna" version="1" />      
+    <string key="btnViewSettings" value="Ogled nastavitev" version="1" />
+    <string key="grpToolbox" value="EasyBCD orodjarna" version="1" />
     <string key="mnuSelectBcd" value="&amp;Izberite BCD shrambo" version="1" />
     <string key="mnuLanguage" value="&amp;izberite jezik" version="1" />
     <string key="mnuLoadSystemBcd" value="Naloži sis&amp;tem BCD" version="1" />
@@ -159,9 +159,9 @@
     <string key="mnuBug" value="Pošlji &amp;hrošča" version="1" />
     <string key="mnuDonate2" value="&amp;Prispevajtete" version="1" />
     <string key="mnuAbout" value="&amp;O programu..." version="1" />
-    <string key="mnuHelp" value="P&amp;omoč" version="1" />    
-    <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" ersion="1" />
-    <string key="colName" value="Vnos" version="1" />  
+    <string key="mnuHelp" value="P&amp;omoč" version="1" />
+    <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" />
+    <string key="colName" value="Vnos" version="1" />
     <string key="colDefault" value="Privzeto" version="1" />
     <string key="cbxVhdType" value="Microsoft VHD&#xD;&#xA;Raw slika trdega diska&#xD;&#xA;Raw slika razdelka" version="1" />
     <string key="cbxIsoMode" value="Zaženi z diska&#xD;&#xA;naloži iz spomina" version="1" />

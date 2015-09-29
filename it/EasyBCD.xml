@@ -74,7 +74,7 @@
     <string key="bootableTitle" value="Disco di avvio creato" version="1" />
     <string key="accessDeniedText" value="Impossibile ottenere accesso al BCD. Controlla ed accertati che il BCD store nel dispositivo selezionato non sia attualmente in uso." version="1" />
     <string key="partitionConverted" value="Partizione convertita in disco avviabile" version="1" />
-    <string key="bcdRemove1" value="Questa é un'opzione avanzata che dovrebbe essere usata soltanto se si é assolutamente certi di voler disinstallare il gestore di boot di Windows. Queso componente é necessario per il funzionamento di tutte le versioni di Windows successive ad XP (Vista e seguenti)!" version="1" />
+    <string key="bcdRemove1" value="Questa é un'opzione avanzata che dovrebbe essere usata soltanto se si é assolutamente certi di voler disinstallare il gestore di boot di Windows. Queso componente é necessario per il funzionamento di tutte le versioni di Windows successive ad XP (Vista e seguenti)!" version="2" />
     <string key="bcdRemove2" value="Questa caratteristica consentirà di avviare soltanto in Windows XP se gli opportuni file di avvio sono già al loro posto!" version="1" />
     <string key="bcdRemove3" value="Sei sicuro di voler continuare?" version="1" />
     <string key="warning" value="Attenzione!" version="1" />
@@ -87,7 +87,7 @@
     <string key="errorLogical" value="È stato fatto un tentativo di stabilire come partizione di avvio un'unità logica, il che non é consentito. La partizione di avvio deve essere primaria.&#xD;&#xA;&#xD;&#xA;Scegli una unitàe differente oppure converti la partizione selezionata in primaria, poi riprova." version="1" />
     <string key="bootChangedFormat" value="EasyBCD ha configurato correttamente il disco {0} come nuova partizione di avvio ed ha caricato il nuovo BCD store per le modifiche, nel caso desideri apportare cambiamenti. Se questa partizione si trova già sul primo disco di avvio, non occorre fare altro. In caso contrario, spegni il PC e cambia le impostazioni del disco di avvio nel BIOS affinchè le modifiche abbiano effetto." version="1" />
     <string key="bootChangedTitle" value="Partizione di avvio modificata" version="1" />
-    <string key="unsupportedOS" value="Questa opzione é disponibile soltanto con Windows Vista e versioni successive." version="1" />
+    <string key="unsupportedOS" value="Questa opzione é disponibile soltanto con Windows Vista e versioni successive." version="2" />
     <string key="unsupportedOSTitle" value="Sistema operativo non supportato!" version="1" />
     <string key="errorNoRestore" value="Errore irreversibile: impossibile ripristinare lo store selezionato." version="1" />
     <string key="errorNoRestoreTitle" value="Errore di ripristino" version="1" />
@@ -112,12 +112,12 @@
     <string key="errorUtility" value="Errore nel funzionamento del programma" version="1" />
     <string key="sysInfo" value="Informazioni sul sistema" version="1" />
     <string key="sysInfoText" value="Visualizza informazioni sull'hardware e sulla configurazione software. Utile per individuare e correggere problemi hardware e per ottenere velocemente lo stato della configuazione attuale del sistema." version="1" />
-    <string key="powerConsole" value="EasyBCD Power Console" version="1" />
+    <string key="powerConsole" derive="true" />
     <string key="powerConsoleText" value="Accesso veloce ad una shell con linea di comando con pieni diritti di amministratore. Da impiegarsi per eseguire funzioni di sistema o per accedere velocemente ai file bcdedit e bootsect.exe." version="1" />
     <string key="sysRestore" value="Ripristino del sistema" version="1" />
     <string key="sysRestoreText" value="Apre il pannello dell'utilità di ripristino del sistema. Da usare per annullare od apportare velocemente modifiche in caso di problemi." version="1" />
-    <string key="restoreCds" value="CD di ripristino di sistema di Windows" version="1" />
-    <string key="restoreCdsText" value="Easy Recovery Essentials per Windows è uno strumento di riparazione e ripristino avviabile (da CD o da porta USB) che è in grado di riparare automaticamente il PC allorquando non riesce più ad avviarsi. Questo strumento con un semplice click cerca e ripara quasi tutti gli errori di boot, inclusi i BSOD, gli errori nel BCD, gli errori nella configurazione delle partizioni, ecc.&#xD;&#xA;" version="1" />
+    <string key="restoreCds" value="CD di ripristino di sistema di Windows" version="2" />
+    <string key="restoreCdsText" value="Easy Recovery Essentials per Windows è uno strumento di riparazione e ripristino avviabile (da CD o da porta USB) che è in grado di riparare automaticamente il PC allorquando non riesce più ad avviarsi. Questo strumento con un semplice click cerca e ripara quasi tutti gli errori di boot, inclusi i BSOD, gli errori nel BCD, gli errori nella configurazione delle partizioni, ecc.&#xD;&#xA;" version="2" />
     <string key="controlPanel" value="Pannello di controllo" version="1" />
     <string key="controlPanelText" value="Carica il Pannello di controllo e da lì esegue qualsiasi azione si desideri." version="1" />
     <string key="iRebootText" value="Applicazione di aiuto NeoSmart Technologies per EasyBCD. iReboot risiede nella barra di sistema (occupa soltanto 400KB di memoria!) e consente di segliere facilmente e velocemente con quale sistema operativo riavviare." version="1" />
@@ -149,10 +149,10 @@
     <string key="easybcdStatus" value="Stato di EasyBCD" version="1" />
     <string key="saveFileTitle" value="Salva come" />
     <string key="updateFoundText2" value="È stata trovata una nuova versione di EasyBCD. Vuoi che EasyBCD si aggiorni automaticamente?&#xD;&#xA;&#xD;&#xA;Seleziona 'Sì' per scaricare ed aggiornare, 'No' per vedere l'elenco dei cambiamenti ed aggiornare manualmente o 'Annulla' per ignorare." version="1" />
-    <string key="usbCreatorText" value="Easy USB Creator rende facile e veloce l'inserimento di immagini ISO per l'installazione di Windows o di strumenti di ripristino in un dispositivo avviabile USB mediante un semplice click." />
-    <string key="usbCreator" value="Easy USB Creator" />
-    <string key="oemKeyText" value="Si può usare lo strumento gratuito Windows OEM Product Key Tool di NeoSmart Technologies per prendere visione ed eventualmente recuperare il codice prodotto di Windows installato nei PC fissi o portatili." />
-    <string key="oemKey" value="Windows Product Key Tool&#xD;&#xA;" />
+    <string key="usbCreatorText" value="Easy USB Creator rende facile e veloce l'inserimento di immagini ISO per l'installazione di Windows o di strumenti di ripristino in un dispositivo avviabile USB mediante un semplice click." version="1" />
+    <string key="usbCreator" derive="true" />
+    <string key="oemKeyText" value="Si può usare lo strumento gratuito Windows OEM Product Key Tool di NeoSmart Technologies per prendere visione ed eventualmente recuperare il codice prodotto di Windows installato nei PC fissi o portatili." version="1" />
+    <string key="oemKey" derive="true" />
     <string key="help" value="Aiuto" />
     <string key="browse" value="Sfoglia" />
   </strings>
