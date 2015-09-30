@@ -5,5 +5,6 @@
     <string key="btnGo" value="اذهب" version="1" />
     <string key="MinimumHeight" derive="true" />
     <string key="MinimumWidth" derive="true" />
+    <string key="lnkTranslate" value="ساعد في ترجمة EasyBCD إلى لغتك!" version="1" />
   </strings>
 </localization>
