@@ -174,10 +174,10 @@
     <string key="cbxEntrySafe" value="Normal&#xD;&#xA;Safe Mode&#xD;&#xA;Safe Mode w/ Networking&#xD;&#xA;Command Line/Alternate Shell&#xD;&#xA;Basic VGA&#xD;&#xA;Active Directory Repair" version="1" />
     <string key="emptyList" value="No entries detected!" version="1" />
     <string key="MinimumWidth" value="583" />
-    <string key="MinimumHeight" value="456" version="2" />
+    <string key="MinimumHeight" value="456" />
     <string key="efiTitle" value="EFI Bootloader Detected!" version="1" />
     <string key="efiMessage" value="EasyBCD has detected that your machine is currently booting in EFI mode. Due to limitations set by Microsoft, many of EasyBCD's multi-booting features cannot be used in EFI mode and have been disabled.&#xD;&#xA;&#xD;&#xA;Press 'OK' to continue or 'Help' to read more about these limitations and possible workarounds." version="1" />
-    <string key="lstFreeDos" value="FreeDOS" />
-    <string key="chkMetroUI" value="Use Metro bootloader" />
+    <string key="lstFreeDos" value="FreeDOS" version="1" />
+    <string key="chkMetroUI" value="Use Metro bootloader" version="1" />
   </strings>
 </localization>

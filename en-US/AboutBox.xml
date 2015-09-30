@@ -10,6 +10,6 @@
     <string key="thanksFormat" value="Special thanks to the Grub4Dos, PLoP,{0} and UltraDefrag teams!&#xD;&#xA;&#xD;&#xA;This EasyBCD distribution ships with standalone components (Grub4Dos and UltraDefrag) licensed under the terms of the GPLv2 license. For more information, please see the LICENSE file in the installation directory." version="1" />
     <string key="title" value="About {0}" version="1" />
     <string key="MinimumWidth" value="486" />
-    <string key="MinimumHeight" value="376" version="6" />
+    <string key="MinimumHeight" value="376" />
   </strings>
 </localization>
