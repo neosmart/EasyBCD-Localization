@@ -31,7 +31,7 @@
     <string key="bcdRegistry" value="سِجل BCD" version="1" />
     <string key="locateValid" value="حدد مخزن BCD صالح " version="1" />
     <string key="errorBcd" value="خطأ في فتح سِجل BCD ." version="1" />
-    <string key="manuallyLoad" value="هل ترغب في تحميل سِجل BCD يدويا لإدارته من قبل EasyBCD ؟ رجاءاً انتبه أنه  EasyBCD يحتاج الى مُحمِّل إقلاع Windows Vista/7, وأنه لن يعمل في بيئة تدعم Windows XP فقط." version="1" />
+    <string key="manuallyLoad" value="هل ترغب في تحميل سِجل BCD يدويا لإدارته من قبل EasyBCD ؟ رجاءاً انتبه أنه  EasyBCD يحتاج الى مُحمِّل إقلاع Windows Vista أو ما بعد, وأنه لن يعمل في بيئة تدعم Windows XP فقط." version="2" />
     <string key="ntNotFound" value=" فشل EasyBCD في الكشف عن تثبيت WindowsNT-2003 صالح على كل السواقات المركبة ولم يتمكن من المتابعة." version="1" />
     <string key="ntNotFoundTitle" value="لم يتم العثور على تثبيت NT صالح !" version="1" />
     <string key="bcdError" value="خطأ في تنفيذ BCD !" version="1" />

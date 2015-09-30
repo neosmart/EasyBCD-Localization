@@ -11,7 +11,7 @@
     <string key="rdoTimeoutNone" value="إنتظر لإختيار المستخدم" version="1" />
     <string key="rdoTimeoutSkip" value="تخطى قائمة الإقلاع" version="1" />
     <string key="btnSaveBCD" value="حفظ التغييرات" version="1" />
-    <string key="grpTimeout" value="خيارات زمن الإنتظار" version="1" />
+    <string key="grpTimeout" value="خيارات قائمة  الإنتظار" version="2" />
     <string key="btnUp" value="أعلى" version="1" />
     <string key="btnDown" value="أسفل" version="1" />
     <string key="btnRenameEntry" value="إعادة تسمية" version="1" />
@@ -92,8 +92,8 @@
     <string key="lblCreateBootable" value="يستطيع EasyBCD جعل عملية صنع وسيط إقلاعي تتم بصورة ذاتية. اختر تقسيم ادناه للبدء." version="1" />
     <string key="grpCreateBootableExternal" value="إصنع وسيط إقلاعي خارجي" version="1" />
     <string key="btnMbrWrite" value="أكتب MBR" version="1" />
-    <string key="rdoMbrXP" value="تثبيت مُحمِّل إقلاع Windows الى MBR" version="1" />
-    <string key="rdoMbrVista" value="تثبيت مُحمِّل إقلاع Windows الى MBR" version="1" />
+    <string key="rdoMbrXP" value="تثبيت مُحمِّل إقلاع Windows XP الى MBR" version="2" />
+    <string key="rdoMbrVista" value="تثبيت مُحمِّل إقلاع Windows Vista وما بعد الى MBR" version="2" />
     <string key="grpBootloader" value="خيارات تعديل MBR" version="1" />
     <string key="tabMbrSetup" value="6" version="1" />
     <string key="grpUtils" value="أدوات مفيدة" version="1" />
@@ -163,5 +163,18 @@
     <string key="lstOptOut" derive="true" />
     <string key="MinimumWidth" derive="true" />
     <string key="MinimumHeight" derive="true" />
+    <string key="cbxVhdType" derive="true" />
+    <string key="cbxIsoMode" value="تحميل من القرص &#xD;&#xA;تحميل من الذاكرة" version="1" />
+    <string key="cbxPeType" derive="true" />
+    <string key="cbxWinType" derive="true" />
+    <string key="cbxLinType" derive="true" />
+    <string key="cbxMacType" derive="true" />
+    <string key="cbxEntryDep" derive="true" />
+    <string key="cbxEntryPae" value="تلقائياً&#xD;&#xA;ممكن&#xD;&#xA;معاق" version="1" />
+    <string key="cbxEntrySafe" derive="true" />
+    <string key="efiTitle" value="لقد عثر على نظام تحميل EFI!" version="1" />
+    <string key="efiMessage" value="كشف EasyBCD أن الجهاز هو حاليا في وضع تحميل EFI. بسبب القيود التي وضعتها شركة مايكروسوفت، الكثير من الميزات الخاصة بالاقلاع المتعدد التابعة لبرنامج EasyBCD لا يمكن استخدامها في وضع EFI وتم تعطيلها.&#xD;&#xA;&#xD;&#xA;اضغط على &quot;موافق&quot; للمتابعة أو &quot;مساعدة&quot; لقراءة المزيد عن هذه القيود والحلول الممكنة." version="1" />
+    <string key="lstFreeDos" derive="true" />
+    <string key="chkMetroUI" value="استخدم قائمة خيرات ال &quot;Metro&quot;" />
   </strings>
 </localization>

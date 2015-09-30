@@ -88,8 +88,8 @@
     <string key="iRebootText" value="تطبيق NeoSmart Technologies المساعد لـ EasyBCD . يظهر iReboot في شريط المهام (يأخذ فقط 400 كيلو بايت من الذاكرة!) و يسمح لك بأختيار اي نظام تشغيل تريد الإقلاع اليه بسرعة وسهولة." version="1" />
     <string key="controlPanelText" value="شغل لوحة التحكم, وإستخدمها لفعل كل ما تريد." version="1" />
     <string key="controlPanel" value="لوحة التحكم" version="1" />
-    <string key="restoreCdsText" value="حمّل نسخة  من الأقراص المضغوطة لأستعادة النظام لـ Windows Vista و Windows 7 وابقها قريبة منك في حال حصول شئ ما. تستطيع ان تستخدم EasyBCD للإقلاع الى هذه الأقراص من خلال USB ." version="1" />
-    <string key="restoreCds" value="الأقراص المضغوطة لإستعادة النظام لـ Windows Vista/7 ." version="1" />
+    <string key="restoreCdsText" value="Easy Recovery Essentials لأجهزة Windows من شركة NeoSmart Technologies أجدد و أقوى طريقة لاصلاح جهاز لن يعمل دون اللجوء الى الفرمتة أو إعادة تحميل Windows. EasyRE ينسخ إلى CD أو USB و يستعمل للاقلاع على الجهاز الذي يحتاج إلى الإصلاح و يعالج مشاكل الشاشة الزرقاء, أخطاء بملفات ال registry, فساد في ال MBR أو التقسيم, مشاكل في ال BCD أو ال NTLDR و قائمة خيرات الاقلاع, و غير ذالك." version="2" />
+    <string key="restoreCds" derive="true" />
     <string key="sysRestoreText" value="افتح لوحة استعادة النظام, إستخدمها بسرعة لـ عكس/إصلاح اي تغيير يصنع خلل في حاسوبك." version="1" />
     <string key="sysRestore" value="إستعادة النظام" version="1" />
     <string key="powerConsoleText" value="وصول سريع الى خط أوامر الشِل (shell) مع امتيازات الإشراف الكاملة. إستعمله في تنفيذ وظائف النظام  او وصول سريع الى bcdedit و bootsect.exe ." version="1" />
@@ -120,7 +120,7 @@
     <string key="bootableTitle" value="تم إنشاء القرص القابل للإقلاع" version="1" />
     <string key="accessDeniedText" value="غير قادر على الوصول الى BCD . رجاءاً افحص وتأكد من أن مخزن BCD على الجهاز المختار غير مستخدم حالياً." version="1" />
     <string key="partitionConverted" value="التقسيم تم تحويله الي سواقة قابلة للإقلاع" version="1" />
-    <string key="bcdRemove1" value="هذا خيار متقدم والذي يجب ان يُستَخدم فقط اذا كنت تريد إزالة مُحمِّل إقلاع Windows Vista/7 !" version="1" />
+    <string key="bcdRemove1" value="هذا خيار متقدم والذي يجب ان يُستَخدم فقط اذا كنت تريد إزالة مُحمِّل إقلاع ال BCD!" version="2" />
     <string key="bcdRemove2" value="هذه الخاصية ستقلع الى Windows XP إذا كانت ملفات الإقلاع الملائمة موجودة بالفعل!" version="1" />
     <string key="bcdRemove3" value="هل أنت متأكد من أنك تريد المتابعة؟" version="1" />
     <string key="warning" value="تحذير!" version="1" />
@@ -133,7 +133,7 @@
     <string key="errorLogical" value="تم إجراء محاولة لتغيير التقسيم الإقلاعي الى سواقة منطقية, والتي لا يسمح بها. التقسيم الإقلاعي يجب ان يكون التقسيم الأساسي.&#xD;&#xA;&#xD;&#xA;رجاءاً إما اختر سواقة أخرى او حوّل التقسيم المختار الى أساسي اولاً, ثم أعد المحاولة." version="1" />
     <string key="bootChangedFormat" value="قام EasyBCD بنجاح جعل السواقة {0} التقسيم الإقلاعي الجديد, وقام بتحميل مخزن BCD الجديد للتعديل, إذا كنت ترغب في أجراءات أخرى. إذا كان هذا التقسيم على قرصك الإقلاعي الأول, لن تحتاج الى إتخاذ إجراءات أخرى. إن لم يكن, يجب عليك إطفاء حاسوبك وتغيير السواقة الإقلاعية من الـ BIOS لكي تصبح التغييرات نافذة المفعول." version="1" />
     <string key="bootChangedTitle" value="تم تغيير التقسيم الإقلاعي" version="1" />
-    <string key="unsupportedOS" value="هذا الخيار متوفر على Windows Vista و Windows 7 و Windows 8 فقط." version="1" />
+    <string key="unsupportedOS" value="هذا الخيار متوفر على Windows Vista وما بعد فقط." version="2" />
     <string key="unsupportedOSTitle" value="نظام تشغييل غير مدعوم!" version="1" />
     <string key="errorNoRestore" value="خطأ فادح: غير قادر على إستعادة المخزن المختار." version="1" />
     <string key="errorNoRestoreTitle" value="خطأ في الإستعادة" version="1" />
@@ -147,7 +147,13 @@
     <string key="errorRO1" value="إما أنك لا تملك الإذن للكتابة على الملف المختار او أن الملف مضبوط على وضع القراءة-فقط او أنه مخزون على وسيط قراءة-فقط." version="1" />
     <string key="nxOptIn" value="OptIn: لب Windows محمي بوساطة DEP (خاصية أمان لحماية أنظمة التشغيل)." version="1" />
     <string key="nxOptOut" value="OptOut: Windows والتطبيقات محمية بوساطة DEP (خاصية أمان لحماية أنظمة التشغيل)." version="1" />
-    <string key="saveFileTitle" value="حفظ كـ" />
+    <string key="saveFileTitle" value="حفظ كـ" version="1" />
     <string key="updateFoundText2" value="تم العثور  على نسخة جديدة من EasyBCD . هل ترغب ان يقوم EasyBCD تلقائياً بالتحديث للنسخة الاحدث؟ &#xD;&#xA;&#xD;&#xA;اضغط على &quot;نعم&quot; للتحمل والترقية تلقائيا, أو على &quot;لا&quot; لرؤية قائمة بالتغييرات والترقية يدوياً, او على &quot;الغاء&quot; للالغاء." version="1" />
+    <string key="usbCreatorText" value="برنامج Easy USB Creator يستخدم لتحميل ملفات إعداد Windows و برامج إصلاح الجهاز من ملف ISO للأقراص المدمجة إلى USB قابل التحميل للاستخدام مع الأجهزة التي ليست مزودة بقراء CD أو DVD." version="1" />
+    <string key="usbCreator" derive="true" />
+    <string key="oemKeyText" value="استخدم برنامج NeoSmart Technologies المجاني &quot;Windows OEM Product Key Tool&quot; للعثور على مفتاح المنتج الخاص بالجهاز و مخفي بداخل نظام ال BIOS. للاستخدام مع Windows 8 و Windows 10 وما فوق." version="1" />
+    <string key="oemKey" value="Windows Product Key Tool" />
+    <string key="help" value="المساعدة" version="1" />
+    <string key="browse" value="تصفح" version="1" />
   </strings>
 </localization>
