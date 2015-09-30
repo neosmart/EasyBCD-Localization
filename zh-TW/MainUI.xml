@@ -141,6 +141,6 @@
     <string key="efiTitle" value="偵測到 EFI Bootloader!" version="1" />
     <string key="efiMessage" value="EasyBCD 偵測到您的系統目前開機在 EFI 模式。 由於 Microsoft 的設定限制，許多 EasyBCD 的多重開機功能無法在 EFI 模式使用且已停用。&#xD;&#xA;&#xD;&#xA;按下 [確定] 以繼續或 [說明] 以深入了解這些限制和可能的解決方案。" version="1" />
     <string key="lstFreeDos" derive="true" />
-    <string key="chkMetroUI" value="使用 Metro Bootloader" />
+    <string key="chkMetroUI" value="使用 Metro Bootloader" version="1" />
   </strings>
 </localization>

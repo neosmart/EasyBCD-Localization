@@ -147,13 +147,13 @@
     <string key="optionsSaved" value="Opzioni salvate correttamente!" version="1" />
     <string key="orderSaved" value="Ordine delle voci salvato" version="1" />
     <string key="easybcdStatus" value="Stato di EasyBCD" version="1" />
-    <string key="saveFileTitle" value="Salva come" />
+    <string key="saveFileTitle" value="Salva come" version="1" />
     <string key="updateFoundText2" value="È stata trovata una nuova versione di EasyBCD. Vuoi che EasyBCD si aggiorni automaticamente?&#xD;&#xA;&#xD;&#xA;Seleziona 'Sì' per scaricare ed aggiornare, 'No' per vedere l'elenco dei cambiamenti ed aggiornare manualmente o 'Annulla' per ignorare." version="1" />
     <string key="usbCreatorText" value="Easy USB Creator rende facile e veloce l'inserimento di immagini ISO per l'installazione di Windows o di strumenti di ripristino in un dispositivo avviabile USB mediante un semplice click." version="1" />
     <string key="usbCreator" derive="true" />
     <string key="oemKeyText" value="Si può usare lo strumento gratuito Windows OEM Product Key Tool di NeoSmart Technologies per prendere visione ed eventualmente recuperare il codice prodotto di Windows installato nei PC fissi o portatili." version="1" />
     <string key="oemKey" derive="true" />
-    <string key="help" value="Aiuto" />
-    <string key="browse" value="Sfoglia" />
+    <string key="help" value="Aiuto" version="1" />
+    <string key="browse" value="Sfoglia" version="1" />
   </strings>
 </localization>

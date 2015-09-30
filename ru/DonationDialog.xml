@@ -9,6 +9,6 @@
     <string key="lblYouDonate" value="Вы готовы помочь EasyBCD и уберечь больше ПК?" version="1" />
     <string key="DonationDialog" value="EasyBCD помог Вам?" version="1" />
     <string key="MinimumWidth" value="540" />
-    <string key="MinimumHeight" value="342" version="5" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

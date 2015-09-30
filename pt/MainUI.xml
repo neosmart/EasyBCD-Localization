@@ -209,6 +209,6 @@
     <string key="efiTitle" value="Bootloader EFI detectado!" version="1" />
     <string key="efiMessage" value="O EasyBCD detectou que sua máquina está inicializando em modo EFI. Devido a limitações definidas pela Microsoft, muitos dos recursos de multi-inicialização do EasyBCD não podem ser usados no modo EFI e foram desativados.&#xD;&#xA;&#xD;&#xA;Pressione 'OK' para continuar ou 'Ajuda' para ler mais sobre estas limitações e possíveis soluções." version="1" />
     <string key="lstFreeDos" derive="true" />
-    <string key="chkMetroUI" value="Usar bootloader Metro" />
+    <string key="chkMetroUI" value="Usar bootloader Metro" version="1" />
   </strings>
 </localization>

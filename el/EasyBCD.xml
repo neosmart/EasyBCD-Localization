@@ -17,7 +17,7 @@
     <string key="isoHelpTitle" value="Σχετικά με τις επιλογές των ISO" version="1" />
     <string key="drive2" value="Δίσκος" version="1" />
     <string key="easybcdStatus" value="Κατάσταση του EasyBCD " version="1" />
-    <string key="saveFileTitle" value="Αποθήκευση ως" />
+    <string key="saveFileTitle" value="Αποθήκευση ως" version="1" />
     <string key="linuxAuto" value="Αυτόματος εντοπισμός και φόρτωση" version="1" />
     <string key="communityText" value="Το EasyBCD Ελεύθερης Έκδοσης είναι με ελεύθερη άδεια χρήσης για μη εμπορική χρήση.&#xD;&#xA;Εάν χρησιμοποιείτε αυτό το λογισμικό σε ένα εμπορικό περιβάλλον, παρακαλώ κάντε κλικ στο κουμπί «Άκυρο» παρακάτω για να αγοράσετε μια εμπορική άδεια χρήσης. Διαφορετικά, κάντε κλικ στο «OK» για να συνεχίσετε." version="1" />
     <string key="communityTitle" value="EasyBCD Ελεύθερης έκδοσης" version="1" />
@@ -147,8 +147,8 @@
     <string key="warnDiffDevice" value="Το επιλεγμένο αρχείο είναι αποθηκευμένο σε μια διαφορετική συσκευή από τα αρχεία εκκίνησης. Αν σκοπεύετε να χρησιμοποιήσετε αυτή την καταχώρηση για την εκκίνηση σε ένα διαφορετικό υπολογιστή από αυτόν που χρησιμοποιείτε αυτή τη στιγμή, θα πρέπει να αντιγράψετε το αρχείο αυτό στον εξωτερικό δίσκο και να δοκιμάσετε ξανά.&#xD;&#xA;&#xD;&#xA;Θέλετε οπωσδήποτε να συνεχίσετε;" version="1" />
     <string key="usbCreatorText" value="Με το Easy USB Creator μπορείτε πολύ εύκολα να μετατρέψετε εικόνες ISO για εγκατάσταση Windows ή άλλα εργαλεία ανάκτησης σε εκκινήσιμα μέσω USB (οπότε δεν θα απαιτείτε CD ή DVD) με ένα μόνο κλικ." version="1" />
     <string key="usbCreator" derive="true" />
-    <string key="help" value="Βοήθεια" />
-    <string key="browse" value="Εξερεύνηση" />
+    <string key="help" value="Βοήθεια" version="2" />
+    <string key="browse" value="Εξερεύνηση" version="1" />
     <string key="oemKeyText" value="Χρησιμοποιείστε το OEM Product Key Tool για αναζήτηση του κλειδιού χρήστη των Windows 8 και 10." version="1" />
     <string key="oemKey" derive="true" />
   </strings>

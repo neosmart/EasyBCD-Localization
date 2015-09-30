@@ -147,10 +147,10 @@
     <string key="optionsSaved" value="Options sauvegardées avec succès !" version="1" />
     <string key="orderSaved" value="Ordre des entrées enregistré" version="1" />
     <string key="easybcdStatus" value="Statut d'EasyBCD" version="1" />
-    <string key="saveFileTitle" value="Enregistrer sous" />
+    <string key="saveFileTitle" value="Enregistrer sous" version="1" />
     <string key="updateFoundText2" value="Une nouvelle version de EasyBCD a été détectée. Désirez vous mettre à jour automatiquement EasyBCD vers la dernière version ?&#xD;&#xA;&#xD;&#xA;Cliquez sur 'Oui' pour télécharger et mettre à jour automatiquement, sur 'Non' pour voir la liste des changements et mettre à jour manuellement, ou sur 'Annuler' pour annuler." version="1" />
-    <string key="help" value="Aide" />
-    <string key="browse" value="Parcourir" />
+    <string key="help" value="Aide" version="1" />
+    <string key="browse" value="Parcourir" version="1" />
     <string key="usbCreatorText" value="Easy USB Creator rend ridiculement rapide et facile de convertir des images ISO pour l'installation de Windows et d'autres outils de récupération dans une clé USB amorçable (aucun CD ou DVD nécessaires) en un seul clic." version="1" />
     <string key="usbCreator" derive="true" />
     <string key="oemKeyText" value="Utilisez l'outil de clé de produit Windows OEM gratuit de NeoSmart Technologies pour rechercher et récupérer la clé de produit Windows inscrite dans votre PC ou portable sous Windows 8 et Windows 10" version="1" />

@@ -49,7 +49,7 @@
     <string key="txtLinName" derive="true" />
     <string key="lblLinAuto" value="Automaticky určen" version="1" />
     <string key="lblWindowsAuto" derive="true" />
-    <string key="chkMetroUI" value="Použít Metro bootloader" />
+    <string key="chkMetroUI" value="Použít Metro bootloader" version="1" />
     <string key="lstFreeDos" derive="true" />
     <string key="efiMessage" value="EasyBCD zjistilo, že váš počítač aktuálně bootuje v EFI modu. Kvůli omezení provedená Microsoftem, mnoho z EasyBCD bootovacích vlastností nemůže být v EFI módu použito a musí být vypnuty.&#xD;&#xA;&#xD;&#xA;Stiskněte 'OK' pro pokračování, nebo 'Pomoc' k zjištění více informací." version="1" />
     <string key="txtWinName" derive="true" />
@@ -62,7 +62,7 @@
     <string key="tabPageLinux" derive="true" />
     <string key="lblLocale" value="Umístění:" version="1" />
     <string key="btnMakeBootable" value="Instalovat BCD" version="1" />
-    <string key="rdoMbrXP" value="Instalovat Windows XP bootloader na MBR" version="1" />
+    <string key="rdoMbrXP" value="Instalovat Windows XP NTLDR bootloader na MBR" version="2" />
     <string key="mnuTools" value="&amp;Nástroje" version="1" />
     <string key="mnuRestart" value="&amp;Restartovat Počítač" version="1" />
     <string key="mnuEditLegacy" derive="true" />
@@ -117,7 +117,7 @@
     <string key="tabEntryBasic" value="Základní" version="1" />
     <string key="lblSafeMode" value="Bezpečný mód:" version="1" />
     <string key="lblPae" value="Podpora PAE:" version="1" />
-    <string key="rdoMbrVista" value="Instalovat Windows Vista/7 bootloader na MBR" version="1" />
+    <string key="rdoMbrVista" value="Instalovat Windows Vista+ bootloader na MBR" version="2" />
     <string key="grpBootloader" value="MBR Možnosti Nastavení" version="1" />
     <string key="lblCreateBootable" value="EasyBCD umí zautomatizovat proces vytvoření bootovacího media. Vyberte níže oddíl kterým začne." version="1" />
     <string key="btnMbrWrite" value="Zapsat MBR" version="1" />

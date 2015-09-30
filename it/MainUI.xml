@@ -166,6 +166,6 @@
     <string key="efiTitle" value="Trovato Bootloader EFI!" version="1" />
     <string key="efiMessage" value="EasyBCD ha rilevato che il sistema si sta correntemente avviando in modalità EFI. A causa delle limitazioni imposte da Microsoft, alcune funzioni di multi-boot di EasyBCD non possono essere usate in modalità EFI e sono state pertanto disabilitate.&#xD;&#xA;&#xD;&#xA;Premere 'OK' per continuare oppure 'Aiuto' per ulteriori informazioni circa queste limitazioni e le possibili contromisure.&#xD;&#xA;" version="1" />
     <string key="lstFreeDos" derive="true" />
-    <string key="chkMetroUI" value="Usa il bootloader Metro" />
+    <string key="chkMetroUI" value="Usa il bootloader Metro" version="1" />
   </strings>
 </localization>

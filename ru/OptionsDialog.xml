@@ -7,10 +7,10 @@
     <string key="chkRememberBackup" value="Запоминать расположение папки резервной копии BCD при выходе" version="1" />
     <string key="lblExpertMode" value="В этом режиме пользователь не опрашивается&#xD;&#xA;перед выполнением выбранных действий!" version="1" />
     <string key="chkLoadDefaultBcd" value="При запуске автоматически загружать следующий файл BCD:" version="1" />
-    <string key="btnBrowseBcd" value="..." version="1" />
+    <string key="btnBrowseBcd" derive="true" />
     <string key="chkAutoUpdate" value="Проверять обновления через: " version="1" />
     <string key="chkRss" value="Интегрировать NeoSmart Technologies в платформу Windows RSS" version="1" />
-    <string key="numUpdateInterval" value="0" version="1" />
+    <string key="numUpdateInterval" derive="true" />
     <string key="rdoDays" value="Дней" version="1" />
     <string key="rdoWeeks" value="Недель" version="1" />
     <string key="rdoMonths" value="Месяцев" version="1" />
@@ -21,11 +21,11 @@
     <string key="lblOverviewFont" value="Шрифт режима&#xD;&#xA;Краткий: " version="1" />
     <string key="lblDetailedFont" value="Шрифт режима&#xD;&#xA;Подробный: " version="1" />
     <string key="lblOverviewSize" value="Размер: " version="1" />
-    <string key="numFontOverview" value="8" version="1" />
-    <string key="lblOverviewPt" value="pt." version="1" />
+    <string key="numFontOverview" derive="true" />
+    <string key="lblOverviewPt" derive="true" />
     <string key="lblDetailedSize" value="Размер: " version="1" />
-    <string key="numFontDetailed" value="8" version="1" />
-    <string key="lblDetailedPt" value="pt." version="1" />
+    <string key="numFontDetailed" derive="true" />
+    <string key="lblDetailedPt" derive="true" />
     <string key="chkWordWrap" value="Включить автоперенос строк по умолчанию" version="1" />
     <string key="chkSaveWindow" value="Сохранять размер окна при выходе" version="1" />
     <string key="ResetSize" value="Сброс настроек окна" version="1" />
@@ -35,7 +35,7 @@
     <string key="detailed" value="Подробный" version="1" />
     <string key="locateBcd" value="Указать работающее хранилище BCD" version="1" />
     <string key="never" value="Никогда" version="1" />
-    <string key="MinimumWidth" value="452" />
-    <string key="MinimumHeight" value="359" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

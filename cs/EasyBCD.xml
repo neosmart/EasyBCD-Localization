@@ -41,7 +41,7 @@
     <string key="browseFileTitle" value="Procházení souborů" version="1" />
     <string key="thankYou" value="Vaší podpory si ceníme!" version="1" />
     <string key="entryDeleted" value="Bootovací vstup vymazán" version="1" />
-    <string key="saveFileTitle" value="Uložit jako" />
+    <string key="saveFileTitle" value="Uložit jako" version="1" />
     <string key="updateFoundText2" value="Nová verze programu nalezena. Chcete stáhnout poslední verzi programu EasyBCD?&#xD;&#xA;&#xD;&#xA;Stiskněte 'Ano' pro automatické stáhnutí a aktualizaci, 'Ne' k prohlédnutí seznamu posledních změn, nebo 'Zrušit' k ukončení." version="1" />
     <string key="orderSaved" value="Pořadí vstupů uloženo" version="1" />
     <string key="optionsSaved" value="Nastavení úspěšně uloženo!" version="1" />
@@ -99,7 +99,7 @@
     <string key="warning" value="Varování!" version="1" />
     <string key="bcdRemove3" value="Jste si jist, že chcete pokračovat?" version="1" />
     <string key="partitionConverted" value="Oddíl převeden na bootovací jednotku" version="1" />
-    <string key="bcdRemove1" value="Toto je pokročilá možnost, která by měla být použita jenom pokud jste si naprosto jist, že chcete odinstalovat Windows Vista/7 bootloader!" version="1" />
+    <string key="bcdRemove1" value="Toto je pokročilá možnost, která by měla být použita jenom pokud jste si naprosto jist, že chcete odinstalovat Windows Vista+ bootloader!" version="3" />
     <string key="paeDefault" value="Výchozí: Nechat Windows určit jak kolik paměti má být namapováno." version="1" />
     <string key="paeTitle" value="O nastavení PAE" version="1" />
     <string key="easybcdFiles" value="EasyBCD Soubory" version="1" />
@@ -149,7 +149,7 @@
     <string key="usbCreator" derive="true" />
     <string key="oemKeyText" value="Program NeoSmart Technologies' free Windows OEM Product Key Tool slouží k vyhledání a získání licenčního klíče vestavěného ve vašem PC, nebo notebooku s Windows 8 a Windows 10." version="1" />
     <string key="oemKey" derive="true" />
-    <string key="help" value="Pomoc" />
-    <string key="browse" value="Procházet" />
+    <string key="help" value="Pomoc" version="1" />
+    <string key="browse" value="Procházet" version="1" />
   </strings>
 </localization>

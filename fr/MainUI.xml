@@ -153,6 +153,6 @@
     <string key="efiTitle" value="Chargeur d'amorçage EFI détecté !" version="1" />
     <string key="efiMessage" value="EasyBCD a détecté que votre machine démarre habituellement en mode EFI. En raison de limites fixées par Microsoft, quelques une des fonctionnalités de multi démarrage de EasyBCD ne peuvent pas être utilisées en mode EFI et ont été désactivées.&#xD;&#xA;&#xD;&#xA;Cliquez sur 'OK' pour continuer ou 'Aide' pour en savoir plus sur ces limitations et solutions posibles." version="1" />
     <string key="lstFreeDos" derive="true" />
-    <string key="chkMetroUI" value="Utiliser le chargeur d'amorçage Metro" />
+    <string key="chkMetroUI" value="Utiliser le chargeur d'amorçage Metro" version="2" />
   </strings>
 </localization>

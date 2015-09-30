@@ -5,9 +5,9 @@
     <string key="rdoModeDetailed" value="مُفَصّل (وضع التصحيح)" version="1" />
     <string key="chkWordWrap" value="إلتفاف النص" version="1" />
     <string key="grpDisplayMode" value="وضع الشاشة" version="1" />
-    <string key="tabViewSettings" value="1" version="1" />
+    <string key="tabViewSettings" derive="true" />
     <string key="rdoTimeoutCount" value="عَد تنازلي من" version="1" />
-    <string key="numTimeout" value="0" version="1" />
+    <string key="numTimeout" derive="true" />
     <string key="rdoTimeoutNone" value="إنتظر لإختيار المستخدم" version="1" />
     <string key="rdoTimeoutSkip" value="تخطى قائمة الإقلاع" version="1" />
     <string key="btnSaveBCD" value="حفظ التغييرات" version="1" />
@@ -17,7 +17,7 @@
     <string key="btnRenameEntry" value="إعادة تسمية" version="1" />
     <string key="btnDelete" value="حذف" version="1" />
     <string key="grpModifyEntries" value="تعديل إدخالات القائمة" version="1" />
-    <string key="tabEditMenu" value="2" version="1" />
+    <string key="tabEditMenu" derive="true" />
     <string key="btnBrowse" derive="true" />
     <string key="lblName" value="الإسم:" version="1" />
     <string key="lblType" value="النوع:" version="1" />
@@ -55,7 +55,7 @@
     <string key="lblNeoGrub" value="مُحمِّل إقلاع NeoGRUB  يمكن استخدامه لإقلاع Linux و الإصدارات الأقدم من Windows او حتى السواقات المخفية." version="1" />
     <string key="tabPageNeoGrub" derive="true" />
     <string key="grpOS" value="أنظمة التشغيل" version="1" />
-    <string key="tabAddEntry" value="3" version="1" />
+    <string key="tabAddEntry" derive="true" />
     <string key="btnSaveSettings" value="حفظ التغييرات" version="1" />
     <string key="lblLocale" value="المحلي:" version="1" />
     <string key="tabEntryBasic" value="الأساسي" version="1" />
@@ -66,18 +66,16 @@
     <string key="tabEntryAdvanced" value="متقدم" version="1" />
     <string key="chkEntryKernelDebug" value="تشغيل Windows في وضع النواة-التصحيح" version="1" />
     <string key="chkEntrySos" value="تشغيل في وضع SOS/الإقلاع المسهب" version="1" />
-    <string key="chkEntryMemory" value="اقتطع" version="1" />
-    <string key="numEntryMemory" value="0" version="1" />
+    <string key="numEntryMemory" derive="true" />
     <string key="lblDeduct2" value="ميغا بايت اقتطعت من الذاكرة المادية" version="2" />
-    <string key="chkEntryCpu" value="قيد Windows الى" version="1" />
-    <string key="numEntryCpu" value="0" version="1" />
+    <string key="numEntryCpu" derive="true" />
     <string key="lblLimit2" value="اقصى عدد من المعالج/النواة لـ Windows." version="2" />
     <string key="tabEntryDeveloper" value="المطوِّر" version="1" />
     <string key="lblAdvancedSettings" value="إنتبه الى أنه بعض الإعدادات قد تكون غير متوفرة اعتماداً على الإدخال الذي يتم تعديله." version="1" />
     <string key="grpChangeSettings" value="غيّر الإعدادات" version="1" />
     <string key="lblPickLH" value="إختر إدخال من القائمة أدناه للتعديل" version="1" />
     <string key="grpSelectLH" value="إختر نظام تشغيل" version="1" />
-    <string key="tabAdvanced" value="4" version="1" />
+    <string key="tabAdvanced" derive="true" />
     <string key="btnBackup" value="إعدادات النسخ الاحتياطي" version="1" />
     <string key="btnRestore" value="إستعادة النسخ الاحتياطي" version="1" />
     <string key="grpBackupRestore" value="النسخ الإحتياطي و استعادة اعدادات مُحمِّل الإقلاع" version="1" />
@@ -86,7 +84,7 @@
     <string key="btnBcdRescue" value="نفّذ الإجراء" version="1" />
     <string key="rdoBcdReset" value="إعادة تعيين تعديلات BCD" version="1" />
     <string key="grpDiagnostics" value="خيارات إدارة BCD" version="1" />
-    <string key="tabBcdInstall" value="5" version="1" />
+    <string key="tabBcdInstall" derive="true" />
     <string key="btnMakeBootable" value="تنصيب BCD" version="1" />
     <string key="lblUsbPartitions" value="التقسيم:" version="1" />
     <string key="lblCreateBootable" value="يستطيع EasyBCD جعل عملية صنع وسيط إقلاعي تتم بصورة ذاتية. اختر تقسيم ادناه للبدء." version="1" />
@@ -95,36 +93,9 @@
     <string key="rdoMbrXP" value="تثبيت مُحمِّل إقلاع Windows XP الى MBR" version="2" />
     <string key="rdoMbrVista" value="تثبيت مُحمِّل إقلاع Windows Vista وما بعد الى MBR" version="2" />
     <string key="grpBootloader" value="خيارات تعديل MBR" version="1" />
-    <string key="tabMbrSetup" value="6" version="1" />
+    <string key="tabMbrSetup" derive="true" />
     <string key="grpUtils" value="أدوات مفيدة" version="1" />
     <string key="emptyList" value="لم يتم الكشف عن أية إدخالات!" version="1" />
-    <string key="safeAD" value="تصليح المجلد الفعّال" version="1" />
-    <string key="safeVga" value="VGA أساسي" version="1" />
-    <string key="safeNetworking" value="الوضع الآمن مع الشبكة" version="1" />
-    <string key="safeMode" value="الوضع الآمن" version="1" />
-    <string key="safeNormal" value="عادي" version="1" />
-    <string key="paeDisable" value="معطّل" version="1" />
-    <string key="paeEnable" value="مفعّل" version="1" />
-    <string key="paeDefault" value="الإفتراضي" version="1" />
-    <string key="lstAlwaysOff" value="دائماً مطفئ" version="1" />
-    <string key="lstAlwaysOn" value="دائماً مشغّل" version="1" />
-    <string key="lstMbr" derive="true" />
-    <string key="lstEfi" value="EFI (إفتراضي)" version="1" />
-    <string key="lstNixSys" derive="true" />
-    <string key="lstNixWubi" derive="true" />
-    <string key="lstNixBsd" derive="true" />
-    <string key="lstNixLilo" derive="true" />
-    <string key="lstNixGrub2" derive="true" />
-    <string key="lstNixGrub" value="GRUB (قديم)&#xD;&#xA;" version="1" />
-    <string key="lstWinDos" derive="true" />
-    <string key="lstWin9x" derive="true" />
-    <string key="lstWinNt" derive="true" />
-    <string key="lstWin7" derive="true" />
-    <string key="lstExtracted" value="مخطط ملف النظام المستخرج" version="1" />
-    <string key="lstWim" value="صورة WIM (Ramdisk)" version="1" />
-    <string key="lstLoadMem" value="تحميل من الذاكرة" version="1" />
-    <string key="lstRunDisk" value="تشغيل من القرص" version="1" />
-    <string key="lstVhdEntry" derive="true" />
     <string key="colDefault" value="الإفتراضي" version="1" />
     <string key="colName" value="إدخال" version="1" />
     <string key="MainUI" derive="true" />
@@ -154,13 +125,8 @@
     <string key="btnMbrSetup" value="نشر BCD" version="1" />
     <string key="btnUtilities" value="أدوات مفيدة" version="1" />
     <string key="btnBcdInstall" value="نسخ إحتياطي/تصليح MBR" version="1" />
-    <string key="tabUtilities" value="7" version="1" />
+    <string key="tabUtilities" derive="true" />
     <string key="mnuBug" value="أرسِل الخ&amp;طأ" version="1" />
-    <string key="safeCmd" value="خط الأوامر/ الشِل (shell) البديل" version="1" />
-    <string key="lstRawPartition" value="صورة التقسيم الأولي" version="1" />
-    <string key="lstRawHD" value="صورة القرص الصلب الأولية" version="1" />
-    <string key="lstOptIn" derive="true" />
-    <string key="lstOptOut" derive="true" />
     <string key="MinimumWidth" derive="true" />
     <string key="MinimumHeight" derive="true" />
     <string key="cbxVhdType" derive="true" />
@@ -175,6 +141,6 @@
     <string key="efiTitle" value="لقد عثر على نظام تحميل EFI!" version="1" />
     <string key="efiMessage" value="كشف EasyBCD أن الجهاز هو حاليا في وضع تحميل EFI. بسبب القيود التي وضعتها شركة مايكروسوفت، الكثير من الميزات الخاصة بالاقلاع المتعدد التابعة لبرنامج EasyBCD لا يمكن استخدامها في وضع EFI وتم تعطيلها.&#xD;&#xA;&#xD;&#xA;اضغط على &quot;موافق&quot; للمتابعة أو &quot;مساعدة&quot; لقراءة المزيد عن هذه القيود والحلول الممكنة." version="1" />
     <string key="lstFreeDos" derive="true" />
-    <string key="chkMetroUI" value="استخدم قائمة خيرات ال &quot;Metro&quot;" />
+    <string key="chkMetroUI" value="استخدم قائمة خيرات ال &quot;Metro&quot;" version="2" />
   </strings>
 </localization>

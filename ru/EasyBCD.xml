@@ -3,7 +3,7 @@
   <strings>
     <string key="linuxAuto" value="Автоматически найти и загрузить" version="1" />
     <string key="communityText" value="EasyBCD Community Edition бесплатна для не коммерческого использования.&#xD;&#xA;Если Вы используете данное ПО в коммерческой среде, пожалуйста, нажмите ниже 'Отмена', чтобы приобрести лицензию. Если нет, нажмите 'ОК' для продолжения." version="1" />
-    <string key="communityTitle" value="EasyBCD Community Edition" version="1" />
+    <string key="communityTitle" derive="true" />
     <string key="bcdInUse" value="Файл используется и не может быть открыт в EasyBCD. Если Вы пытаетесь выбрать системное хранилище, нажмите 'Нет' и выберите команду 'Загрузить системный BCD' из меню 'Файл'.&#xD;&#xA;&#xD;&#xA;Вы хотите выбрать другое хранилище?" version="1" />
     <string key="bcdInUseTitle" value="Нарушение прав доступа!" version="1" />
     <string key="accessDenied" value="Доступ запрещён!" version="1" />
@@ -22,12 +22,12 @@
     <string key="adminLine1" value="Нужны права администратора для правильного запуска. Продолжение невозможно." version="1" />
     <string key="adminLine2" value="Пожалуйста, войдите как администратор или запустите от имени администратора." version="1" />
     <string key="adminTitle" value="Доступ запрещен!" version="1" />
-    <string key="easybcdBackup" value="EasyBCD Backup" version="1" />
+    <string key="easybcdBackup" derive="true" />
     <string key="yes" value="Да" version="1" />
     <string key="no" value="Нет" version="1" />
     <string key="registryFailed" value="Невозможно записать данные настроек" version="1" />
-    <string key="commercialEdition" value="Commercial Edition" version="1" />
-    <string key="communityEdition" value="Community Edition" version="1" />
+    <string key="commercialEdition" derive="true" />
+    <string key="communityEdition" derive="true" />
     <string key="failedAddTitle" value="Не удается добавить запись!" version="1" />
     <string key="msdosHelp" value="Для загрузки в MS-DOS 6.x или Windows 3.x файлы IO.SYS и MSDOS.SYS должны находиться в начале активного раздела.&#xD;&#xA;&#xD;&#xA;Для дополнительной информации нажмите 'Да', чтобы открыть страницу документации EasyBCD для записей на базе DOS. Если Вы не хотите просмотреть документацию сейчас, нажмите 'Нет'." version="1" />
     <string key="msdosHelpTitle" value="Открыть документацию EasyBCD для MS-DOS?" version="1" />
@@ -111,12 +111,12 @@
     <string key="errorBootIniFormat" value="EasyBCD не удалось обнаружить файл boot.ini на загрузочном разделе {0}.&#xD;&#xA;&#xD;&#xA;Пожалуйста, добавьте новую запись Windows 2k/XP для выполнения автогенерации файла boot.ini." version="1" />
     <string key="errorUtility" value="Ошибка запуска программы!" version="1" />
     <string key="usbCreatorText" value="Easy USB Creator позволяет быстро и легко конвертировать файлы ISO для установки Windows и других инструментов восстановления в загрузочный USB (CD/DVD не нужны) всего в один клик." version="1" />
-    <string key="usbCreator" value="Easy USB Creator" version="1" />
+    <string key="usbCreator" derive="true" />
     <string key="powerConsole" value="Командная строка EasyBCD" version="1" />
     <string key="powerConsoleText" value="Быстрый доступ к оболочке командной строки с правами администратора. Используйте для системных функций или быстрого доступа к bcdedit и bootsect.exe." version="1" />
     <string key="oemKeyText" value="Используйте бесплатную программу Windows OEM Product Key Tool от NeoSmart Technologies для просмотра и получения ключа Windows, вшитого в BIOS Вашего ПК или ноутбука с Windows 8/10." version="1" />
-    <string key="oemKey" value="Windows Product Key Tool" version="1" />
-    <string key="restoreCds" value="EasyRE Windows Recovery CDs" version="2" />
+    <string key="oemKey" derive="true" />
+    <string key="restoreCds" derive="true" />
     <string key="restoreCdsText" value="Easy Recovery Essentials для Windows - это CD/USB для ремонта и восстановления, который может автоматически восстановить Ваш ПК при следующей загрузке. Восстановление в один клик с помощью EasyRE позволит найти и исправить почти все ошибки загрузки (BSOD, ошибки BCD, неправильную конфигурацию разделов и др.)." version="2" />
     <string key="controlPanel" value="Панель управления" version="1" />
     <string key="controlPanelText" value="Открыть системную Панель управления." version="1" />
@@ -147,9 +147,9 @@
     <string key="optionsSaved" value="Настройки успешно сохранены!" version="1" />
     <string key="orderSaved" value="Порядок записей сохранён!" version="1" />
     <string key="easybcdStatus" value="Статус EasyBCD" version="1" />
-    <string key="saveFileTitle" value="Сохранить как" />
+    <string key="saveFileTitle" value="Сохранить как" version="1" />
     <string key="updateFoundText2" value="Доступна новая версия. Желаете выполнить автоматическое обновление?&#xD;&#xA;&#xD;&#xA;Нажмите 'Да' для автоматической загрузки и установки новой версии, 'Нет' для просмотра списка изменений и обновления вручную или 'Отмена'." version="1" />
-    <string key="help" value="Помощь" />
-    <string key="browse" value="Обзор" />
+    <string key="help" value="Помощь" version="1" />
+    <string key="browse" value="Обзор" version="1" />
   </strings>
 </localization>

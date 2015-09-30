@@ -8,7 +8,7 @@
     <string key="DriveSelect" value="Выбор диска" version="1" />
     <string key="errorAlreadyBoot" value="Выбранный диск уже является текущим диском начальной загрузки. Пожалуйста, выберите другой диск!" version="1" />
     <string key="errorAlreadyBootTitle" value="Пожалуйста, выберите другой диск!" version="1" />
-    <string key="MinimumWidth" value="518" />
-    <string key="MinimumHeight" value="199" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

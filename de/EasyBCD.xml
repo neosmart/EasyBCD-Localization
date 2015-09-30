@@ -147,13 +147,13 @@
     <string key="errorPathSave" value="EasyBCD konnte den momentanen Backup-Pfad nicht als das Standard Backup-Verzeichnis erstellen. Die Option wurde deaktiviert." version="1" />
     <string key="isoHelp2" value="Von Datenträger starten: Lädt schneller beim Start, aber läuft langsamer. Benötigt auch Vorbearbeitung mit EasyBCD während der Erstellung." version="1" />
     <string key="isoHelp3" value="Lade aus dem Speicher: Läuft schneller, aber braucht mehr Zeit entsprechend der Auswahl während des Startens. Könnte nicht funktionieren für größere Platten oder ältere Betriebssysteme." version="1" />
-    <string key="saveFileTitle" value="Speichern als" />
+    <string key="saveFileTitle" value="Speichern als" version="1" />
     <string key="updateFoundText2" value="Eine neuere Version von EasyBCD wurde gefunden. Möchten Sie EasyBCD automatisch auf die neueste Version updaten?&#xD;&#xA;&#xD;&#xA;Drücken Sie 'Ja' für automatischen Download und Update, 'Nein' um die Liste der Änderungen zu sehen und das Update manuell durchzuführen, 'Abbrechen' um keine Änderungen durchzuführen." version="1" />
     <string key="usbCreatorText" value="Easy USB Creator macht es kinderleicht und schnell,  ISO-Abbilder für die Windows Installation und andere Wiederherstellungswerkzeuge in in ein startfähiges USB Medium umzuwandeln (keine CDs oder DVDs benötigt) mit mur einem einzigen Mausklick." version="1" />
     <string key="usbCreator" value="Easy USB Creator" version="1" />
     <string key="oemKeyText" value="Benützen Sie NeoSmart Technologies' kostenloses &quot;Windows OEM Product Key Werkzeug&quot;  unter Windows 8 and Windows 10, um den im System versteckten Windows Produkt Key (Produktschlüssel) zu finden und anzuzeigen." version="1" />
     <string key="oemKey" value="Windows Product Key Werkzeug" version="1" />
-    <string key="help" value="Hilfe" />
-    <string key="browse" value="Durchsuchen" />
+    <string key="help" value="Hilfe" version="1" />
+    <string key="browse" value="Durchsuchen" version="1" />
   </strings>
 </localization>

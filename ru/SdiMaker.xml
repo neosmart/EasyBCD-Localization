@@ -6,7 +6,7 @@
     <string key="Body" value="Для продолжения EasyBCD нужен доступ к дистрибутиву Windows Vista или выше (обычно диск DVD или образ ISO).&#xD;&#xA;&#xD;&#xA;Пожалуйста, вставьте DVD диск или укажите путь к образу ISO и нажмите ОК для продолжения." version="2" />
     <string key="SdiMaker" value="Вставьте диск с дистрибутивом Windows!" version="1" />
     <string key="mediaNotFound" value="Дистрибутив Windows не обнаружен!" version="1" />
-    <string key="MinimumWidth" value="381" />
-    <string key="MinimumHeight" value="196" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

@@ -147,9 +147,9 @@
     <string key="optionsSaved" value="選項儲存成功!" version="1" />
     <string key="orderSaved" value="項目順序已儲存" version="1" />
     <string key="easybcdStatus" value="EasyBCD 狀態" version="1" />
-    <string key="saveFileTitle" value="另存新檔" />
+    <string key="saveFileTitle" value="另存新檔" version="1" />
     <string key="updateFoundText2" value="發現 EasyBCD 的新版本。 您希望 EasyBCD 自動更新成最新版本嗎?&#xD;&#xA;&#xD;&#xA;按下 [是] 自動下載並更新，[否] 查看變更清單並手動更新，或 [取消] 來取消。" version="1" />
-    <string key="help" value="說明" />
-    <string key="browse" value="瀏覽" />
+    <string key="help" value="說明" version="1" />
+    <string key="browse" value="瀏覽" version="1" />
   </strings>
 </localization>
