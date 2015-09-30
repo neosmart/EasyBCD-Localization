@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="btnOK" value=" V redu" />
-    <string key="btnCancel" value="Prekini" />
+    <string key="btnOK" value=" V redu" version="2" />
+    <string key="btnCancel" value="Prekini" version="2" />
     <string key="chkExpertMode" value="Zaženi EasyBCD v strokovnem načinu" version="1" />
     <string key="chkRememberBackup" value="Ob izhodu si zapomni imenik za varnostno kopiranje BCD" version="1" />
     <string key="lblExpertMode" value="Strokovni način ne opozori uporabnika pred izvedbo naprednih dejavnosti!" version="1" />
     <string key="chkLoadDefaultBcd" value="Ob zagonu samodejno naloži sledečo datoteko BCD:" version="1" />
-    <string key="btnBrowseBcd" value="..." version="1" />
+    <string key="btnBrowseBcd" derive="true" />
     <string key="chkAutoUpdate" value="Samodejno posodobi vsakih" version="1" />
     <string key="chkRss" value="Vključi NeoSmart tehnologije v RSS platforme Windows" version="1" />
-    <string key="numUpdateInterval" value="0" version="1" />
+    <string key="numUpdateInterval" derive="true" />
     <string key="rdoDays" value="Dan/i" version="1" />
     <string key="rdoWeeks" value="Teden/nov" version="1" />
     <string key="rdoMonths" value="Mesec/ev" version="1" />
@@ -21,10 +21,10 @@
     <string key="lblOverviewFont" value="Splošna pisava:" version="1" />
     <string key="lblDetailedFont" value="Pisava za detajle:" version="1" />
     <string key="lblOverviewSize" value="Velikost:" version="1" />
-    <string key="numFontOverview" value="8" version="1" />
+    <string key="numFontOverview" derive="true" />
     <string key="lblOverviewPt" value="točk" version="1" />
     <string key="lblDetailedSize" value="Velikost:" version="1" />
-    <string key="numFontDetailed" value="8" version="1" />
+    <string key="numFontDetailed" derive="true" />
     <string key="lblDetailedPt" value="točk" version="1" />
     <string key="chkWordWrap" value="Omogoči prelom besed ( privzeto)" version="1" />
     <string key="chkSaveWindow" value="Ob izhodu iz programa  EasyBCD shrani velikost okna" version="1" />
@@ -35,7 +35,7 @@
     <string key="detailed" value="Podrobno" version="1" />
     <string key="locateBcd" value="Poiščite veljavno BCD shrambo" version="1" />
     <string key="never" value="Nikoli" version="1" />
-    <string key="MinimumWidth" value="452" />
-    <string key="MinimumHeight" value="359" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="lblDriveSelect" value="Novi zagonski pogon:" />
-    <string key="lblBody" value="EasyBCD bo ponovno nastavil vaš sistem za zagon s spodaj izbranega razdelka. Ta proces bo vzpostavil BCD prostor na izbranem disku, kopiral trenutne BCD vnose in naredil izbrani razdelek aktiven in zagonski." />
-    <string key="OK_Button" value="&amp;V redu" />
-    <string key="Cancel_Button" value="&amp;Prekini" />
-    <string key="DriveSelect" value="Izbira pogona" />
-    <string key="errorAlreadyBoot" value="Pogon, ki ste ga izbrali je že trenutni zagonski disk. Prosimo, izberite drug pogon za nadaljevanje!" />
-    <string key="errorAlreadyBootTitle" value="Prosimo, izberite drug pogon!" />
-    <string key="MinimumWidth" value="518" />
-    <string key="MinimumHeight" value="199" />
+    <string key="lblDriveSelect" value="Novi zagonski pogon:" version="1" />
+    <string key="lblBody" value="EasyBCD bo ponovno nastavil vaš sistem za zagon s spodaj izbranega razdelka. Ta proces bo vzpostavil BCD prostor na izbranem disku, kopiral trenutne BCD vnose in naredil izbrani razdelek aktiven in zagonski." version="1" />
+    <string key="OK_Button" value="&amp;V redu" version="1" />
+    <string key="Cancel_Button" value="&amp;Prekini" version="1" />
+    <string key="DriveSelect" value="Izbira pogona" version="1" />
+    <string key="errorAlreadyBoot" value="Pogon, ki ste ga izbrali je že trenutni zagonski disk. Prosimo, izberite drug pogon za nadaljevanje!" version="1" />
+    <string key="errorAlreadyBootTitle" value="Prosimo, izberite drug pogon!" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

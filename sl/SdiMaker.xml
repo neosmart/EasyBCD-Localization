@@ -3,10 +3,10 @@
   <strings>
     <string key="OK_Button" value="V redu" version="1" />
     <string key="Cancel_Button" value="Prekini" version="1" />
-    <string key="Body" value="Za nadaljevanje, EasyBCD potrebuje dostop do namestitvenega medija operacijskega sistema Windows Vista ali Windows 7 (ponavadi DVD ali posnetek diska).&#xD;&#xA;&#xD;&#xA;Prosimo, vstavite DVD v optični pogon ali namestite posnetek diska, nato pritisnite ''V redu'' za nadaljevanje." version="1" />
+    <string key="Body" value="Za nadaljevanje, EasyBCD potrebuje dostop do namestitvenega medija operacijskega sistema Windows Vista+ (ponavadi DVD ali posnetek diska).&#xD;&#xA;&#xD;&#xA;Prosimo, vstavite DVD v optični pogon ali namestite posnetek diska, nato pritisnite ''V redu'' za nadaljevanje." version="2" />
     <string key="mediaNotFound" value="Namestitveni medij za Windows ni prisoten." version="1" />
     <string key="SdiMaker" value="Vstavite namestitveni medij operacijskega sistema Windows." version="1" />
-    <string key="MinimumWidth" value="381" />
-    <string key="MinimumHeight" value="196" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

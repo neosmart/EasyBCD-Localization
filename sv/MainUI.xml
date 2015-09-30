@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
     <string key="rdoModeBasic" value="Översikt" version="1" />
@@ -127,7 +127,7 @@
     <string key="lblCreateBootable" value="EasyBCD kan skapa startbara media automatiskt. Välj en enhet för att börja." version="1" />
     <string key="grpCreateBootableExternal" value="Skapa startbar extern media" version="1" />
     <string key="btnMbrWrite" value="Skriv MBR" version="1" />
-    <string key="rdoMbrXP" value="Installera Windows XP starthanterare i MBR" version="1" />
+    <string key="rdoMbrXP" value="Installera Windows XP starthanterare i MBR" version="2" />
     <string key="rdoMbrVista" value="Installera Windows Vista/7 starhanterare i MBR" version="1" />
     <string key="grpBootloader" value="MBR konfigurationsalternativ" version="1" />
     <string key="tabMbrSetup" derive="true" />
@@ -166,7 +166,7 @@
     <string key="cbxVhdType" value="Microsoft VHD&#xD;&#xA;Raw hårddiskavbild&#xD;&#xA;Raw partitionsavbild" version="1" />
     <string key="cbxIsoMode" value="Kör från disk&#xD;&#xA;Läs från minne" version="1" />
     <string key="cbxPeType" value="WIM-avbild (Ramdisk)&#xD;&#xA;Extraherad filsystemlayout" version="1" />
-    <string key="cbxWinType" value="Windows Vista/7/8&#xD;&#xA;Windows NT/2k/XP/2k3&#xD;&#xA;Windows 95/98/ME&#xD;&#xA;MS-DOS 6.x&#xD;&#xA;FreeDOS" version="1" />
+    <string key="cbxWinType" derive="true" />
     <string key="cbxLinType" value="GRUB (Legacy)&#xD;&#xA;GRUB 2&#xD;&#xA;LILO/eLILO&#xD;&#xA;FreeBSD/PC-BSD&#xD;&#xA;Wubi&#xD;&#xA;SysLinux" version="1" />
     <string key="cbxMacType" value="EFI (Standard)&#xD;&#xA;MBR" version="1" />
     <string key="cbxEntryDep" value="OptIn&#xD;&#xA;OptOut&#xD;&#xA;Alltid på&#xD;&#xA;Alltid av" version="1" />
@@ -176,8 +176,8 @@
     <string key="MinimumWidth" derive="true" />
     <string key="MinimumHeight" derive="true" />
     <string key="efiTitle" value="EFI bootloader upptäckt!" version="1" />
-    <string key="efiMessage" value="EasyBCD har upptäckt att din dator startar i EFI-läge. På grund av begränsningar, implementerade av Microsoft, kan många av EasyBCD:s multistartfunktioner inte användas i EFI-läge och har därför inaktiverats.&#xD;&#xA;&#xD;&#xA;Tryck 'OK' för att fortsätta, eller 'Hjälp' för att läsa mer om begränsningarna och möjliga lösningar." />
+    <string key="efiMessage" value="EasyBCD har upptäckt att din dator startar i EFI-läge. På grund av begränsningar, implementerade av Microsoft, kan många av EasyBCD:s multistartfunktioner inte användas i EFI-läge och har därför inaktiverats.&#xD;&#xA;&#xD;&#xA;Tryck 'OK' för att fortsätta, eller 'Hjälp' för att läsa mer om begränsningarna och möjliga lösningar." version="1" />
     <string key="lstFreeDos" derive="true" />
-    <string key="chkMetroUI" value="Använd Metro bootloader" />
+    <string key="chkMetroUI" value="Använd Metro bootloader" version="1" />
   </strings>
 </localization>

@@ -3,7 +3,7 @@
   <strings>
     <string key="lblApplyingActions" value="EasyBCD izvaja izbrano dejanje .." version="1" />
     <string key="ProgressDialog" value="Prosimo počakajte" version="1" />
-    <string key="MinimumWidth" value="371" />
-    <string key="MinimumHeight" value="110" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

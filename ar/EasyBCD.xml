@@ -152,7 +152,7 @@
     <string key="usbCreatorText" value="برنامج Easy USB Creator يستخدم لتحميل ملفات إعداد Windows و برامج إصلاح الجهاز من ملف ISO للأقراص المدمجة إلى USB قابل التحميل للاستخدام مع الأجهزة التي ليست مزودة بقراء CD أو DVD." version="1" />
     <string key="usbCreator" derive="true" />
     <string key="oemKeyText" value="استخدم برنامج NeoSmart Technologies المجاني &quot;Windows OEM Product Key Tool&quot; للعثور على مفتاح المنتج الخاص بالجهاز و مخفي بداخل نظام ال BIOS. للاستخدام مع Windows 8 و Windows 10 وما فوق." version="1" />
-    <string key="oemKey" value="Windows Product Key Tool" />
+    <string key="oemKey" value="برنامج إكتشاف مفتاح Windows" version="1" />
     <string key="help" value="المساعدة" version="1" />
     <string key="browse" value="تصفح" version="1" />
   </strings>

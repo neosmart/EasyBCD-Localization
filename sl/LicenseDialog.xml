@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="linkLabel" value="Ta izvod EasyBCD! zahteva nakup komercialne licence.&#xD;&#xA;&#xD;&#xA;Vnesite bodisi e-poštni naslov ali številko licence. Kliknite tu za nakup licence, ali pa se obrnite Sales@NeoSmart.net za podporo." />
-    <string key="linkClick" value="Kliknite tu" />
-    <string key="linkEmail" value=".Sales@NeoSmart.net" />
-    <string key="btnSkip" value="Pres&amp;koči" />
-    <string key="btnRegister" value="&amp;Registrirajte" />
-    <string key="lblTitle" value="EasyBCD komercialna različica" />
-    <string key="lblLicenseKey" value="E-pošta ali licenčni ključ:" />
-    <string key="LicenseDialog" value="EasyBCD komercialna različica" />
-    <string key="email" value="E-pošta" />
-    <string key="licenseKey" value="Licenčni ključ" />
-    <string key="seats" value="Število" />
-    <string key="regFailTitle" value="Neuspešna registracija!" />
-    <string key="regFail" value="Napačen e-naslov ali licenčni ključ. Prosimo poskusite znova." />
-    <string key="regException" value="Prišlo je do napake pri pridobitvi dovoljenja iz oddaljenega strežnika. Prepričajte se, da ste povezani v internet ali poskusite znova pozneje" />
-    <string key="regExceptionTitle" value="Registracija ni možna" />
-    <string key="btnContinue" value="Naprej" />
-    <string key="regSuccess" value="Registracija je komčana!" />
-    <string key="MinimumWidth" value="511" />
-    <string key="MinimumHeight" value="334" />
+    <string key="linkLabel" value="Ta izvod EasyBCD! zahteva nakup komercialne licence.&#xD;&#xA;&#xD;&#xA;Vnesite bodisi e-poštni naslov ali številko licence. Kliknite tu za nakup licence, ali pa se obrnite Sales@NeoSmart.net za podporo." version="1" />
+    <string key="linkClick" value="Kliknite tu" version="1" />
+    <string key="linkEmail" derive="true" />
+    <string key="btnSkip" value="Pres&amp;koči" version="1" />
+    <string key="btnRegister" value="&amp;Registrirajte" version="1" />
+    <string key="lblTitle" value="EasyBCD komercialna različica" version="1" />
+    <string key="lblLicenseKey" value="E-pošta ali licenčni ključ:" version="1" />
+    <string key="LicenseDialog" value="EasyBCD komercialna različica" version="1" />
+    <string key="email" value="E-pošta" version="1" />
+    <string key="licenseKey" value="Licenčni ključ" version="1" />
+    <string key="seats" value="Število" version="1" />
+    <string key="regFailTitle" value="Neuspešna registracija!" version="1" />
+    <string key="regFail" value="Napačen e-naslov ali licenčni ključ. Prosimo poskusite znova." version="1" />
+    <string key="regException" value="Prišlo je do napake pri pridobitvi dovoljenja iz oddaljenega strežnika. Prepričajte se, da ste povezani v internet ali poskusite znova pozneje" version="1" />
+    <string key="regExceptionTitle" value="Registracija ni možna" version="1" />
+    <string key="btnContinue" value="Naprej" version="1" />
+    <string key="regSuccess" value="Registracija je komčana!" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>

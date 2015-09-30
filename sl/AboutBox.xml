@@ -5,7 +5,7 @@
     <string key="seatsAllowed" value="avtorizirani uporabniki in naprave" version="1" />
     <string key="unlicensed" value="Kopija brez licence!" version="1" />
     <string key="version" value="Inačica" version="1" />
-    <string key="copyright" value="Avtorske pravice © Technologies NeoSmart 2006 - {0}" version="1" />
+    <string key="copyright" value="Avtorske pravice © Technologies NeoSmart 2006 - {0}" version="2" />
     <string key="aboutText1" value="EasyBCD je najboljši zagonski nalagalnik in orodje za upravljanje zagona. Nobenega zagotovila ni, da bo EasyBCD deloval z vsemi različicami operacijskega sistema Windows - vedno se prepričajte, da uporabljate najnovejšo različico orodja.&#xD;&#xA;&#xD;&#xA;• Vodilni razvijalec: H. Mahmud Al-Qudsi&#xD;&#xA;• Prevod v slovenski jezik: marjan.mirai@gmail.com &#xD;&#xA;• Narejeno z C + +, C #, dr Pepper, Excedrin in Visine" version="1" />
     <string key="thanksFormat" value="Posebna zahvala Grub4Dos, PLoP, {0} in UltraDefrag ekipam!&#xD;&#xA;&#xD;&#xA;Ta EasyBCD distribucija, distribuirana s samostojnih komponent(Grub4Dos in UltraDefrag) ima dovoljenje v skladu s pogoji iz GPLv2 licence. Za več informacij si oglejte datoteko z licenco v namestitvenem imeniku." version="1" />
     <string key="title" value="O programu {0}" version="1" />

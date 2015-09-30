@@ -1,39 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="accessViolationFormat" value="Ne morem pridobiti izključnega dostopa do {0}. Če je izmenljivi disk, ga ponovno vstavite in poskusite znova." />
-    <string key="failedSave" value="Sprememb ni bilo mogoče shraniti!" />
-    <string key="accessDeniedTitle" value="Dostop zavrnjen" />
-    <string key="accessDeniedFormat" value="Dostop do {0} je bil zavrnjen. Prepričajte se, da datoteka ni v uporabi in da imate dovoljenje za brisanje ali spreminjanje tega mesta." />
-    <string key="oneEntry" value="Obstaja še en vnos v zagonski nalagalnik Windows:" />
-    <string key="multiEntriesFormat" value="Skupno vnosov v zagonski nalagalnik: {0}" />
-    <string key="entryNum" value="Vnos #" />
-    <string key="name" value="Ime" />
-    <string key="bcdId" value="BCD ID" />
-    <string key="drive" value="Pogon" />
-    <string key="device" value="Naprava" />
-    <string key="path" value="Pot" />
-    <string key="default" value="Privzeto" />
-    <string key="timeout" value="Prekinitev" />
-    <string key="none" value="Noben" />
-    <string key="timeoutFormat" value="{0} sekund" />
-    <string key="skipped" value="Spuščeno" />
-    <string key="bootDevice" value="Zagonski pogon" />
-    <string key="ebcdBootDevice" value="EasyBCD zagonska naprava" />
-    <string key="bootloaderPath" value="Pot zagonskega nalagalnika" />
-    <string key="bcdError" value="BCD napaka izvajanja!" />
-    <string key="ntNotFoundTitle" value="Veljavna NT namestitev ni bila najdena!" />
-    <string key="ntNotFound" value="EasyBCD ni našel veljavne namestitve operacijskega sistema Windows NT 2003 na  vgrajenih diskih in ni mogel nadaljevati." />
-    <string key="manuallyLoad" value="Bi radi ročno naložiti BCD ključe za upravljanje EasyBCD? Prosimo, upoštevajte, da EasyBCD zahteva Windows Vista ali 7 zaganjalnik, in ne bo deloval v izključno XP okolju." />
-    <string key="errorBcd" value="Napaka pri odpiranju BCD registra" />
-    <string key="locateValid" value="Poiščite veljavno BCD shrambo" />
-    <string key="bcdRegistry" value="BCD register" />
-    <string key="partition" value="Razdelek" />
-    <string key="unknown" value="Neznan" />
-    <string key="gib" value="GB" />
-    <string key="mib" value="MB" />
-    <string key="as" value="kot" />
-    <string key="defragFormat" value="Zagon defragmentacije datoteke {0}" />
-    <string key="unnamed" value="Neznan vnos" />
+    <string key="accessViolationFormat" value="Ne morem pridobiti izključnega dostopa do {0}. Če je izmenljivi disk, ga ponovno vstavite in poskusite znova." version="1" />
+    <string key="failedSave" value="Sprememb ni bilo mogoče shraniti!" version="1" />
+    <string key="accessDeniedTitle" value="Dostop zavrnjen" version="1" />
+    <string key="accessDeniedFormat" value="Dostop do {0} je bil zavrnjen. Prepričajte se, da datoteka ni v uporabi in da imate dovoljenje za brisanje ali spreminjanje tega mesta." version="1" />
+    <string key="oneEntry" value="Obstaja še en vnos v zagonski nalagalnik Windows:" version="1" />
+    <string key="multiEntriesFormat" value="Skupno vnosov v zagonski nalagalnik: {0}" version="1" />
+    <string key="entryNum" value="Vnos #" version="1" />
+    <string key="name" value="Ime" version="1" />
+    <string key="bcdId" derive="true" />
+    <string key="drive" value="Pogon" version="1" />
+    <string key="device" value="Naprava" version="1" />
+    <string key="path" value="Pot" version="1" />
+    <string key="default" value="Privzeto" version="1" />
+    <string key="timeout" value="Prekinitev" version="1" />
+    <string key="none" value="Noben" version="1" />
+    <string key="timeoutFormat" value="{0} sekund" version="1" />
+    <string key="skipped" value="Spuščeno" version="1" />
+    <string key="bootDevice" value="Zagonski pogon" version="1" />
+    <string key="ebcdBootDevice" value="EasyBCD zagonska naprava" version="1" />
+    <string key="bootloaderPath" value="Pot zagonskega nalagalnika" version="1" />
+    <string key="bcdError" value="BCD napaka izvajanja!" version="1" />
+    <string key="ntNotFoundTitle" value="Veljavna NT namestitev ni bila najdena!" version="1" />
+    <string key="ntNotFound" value="EasyBCD ni našel veljavne namestitve operacijskega sistema Windows NT 2003 na  vgrajenih diskih in ni mogel nadaljevati." version="1" />
+    <string key="manuallyLoad" value="Bi radi ročno naložiti BCD ključe za upravljanje EasyBCD? Prosimo, upoštevajte, da EasyBCD zahteva Windows Vista ali 7 zaganjalnik, in ne bo deloval v izključno XP okolju." version="2" />
+    <string key="errorBcd" value="Napaka pri odpiranju BCD registra" version="1" />
+    <string key="locateValid" value="Poiščite veljavno BCD shrambo" version="1" />
+    <string key="bcdRegistry" value="BCD register" version="1" />
+    <string key="partition" value="Razdelek" version="1" />
+    <string key="unknown" value="Neznan" version="1" />
+    <string key="gib" value="GB" version="1" />
+    <string key="mib" value="MB" version="1" />
+    <string key="as" value="kot" version="1" />
+    <string key="defragFormat" value="Zagon defragmentacije datoteke {0}" version="1" />
+    <string key="unnamed" value="Neznan vnos" version="1" />
   </strings>
 </localization>
