@@ -2,7 +2,7 @@
 <localization>
   <strings>
     <string key="rdoModeBasic" value="Überblick" version="1" />
-    <string key="rdoModeDetailed" value="Detailliert (Fehlerbehebungs)" version="1" />
+    <string key="rdoModeDetailed" value="Details (zur Fehlerbehebung)" version="1" />
     <string key="grpDisplayMode" value="Anzeigemodus" version="1" />
     <string key="chkWordWrap" value="Zeilenumbruch" version="1" />
     <string key="tabViewSettings" derive="true" />
