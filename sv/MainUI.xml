@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
     <string key="rdoModeBasic" value="Översikt" version="1" />
@@ -11,7 +11,7 @@
     <string key="rdoTimeoutNone" value="Vänta på användarval" version="1" />
     <string key="rdoTimeoutSkip" value="Hoppa över startmenyn" version="1" />
     <string key="btnSaveBCD" value="Spara inställningar" version="1" />
-    <string key="grpTimeout" value="Timeout-alternativ" version="1" />
+    <string key="grpTimeout" value="Menyalternativ" version="2" />
     <string key="btnUp" value="Upp" version="1" />
     <string key="btnDown" value="Ner" version="1" />
     <string key="btnRenameEntry" value="Byt namn" version="1" />
@@ -128,7 +128,7 @@
     <string key="grpCreateBootableExternal" value="Skapa startbar extern media" version="1" />
     <string key="btnMbrWrite" value="Skriv MBR" version="1" />
     <string key="rdoMbrXP" value="Installera Windows XP starthanterare i MBR" version="2" />
-    <string key="rdoMbrVista" value="Installera Windows Vista/7 starhanterare i MBR" version="1" />
+    <string key="rdoMbrVista" value="Installera Vista+ BCD/bootmgr starhanterare" version="2" />
     <string key="grpBootloader" value="MBR konfigurationsalternativ" version="1" />
     <string key="tabMbrSetup" derive="true" />
     <string key="grpUtils" value="Verktyg" version="1" />
@@ -173,11 +173,11 @@
     <string key="cbxEntryPae" value="Standard&#xD;&#xA;Aktivera&#xD;&#xA;Inaktivera" version="1" />
     <string key="cbxEntrySafe" value="Normal&#xD;&#xA;Felsäker start&#xD;&#xA;Felsäker start m/ nätverk&#xD;&#xA;Kommandotolk/Alternativt gränssnitt&#xD;&#xA;Enkel grafik&#xD;&#xA;Active Directory-reparation" version="1" />
     <string key="emptyList" value="Inga startposter hittades!" version="1" />
-    <string key="MinimumWidth" derive="true" />
-    <string key="MinimumHeight" derive="true" />
+    <string key="MinimumWidth" value="583" />
+    <string key="MinimumHeight" value="456" />
     <string key="efiTitle" value="EFI bootloader upptäckt!" version="1" />
     <string key="efiMessage" value="EasyBCD har upptäckt att din dator startar i EFI-läge. På grund av begränsningar, implementerade av Microsoft, kan många av EasyBCD:s multistartfunktioner inte användas i EFI-läge och har därför inaktiverats.&#xD;&#xA;&#xD;&#xA;Tryck 'OK' för att fortsätta, eller 'Hjälp' för att läsa mer om begränsningarna och möjliga lösningar." version="1" />
-    <string key="lstFreeDos" derive="true" />
+    <string key="lstFreeDos" value="FreeDOS" version="1" />
     <string key="chkMetroUI" value="Använd Metro bootloader" version="1" />
   </strings>
 </localization>
