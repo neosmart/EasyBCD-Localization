@@ -81,7 +81,7 @@
     <string key="txtWinName" value="Microsoft Windows" version="1" />
     <string key="tabPage8" value="Windows" version="1" />
     <string key="chkGrub" value="Az EasyBCD GRUB-másolatának használata" version="1" />
-    <string key="txtLinName" value="NeoSmart Linux" version="1" />
+    <string key="txtLinName" derive="true" />
     <string key="lblLinAuto" value="Automatikus meghatározás" version="1" />
     <string key="tabPage9" value="Linux/BSD" version="1" />
     <string key="txtMacName" value="NST Mac OS X" version="1" />
@@ -127,7 +127,7 @@
     <string key="grpCreateBootableExternal" value="Bootolható külső adathordozó létrhozása" version="1" />
     <string key="btnMbrWrite" value="Az MBR írása" version="1" />
     <string key="rdoMbrXP" value="A Windows XP boot-betöltő telepítése az MBR-be" version="1" />
-    <string key="rdoMbrVista" value="A Windows Vista/7 boot-betöltő telepítése az MBR-be" version="1" />
+    <string key="rdoMbrVista" value="A Windows Vista+ boot-betöltő telepítése az MBR-be" version="2" />
     <string key="grpBootloader" value="Az MBR beállításai" version="1" />
     <string key="tabMbrSetup" value="6" version="1" />
     <string key="grpUtils" value="Hasznos segédprogramok" version="1" />
@@ -197,5 +197,13 @@
     <string key="emptyList" value="Nem található bejegyzés!" version="1" />
     <string key="MinimumWidth" value="583" />
     <string key="MinimumHeight" value="456" version="2" />
+    <string key="tabPageWinPE" derive="true" />
+    <string key="tabPageFloppy" derive="true" />
+    <string key="tabPageWin" derive="true" />
+    <string key="tabPageLinux" derive="true" />
+    <string key="tabPageNeoGrub" derive="true" />
+    <string key="cbxWinType" derive="true" />
+    <string key="cbxLinType" derive="true" />
+    <string key="lstFreeDos" derive="true" />
   </strings>
 </localization>

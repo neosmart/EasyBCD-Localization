@@ -24,7 +24,7 @@
     <string key="bcdError" value="BCD ישנה שגיאה!" version="1" />
     <string key="ntNotFoundTitle" value="Valid NT התקנה אינה קיימת!" version="1" />
     <string key="ntNotFound" value="easybcd הצליחו לזהות התקנה חוקי של חלונות nt-2003 בכל בכוננים נטענים ולא היתה אפשרות להמשיך." version="1" />
-    <string key="manuallyLoad" value="האם ברצונך לטעון ידנית של הרישום bcd עבור easybcd לנהל? אנא שימו לב כי easybcd דורש ממטען האתחול windows vista/7, לא יפעלו בסביבות xp בלבד." version="1" />
+    <string key="manuallyLoad" value="האם ברצונך לטעון ידנית של הרישום bcd עבור easybcd לנהל? אנא שימו לב כי easybcd דורש ממטען האתחול windows vista+, לא יפעלו בסביבות xp בלבד." version="1" />
     <string key="errorBcd" value="אירעה שגיאה בעת פתיחת הרישום bcd" version="1" />
     <string key="locateValid" value="אתר מאגר bcd חוקי" version="1" />
     <string key="bcdRegistry" value="הרישום bcd" version="1" />

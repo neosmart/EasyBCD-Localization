@@ -75,7 +75,7 @@
     <string key="partitionConverted" value="Partycję przekształcono na dysk startowy" version="1" />
     <string key="accessDeniedText" value="Nie można uzyskać dostępu do BCD. Proszę, sprawdź i upewnij się, że skłar BCD na zaznaczonym urządzeniu nie jest obecnie używany." version="1" />
     <string key="bootableTitle" value="Dysk startowy utworzony" version="1" />
-    <string key="bcdRemove1" value="To jest zaawansowana opcja, która powinna być używana wyłącznie jeśli jesteś pewien, że chcesz usunąć bootloader Windows Vista/7." version="1" />
+    <string key="bcdRemove1" value="To jest zaawansowana opcja, która powinna być używana wyłącznie jeśli jesteś pewien, że chcesz usunąć bootloader Windows Vista lub wyżej." version="2" />
     <string key="bcdRemove2" value="Ta funkcja pozwoli wystartować Windows XP, jeśli potrzebne pliki startowe znajdują się na swoim miejscu!" version="1" />
     <string key="bcdRemove3" value="Jesteś pewien, że chcesz kontynuować?" version="1" />
     <string key="warning" value="Uwaga!" version="1" />
@@ -88,7 +88,7 @@
     <string key="errorLogical" value="Uczyniono próbę zmiany partycji startowej na napęd logiczny, co nie jest dozwolone. Partycja startowa musi być partycją startową.&#xD;&#xA;&#xD;&#xA;Proszę wskazać inny napęd lub skonwertować wybraną partycję na podstawową, potem kontynuować." version="1" />
     <string key="bootChangedFormat" value="EasyBCD pomyślnie uczyniło napęd {0} nową partycją startową, załadowało także nowy skład BCE dla tej modyfikacji, na wypadek zaprzestania dalszych zmian. Jeśli to partycja na Twoim pierwszym dysku startowym, to nie musisz dokonywać dalszych działań. Jeśli nie, to powinieneś wyłączyć komputer i zmienić napęd startowy z poziomu BIOSu, by zmiany odniosły skutek." version="1" />
     <string key="bootChangedTitle" value="Partycja rozruchowa zmieniona" version="1" />
-    <string key="unsupportedOS" value="Ta opcja jest dostępna tylko na systemach Windows Vista/7/8." version="1" />
+    <string key="unsupportedOS" value="Ta opcja jest dostępna tylko na systemach Windows Vista lub wyżej." version="2" />
     <string key="unsupportedOSTitle" value="Niewspierany system operacyjny!" version="1" />
     <string key="errorNoRestore" value="Fatalny błąd: Nie można przywrócić wskazanego składu." version="1" />
     <string key="errorNoRestoreTitle" value="Błąd przywracania" version="1" />
@@ -116,8 +116,6 @@
     <string key="powerConsoleText" value="Szybki dostęp do wiersza poleceń powłoki z pełnią praw administracyjnych. Użyj tego dla wywoływania funkcji systemowych lub dla szybkiego dostępu do poleceń: bcdedit i bootsect.exe" version="1" />
     <string key="sysRestore" value="Przywracanie systemu" version="1" />
     <string key="sysRestoreText" value="Otwiera panel Przywracanie Systemu. Użyj go do szybkiego cofania/ naprawiania niekorzystnych zmian." version="1" />
-    <string key="restoreCds" value="Dysk przywracania systemu Windows Vista/7" version="1" />
-    <string key="restoreCdsText" value="Pobierz kopię dysku przywracania systemu Windows Vista/7, by mieć go pod ręką na wypadek katastrofy. Możesz użyć EasyBCD by wystartować te dyski przywracania z USB." version="1" />
     <string key="controlPanel" value="Panel sterowania" version="1" />
     <string key="controlPanelText" value="Uruchom Panel Sterowania i użyj go do czego tylko chcesz." version="1" />
     <string key="iRebootText" value="Pomocnik NeoSmart Technologies' dla EasyBCD. iReboot rezyduje w pasku zadań (zajmując tylko 400KB pamięci!) i pozwala na wybór systemu, który ma zostać załadowany po restarcie." version="1" />
@@ -147,7 +145,9 @@
     <string key="optionsSaved" value="Opcje zachowane pomyślnie!" version="1" />
     <string key="orderSaved" value="Porządek wpisów zachowany" version="1" />
     <string key="easybcdStatus" value="Status EasyBCD" version="1" />
-    <string key="saveFileTitle" value="Zapisz jako..." />
+    <string key="saveFileTitle" value="Zapisz jako..." version="1" />
     <string key="updateFoundText2" value="Ukazała się nowa wersja EasyBCD. &#xD;&#xA;Czy chcesz, by EasyBCD dokonał automatycznej aktualizacji do najnowszej wersji?&#xD;&#xA;&#xD;&#xA;Naciśnij 'Tak', by automatycznie pobrać i zainstalować nowszą wersję.&#xD;&#xA;Naciśnij 'Nie', by zobaczyć listę zmian i dokonać aktualizacji samodzielnie.&#xD;&#xA;Naciśnij 'Anuluj', by nie aktualizować." version="1" />
+    <string key="help" value="Pomoc" version="1" />
+    <string key="browse" value="Przeglądaj" version="1" />
   </strings>
 </localization>

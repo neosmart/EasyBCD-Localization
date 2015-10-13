@@ -11,7 +11,6 @@
     <string key="rdoTimeoutNone" value="המתן לבחירה של המשתמש" version="1" />
     <string key="rdoTimeoutSkip" value="דלג על תפריט האתחול" version="1" />
     <string key="btnSaveBCD" value="שמור הגדרות" version="1" />
-    <string key="grpTimeout" value="הגדרות זמן" version="1" />
     <string key="btnUp" value="למעלה" version="1" />
     <string key="btnDown" value="למטה" version="1" />
     <string key="btnRenameEntry" value="שנה כותרת" version="1" />
@@ -126,8 +125,6 @@
     <string key="lblCreateBootable" value="easybcd להפוך לאוטומטי את תהליך יצירת מדיה ניתנת לאתחול. בחר מחיצה להלן כדי להתחיל." version="1" />
     <string key="grpCreateBootableExternal" value="צור אתחול ממדיה חיצונית" version="1" />
     <string key="btnMbrWrite" value="Write MBR" version="1" />
-    <string key="rdoMbrXP" value="Install the Windows XP bootloader to the MBR" version="1" />
-    <string key="rdoMbrVista" value="Install the Windows Vista/7 bootloader to the MBR" version="1" />
     <string key="grpBootloader" value="MBR Configuration Options" version="1" />
     <string key="tabMbrSetup" value="6" version="1" />
     <string key="grpUtils" value="כלי עזר" version="1" />
@@ -162,39 +159,15 @@
     <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" version="1" />
     <string key="colName" value="רשומה" version="1" />
     <string key="colDefault" value="ברירת מחדל" version="1" />
-    <string key="cbxVhdType" value="Microsoft VHD
-Raw Hard Disk Image
-Raw Partition Image" version="1" />
-    <string key="cbxIsoMode" value="הרץ מכונן
-הרץ מזיכרון" version="1" />
-    <string key="cbxPeType" value="WIM Image (Ramdisk)
-Extracted Filesystem Layout" version="1" />
-    <string key="cbxWinType" value="חלונות ויסטה/7/8
-חלונות NT/2k/XP/2k3
-חלונות 95/98/ME
-דוס
-FreeDOS" version="1" />
-    <string key="cbxLinType" value="GRUB (Legacy)
-GRUB 2
-LILO/eLILO
-FreeBSD/PC-BSD
-Wubi
-SysLinux" version="1" />
-    <string key="cbxMacType" value="EFI (Default)
-MBR" version="1" />
-    <string key="cbxEntryDep" value="OptIn
-OptOut
-פועל
-כבוי" version="1" />
-    <string key="cbxEntryPae" value="ברירת מחדל
-הפעל
-הפסק" version="1" />
-    <string key="cbxEntrySafe" value="מצב רגיל
-מצב בטוח
-מצב בטוח עם רשת
-Command Line/Alternate Shell
-תצוגת VGA
-תיקון ספריה" version="1" />
+    <string key="cbxVhdType" value="Microsoft VHD&#xD;&#xA;Raw Hard Disk Image&#xD;&#xA;Raw Partition Image" version="1" />
+    <string key="cbxIsoMode" value="הרץ מכונן&#xD;&#xA;הרץ מזיכרון" version="1" />
+    <string key="cbxPeType" value="WIM Image (Ramdisk)&#xD;&#xA;Extracted Filesystem Layout" version="1" />
+    <string key="cbxWinType" derive="true" />
+    <string key="cbxLinType" value="GRUB (Legacy)&#xD;&#xA;GRUB 2&#xD;&#xA;LILO/eLILO&#xD;&#xA;FreeBSD/PC-BSD&#xD;&#xA;Wubi&#xD;&#xA;SysLinux" version="1" />
+    <string key="cbxMacType" value="EFI (Default)&#xD;&#xA;MBR" version="1" />
+    <string key="cbxEntryDep" value="OptIn&#xD;&#xA;OptOut&#xD;&#xA;פועל&#xD;&#xA;כבוי" version="1" />
+    <string key="cbxEntryPae" value="ברירת מחדל&#xD;&#xA;הפעל&#xD;&#xA;הפסק" version="1" />
+    <string key="cbxEntrySafe" value="מצב רגיל&#xD;&#xA;מצב בטוח&#xD;&#xA;מצב בטוח עם רשת&#xD;&#xA;Command Line/Alternate Shell&#xD;&#xA;תצוגת VGA&#xD;&#xA;תיקון ספריה" version="1" />
     <string key="emptyList" value="לא נוספה רשומה" version="1" />
     <string key="MinimumWidth" value="583" />
     <string key="MinimumHeight" value="456" version="2" />

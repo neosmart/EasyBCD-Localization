@@ -3,7 +3,6 @@
   <strings>
     <string key="OK_Button" value="אשר" version="1" />
     <string key="Cancel_Button" value="בטל" version="1" />
-    <string key="Body" value="כדי להמשיך,צריך לגשת את  חלונות ויסטה או את מדיית ההתקנה של חלונות 7 (בדרך כלל התקליטור או תמונת דיסק). &#xD;&#xA;&#xD;&#xA;נא הכנס את ה-תקליטור לכונן אופטי או לטעון את תמונת הדיסק ולאחר מכן לחץ על אישור כדי להמשיך." version="1" />
     <string key="SdiMaker" value="הכנס מדיה עם התקנת חלונות" version="1" />
     <string key="mediaNotFound" value="לא נמצאה מדיה עם התקנת חלונות" version="1" />
     <string key="MinimumWidth" value="381" />

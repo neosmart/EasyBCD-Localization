@@ -11,7 +11,7 @@
     <string key="rdoTimeoutNone" value="等待用户选择" version="1" />
     <string key="rdoTimeoutSkip" value="跳过启动菜单" version="1" />
     <string key="btnSaveBCD" value="保存设置" version="1" />
-    <string key="grpTimeout" value="超时选项" version="1" />
+    <string key="grpTimeout" value="菜單選項" version="2" />
     <string key="btnUp" value="上移" version="1" />
     <string key="btnDown" value="下移" version="1" />
     <string key="btnRenameEntry" value="重命名" version="1" />
@@ -91,7 +91,7 @@
     <string key="grpCreateBootableExternal" value="创建可引导的外置介质" version="1" />
     <string key="btnMbrWrite" value="编写 MBR" version="1" />
     <string key="rdoMbrXP" value="在MBR中安装Windows XP的bootloader " version="1" />
-    <string key="rdoMbrVista" value="在MBR中安装Windows Vista/7的bootloader &#xD;&#xA;" version="1" />
+    <string key="rdoMbrVista" value="在MBR中安装Windows Vista+的bootloader &#xD;&#xA;" version="1" />
     <string key="grpBootloader" value="MBR配置选项" version="1" />
     <string key="tabMbrSetup" derive="true" />
     <string key="grpUtils" value="实用工具" version="1" />
@@ -133,5 +133,8 @@
     <string key="cbxEntryPae" value="默认&#xD;&#xA;启用&#xD;&#xA;禁用" version="1" />
     <string key="cbxEntrySafe" value="正常&#xD;&#xA;安全模式&#xD;&#xA;带网络的安全模式&#xD;&#xA;命令行/命令行管理程序&#xD;&#xA;基本VGA&#xD;&#xA;Active Directory修复" version="1" />
     <string key="emptyList" value="没有检测项" version="1" />
+    <string key="cbxWinType" derive="true" />
+    <string key="cbxLinType" derive="true" />
+    <string key="lstFreeDos" derive="true" />
   </strings>
 </localization>

@@ -24,7 +24,7 @@
     <string key="bcdError" value="Error de ejecución BCD!" version="1" />
     <string key="ntNotFoundTitle" value="No se encuentra ninguna instalación de NT!" version="1" />
     <string key="ntNotFound" value="EasyBCD no encuentra ninguna intalación válida de Windows NT-2003 en ninguno de los discos montados y no puede continuar." version="1" />
-    <string key="manuallyLoad" value="Quiere cargar manualmente un registro BCD para gestionar? Por favor, tenga en cuenta que EasyBCD necesita el bootloader de Windows Vista/7 y no puede trabajar en entornos solo con XP." version="1" />
+    <string key="manuallyLoad" value="Quiere cargar manualmente un registro BCD para gestionar? Por favor, tenga en cuenta que EasyBCD necesita el bootloader BCD de Windows Vista o mas alto y no puede trabajar en entornos solo con XP." version="2" />
     <string key="errorBcd" value="Error abriendo el registro BCD" version="1" />
     <string key="locateValid" value="Encontrar un almacén válido BCD" version="1" />
     <string key="bcdRegistry" value="Registro BCD" version="1" />

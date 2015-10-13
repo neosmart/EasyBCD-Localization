@@ -74,7 +74,6 @@
     <string key="bootableTitle" value="Elkészült a bootolható lemez" version="1" />
     <string key="accessDeniedText" value="Nem lehet hozzáférni a BCD-hez. Ellenórizze és gondoskodjon arról, hogy a kijelölt eszközön levő BCD-tároló ne legyen használatban!" version="1" />
     <string key="partitionConverted" value="A partíció át lett konvertálva bootolható meghajtóvá" version="1" />
-    <string key="bcdRemove1" value="Ezt a különleges lehetőséget csak akkor használja, ha tökéletesen biztos abban, hogy el akarja távolítani a Windows Vista/7 boot-betöltőt!" version="1" />
     <string key="bcdRemove2" value="Ez a tulajdonság a Windows XP bootolására csak akkor alkalmas, ha a megfelelő boot-fájlok már a helyükön vannak!" version="1" />
     <string key="bcdRemove3" value="Valóban folytatja?" version="1" />
     <string key="warning" value="Figyelem!" version="1" />
@@ -87,7 +86,7 @@
     <string key="errorLogical" value="Olyan logikai meghajtón próbálta megváltoztatni a boot-partíciót, amelyen az nem lehetséges. A boot-partíciónak elsődlegesnek kell lennie.&#xD;&#xA;&#xD;&#xA;Válasszon másik meghajtót vagy konvertálja át előbb a kijelölt partíciót elsődlegesre, majd próbálkozzon üjra." version="1" />
     <string key="bootChangedFormat" value="Az EasyBCD új boot-partícióvá tette a(z) {0} meghajtót és betöltődtek az új BCD-tároló módosításai, amelyek később megváltoztathatók. Ha ez a partíció az első boot-lemezen van, nem szükséges más műveletet végezni rajta. Ha nem így lenne, most kikapcsolhatja a PC-t és a BIOS-ban megváltoztathatja a boot-meghajtót a változtatások véglegesítéséhez." version="1" />
     <string key="bootChangedTitle" value="Megváltozott a boot-partíció!" version="1" />
-    <string key="unsupportedOS" value="Ez a lehetőség csak Windows Vista, Windows 7 és Windows 8 alatt használható." version="1" />
+    <string key="unsupportedOS" value="Ez a lehetőség csak Windows Vista vagy magasabb alatt használható." version="2" />
     <string key="unsupportedOSTitle" value="Nem-támogatott operációs rendszer!" version="1" />
     <string key="errorNoRestore" value="Végzetes hiba: Nem sikerült helyreállítani a kijelölt tárolót!" version="1" />
     <string key="errorNoRestoreTitle" value="Helyreállítási hiba!" version="1" />
@@ -116,8 +115,6 @@
     <string key="powerConsoleText" value="Gyors hozzáférés a parancssori héjhoz teljes rendszergazdai joggal. Rendszerfunkciók végrehajtására vagy a bcdedit és a bootsec.exe gyors elérésére való." version="1" />
     <string key="sysRestore" value="Rendszerhelyreállítás" version="1" />
     <string key="sysRestoreText" value="A rendszerhelyreállítás-panel megnyitása. A változtatások gyors visszaállítására vagy az olyan változtatások javítására szolgál, amelyek a PC hibás futását eredményezik." version="1" />
-    <string key="restoreCds" value="Windows Vista/7 rendszerhelyreállító CD" version="1" />
-    <string key="restoreCdsText" value="A Windows Vista és Windows 7 rendszerhelyreállító CD egy másolatának letöltése katasztrófa esetére. Az EasyDCD USB-ről való bootolásra használható." version="1" />
     <string key="controlPanel" value="Vezérlőpult" version="1" />
     <string key="controlPanelText" value="A vezérlőpult futtatása és tetszőleges használata." version="1" />
     <string key="iRebootText" value="A NeoSmart Technologies' segélyalkalmazása EasyBCD-hez. Az iReboot az eszközsoron található (csak 400KB memóriát igényel!), ahol gyorsan és egyszerűen kiválasztható, hogy melyik operációs rendszer induljon el újra." version="1" />
@@ -147,7 +144,9 @@
     <string key="optionsSaved" value="A beállítások elmentve!" version="1" />
     <string key="orderSaved" value="A bejegyzés-sorrend elmentve!" version="1" />
     <string key="easybcdStatus" value="EasyBCD állapot" version="1" />
-    <string key="saveFileTitle" value="Mentés másként" />
+    <string key="saveFileTitle" value="Mentés másként" version="1" />
     <string key="updateFoundText2" value="Új EasyBCD verzió található. Szeretne automatikusan frissíteni a legújabb verzióra?&#xD;&#xA;&#xD;&#xA;Az automatikus letöltéshez és frissítéshez nyomja meg az 'Igen', a változások listájának megtekintéséhez és a manuális frissítéshez a 'Nem', a megszakításhoz a 'Mégse' gombot." version="1" />
+    <string key="help" value="Segítsen" version="1" />
+    <string key="browse" value="Böngésszen" />
   </strings>
 </localization>

@@ -24,7 +24,7 @@
     <string key="bcdError" value="Błąd wykonania BCD!" version="1" />
     <string key="ntNotFoundTitle" value="Poprawna instalacja NT nie została znaleziona!" version="1" />
     <string key="ntNotFound" value="Easy BCD nie wykryło poprawnej instalacji systemu Windows NT-2003 na żadnym z zamontowanych napędów i nie mogło kontynuować." version="1" />
-    <string key="manuallyLoad" value="Czy chcesz ręcznie wczytać rejestr BCD dla zarządzania w EasyBCD? Miej na uwadze, że EasyBCD potrzebuje bootloadera Windows Vsta/7 i nie będzie działać w środowisku z wyłącznie Windows XP." version="1" />
+    <string key="manuallyLoad" value="Czy chcesz ręcznie wczytać rejestr BCD dla zarządzania w EasyBCD? Miej na uwadze, że EasyBCD potrzebuje bootloadera Windows Vista lub wyżej i nie będzie działać w środowisku z wyłącznie Windows XP." version="2" />
     <string key="errorBcd" value="Błąd podczas otwierania rejestru BCD" version="1" />
     <string key="locateValid" value="Zlokalizuj poprawny skład BCD" version="1" />
     <string key="bcdRegistry" value="Rejestr BCD" version="1" />

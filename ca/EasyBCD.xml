@@ -74,7 +74,7 @@
     <string key="bootableTitle" value="S'ha creat un disc d'arrencada" version="1" />
     <string key="accessDeniedText" value="Incapaç d'obtenir accés al BCD. Comproveu que el magatzem BCD del dispositiu seleccionat no està actualment en ús." version="1" />
     <string key="partitionConverted" value="Partició convertida en disc arrencable" version="1" />
-    <string key="bcdRemove1" value="Això és una opció avançada que només s'ha d'utilitzar si esteu absolutament segur de que voleu desinstalar el bootloader de Windows Vista/7!" version="1" />
+    <string key="bcdRemove1" value="Això és una opció avançada que només s'ha d'utilitzar si esteu absolutament segur de que voleu desinstalar el bootloader BCD/bootmgr de Windows Vista o superior!" version="1" />
     <string key="bcdRemove2" value="Aquesta funció només arrencarà en Windows XP si els arxius d'arrencada adequats son al seu lloc!" version="1" />
     <string key="bcdRemove3" value="Esteu segur de voler continuar?" version="1" />
     <string key="warning" value="Atenció!" version="1" />
@@ -87,7 +87,7 @@
     <string key="errorLogical" value="S'ha intentat canviar la partició d'arrencada a un disc lògic, cosa que no està permesa. La partició d'arrencada ha de ser primària.&#xD;&#xA;&#xD;&#xA;Trieu un disc diferent o convertiu primer la partició seleccionada en primària i torneu a provar." version="1" />
     <string key="bootChangedFormat" value="EasyBCD ha convertit el disc {0} en la nova partició d'arrencada i ha carregat el nou magatzem BCD per modificació per si voleu fer canvis. Si aquesta partició és el vostre primer disc d'arrencada no necessiteu fer cap més acció. Si no ho és heu d'apagar l'ordinador i canviar el disc d'arrencada configurat a la BIOS perquè el canvi sigui efectiu." version="1" />
     <string key="bootChangedTitle" value="Partició d'arrencada canviada" version="1" />
-    <string key="unsupportedOS" value="Aquesta opció només està disponible a Windows Vista, Windows 7 i Windows 8." version="1" />
+    <string key="unsupportedOS" value="Aquesta opció només està disponible a Windows Vista o superior." version="2" />
     <string key="unsupportedOSTitle" value="Sistema operatiu no suportat!" version="1" />
     <string key="errorNoRestore" value="Error fatal: Impossible restaurar el magatzem seleccionat." version="1" />
     <string key="errorNoRestoreTitle" value="Error de restauració" version="1" />
@@ -116,8 +116,7 @@
     <string key="powerConsoleText" value="Accés ràpid a la línia d'ordres amb privilegis d'administrador Utilitzeu-ho per dur a terme funcions del sistema o accés ràpid a bcdedit i bootsect.exe." version="1" />
     <string key="sysRestore" value="Restauració del sistema" version="1" />
     <string key="sysRestoreText" value="Obre el tauler de restauració del sistema, utilitzeu-ho per revertir  o reparar canvis que provoquin problemes a l'ordinador." version="1" />
-    <string key="restoreCds" value="CDs de restauració del sistema de Windows Vista/7" version="1" />
-    <string key="restoreCdsText" value="Descarregueu una còpia dels CDs de restauració del sistema de Windows Vista i Windows 7 per tenir a mà en cas de que passi un desastre. Podeu utilitzar EasyBCD per arrencar el disc de recuperació des de USB." version="1" />
+    <string key="restoreCds" derive="true" />
     <string key="controlPanel" value="Tauler de Control" version="1" />
     <string key="controlPanelText" value="Arrencar el Tauler de Control i utilitzar-lo per fer el que volgueu." version="1" />
     <string key="iRebootText" value="L'aplicació d'ajuda de NeoSmart Technologies per EasyBCD. iReboot es posa a la barra de tasques (ocupant només 400KB de memòria!)  i us permet de triar fàcilment en quin sistema operatiu arrencar." version="1" />
@@ -147,7 +146,9 @@
     <string key="optionsSaved" value="Opcions desades amb èxit!" version="1" />
     <string key="orderSaved" value="Ordre d'entrades desat" version="1" />
     <string key="easybcdStatus" value="Estat d'EasyBCD" version="1" />
-    <string key="saveFileTitle" value="Desa" />
+    <string key="saveFileTitle" value="Desa com" version="1" />
     <string key="updateFoundText2" value="Una nova versió de EasyBCD s'ha trobat. T'agradaria EasyBCD per actualitzar automàticament a l'última versió?&#xD;&#xA;&#xD;&#xA;Premi &quot;Sí&quot; per descarregar i actualitzar automàticament, 'No' per veure la llista de canvis i actualitzar de forma manual, o 'Cancel · la' per cancel · lar." version="1" />
+    <string key="browse" value="Navega" version="1" />
+    <string key="help" value="Ajuda" version="1" />
   </strings>
 </localization>

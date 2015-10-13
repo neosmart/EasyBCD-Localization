@@ -3,7 +3,7 @@
   <strings>
     <string key="OK_Button" value="Aceptar" version="1" />
     <string key="Cancel_Button" value="Cancelar" version="1" />
-    <string key="Body" value="Para continuar EasyBCD necesita acceder al medio de instalación de Windows Vista o Windows 7 (normalmente un DVD o una imagen en disco). &#xD;&#xA;&#xD;&#xA;Inserte el DVD o monte la imagen, y pulse Aceptar para continuar." version="1" />
+    <string key="Body" value="Para continuar EasyBCD necesita acceder al medio de instalación de Windows Vista o mas alto (normalmente un DVD o una imagen en disco). &#xD;&#xA;&#xD;&#xA;Inserte el DVD o monte la imagen, y pulse Aceptar para continuar." version="2" />
     <string key="SdiMaker" value="Inserte el medio de instalación de Windows." version="1" />
     <string key="mediaNotFound" value="No es encuentra el medio de instalación de Windows." version="1" />
   </strings>

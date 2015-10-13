@@ -8,7 +8,6 @@
     <string key="lblExpertMode" value="Uzman modu, gelişmiş işlem yapılmazsa kullanıcı müdahalesi gerektirmez!" version="1" />
     <string key="chkLoadDefaultBcd" value="Aşağıdaki BCD Dosyası Başlangıçta Otomatik Olarak yüklensin:" version="1" />
     <string key="btnBrowseBcd" value="..." version="1" />
-
     <string key="numUpdateInterval" value="0" version="1" />
     <string key="chkAutoUpdate" value="Otomatik Güncelleme Denetimi Sıklığı: " version="1" />
     <string key="rdoDays" value="Her gün" version="1" />

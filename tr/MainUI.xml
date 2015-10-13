@@ -11,7 +11,7 @@
     <string key="rdoTimeoutNone" value="Kullanıcının seçimi beklensin" version="1" />
     <string key="rdoTimeoutSkip" value="Önyükleme mönüsünü atla" version="1" />
     <string key="btnSaveBCD" value="Ayarları kaydet" version="1" />
-    <string key="grpTimeout" value="Zamanaşımı seçenekleri" version="1" />
+    <string key="grpTimeout" value="Menü Seçenekleri" version="2" />
     <string key="btnUp" value="Yukarı" version="1" />
     <string key="btnDown" value="Aşağı" version="1" />
     <string key="btnRenameEntry" value="Adlandır" version="1" />
@@ -127,7 +127,7 @@
     <string key="grpCreateBootableExternal" value="Önyüklenebilir Harici Media oluştur" version="1" />
     <string key="btnMbrWrite" value="MBR yaz" version="1" />
     <string key="rdoMbrXP" value="Windows XP MBR Önyükleyici ata" version="1" />
-    <string key="rdoMbrVista" value="Windows Vista/7 MBR Önyükleyici ata" version="1" />
+    <string key="rdoMbrVista" value="Windows Vista+ MBR Önyükleyici ata" version="1" />
     <string key="grpBootloader" value="MBR Yapılandırma Seçenekleri" version="1" />
     <string key="tabMbrSetup" value="6" version="1" />
     <string key="grpUtils" value="Yararlı Hizmetler" version="1" />
@@ -162,41 +162,18 @@
     <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" version="1" />
     <string key="colName" value="Kayıt" version="1" />
     <string key="colDefault" value="Varsayılan" version="1" />
-    <string key="cbxVhdType" value="Microsoft VHD
-Ham HardDisk Simgesi
-Ham Sürücü Simgesi" version="1" />
-    <string key="cbxIsoMode" value="Disk'ten yürüt
-Bellek'ten yükle" version="1" />
-    <string key="cbxPeType" value="WIM Simgesi (Ramdisk)
-Çıkarılan Dosya Sistemi Düzeni" version="1" />
-    <string key="cbxWinType" value="Vt/w7/w8
-Windows NT/2k/XP/2k3
-Windows 95/98/ME
-MS-DOS 6.x
-FreeDOS" version="1" />
-    <string key="cbxLinType" value="GRUB (Kalıt)
-GRUB 2
-LILO/eLILO
-FreeBSD/PC-BSD
-Wubi
-SysLinux" version="1" />
-    <string key="cbxMacType" value="EFI (Varsayılan)
-MBR" version="1" />
-    <string key="cbxEntryDep" value="OptIn
-Çıktı
-Herzaman Açık
-Herzaman Kapalı" version="1" />
-    <string key="cbxEntryPae" value="Varsayılan
-Çalışsın
-Çalışmasın" version="1" />
-    <string key="cbxEntrySafe" value="Normal
-Güvenli Mod
-Güvenli Mod w/ Ağ
-Komut Satırı/Alternatif Arayüz
-Temel VGA
-Dizin Onarımı Etkin" version="1" />
+    <string key="cbxVhdType" value="Microsoft VHD&#xD;&#xA;Ham HardDisk Simgesi&#xD;&#xA;Ham Sürücü Simgesi" version="1" />
+    <string key="cbxIsoMode" value="Disk'ten yürüt&#xD;&#xA;Bellek'ten yükle" version="1" />
+    <string key="cbxPeType" value="WIM Simgesi (Ramdisk)&#xD;&#xA;Çıkarılan Dosya Sistemi Düzeni" version="1" />
+    <string key="cbxWinType" derive="true" />
+    <string key="cbxLinType" value="GRUB (Kalıt)&#xD;&#xA;GRUB 2&#xD;&#xA;LILO/eLILO&#xD;&#xA;FreeBSD/PC-BSD&#xD;&#xA;Wubi&#xD;&#xA;SysLinux" version="1" />
+    <string key="cbxMacType" value="EFI (Varsayılan)&#xD;&#xA;MBR" version="1" />
+    <string key="cbxEntryDep" value="OptIn&#xD;&#xA;Çıktı&#xD;&#xA;Herzaman Açık&#xD;&#xA;Herzaman Kapalı" version="1" />
+    <string key="cbxEntryPae" value="Varsayılan&#xD;&#xA;Çalışsın&#xD;&#xA;Çalışmasın" version="1" />
+    <string key="cbxEntrySafe" value="Normal&#xD;&#xA;Güvenli Mod&#xD;&#xA;Güvenli Mod w/ Ağ&#xD;&#xA;Komut Satırı/Alternatif Arayüz&#xD;&#xA;Temel VGA&#xD;&#xA;Dizin Onarımı Etkin" version="1" />
     <string key="emptyList" value="Algılanan giriş yok!" version="1" />
     <string key="MinimumWidth" value="583" />
     <string key="MinimumHeight" value="456" version="2" />
+    <string key="lstFreeDos" derive="true" />
   </strings>
 </localization>

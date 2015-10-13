@@ -24,7 +24,7 @@
     <string key="bcdError" value="BCD执行错误！" version="1" />
     <string key="ntNotFoundTitle" value="未找到有效的NT安装！" version="1" />
     <string key="ntNotFound" value="EasyBCD在所有驱动器上未能检测到有效的Windows NT- 2003安装程序，无法继续。" version="1" />
-    <string key="manuallyLoad" value="你想手动加载的BCD注册表至EasyBCD进行管理吗？请注意EasyBCD需要在Windows Vista/7的引导加载程序，并不会在XP的环境中工作。" version="1" />
+    <string key="manuallyLoad" value="你想手动加载的BCD注册表至EasyBCD进行管理吗？请注意EasyBCD需要在Windows Vista+的引导加载程序，并不会在XP的环境中工作。" version="1" />
     <string key="errorBcd" value="错误的BCD注册表" version="1" />
     <string key="locateValid" value="找到一个有效的BCD存储" version="1" />
     <string key="bcdRegistry" value="BCD注册表" version="1" />

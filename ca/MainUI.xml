@@ -11,7 +11,7 @@
     <string key="rdoTimeoutNone" value="Esperar la selecció de l'usuari" version="1" />
     <string key="rdoTimeoutSkip" value="Ometre el menú d'arrencada" version="1" />
     <string key="btnSaveBCD" value="Desar Configuració" version="1" />
-    <string key="grpTimeout" value="Opcions de Temps d'espera" version="1" />
+    <string key="grpTimeout" value="Opcions del menú" version="1" />
     <string key="btnUp" value="Amunt" version="1" />
     <string key="btnDown" value="Avall" version="1" />
     <string key="btnRenameEntry" value="Canvia el nom" version="1" />
@@ -94,8 +94,8 @@
     <string key="lblCreateBootable" value="EasyBCD pot automatitzar el procés de creació de medis arrencables. Trieu una partició per començar." version="1" />
     <string key="grpCreateBootableExternal" value="Crear medi extern arrencable" version="1" />
     <string key="btnMbrWrite" value="Escriure MBR" version="1" />
-    <string key="rdoMbrXP" value="Instal·lar el bootloader de Windows XP al MBR" version="1" />
-    <string key="rdoMbrVista" value="Instal·lar el bootloader de Windows Vista/7 al MBR" version="1" />
+    <string key="rdoMbrXP" value="Instal·lar el bootloader NTLDR de Windows XP" version="2" />
+    <string key="rdoMbrVista" value="Instal·lar el bootloader BCD/bootmgr de Windows Vista+" version="2" />
     <string key="grpBootloader" value="Opcions de configuració del MBR" version="1" />
     <string key="tabMbrSetup" value="6" version="1" />
     <string key="grpUtils" value="Utilitats pràctiques" version="1" />
@@ -132,8 +132,7 @@
     <string key="lstVhdEntry" derive="true" />
     <string key="lstRawHD" value="Imatge RAW de disc dur" version="1" />
     <string key="lstRawPartition" value="Imatge RAW de partició" version="1" />
-    <string key="cbxIsoMode" value="Executar des de disc
-Carregar des de memòria" version="1" />
+    <string key="cbxIsoMode" value="Executar des de disc&#xD;&#xA;Carregar des de memòria" version="1" />
     <string key="lstWim" value="WIM Imatge (Ramdisk)" version="1" />
     <string key="lstWin7" derive="true" />
     <string key="lstWinNt" derive="true" />
@@ -151,9 +150,7 @@ Carregar des de memòria" version="1" />
     <string key="lstOptOut" derive="true" />
     <string key="lstAlwaysOn" value="Sempre On" version="1" />
     <string key="lstAlwaysOff" value="Sempre Off" version="1" />
-    <string key="cbxEntrySafe" value="Defecte
-Activar
-Desactivar" version="1" />
+    <string key="cbxEntrySafe" value="Defecte&#xD;&#xA;Activar&#xD;&#xA;Desactivar" version="1" />
     <string key="safeNormal" derive="true" />
     <string key="safeMode" value="Mode segur" version="1" />
     <string key="safeNetworking" value="Mode segur amb xarxa" version="1" />
@@ -161,5 +158,10 @@ Desactivar" version="1" />
     <string key="safeVga" value="VGA Bàsic" version="1" />
     <string key="safeAD" value="Reparació de directori actiu" version="1" />
     <string key="btnAddEntry" value="Afegir Entrada" version="1" />
+    <string key="cbxVhdType" derive="true" />
+    <string key="cbxWinType" derive="true" />
+    <string key="cbxLinType" derive="true" />
+    <string key="cbxMacType" derive="true" />
+    <string key="lstFreeDos" derive="true" />
   </strings>
 </localization>

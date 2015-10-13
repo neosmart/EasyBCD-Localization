@@ -3,7 +3,7 @@
   <strings>
     <string key="OK_Button" value="Rendben" version="1" />
     <string key="Cancel_Button" value="Mégse" version="1" />
-    <string key="Body" value="A folytatáshoz az EasyBCD-nek szüksége van a Windows Vista vagy Windows 7 telepítőlemezre (rendszerint DVD vagy lemezkép). &#xD;&#xA;&#xD;&#xA;Helyezze be a DVD-t az optikai meghajtóba vagy csatolja a lemezképet, majd nyomja meg az Rendben-t a folytatáshoz." version="1" />
+    <string key="Body" value="A folytatáshoz az EasyBCD-nek szüksége van a Windows Vista vagy magasabb telepítőlemezre (rendszerint DVD vagy lemezkép). &#xD;&#xA;&#xD;&#xA;Helyezze be a DVD-t az optikai meghajtóba vagy csatolja a lemezképet, majd nyomja meg az Rendben-t a folytatáshoz." version="2" />
     <string key="SdiMaker" value="Helyezze be a Windows telepítőlemezét" version="1" />
     <string key="mediaNotFound" value="Nem található Windows telepítőlemez." version="1" />
     <string key="MinimumWidth" value="381" />

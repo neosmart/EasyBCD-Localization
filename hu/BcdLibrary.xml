@@ -24,7 +24,7 @@
     <string key="bcdError" value="BCD-futási hiba!" version="1" />
     <string key="ntNotFoundTitle" value="Nem található érvényes NT-telepítés!" version="1" />
     <string key="ntNotFound" value="Az EasyBCD Egyik csatlakoztatott lemezmeghajtón sem talált érvényes Windows NT-2003 telepítést, ezért nem lehet folytatni." version="1" />
-    <string key="manuallyLoad" value="Szeretne manuálisan betölteni BCD-registryt az EasyBCD kezeléséhez? Az EasyBCD csak Windows Vista/7 bootloaderhez használható. XP-s környezetben nem működik." version="1" />
+    <string key="manuallyLoad" value="Szeretne manuálisan betölteni BCD-registryt az EasyBCD kezeléséhez? Az EasyBCD csak Windows Vista+ bootloaderhez használható. XP-s környezetben nem működik." version="1" />
     <string key="errorBcd" value="Hiba történt a BCD-registry megnyitásakor" version="1" />
     <string key="locateValid" value="Érvényes BCD-tároló" version="1" />
     <string key="bcdRegistry" value="BCD registry" version="1" />

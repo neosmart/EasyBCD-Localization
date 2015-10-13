@@ -24,7 +24,7 @@
     <string key="bcdError" value="Error d'execució BCD!" version="1" />
     <string key="ntNotFoundTitle" value="No es troba cap instalació de NT!" version="1" />
     <string key="ntNotFound" value="EasyBCD no troba cap intalació vàlida de Windows NT-2003 a cap dels discs muntats i no pot continuar." version="1" />
-    <string key="manuallyLoad" value="Vol carregar manualment un registre BCD per gestionar? Si us plau, tingui en compte que EasyBCD necessita el bootloader de Windows Vista/7 i no pot treballar en entorns només amb XP." version="1" />
+    <string key="manuallyLoad" value="Vol carregar manualment un registre BCD per gestionar? Si us plau, tingui en compte que EasyBCD necessita el bootloader de Windows Vista o superior i no pot treballar en entorns només amb XP." version="1" />
     <string key="errorBcd" value="Error obrint el registre BCD" version="1" />
     <string key="locateValid" value="Tobar un magatzem vàlid BCD" version="1" />
     <string key="bcdRegistry" value="Registre BCD" version="1" />

@@ -74,7 +74,7 @@
     <string key="bootableTitle" value="Önyükleme diski oluşturuldu" version="1" />
     <string key="accessDeniedText" value="BCD bağlantısı geçerli değil. Denetleyin. BCD Deposu'nun, seçili aygıtta, şu anda kullanımda olmadığından emin olun." version="1" />
     <string key="partitionConverted" value="Önyüklenebilir sürücüye dönüştürüldü" version="1" />
-    <string key="bcdRemove1" value="Eğer WVt/W7 önyükleyicisi kesin olarak kaldırılacaksa kullanılması gereken yalnızca bu gelişmiş seçenektir!" version="1" />
+    <string key="bcdRemove1" value="Eğer Windows Vista veya daha yüksek önyükleyicisi kesin olarak kaldırılacaksa kullanılması gereken yalnızca bu gelişmiş seçenektir!" version="1" />
     <string key="bcdRemove2" value="Uygun önyükleme dosyaları zaten yerli yerinde ise bu özellik yalnızca W XP önyüklemesi olacak!" version="1" />
     <string key="bcdRemove3" value="Devam edilsin mi?" version="1" />
     <string key="warning" value="Uyarı!" version="1" />
@@ -87,7 +87,7 @@
     <string key="errorLogical" value="Bir 'mantıksal sürücü'nün önyükleme bölümü olarak değiştirilmesi için girişim yapıldı ve buna İzin verilmedi. Önyükleme bölümü, birincil bölüm olmalıdır. &#xD;&#xA;&#xD;&#xA;Ya farklı bir sürücü seçin yada ilk seçileni birincil bölüm olarak dönüştürün, sonra tekrar deneyin." version="1" />
     <string key="bootChangedFormat" value="EasyBCD, {0} sürücüsünü başarıyla yeni önyükleme bölümü yaptı. Bu bölüm ilk önyükleme diski üzerinde ise herhangi bir başka işlem yapmanız gerekmez; değilse, değişiklik için yeni BCD deposu yüklendiğinde, daha fazla değişiklik yapmak gerekir. Değişikliklerin etkili olması için bilgisayar kapatılıp 'BIOS Önyükleme Sürücüsü'nde bu değişiklik yapılmalıdır." version="1" />
     <string key="bootChangedTitle" value="Önyükleme bölümü değiştirildi" version="1" />
-    <string key="unsupportedOS" value="Bu seçenek, yalnızca WinVista, Win7 ve Win8 üzerinde bulunur." version="1" />
+    <string key="unsupportedOS" value="Bu seçenek, yalnızca Windows Vista veya daha yüksek bulunur." version="1" />
     <string key="unsupportedOSTitle" value="İşletim Sistemi desteklenmiyor!" version="1" />
     <string key="errorNoRestore" value="Kötü hata: Seçilen depo geri yüklenemiyor." version="1" />
     <string key="errorNoRestoreTitle" value="Geryükleme hatası" version="1" />
@@ -116,8 +116,6 @@
     <string key="powerConsoleText" value="Tam yönetici ayrıcalıkları ile bir komut satırına hızlı erişim. Üst sistem fonksiyonlarını taşımak için yada bcdedit ve bootsect.exe için bu hızlı erişimi kullan." version="1" />
     <string key="sysRestore" value="Sistem geriyükleme" version="1" />
     <string key="sysRestoreText" value="'Hızlı Sistem Geriyükleme' yi açıp, herhangi bir değişikliği gerialmak için kullanın." version="1" />
-    <string key="restoreCds" value="Vt/w7 Sistem geriyükleme CDleri" version="1" />
-    <string key="restoreCdsText" value="Bir zor durumda elaltında olması için 'Windows Vista ve Windows 7 sistem Geriyükleme CD kopyası' indirin. Bu kurtarma disklerinin içine bir USB'den önyükleme kurmak için EasyBCD'yi kullanabilirsiniz." version="1" />
     <string key="controlPanel" value="Denetim masası" version="1" />
     <string key="controlPanelText" value="İstediğiniz bir işlemi yapmak için 'Denetim masası'nı açın ve kullanın." version="1" />
     <string key="iRebootText" value="EasyBCD NeoSMART Teknolojileri yardımcı uygulaması. iReboot görev çubuğunda (bellek üzerinde sadece 400KB kadar) yer alır. Hızlı-kolay yeniden başlatmak için istediğiniz işletim sistemini seçebilirsiniz." version="1" />
@@ -147,7 +145,9 @@
     <string key="optionsSaved" value="Seçenekler kaydedildi!" version="1" />
     <string key="orderSaved" value="Giriş kayıt sırası" version="1" />
     <string key="easybcdStatus" value="EasyBCD durumu" version="1" />
-    <string key="saveFileTitle" value="Farklı kaydet" />
+    <string key="saveFileTitle" value="Farklı kaydet" version="1" />
     <string key="updateFoundText2" value="EasyBCD'nin yeni bir sürümü bulundu. EasyBCD'in bu en son sürümü otomatik olarak indirilsin ve yükseltilsin mi?&#xD;&#xA;&#xD;&#xA;Otomatik olarak indirmek ve yükseltmek için 'Evet' e , nelerin değiştiğini görmek ve elle yükseltmek ya da iptal etmek için 'İptal' tuşuna basın." version="1" />
+    <string key="help" value="Yardım Edin" version="1" />
+    <string key="browse" value="Göz" version="1" />
   </strings>
 </localization>

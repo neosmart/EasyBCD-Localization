@@ -11,7 +11,7 @@
     <string key="rdoTimeoutNone" value="Esperar la selección del usuario" version="1" />
     <string key="rdoTimeoutSkip" value="Omitir el menú de arranque" version="1" />
     <string key="btnSaveBCD" value="Guardar Configuración" version="1" />
-    <string key="grpTimeout" value="Opciones de Tiempo de espera" version="1" />
+    <string key="grpTimeout" value="Opciones de menú" version="2" />
     <string key="btnUp" value="Arriba" version="1" />
     <string key="btnDown" value="Abajo" version="1" />
     <string key="btnRenameEntry" value="Cambia el nombre" version="1" />
@@ -86,8 +86,8 @@
     <string key="lblCreateBootable" value="EasyBCD puede automatizar el proceso de creación de medios arrancables. Escoja una partición para empezar." version="1" />
     <string key="grpCreateBootableExternal" value="Crear medio externo arrancable" version="1" />
     <string key="btnMbrWrite" value="Escribir MBR" version="1" />
-    <string key="rdoMbrXP" value="Instalar el bootloader de Windows XP en el MBR" version="1" />
-    <string key="rdoMbrVista" value="Instalar el bootloader de Windows Vista/7 en el MBR" version="1" />
+    <string key="rdoMbrXP" value="Instalar el bootloader NTLDR de Windows XP" version="2" />
+    <string key="rdoMbrVista" value="Instalar el bootloader BCD/bootmgr de Windows Vista+" version="2" />
     <string key="grpBootloader" value="Opciones de configuración del MBR" version="1" />
     <string key="tabMbrSetup" value="6" version="1" />
     <string key="grpUtils" value="Utilidades prácticas" version="1" />
@@ -125,8 +125,7 @@
     <string key="lstVhdEntry" derive="true" />
     <string key="lstRawHD" value="Imatge RAW de disco duro" version="1" />
     <string key="lstRawPartition" value="Imagen RAW de partición" version="1" />
-    <string key="cbxIsoMode" value="Ejecutar desde disco
-Cargar desde memoria" version="1" />
+    <string key="cbxIsoMode" value="Ejecutar desde disco&#xD;&#xA;Cargar desde memoria" version="1" />
     <string key="lstWim" value="WIM Imagen (Ramdisk)" version="1" />
     <string key="lstWin7" derive="true" />
     <string key="lstWinNt" derive="true" />
@@ -144,15 +143,8 @@ Cargar desde memoria" version="1" />
     <string key="lstOptOut" derive="true" />
     <string key="lstAlwaysOn" value="Siempre On" version="1" />
     <string key="lstAlwaysOff" value="Siempre Off" version="1" />
-    <string key="cbxEntryPae" value="Defecto
-Activar
-Desactivar" version="1" />
-    <string key="cbxEntrySafe" value="Normal
-Modo seguro
-Modo seguro con red
-Línea de comandos/Entorno alternativo
-VGA Básico
-Reparación de directorio activo" version="1" />
+    <string key="cbxEntryPae" value="Defecto&#xD;&#xA;Activar&#xD;&#xA;Desactivar" version="1" />
+    <string key="cbxEntrySafe" value="Normal&#xD;&#xA;Modo seguro&#xD;&#xA;Modo seguro con red&#xD;&#xA;Línea de comandos/Entorno alternativo&#xD;&#xA;VGA Básico&#xD;&#xA;Reparación de directorio activo" version="1" />
     <string key="btnBrowse" value="..." version="1" />
     <string key="lblName" value="Nombre:" version="1" />
     <string key="lblType" value="Tipo:" version="1" />
@@ -161,5 +153,8 @@ Reparación de directorio activo" version="1" />
     <string key="btnAddNewEntry" value="Añadir Entrada" version="1" />
     <string key="lblMode" value="Modo:" version="1" />
     <string key="lblFile" value="Archivo:" version="1" />
+    <string key="cbxWinType" derive="true" />
+    <string key="cbxLinType" derive="true" />
+    <string key="lstFreeDos" derive="true" />
   </strings>
 </localization>

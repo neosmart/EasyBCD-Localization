@@ -24,7 +24,7 @@
     <string key="bcdError" value="BCD yürütme hatası!" version="1" />
     <string key="ntNotFoundTitle" value="Geçerli NT kurulumu bulunamadı!" version="1" />
     <string key="ntNotFound" value="Windows NT-2003'e bağlı tüm sürücülerde EasyBCD'in geçerli bir yükleme algılanamadı. İşlem devam edemedi." version="1" />
-    <string key="manuallyLoad" value="EasyBCD'i yönetmek için elle 'BCD Kaydı' yüklemek ister misiniz? Windows Vista ve w7 Önyükler'i 'EasyBCD Kaydı' gerektirdiğini unutmayın. Bu ortamlarda yalnız Xp çalışmaz." version="1" />
+    <string key="manuallyLoad" value="EasyBCD'i yönetmek için elle 'BCD Kaydı' yüklemek ister misiniz? Windows Vista veya daha yüksek Önyükler'i 'EasyBCD Kaydı' gerektirdiğini unutmayın. Bu ortamlarda yalnız Xp çalışmaz." version="1" />
     <string key="errorBcd" value="Kayıtlı BCD açılışı hatası" version="1" />
     <string key="locateValid" value="Geçerli bir 'BCD Düzeni' bulun" version="1" />
     <string key="bcdRegistry" value="BCD kaydı" version="1" />

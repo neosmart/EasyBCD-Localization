@@ -74,7 +74,7 @@
     <string key="bootableTitle" value="磁盘引导已创建" version="1" />
     <string key="accessDeniedText" value="无法获取BCD。请检查并确保所选设备上的BCD存储目前未使用。" version="1" />
     <string key="partitionConverted" value="转换到可启动的磁盘分区" version="1" />
-    <string key="bcdRemove1" value="这是一个高级选项，只应用于卸载Windows Vista/7的Bootloader！" version="1" />
+    <string key="bcdRemove1" value="这是一个高级选项，只应用于卸载Windows Vista+的Bootloader！" version="1" />
     <string key="bcdRemove2" value="如果正确的引导文件已经到位，此功能只能启动到Windows XP！" version="1" />
     <string key="bcdRemove3" value="你确定要继续吗？" version="1" />
     <string key="warning" value="警告！" version="1" />
@@ -87,7 +87,7 @@
     <string key="errorLogical" value="试图改变逻辑驱动器为引导分区，这是不允许的。启动分区必须是一个主分区。&#xD;&#xA;&#xD;&#xA;请选择一个不同的驱动器或转换所选分区为主分区，然后再试一次。" version="1" />
     <string key="bootChangedFormat" value="EasyBCD已成功将驱动器{0}建立新的引导分区，并加载了新的BCD存储，你可以进一步的设置。如果这个分区是你的第一个引导盘，你不需要采取任何进一步的操作。如果不是，你现在应该关闭你的电脑，让更改生效。" version="1" />
     <string key="bootChangedTitle" value="引导分区已更改" version="1" />
-    <string key="unsupportedOS" value="此选项仅适用于Windows Vista，Windows 7和Windows 8" version="1" />
+    <string key="unsupportedOS" value="此选项仅适用于Windows Vista或更高" version="1" />
     <string key="unsupportedOSTitle" value="不支持的操作系统！" version="1" />
     <string key="errorNoRestore" value="致命错误：无法还原选定的存储。" version="1" />
     <string key="errorNoRestoreTitle" value="恢复错误" version="1" />
@@ -112,8 +112,6 @@
     <string key="errorUtility" value="错误的运行实例" version="1" />
     <string key="powerConsole" value="EasyBCD电源控制台" version="1" />
     <string key="powerConsoleText" value="快速访问具有完全管理权限的命令行外壳。使用它进行系统的功能或快速访问BCDEDIT和bootsect.exe" version="1" />
-    <string key="restoreCds" value="Windows Vista /7系统恢复光盘" version="1" />
-    <string key="restoreCdsText" value="万一灾难发生可下载Windows Vista和Windows7系统恢复光盘的副本。您可以从USB启动使用EasyBCD加载这些恢复光盘。" version="1" />
     <string key="controlPanel" value="控制面板" version="1" />
     <string key="controlPanelText" value="启动控制面板，并用它做任何你喜欢的。" version="1" />
     <string key="iRebootText" value="NeoSmart技术为EasyBCD的辅助应用程序。 iReboot放置于任务栏（只占用400KB的内存），并允许您可以将操作系统快速轻松地重新启动。" version="1" />
@@ -143,7 +141,9 @@
     <string key="optionsSaved" value="选项保存成功！" version="1" />
     <string key="orderSaved" value="条目已保存" version="1" />
     <string key="easybcdStatus" value="EasyBCD状态" version="1" />
-    <string key="saveFileTitle" value="另存为" version="2" />
-    <string key="updateFoundText2" value="一个新版本的EasyBCD已被发现。你想的EasyBCD自动更新到最新版本吗？&#xD;&#xA;&#xD;&#xA;按“是”自动下载和升级，“否”，看到列表中的改变和手动升级，或“取消”取消。" version="2" />
+    <string key="saveFileTitle" value="另存為" version="1" />
+    <string key="updateFoundText2" value="一个新版本的EasyBCD已被发现。你想的EasyBCD自动更新到最新版本吗？&#xD;&#xA;&#xD;&#xA;按“是”自动下载和升级，“否”，看到列表中的改变和手动升级，或“取消”取消。" version="1" />
+    <string key="help" value="助" version="1" />
+    <string key="browse" value="瀏覽" version="1" />
   </strings>
 </localization>

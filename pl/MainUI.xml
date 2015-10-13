@@ -10,7 +10,7 @@
     <string key="rdoTimeoutNone" value="Czekaj na wybór użytkownika" version="1" />
     <string key="rdoTimeoutSkip" value="Pomiń menu startowe" version="1" />
     <string key="btnSaveBCD" value="Zapisz ustawienia" version="1" />
-    <string key="grpTimeout" value="Opcje czasu" version="1" />
+    <string key="grpTimeout" value="Opcje menu" version="2" />
     <string key="btnUp" value="W górę" version="1" />
     <string key="btnDown" value="W dół" version="1" />
     <string key="btnRenameEntry" value="Przemianuj" version="1" />
@@ -79,7 +79,7 @@
     <string key="grpCreateBootableExternal" value="Utwórz zewnętrzny nośnik startowy" version="1" />
     <string key="btnMbrWrite" value="Zapisz MBR" version="1" />
     <string key="rdoMbrXP" value="Zainstaluj bootloader Windows XP do MBR" version="1" />
-    <string key="rdoMbrVista" value="Zainstaluj bootloader Windows Vista/7 do MBR" version="1" />
+    <string key="rdoMbrVista" value="Zainstaluj bootloader Windows Vista+ do MBR" version="1" />
     <string key="grpBootloader" value="Opcje konfiguracji MBR" version="1" />
     <string key="grpUtils" value="Przydatne narzędzia" version="1" />
     <string key="btnBcdInstall" value="BCD Backup/Naprawa" version="1" />
@@ -114,10 +114,8 @@
     <string key="colDefault" value="Domyślny" version="1" />
     <string key="lstRawHD" value="Obraz dysku twardego Raw" version="1" />
     <string key="lstRawPartition" value="Obraz partycji Raw" version="1" />
-    <string key="cbxIsoMode" value="Uruchom z dysku
-Załaduj z pamięci" version="1" />
-    <string key="cbxPeType" value="Obraz WIM (RAMdisk)
-Wyodrębniony układ systemu plików" version="1" />
+    <string key="cbxIsoMode" value="Uruchom z dysku&#xD;&#xA;Załaduj z pamięci" version="1" />
+    <string key="cbxPeType" value="Obraz WIM (RAMdisk)&#xD;&#xA;Wyodrębniony układ systemu plików" version="1" />
     <string key="lstWin7" derive="true" />
     <string key="lstWinNt" derive="true" />
     <string key="lstWin9x" derive="true" />
@@ -128,21 +126,13 @@ Wyodrębniony układ systemu plików" version="1" />
     <string key="lstNixBsd" derive="true" />
     <string key="lstNixWubi" derive="true" />
     <string key="lstNixSys" derive="true" />
-    <string key="cbxMacType" value="EFI (domyślny)
-MBR" version="1" />
+    <string key="cbxMacType" value="EFI (domyślny)&#xD;&#xA;MBR" version="1" />
     <string key="lstOptIn" derive="true" />
     <string key="lstOptOut" derive="true" />
     <string key="lstAlwaysOn" derive="true" />
     <string key="lstAlwaysOff" derive="true" />
-    <string key="cbxEntryPae" value="Default (domyślny)
-Enable
-Disable" version="1" />
-    <string key="cbxEntrySafe" value="Normal
-Safe Mode
-Safe Mode w/ Networking
-Command Line/Alternate Shell
-Basic VGA
-Active Directory Repair" version="1" />
+    <string key="cbxEntryPae" value="Default (domyślny)&#xD;&#xA;Enable&#xD;&#xA;Disable" version="1" />
+    <string key="cbxEntrySafe" value="Normal&#xD;&#xA;Safe Mode&#xD;&#xA;Safe Mode w/ Networking&#xD;&#xA;Command Line/Alternate Shell&#xD;&#xA;Basic VGA&#xD;&#xA;Active Directory Repair" version="1" />
     <string key="emptyList" value="Nie wykryto wpisów!" version="1" />
     <string key="lstVhdEntry" derive="true" />
     <string key="tabAdvanced" derive="true" />
@@ -163,5 +153,8 @@ Active Directory Repair" version="1" />
     <string key="tabMbrSetup" derive="true" />
     <string key="MinimumWidth" value="650" />
     <string key="MinimumHeight" value="500" version="2" />
+    <string key="cbxWinType" derive="true" />
+    <string key="cbxLinType" derive="true" />
+    <string key="lstFreeDos" value="FreeDOS" />
   </strings>
 </localization>
