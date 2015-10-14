@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
     <string key="unknown" derive="true" />
@@ -31,7 +31,7 @@
     <string key="bcdError" value="BCD utförandefel!" version="1" />
     <string key="ntNotFoundTitle" value="Ingen giltig NT-installation funnen!" version="1" />
     <string key="ntNotFound" value="EasyBCD kunde inte hitta någon giltig installation av Windows NT-2003 på monterade enheter, och kunde därför inte fortsätta." version="1" />
-    <string key="manuallyLoad" value="Vill du läsa in ett BCD-register manuellt? Notera att EasyBCD kräver Windows Vista/7 starthanterare, och kommer inte att fungera i XP-miljö." version="1" />
+    <string key="manuallyLoad" value="Vill du manuellt läsa in ett BCD-register för att hanteras av EasyBCD? Notera att EasyBCD kräver BCD-starthanterare (installerat som standard i Windows Vista och nyare), och kommer inte att fungera i XP-miljö." version="1" />
     <string key="errorBcd" value="Kunde inte öppna BCD-register" version="1" />
     <string key="locateValid" value="Lokalisera en giltig BCD-adress" version="1" />
     <string key="bcdRegistry" value="BCD-register" version="1" />
