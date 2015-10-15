@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
     <string key="linuxAuto" value="Hitta och läs in automatiskt" version="1" />
@@ -107,20 +107,16 @@
     <string key="confirmRestartTitle" value="Bekräfta omstart" version="1" />
     <string key="shutdownStarted" value="Nedstängning påbörjad" version="1" />
     <string key="errorUtility" value="Ett fel påträffades vid körning av verktyget." version="1" />
-    <string key="usbCreator" value="Easy USB Creator" version="1" />
+    <string key="usbCreator" derive="true" />
     <string key="usbCreatorText" value="Med Easy USB Creator går det löjligt snabbt och lätt att konvertera ISO-filer för Windows-installation och andra återställningsverktyg till bootbara USB-minnen (CD eller DVD behövs inte), med ett enkelt klick." version="1" />
     <string key="hiddenBootIni" value="Boot.ini är lagrad på den dolda startpartitionen och kan inte läsas in för redigering i EasyBCD.&#xD;&#xA;&#xD;&#xA;Ange enhetsbokstaven för den dolda startpartitionen, eller använd funktionen för automatisk konfiguration av Windows XP dual-boot, istället." version="1" />
     <string key="errorBootIniTitle" value="Kunde inte läsa in boot.ini!" version="1" />
     <string key="errorBootIniFormat" value="EasyBCD kunde inte hitta någon boot.ini på startpartition {0}.&#xD;&#xA;&#xD;&#xA;Lägg till en ny Windows XP eller Windows 2000 startpost, om du vill använda funktionen för automatisk boot.ini-konfiguration, istället." version="1" />
-    <string key="sysInfo" value="Systeminformation" version="1" />
-    <string key="sysInfoText" value="Visar information om din aktuella hård- och mjukvarukonfiguration. Användbart för att lokalisera hårdvarufel och för snabb översikt på aktuella systeminställningar." version="1" />
     <string key="powerConsole" value="EasyBCD Power-konsoll" version="1" />
     <string key="powerConsoleText" value="Snabb tillgång till kommandotolk med full administrativ behörighet. Använd den för att verkställa systemfunktioner eller snabb tillgång till bcdedit och bootsect.exe" version="1" />
     <string key="oemKeyText" value="Använd NeoSmart Technologies kostnadsfria Windows OEM Produktnyckelverktyg för att låsa upp och ta fram Windows integrerade produktnyckel, i din PC eller laptop med Windows 8 och Windows 10." version="1" />
     <string key="oemKey" value="Windows Produktnyckelverktyg" version="1" />
-    <string key="sysRestore" value="Systemåterställning" version="1" />
-    <string key="sysRestoreText" value="Öppnar sytemåterställningsdialogen. Använd den för att snabbt rulla tillbaka ändringar och reparera felaktigheter." version="1" />
-    <string key="restoreCds" value="EasyRE Windows Recovery CDs" version="2" />
+    <string key="restoreCds" derive="true" />
     <string key="restoreCdsText" value="Easy Recovery Essentials för Windows är en bootbar reparations och återställnings-CD/-USB som automatiskt kan fixa din PC nästa gång den inte vill starta. EasyRE:s enkelklicksreparation söker upp och fixar nästan alla startfel, inklusive BSOD:s, BCD-fel, partitioninställningsfel och mera." version="2" />
     <string key="controlPanel" value="Kontrollpanelen" version="1" />
     <string key="controlPanelText" value="Öppna kontrollpanelen och använd den efter behov." version="1" />

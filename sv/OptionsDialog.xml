@@ -36,6 +36,6 @@
     <string key="locateBcd" value="Hitta en giltig BCD-adress" version="1" />
     <string key="never" value="Aldrig" version="1" />
     <string key="MinimumWidth" derive="true" />
-    <string key="MinimumHeight" value="359" />
+    <string key="MinimumHeight" derive="true" />
   </strings>
 </localization>
