@@ -7,7 +7,7 @@
     <string key="accessDeniedFormat" value="Отказано в доступе к {0}. Файл уже используется или у Вас недостаточно прав." version="1" />
     <string key="oneEntry" value="В загрузчике одна запись." version="1" />
     <string key="multiEntriesFormat" value="В загрузчике {0} записи(ей)." version="1" />
-    <string key="entryNum" value="Запись #" version="1" />
+    <string key="entryNum" value="Запись №" version="1" />
     <string key="name" value="Имя" version="1" />
     <string key="bcdId" value="Идентификатор BCD" version="1" />
     <string key="drive" value="Диск" version="1" />
@@ -18,7 +18,7 @@
     <string key="none" value="Нет" version="1" />
     <string key="timeoutFormat" value="{0} секунд(ы)" version="1" />
     <string key="skipped" value="Пропустить меню" version="1" />
-    <string key="bootDevice" value="Диск начальной загрузки" version="1" />
+    <string key="bootDevice" value="Загрузочный раздел" version="1" />
     <string key="ebcdBootDevice" value="Расположение BCD" version="1" />
     <string key="bootloaderPath" value="Путь к загрузчику" version="1" />
     <string key="bcdError" value="Ошибка выполнения BCD!" version="1" />

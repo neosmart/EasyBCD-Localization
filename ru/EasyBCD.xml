@@ -5,23 +5,23 @@
     <string key="communityText" value="EasyBCD Community Edition бесплатна для не коммерческого использования.&#xD;&#xA;Если Вы используете данное ПО в коммерческой среде, пожалуйста, нажмите ниже 'Отмена', чтобы приобрести лицензию. Если нет, нажмите 'ОК' для продолжения." version="1" />
     <string key="communityTitle" derive="true" />
     <string key="bcdInUse" value="Файл используется и не может быть открыт в EasyBCD. Если Вы пытаетесь выбрать системное хранилище, нажмите 'Нет' и выберите команду 'Загрузить системный BCD' из меню 'Файл'.&#xD;&#xA;&#xD;&#xA;Вы хотите выбрать другое хранилище?" version="1" />
-    <string key="bcdInUseTitle" value="Нарушение прав доступа!" version="1" />
-    <string key="accessDenied" value="Доступ запрещён!" version="1" />
+    <string key="bcdInUseTitle" value="Нарушение прав доступа" version="1" />
+    <string key="accessDenied" value="Отказано в доступе!" version="1" />
     <string key="uncUnsupported" value="Сетевые пути не поддерживаются для этой функции. Пожалуйста, введите другой путь и повторите попытку." version="1" />
     <string key="uncUnsupportedTitle" value="UNC-пути не поддерживаются" version="1" />
     <string key="invalidPath" value="Неверный путь или имя файла. Пожалуйста, введите правильный путь для продолжения." version="1" />
     <string key="invalidPathTitle" value="Неверный путь!" version="1" />
     <string key="updateCheck" value="Проверка обновлений EasyBCD..." version="1" />
-    <string key="updateFailed" value="Не удалось проверить обновления. Ошибка при подключении по сети." version="1" />
+    <string key="updateFailed" value="Не удалось проверить обновления. Ошибка создания сетевого подключения." version="1" />
     <string key="updateFailedSB" value="Не удалось проверить обновления для EasyBCD: " version="1" />
     <string key="updateFound" value="Доступна новая версия EasyBCD!" version="1" />
-    <string key="updateFoundText" value="Доступна новая версия EasyBCD. Вы хотите загрузить обновление?" version="1" />
+    <string key="updateFoundText" value="Доступна новая версия EasyBCD. Хотите загрузить её сейчас?" version="1" />
     <string key="updateNone" value="У Вас установлена последняя версия EasyBCD." version="1" />
     <string key="install" value="Установить" version="1" />
     <string key="remove" value="Удалить" version="1" />
-    <string key="adminLine1" value="Нужны права администратора для правильного запуска. Продолжение невозможно." version="1" />
+    <string key="adminLine1" value="Для запуска EasyBCD нужны права администратора. Продолжение невозможно." version="1" />
     <string key="adminLine2" value="Пожалуйста, войдите как администратор или запустите от имени администратора." version="1" />
-    <string key="adminTitle" value="Доступ запрещен!" version="1" />
+    <string key="adminTitle" value="Доступ запрещен" version="1" />
     <string key="easybcdBackup" derive="true" />
     <string key="yes" value="Да" version="1" />
     <string key="no" value="Нет" version="1" />
@@ -37,7 +37,7 @@
     <string key="vhdErrorTitle" value="Ошибка при добавлении записи VHD" version="1" />
     <string key="errorSpaces" value="Путь к образу и его имя не должны содержать пробелов. Пожалуйста, исправьте и попробуйте снова." version="1" />
     <string key="isoErrorTitle" value="Ошибка добавления записи для ISO" version="1" />
-    <string key="floppyErrorTitle" value="Ошибка добавления записи для Floppy" version="1" />
+    <string key="floppyErrorTitle" value="Ошибка добавления записи для дискеты" version="1" />
     <string key="path" value="Путь:" version="1" />
     <string key="name" value="Имя:" version="1" />
     <string key="drive" value="Диск:" version="1" />
@@ -45,17 +45,17 @@
     <string key="wimFiles" value="Файл образа Windows" version="1" />
     <string key="vhdFiles" value="Файл образа VHD" version="1" />
     <string key="isoFiles" value="Файл ISO" version="1" />
-    <string key="imgFiles" value="Файл IMG" version="1" />
-    <string key="bcdFiles" value="Резервная копия" version="1" />
-    <string key="safeIntro" value="EasyBCD позволяет создавать дополнительные записи для той же ОС, но с разными параметрами загрузки. Например, создав новую запись с одним из флагов 'Safe Mode', можно быстро выполнить отладку системы." version="1" />
+    <string key="imgFiles" value="Файлы IMG" version="1" />
+    <string key="bcdFiles" value="Резервная копия EasyBCD" version="1" />
+    <string key="safeIntro" value="EasyBCD позволяет создавать несколько записей для одной и той же ОС, но с разными параметрами загрузки. Например, создав новую запись с одним из флагов 'Safe Mode', можно быстро выполнить отладку системы." version="1" />
     <string key="safeNormal" value="• Обычный: Отключает все опции восстановления. Обычная загрузка ОС.&#xD;&#xA;" version="1" />
-    <string key="safeVga" value="• Базовый VGA: Загружает только базовые драйверы монитора с низким разрешением.&#xD;&#xA;" version="1" />
+    <string key="safeVga" value="• Режим VGA: Загружает только базовые драйверы монитора с низким разрешением.&#xD;&#xA;" version="1" />
     <string key="safeNetworking" value="• Безопасный режим /Сеть: Загрузка в безопасном режиме с доступом к Интернету и локальной сети.&#xD;&#xA;" version="1" />
     <string key="safeMode" value="• Безопасный режим: Загрузка в безопасном режиме без доступа к сети. Полезно при повреждении сетевых драйверов.&#xD;&#xA;" version="1" />
-    <string key="safeAD" value="• Загрузка Active Directory: Загрузка Windows Server 2008 в режиме восстановления Active Directory." version="1" />
+    <string key="safeAD" value="• Active Directory: Загрузка Windows Server 2008 в режиме восстановления Active Directory." version="1" />
     <string key="safeTitle" value="О параметрах Безопасного режима" version="1" />
-    <string key="paeIntro" value="PAE (Physical address extension) определяет как Windows будет распределять дополнительную память свыше 4 Гб." version="1" />
-    <string key="paeDefault" value="• По умолчанию: Windows сама распределяет оперативную память.&#xD;&#xA;" version="1" />
+    <string key="paeIntro" value="Параметры PAE (Physical address extension) определяют, как Windows будет измерять оперативную память размером 4 Гб и более." version="1" />
+    <string key="paeDefault" value="• По умолчанию: Windows самостоятельно измеряет оперативную память.&#xD;&#xA;" version="1" />
     <string key="paeEnable" value="• Включено: Включает функцию PAE.&#xD;&#xA;" version="1" />
     <string key="paeDisable" value="• Выключено: Отключает функцию PAE." version="1" />
     <string key="paeTitle" value="О параметрах PAE" version="1" />
@@ -67,15 +67,15 @@
     <string key="nxTitle" value="О функции DEP/NoExecute" version="1" />
     <string key="errorNotPrimary" value="Загрузочный раздел должен быть основным.&#xD;&#xA;&#xD;&#xA;Пожалуйста, выберете другой раздел или преобразуйте выбранный раздел в основной, а затем повторите попытку." version="1" />
     <string key="opNotAllowed" value="Недопустимая операция!" version="1" />
-    <string key="errorNotMounted" value="EasyBCD не может сделать несмонтированный диск загрузочным. Пожалуйста, присвойте букву выбранному диску, перезапустите EasyBCD и повторите попытку." version="1" />
+    <string key="errorNotMounted" value="EasyBCD не может сделать несмонтированный раздел загрузочным. Пожалуйста, присвойте букву выбранному разделу, перезапустите EasyBCD, и повторите попытку." version="1" />
     <string key="invalidDrive" value="Недопустимая операция с диском" version="1" />
-    <string key="bootableSuccess" value="EasyBCD успешно преобразовала выбранный диск в загрузочный. Для настройки пунктов меню загрузки на выбранном разделе Вы должны воспользоваться меню 'Файл | Выбрать BCD' и указать файл \Boot\BCD на подготовленном разделе." version="1" />
+    <string key="bootableSuccess" value="EasyBCD успешно преобразовала выбранный диск в загрузочный. Для настройки пунктов меню загрузки на выбранном разделе, Вы должны воспользоваться меню 'Файл | Выбрать BCD' и указать файл \Boot\BCD на подготовленном разделе." version="1" />
     <string key="mountBcdNow" value="Хотите сейчас автоматически загрузить новый файл BCD в EasyBCD?" version="1" />
-    <string key="bootableTitle" value="Загрузочный диск создан" version="1" />
+    <string key="bootableTitle" value="Загрузочный раздел создан" version="1" />
     <string key="accessDeniedText" value="Не удается получить доступ к BCD. Пожалуйста, проверьте и убедитесь, что BCD на выбранном устройстве не используется в настоящее время." version="1" />
     <string key="partitionConverted" value="Раздел преобразован в загрузочный" version="1" />
-    <string key="bcdRemove1" value="Эту дополнительную функцию следует использовать, только если Вы абсолютно уверены, что хотите удалить загрузчик BCD/BOOTMGR!Он нужен для загрузки Windows Vista или выше!" version="2" />
-    <string key="bcdRemove2" value="Эта функция только для загрузки в Windows XP, если соответствующие загрузочные файлы уже присутствуют!" version="1" />
+    <string key="bcdRemove1" value="Эту дополнительную функцию следует использовать, только если Вы абсолютно уверены, что хотите удалить загрузчик BCD/BOOTMGR! Он нужен для загрузки Windows Vista и выше!" version="2" />
+    <string key="bcdRemove2" value="Эта функция только для загрузки в Windows XP, если её загрузочные файлы уже на своём месте!" version="1" />
     <string key="bcdRemove3" value="Вы уверены, что хотите продолжить?" version="1" />
     <string key="warning" value="Внимание!" version="1" />
     <string key="mbrSuccess" value="MBR успешно переписана!" version="1" />
@@ -83,14 +83,14 @@
     <string key="bcdReset" value="BCD очищен, все записи были успешно удалены!&#xD;&#xA;&#xD;&#xA;Внимание: Вам необходимо добавить хотя бы одну запись, иначе Ваш ПК не загрузится!" version="1" />
     <string key="bcdResetTitle" value="Сброс BCD" version="1" />
     <string key="selectBootTitle" value="Выбор нового загрузочного раздела" version="1" />
-    <string key="selectBoot" value="EasyBCD перенастороит Вашу систему для загрузки с выбранного ниже раздела. Этот процесс создаст BCD на выбранный диск, скопирует все текущие записи и сделает выбранный раздел активным и загрузочным." version="1" />
+    <string key="selectBoot" value="EasyBCD настроит Вашу систему для загрузки с выбранного ниже раздела. Этот процесс установит BCD на выбранный диск, скопирует в него все текущие записи и сделает выбранный раздел активным и загрузочным." version="1" />
     <string key="errorLogical" value="Была предпринята попытка перенести загрузочный раздел на логический диск, что не допускается. Загрузочный раздел должен быть основным.&#xD;&#xA;&#xD;&#xA;Пожалуйста, выберите другой диск или преобразуйте выбранный в основной, а затем повторите попытку." version="1" />
     <string key="bootChangedFormat" value="EasyBCD успешно сделала диск {0} новым загрузочным разделом и создала на нем вновь созданное хранилище BCD, готовое для внесения в него первых изменений. Вам не нужно больше ничего делать, если этот раздел расположен на Вашем ПЕРВОМ жестком диске. Иначе Вам придется перезагрузить компьютер для изменения очередности загрузки жестких дисков в настройках BIOS" version="1" />
     <string key="bootChangedTitle" value="Изменение загрузочного раздела" version="1" />
     <string key="unsupportedOS" value="Эта опция доступна только для Windows Vista и выше." version="2" />
     <string key="unsupportedOSTitle" value="Не поддерживаемая операционная система!" version="1" />
     <string key="errorNoRestore" value="Критическая ошибка: не удается восстановить выбранное хранилище." version="1" />
-    <string key="errorNoRestoreTitle" value="Ошибка восстановления!" version="1" />
+    <string key="errorNoRestoreTitle" value="Ошибка восстановления" version="1" />
     <string key="confirmDelete" value="Вы уверены, что хотите удалить эту запись?" version="1" />
     <string key="confirmDeleteTitle" value="Подтверждаете удаление?" version="1" />
     <string key="entryDeleted" value="Запись из меню загрузки удалена" version="1" />
@@ -100,55 +100,55 @@
     <string key="easybcdFiles" value="Файлы EasyBCD" version="1" />
     <string key="errorRO1" value="У Вас нет прав на запись в этот файл. Он имеет атрибут 'Только чтение', либо расположен в среде 'Только чтение'." version="1" />
     <string key="errorRO2" value="Если Вы решите продолжить, то изменения, внесенные в файл BCD, не будут сохранены. Нажмите 'Да' для продолжения и загрузки файла в режиме 'Только чтение' или 'Нет', чтобы продолжить работу с предыдущим файлом." version="1" />
-    <string key="errorROTitle" value="Данный BCD доступен только для чтения!" version="1" />
+    <string key="errorROTitle" value="Данный BCD доступен только для чтения" version="1" />
     <string key="bcdLoadedFormat" value="Конфигурация BCD загружена из {0}" version="1" />
     <string key="noBcd" value="Конфигурация BCD не загружена. EasyBCD работает в ограниченном режиме." version="1" />
     <string key="confirmRestart" value="Вы уверены, что хотите перезагрузить компьютер?" version="1" />
-    <string key="confirmRestartTitle" value="Подтвердите перезагрузку" version="1" />
+    <string key="confirmRestartTitle" value="Подтверждение  перезагрузки" version="1" />
     <string key="shutdownStarted" value="Инициализация завершения работы." version="1" />
-    <string key="hiddenBootIni" value="Boot.ini находится на скрытом разделе и EasyBCD не может открыть его для редактирования.&#xD;&#xA;&#xD;&#xA;Пожалуйста, присвойте букву скрытому разделу или используйте функцию автоматического создания двузагрузочной конфигурации с Windows XP." version="1" />
+    <string key="hiddenBootIni" value="Boot.ini находится на скрытом разделе и EasyBCD не может открыть его для редактирования.&#xD;&#xA;&#xD;&#xA;Пожалуйста, присвойте букву скрытому разделу, или используйте функцию автогенерации файла boot.ini при создании двузагрузочной конфигурации с Windows XP." version="1" />
     <string key="errorBootIniTitle" value="Не удается загрузить boot.ini!" version="1" />
-    <string key="errorBootIniFormat" value="EasyBCD не удалось обнаружить файл boot.ini на загрузочном разделе {0}.&#xD;&#xA;&#xD;&#xA;Пожалуйста, добавьте новую запись Windows 2k/XP для выполнения автогенерации файла boot.ini." version="1" />
-    <string key="errorUtility" value="Ошибка запуска программы!" version="1" />
-    <string key="usbCreatorText" value="Easy USB Creator позволяет быстро и легко конвертировать файлы ISO для установки Windows и других инструментов восстановления в загрузочный USB (CD/DVD не нужны) всего в один клик." version="1" />
+    <string key="errorBootIniFormat" value="EasyBCD не удалось обнаружить файл boot.ini на загрузочном разделе {0}.&#xD;&#xA;&#xD;&#xA;Пожалуйста, добавьте новую запись Windows 2k/XP для автогенерации файла boot.ini." version="1" />
+    <string key="errorUtility" value="Ошибка запуска утилиты" version="1" />
+    <string key="usbCreatorText" value="Easy USB Creator невероятно быстро и легко, буквально в один клик, создаёт загрузочный или recovery USB-диск для Windows (не CD или DVD)." version="1" />
     <string key="usbCreator" derive="true" />
     <string key="powerConsole" value="Командная строка EasyBCD" version="1" />
     <string key="powerConsoleText" value="Быстрый доступ к оболочке командной строки с правами администратора. Используйте для системных функций или быстрого доступа к bcdedit и bootsect.exe." version="1" />
-    <string key="oemKeyText" value="Используйте бесплатную программу Windows OEM Product Key Tool от NeoSmart Technologies для просмотра и получения ключа Windows, вшитого в BIOS Вашего ПК или ноутбука с Windows 8/10." version="1" />
-    <string key="oemKey" derive="true" />
-    <string key="restoreCds" derive="true" />
-    <string key="restoreCdsText" value="Easy Recovery Essentials для Windows - это CD/USB для ремонта и восстановления, который может автоматически восстановить Ваш ПК при следующей загрузке. Восстановление в один клик с помощью EasyRE позволит найти и исправить почти все ошибки загрузки (BSOD, ошибки BCD, неправильную конфигурацию разделов и др.)." version="2" />
+    <string key="oemKeyText" value="Воспользуйтесь бесплатным инструментом NeoSmart Technologies для поиска и извлечения OEM Product Key (для Windows 8 и выше) из вашего компьютера или ноутбука." version="1" />
+    <string key="oemKey" value="Определитель Windows Product Key" version="1" />
+    <string key="restoreCds" value="CD восстановления Windows EasyRE" version="2" />
+    <string key="restoreCdsText" value="Easy Recovery Essentials (EasyRE) - это загрузочный CD ремонта и восстановления, который может автоматически исправить ваш компьютер, если он однажды перестанет загружаться. В один клик он найдёт и исправит большинство ошибок загрузки, включая &quot;синий экран смерти&quot;, ошибки BCD, нарушения конфигурации разделов жёсткого диска, и другое." version="2" />
     <string key="controlPanel" value="Панель управления" version="1" />
-    <string key="controlPanelText" value="Открыть системную Панель управления." version="1" />
+    <string key="controlPanelText" value="Откройте системную Панель управления, и используйте её по своему усмотрению." version="1" />
     <string key="iRebootText" value="Полезное приложение от NeoSmart Technologies для EasyBCD. iReboot сидит в трее (потребляет всего 400KB памяти!) и позволяет быстро и легко перезагрузиться в нужную ОС." version="1" />
-    <string key="errorNoEntries" value="EasyBCD обнаружила, что в меню загрузки нет ни одной записи. Если вы выйдете из EasyBCD и перезагрузите компьютер, то он не будет загружаться.&#xD;&#xA;&#xD;&#xA;Вы действительно хотите выйти, не добавив ни одной записи?" version="1" />
+    <string key="errorNoEntries" value="EasyBCD обнаружила, что в меню загрузки нет ни одной записи. Если вы выйдете из EasyBCD и перезагрузите компьютер, то он не  загрузится.&#xD;&#xA;&#xD;&#xA;Вы действительно хотите выйти, не добавив ни одной записи?" version="1" />
     <string key="errorNoEntriesTitle" value="Нет записей в меню загрузки!" version="1" />
     <string key="errorPathSave" value="EasyBCD не удалось сохранить текущий путь резервного копирования в качестве каталога по умолчанию. Опция была отключена." version="1" />
     <string key="errorPathSaveTitle" value="Неверный путь к каталогу резервного копирования" version="1" />
     <string key="isoHelp1" value="EasyBCD поддерживает загрузку из ISO в двух разных режимах. Обратите внимание, что не все ISO будут работать правильно (обычно, образы Linux не работают)." version="1" />
-    <string key="isoHelp2" value="• Загрузка с диска: Быстрее загружается, но работает медленнее. Требует предварительной подготовки при создании.&#xD;&#xA;" version="1" />
+    <string key="isoHelp2" value="• Запуск с диска: Быстрее загружается, но работает медленнее. Требует предварительной подготовки при создании.&#xD;&#xA;" version="1" />
     <string key="isoHelp3" value="• Загрузка в память: Работает быстрее, но требуется больше времени для загрузки. Может не работать с большими ISO или на старых ПК." version="1" />
     <string key="isoHelpTitle" value="О параметрах ISO" version="1" />
-    <string key="warnDiffDevice" value="Выбранный файл хранится на другом устройстве, чем файлы начальной загрузки. Если собираетесь использовать этот файл для загрузки на другом компьютере, Вы должны скопировать его на внешний носитель и повторить попытку.&#xD;&#xA;&#xD;&#xA;Желаете продолжить?" version="1" />
-    <string key="diffDeviceTitle" value="Обнаружена не автономная запись!" version="1" />
+    <string key="warnDiffDevice" value="Выбранный BCD находится не на том же носителе, что и загрузочные файлы. Если вы собираетесь использовать эту ОС для загрузки на другом компьютере, вы должны скопировать этот BCD на внешний носитель и повторить попытку.&#xD;&#xA;&#xD;&#xA;Хотите продолжить в любом случае?" version="1" />
+    <string key="diffDeviceTitle" value="Эта ОС не на внешнем носителе!" version="1" />
     <string key="errorNoBcd" value="Конфигурация BCD не загружена. Работаем в ограниченном режиме!" version="1" />
     <string key="bcdExceptionFormat" value="BCD Exeption 0x{0:X3}" version="1" />
     <string key="userCancel" value="Операция отменена пользователем." version="1" />
-    <string key="renameSuccess" value="Запись успешно переименована!" version="1" />
+    <string key="renameSuccess" value="Запись успешно переименована" version="1" />
     <string key="plop" value="Расширение BIOS от EasyBCD" version="1" />
-    <string key="entryRemovedFormat" value="{0} была удалена!" version="1" />
+    <string key="entryRemovedFormat" value="{0} была удалена" version="1" />
     <string key="drive2" value="Диск" version="1" />
-    <string key="bcdResetStatus" value="BCD успешно очищен. Перенастройте конфигурацию!" version="1" />
-    <string key="bcdRepaired" value="BCD успешно восстановлен!" version="1" />
-    <string key="configSaved" value="Конфигурация BCD успешно сохранена!" version="1" />
-    <string key="backupSuccess" value="BCD успешно сохранен!" version="1" />
-    <string key="restoreSuccess" value="Восстановление успешно завершено!" version="1" />
-    <string key="bcdRefresh" value="Кэш данных BCD был успешно обновлен!" version="1" />
+    <string key="bcdResetStatus" value="BCD успешно очищен. Пожалуйста, сразу же создайте новую конфигурацию загрузки!" version="1" />
+    <string key="bcdRepaired" value="BCD успешно восстановлен" version="1" />
+    <string key="configSaved" value="Конфигурация BCD успешно сохранена" version="1" />
+    <string key="backupSuccess" value="BCD успешно зарезервирован" version="1" />
+    <string key="restoreSuccess" value="Восстановление успешно завершено" version="1" />
+    <string key="bcdRefresh" value="Кэш данных BCD был успешно обновлен" version="1" />
     <string key="optionsSaved" value="Настройки успешно сохранены!" version="1" />
-    <string key="orderSaved" value="Порядок записей сохранён!" version="1" />
+    <string key="orderSaved" value="Порядок записей сохранён" version="1" />
     <string key="easybcdStatus" value="Статус EasyBCD" version="1" />
     <string key="saveFileTitle" value="Сохранить как" version="1" />
-    <string key="updateFoundText2" value="Доступна новая версия. Желаете выполнить автоматическое обновление?&#xD;&#xA;&#xD;&#xA;Нажмите 'Да' для автоматической загрузки и установки новой версии, 'Нет' для просмотра списка изменений и обновления вручную или 'Отмена'." version="1" />
+    <string key="updateFoundText2" value="Доступна новая версия. Хотите перейти на последнюю версию автоматически?&#xD;&#xA;&#xD;&#xA;Нажмите 'Да' для автоматической загрузки и установки новой версии, 'Нет' для просмотра списка изменений и обновления вручную или 'Отмена'." version="1" />
     <string key="help" value="Помощь" version="1" />
     <string key="browse" value="Обзор" version="1" />
   </strings>

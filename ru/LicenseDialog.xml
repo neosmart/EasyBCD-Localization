@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="linkLabel" value="Для этой копии EasyBCD необходимо приобрести коммерческую лицензию.&#xD;&#xA;&#xD;&#xA;Пожалуйста, введите Ваш адрес email или приобретенный номер лицензии. Ннажмите сюда, чтобы купить лицензию или обратитесь за поддержкой Sales@NeoSmart.net." version="1" />
+    <string key="linkLabel" value="Для этой копии EasyBCD необходимо приобрести коммерческую лицензию.&#xD;&#xA;&#xD;&#xA;Пожалуйста, введите Ваш адрес email или приобретенный номер лицензии. Ннажмите здесь, чтобы купить лицензию или обратитесь в Sales@NeoSmart.net." version="1" />
     <string key="linkClick" value="Нажмите здесь" version="1" />
     <string key="linkEmail" derive="true" />
     <string key="btnSkip" value="Пропустить" version="1" />
@@ -14,8 +14,8 @@
     <string key="seats" value="Количество" version="1" />
     <string key="regFailTitle" value="Неудачная регистрация!" version="1" />
     <string key="regFail" value="Неверный email или ключ лицензии. Повторите попытку." version="1" />
-    <string key="regException" value="Ошибка получения лицензии с удаленного сервера. Пожалуйста, проверьте Ваше Интернет-соединение или попробуйте позже." version="1" />
-    <string key="regExceptionTitle" value="Невозможно зарегистрироваться!" version="1" />
+    <string key="regException" value="Ошибка при получении лицензиинас удаленном сервере. Пожалуйста, проверьте Ваше Интернет-соединение или попробуйте позже." version="1" />
+    <string key="regExceptionTitle" value="Невозможность зарегистрироваться" version="1" />
     <string key="btnContinue" value="Продолжить" version="1" />
     <string key="regSuccess" value="Регистрация завершена!" version="1" />
     <string key="MinimumWidth" derive="true" />

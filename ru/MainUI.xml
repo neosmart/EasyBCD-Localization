@@ -33,8 +33,8 @@
     <string key="txtPeName" value="NST образ WinPE" version="1" />
     <string key="chkEms" value="EMS включено" version="1" />
     <string key="tabPageWinPE" derive="true" />
-    <string key="txtFloppyName" value="NeoSmart образ Floppy" version="1" />
-    <string key="tabPageFloppy" derive="true" />
+    <string key="txtFloppyName" value="NeoSmart образ дискеты" version="1" />
+    <string key="tabPageFloppy" value="Дискета" version="1" />
     <string key="btnPlopInstall" value="Установить PLoP" version="1" />
     <string key="btnPlopRemove" value="Удалить PLoP" version="1" />
     <string key="lblBiosExtend" value="Расширение BIOS от EasyBCD может быть использовано для загрузки по сети или с CD/DVD/USB на компьютерах, которые не поддерживают этого." version="1" />
@@ -59,10 +59,10 @@
     <string key="btnSaveSettings" value="Сохранить" version="1" />
     <string key="lblLocale" value="Язык:" version="1" />
     <string key="tabEntryBasic" value="Основные" version="1" />
-    <string key="lblSafeMode" derive="true" />
+    <string key="lblSafeMode" value="Безопасный режим:" />
     <string key="lblPae" value="Поддержка PAE: " version="1" />
     <string key="lblDep" derive="true" />
-    <string key="chkEntryUnsigned" value="Установка неподписанных драйверов в Windows x64" version="1" />
+    <string key="chkEntryUnsigned" value="Разрешить использование неподписанных&#xD;&#xA;драйверов на 64 - битных ОС Windows" version="1" />
     <string key="tabEntryAdvanced" value="Дополнительные" version="1" />
     <string key="chkEntryKernelDebug" value="Запуск в режиме отладки ядра" version="1" />
     <string key="chkEntrySos" value="Запуск в режиме SOS/Verbose-Boot Mode" version="1" />
@@ -79,7 +79,7 @@
     <string key="btnBackup" value="Архивировать" version="1" />
     <string key="btnRestore" value="Восстановить" version="1" />
     <string key="grpBackupRestore" value="Архивация\Восстановление настроек загрузчика" version="1" />
-    <string key="rdoBcdChange" value="Изменить диск загрузки" version="1" />
+    <string key="rdoBcdChange" value="Заменить диск загрузки" version="1" />
     <string key="rdoBcdRepair" value="Обновить файлы загрузки" version="1" />
     <string key="btnBcdRescue" value="Выполнить" version="1" />
     <string key="rdoBcdReset" value="Сброс конфигурации BCD" version="1" />
@@ -107,7 +107,7 @@
     <string key="mnuSelectBcd" value="Выбрать BCD" version="1" />
     <string key="mnuLanguage" value="Выбрать язык" version="1" />
     <string key="mnuLoadSystemBcd" value="Загрузить системный BCD" version="1" />
-    <string key="mnuRescan" value="Обновить текущие настройки BCD" version="1" />
+    <string key="mnuRescan" value="Перезагрузить текущие настройки BCD" version="1" />
     <string key="mnuRegister" value="Регистрация" version="1" />
     <string key="mnuDonate" value="Пожертвовать" version="1" />
     <string key="mnuUpdate" value="Проверить наличие обновлений" version="1" />
@@ -127,19 +127,19 @@
     <string key="colName" value="Пункты меню" version="1" />
     <string key="colDefault" value="По умолчанию" version="1" />
     <string key="cbxVhdType" value="Microsoft VHD&#xD;&#xA;Образ диска&#xD;&#xA;Образ раздела" version="1" />
-    <string key="cbxIsoMode" value="Загрузка с диска&#xD;&#xA;Загрузка в память" version="1" />
+    <string key="cbxIsoMode" value="Запуск с диска&#xD;&#xA;Загрузка в память" version="1" />
     <string key="cbxPeType" value="Образ WIM (Ramdisk)&#xD;&#xA;Извлеченная файловая структура" version="1" />
     <string key="cbxWinType" derive="true" />
     <string key="cbxLinType" derive="true" />
     <string key="cbxMacType" value="EFI (По умолчанию)&#xD;&#xA;MBR" version="1" />
     <string key="cbxEntryDep" derive="true" />
     <string key="cbxEntryPae" value="По умолчанию&#xD;&#xA;Включено&#xD;&#xA;Выключено" version="1" />
-    <string key="cbxEntrySafe" value="Обычный&#xD;&#xA;Безопасный режим&#xD;&#xA;Безопасный режим /Сеть&#xD;&#xA;Командная строка&#xD;&#xA;Базовый VGA&#xD;&#xA;Загрузка Active Directory" version="1" />
+    <string key="cbxEntrySafe" value="Обычный&#xD;&#xA;Безопасный режим&#xD;&#xA;Безопасный режим /Сеть&#xD;&#xA;Командная строка&#xD;&#xA;Режим VGA&#xD;&#xA;Active Directory" version="1" />
     <string key="emptyList" value="Записи не обнаружены!" version="1" />
     <string key="MinimumWidth" derive="true" />
     <string key="MinimumHeight" derive="true" />
     <string key="efiTitle" value="Обнаружен загрузчик EFI!" version="1" />
-    <string key="efiMessage" value="Ваш компьютер загружается в режиме EFI. Согласно ограничениям Microsoft, многими возможностями EasyBCD по мультизагрузке невозможно воспользоваться в режиме EFI и они были отключены.&#xD;&#xA;&#xD;&#xA;Нажмите 'ОК' для продолжения или 'Помощь', чтобы узнать о ограничениях и возможных вариантах их обхода." version="1" />
+    <string key="efiMessage" value="EasyBCD установил, что ваша машина сейчас загружена в режиме EFI. Из-за ограничений, установленных Mikrosoft, многие функции мультизагрузочных конфигураций EasyBCD не могут работать в режиме EFI, и были отключены.&#xD;&#xA;&#xD;&#xA;Нажмите &quot;ОК&quot; для продолжения или &quot;Помощь&quot;, чтобы прочесть об этих ограничениях и возможных путях их устранения." version="1" />
     <string key="lstFreeDos" derive="true" />
     <string key="chkMetroUI" value="Использовать загрузчик Metro" version="1" />
   </strings>

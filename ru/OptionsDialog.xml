@@ -5,7 +5,7 @@
     <string key="btnCancel" value="Отмена" version="2" />
     <string key="chkExpertMode" value="Запускать EasyBCD в режиме 'Эксперт'" version="1" />
     <string key="chkRememberBackup" value="Запоминать расположение папки резервной копии BCD при выходе" version="1" />
-    <string key="lblExpertMode" value="В этом режиме пользователь не опрашивается&#xD;&#xA;перед выполнением выбранных действий!" version="1" />
+    <string key="lblExpertMode" value="В этом режиме пользователь не опрашивается вновь&#xD;&#xA;перед выполнением выбранных действий!" version="1" />
     <string key="chkLoadDefaultBcd" value="При запуске автоматически загружать следующий файл BCD:" version="1" />
     <string key="btnBrowseBcd" derive="true" />
     <string key="chkAutoUpdate" value="Проверять обновления через: " version="1" />
