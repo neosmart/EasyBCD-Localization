@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnOK" value="OK" version="2" />
+    <string key="btnCancel" value="Отказ" version="2" />
+    <string key="chkExpertMode" value="Стартирай EasyBCD в експертен режим" version="1" />
+    <string key="chkRememberBackup" value="Запомни папката за резервиране на BCD при изход" version="1" />
+    <string key="lblExpertMode" value="Експертният режим не пита потребителя, преди да извърши разширените действия!" version="1" />
+    <string key="chkLoadDefaultBcd" value="При стартиране автоматично зареждай следния BCD файл:" version="1" />
+    <string key="btnBrowseBcd" value="..." version="1" />
+    <string key="chkAutoUpdate" value="Автоматично обновявай на всеки " version="1" />
+    <string key="chkRss" value="Включи NeoSMART технологии в Windows RSS платформата" version="1" />
+    <string key="numUpdateInterval" value="0" version="1" />
+    <string key="rdoDays" value="ден(а)" version="1" />
+    <string key="rdoWeeks" value="седмица(и)" version="1" />
+    <string key="rdoMonths" value="месеца(и)" version="1" />
+    <string key="lblLastUpdateCheck" value="Последна автоматична проверка: " version="1" />
+    <string key="tabGeneralSettings" value="Общи настройки" version="1" />
+    <string key="lblDefaultTab" value="Раздел по подразбиране при стартиране: " version="1" />
+    <string key="lblDefaultDisplay" value="Режим на изобразяване по подразбиране: " version="1" />
+    <string key="lblOverviewFont" value="Шрифт на прегледа:" version="1" />
+    <string key="lblDetailedFont" value="Шрифт на детайлния изглед: " version="1" />
+    <string key="lblOverviewSize" value="Размер: " version="1" />
+    <string key="numFontOverview" value="8" version="1" />
+    <string key="lblOverviewPt" value="pt." version="1" />
+    <string key="lblDetailedSize" value="Размер: " version="1" />
+    <string key="numFontDetailed" value="8" version="1" />
+    <string key="lblDetailedPt" value="pt." version="1" />
+    <string key="chkWordWrap" value="Изречения на повече редове е разрешено по подразбиране" version="1" />
+    <string key="chkSaveWindow" value="Запази размера на прозореца на EasyBCD при изход" version="1" />
+    <string key="ResetSize" value="Възстанови настройките на изобразяване" version="1" />
+    <string key="tabDisplayOptions" value="Настройки на изобразяване" version="1" />
+    <string key="OptionsDialog" value="Настройки на EasyBCD" version="1" />
+    <string key="overview" value="Преглед" version="1" />
+    <string key="detailed" value="Подробно" version="1" />
+    <string key="locateBcd" value="Намери валидно BCD хранилище" version="1" />
+    <string key="never" value="Никога" version="1" />
+    <string key="MinimumWidth" value="452" />
+    <string key="MinimumHeight" value="359" />
+  </strings>
+</localization>

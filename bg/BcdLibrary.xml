@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="accessViolationFormat" value="Не може да се получи ексклузивен достъп до {0}. Ако това е сменяем диск, опитайте да го изхвърлите и повторно да го поставите, и след това опитайте отново." version="1" />
+    <string key="failedSave" value="Неуспех при запазване на промените!" version="1" />
+    <string key="accessDeniedTitle" value="Достъпът отказан" version="1" />
+    <string key="accessDeniedFormat" value="Oтказан e достъпът до {0}. Моля, проверете дали файлът не се използва и дали имате разрешение за изтриване/промяна на това място." version="1" />
+    <string key="oneEntry" value="Има един запис в буутлоудъра на Windows." version="1" />
+    <string key="multiEntriesFormat" value="Има общо  {0} записа, изброени в буутлоудъра." version="1" />
+    <string key="entryNum" value="Запис #" version="1" />
+    <string key="name" value="Име" version="1" />
+    <string key="bcdId" value="BCD ID" version="1" />
+    <string key="drive" value="Диск" version="1" />
+    <string key="device" value="Устройство" version="1" />
+    <string key="path" value="Път" version="1" />
+    <string key="default" value="По подразбиране" version="1" />
+    <string key="timeout" value="Време за изчакване" version="1" />
+    <string key="none" value="Никой" version="1" />
+    <string key="timeoutFormat" value="{0} секунди" version="1" />
+    <string key="skipped" value="Прескочени" version="1" />
+    <string key="bootDevice" value="Зареждащ диск" version="1" />
+    <string key="ebcdBootDevice" value="Зареждащо устройство на EasyBCD" version="1" />
+    <string key="bootloaderPath" value="Път до буутлоудъра" version="1" />
+    <string key="bcdError" value="Грешка при изпълнение на BCD!" version="1" />
+    <string key="ntNotFoundTitle" value="Не е намерена валидна NT инсталация!" version="1" />
+    <string key="ntNotFound" value="EasyBCD не успя да открие валидна инсталация на Windows NT-2003 г. на всички монтирани устройства и не може да продължи." version="1" />
+    <string key="manuallyLoad" value="Бихте ли искали на ръка да заредите BCD регистратурата за EasyBCD? Моля, имайте предвид, че EasyBCD изисква BCD буутлоудър (инсталиран по подразбиране в Windows Vista и по-нов), и няма да работи само в XP среди." version="2" />
+    <string key="errorBcd" value="Грешка при отваряне на BCD регистратурата" version="1" />
+    <string key="locateValid" value="Намерete валидно BCD хранилище" version="1" />
+    <string key="bcdRegistry" value="BCD регистратура" version="1" />
+    <string key="partition" value="Дял" version="1" />
+    <string key="unknown" value="Неизвестно" version="1" />
+    <string key="gib" value="GiB" version="1" />
+    <string key="mib" value="MiB" version="1" />
+    <string key="as" value="като" version="1" />
+    <string key="defragFormat" value="Започва дефрагментирането на файл {0}" version="1" />
+    <string key="unnamed" value="Запис без име " version="1" />
+  </strings>
+</localization>

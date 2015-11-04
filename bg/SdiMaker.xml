@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OK_Button" value="OK" version="1" />
+    <string key="Cancel_Button" value="Отказ" version="1" />
+    <string key="Body" value="Зѝа да продължи EasyBCD се нуждае от достъп до инсталационен носител на Windows Vista или по-нов (обикновено DVD или дисков имидж). &#xD;&#xA;&#xD;&#xA;Моля, поставете DVD във вашето оптично устройство или монтирайте дисковия имидж и натиснете  ОК, за да продължите." version="2" />
+    <string key="SdiMaker" value="Поставете инсталационния носител с Windows" version="1" />
+    <string key="mediaNotFound" value="Не е открит инсталационен носител с Windows." version="1" />
+    <string key="MinimumWidth" value="381" />
+    <string key="MinimumHeight" value="196" />
+  </strings>
+</localization>

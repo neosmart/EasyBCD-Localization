@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblDriveSelect" value="Нов зареждащ дял:" version="1" />
+    <string key="lblBody" value="EasyBCD ще промени конфигурацията на вашата система да зарежда от избрания по-долу дял. Този процес ще настрои BCD на избрания диск, ще копира в него текущите BCD записи и ще направи избрания дял активен и зареждащ." version="1" />
+    <string key="OK_Button" value="&amp;OK" version="1" />
+    <string key="Cancel_Button" value="&amp;Отказ" version="1" />
+    <string key="DriveSelect" value="Избор на дял" version="1" />
+    <string key="errorAlreadyBoot" value="Избраният от вас дял вече е зареждащ по подразбиране. За да продължите, моля, изберете друг дял!" version="1" />
+    <string key="errorAlreadyBootTitle" value="Моля, изберете друг дял!" version="1" />
+    <string key="MinimumWidth" value="518" />
+    <string key="MinimumHeight" value="199" />
+  </strings>
+</localization>

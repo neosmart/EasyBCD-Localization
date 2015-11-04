@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblApplyingActions" value="EasyBCD прилага избраното действие..." version="1" />
+    <string key="ProgressDialog" value="Моля, изчакайте!" version="1" />
+    <string key="MinimumWidth" value="371" />
+    <string key="MinimumHeight" value="110" />
+  </strings>
+</localization>

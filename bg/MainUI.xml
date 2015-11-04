@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="rdoModeBasic" value="Преглед" version="1" />
+    <string key="rdoModeDetailed" value="Детайлен (Debug Mode)" version="1" />
+    <string key="chkWordWrap" value="На повече редове" version="1" />
+    <string key="grpDisplayMode" value="Режим на изобразяване" version="1" />
+    <string key="tabViewSettings" value="1" version="1" />
+    <string key="rdoTimeoutCount" value="Обратно броене от" version="1" />
+    <string key="numTimeout" value="0" version="1" />
+    <string key="rdoTimeoutNone" value="Чакай избора на потребителя" version="1" />
+    <string key="rdoTimeoutSkip" value="Пропусни буут менюто" version="1" />
+    <string key="btnSaveBCD" value="Запази настройките" version="1" />
+    <string key="grpTimeout" value="Настройки на менюто" version="2" />
+    <string key="btnUp" value="Горе" version="1" />
+    <string key="btnDown" value="Долу" version="1" />
+    <string key="btnRenameEntry" value="Преименувай" version="1" />
+    <string key="btnDelete" value="Изтрий" version="1" />
+    <string key="grpModifyEntries" value="Промени записите в менюто" version="1" />
+    <string key="tabEditMenu" value="2" version="1" />
+    <string key="btnBrowse" value="..." version="1" />
+    <string key="btnVhdBrowse" clone="btnBrowse" />
+    <string key="btnPeBrowse" clone="btnBrowse" />
+    <string key="btnFloppyBrowse" clone="btnBrowse" />
+    <string key="btnBackupBrowse" clone="btnBrowse" />
+    <string key="btnRestoreBrowse" clone="btnBrowse" />
+    <string key="btnIsoBrowse" clone="btnBrowse" />
+    <string key="lblName" value="Name:" version="1" />
+    <string key="lblVhdName" clone="lblName" />
+    <string key="lblIsoName" clone="lblName" />
+    <string key="lblPeName" clone="lblName" />
+    <string key="lblFloppyName" clone="lblName" />
+    <string key="lblWinName" clone="lblName" />
+    <string key="lblLinName" clone="lblName" />
+    <string key="lblMacName" clone="lblName" />
+    <string key="lblNewName" clone="lblName" />
+    <string key="lblType" value="Type:" version="1" />
+    <string key="lblVhdType" clone="lblType" />
+    <string key="lblPeType" clone="lblType" />
+    <string key="lblWinType" clone="lblType" />
+    <string key="lblLinType" clone="lblType" />
+    <string key="lblPath" value="Path:" version="1" />
+    <string key="lblVhdPath" clone="lblPath" />
+    <string key="lblIsoPath" clone="lblPath" />
+    <string key="lblWinPE_Path" clone="lblPath" />
+    <string key="lblFloppyPath" clone="lblPath" />
+    <string key="lblDrive" value="Диск:" version="1" />
+    <string key="lblWinDrive" clone="lblDrive" />
+    <string key="lblLinDrive" clone="lblDrive" />
+    <string key="lblNewDrive" clone="lblDrive" />
+    <string key="btnAddNewEntry" value="Add Entry" version="1" />
+    <string key="btnAddLinux" clone="btnAddNewEntry" />
+    <string key="btnAddMac" clone="btnAddNewEntry" />
+    <string key="btnAddVhd" clone="btnAddNewEntry" />
+    <string key="btnAddIso" clone="btnAddNewEntry" />
+    <string key="btnAddPE" clone="btnAddNewEntry" />
+    <string key="btnAddFloppy" clone="btnAddNewEntry" />
+    <string key="btnAddWindows" clone="btnAddNewEntry" />
+    <string key="lblMode" value="Режим:" version="1" />
+    <string key="lblMacMode" clone="lblMode" />
+    <string key="lblIsoMode" clone="lblMode" />
+    <string key="lblFile" value="File:" version="1" />
+    <string key="lblFile1" clone="lblFile" />
+    <string key="lblFile2" clone="lblFile" />
+    <string key="txtVhdName" value="NeoSmart VHD имидж" version="1" />
+    <string key="tabPageVhd" value="Дисков имидж" version="1" />
+    <string key="txtIsoName" value="NeoSmart ISO Entry" version="1" />
+    <string key="tabPageIso" value="ISO" version="1" />
+    <string key="txtPeName" value="NST WinPE имидж" version="1" />
+    <string key="chkEms" value="Разрешен EMS" version="1" />
+    <string key="tabPageWinPE" value="WinPE" version="1" />
+    <string key="txtFloppyName" value="NeoSmart флопи имидж" version="1" />
+    <string key="tabPageFloppy" value="Флопи" version="1" />
+    <string key="btnPlopInstall" value="Инсталирай PLoP" version="1" />
+    <string key="btnPlopRemove" value="Премахни PLoP" version="1" />
+    <string key="lblBiosExtend" value="BIOS разширителят на EasyBCD може да се използва за зареждане от мрежата, от CD, USB или на компютри, които нямат нативна поддръжка на това." version="1" />
+    <string key="tabPagePlop" value="BIOS Разширител" version="1" />
+    <string key="grpPortable" value="Преносим/Външен носител" version="1" />
+    <string key="lblWindowsAuto" value="Автоматично определен" version="1" />
+    <string key="chkAutoXp" value="Автоматично откривай правилния диск" version="1" />
+    <string key="txtWinName" value="Microsoft Windows" version="1" />
+    <string key="tabPageWin" value="Windows" version="1" />
+    <string key="chkGrub" value="Използвай копието на EasyBCD GRUB" version="1" />
+    <string key="txtLinName" value="NeoSmart Linux" version="1" />
+    <string key="lblLinAuto" value="Автоматично определен" version="1" />
+    <string key="tabPageLinux" value="Linux/BSD" version="1" />
+    <string key="txtMacName" value="NST Mac OS X" version="1" />
+    <string key="tabPageMac" value="Mac" version="1" />
+    <string key="btnNeoGrub" value="Инсталирай" version="1" />
+    <string key="btnNeoGrubConfig" value="Конфигурирай" version="1" />
+    <string key="lblNeoGrub" value="Буутлоудърът на NeoGrub може да се използва, за зареждане на Linux и утвърдени версии на Windows или дори да скриете дискове." version="1" />
+    <string key="tabPageNeoGrub" value="NeoGrub   " version="1" />
+    <string key="grpOS" value="Операционни системи" version="1" />
+    <string key="tabAddEntry" value="3" version="1" />
+    <string key="btnSaveSettings" value="Запази настройките" version="1" />
+    <string key="lblLocale" value="Език:" version="1" />
+    <string key="lblMenuLocale" clone="lblLocale" />
+    <string key="tabEntryBasic" value="Основен" version="1" />
+    <string key="lblSafeMode" value="Безопасен режим:" version="1" />
+    <string key="lblPae" value="Поддръжка на PAE: " version="1" />
+    <string key="lblDep" value="NoExecute: " version="1" />
+    <string key="chkEntryUnsigned" value="Позволява употребата на неподписани драйвери на 64-битов Windows" version="1" />
+    <string key="tabEntryAdvanced" value="Разширени" version="1" />
+    <string key="chkEntryKernelDebug" value="Стартирай Windows в Kernel-Debug режим" version="1" />
+    <string key="chkEntrySos" value="Стартирай в SOS/Verbose режим на зареждане" version="1" />
+    <string key="numEntryMemory" value="0" version="1" />
+    <string key="lblDeduct2" value="MiB приспаднати от физическата памет" version="2" />
+    <string key="numEntryCpu" value="0" version="1" />
+    <string key="lblLimit2" value="Windows CPU/ядро ограничение" version="2" />
+    <string key="tabEntryDeveloper" value="Разработчик" version="1" />
+    <string key="lblAdvancedSettings" value="Имайте предвид, че някои настройки може да не са достъпни в зависимост дали записът е бил променен." version="1" />
+    <string key="grpChangeSettings" value="Промени настройките" version="1" />
+    <string key="lblPickLH" value="От списъка по-долу изберете запис, който да подобрите." version="1" />
+    <string key="grpSelectLH" value="Изберете ОС" version="1" />
+    <string key="tabAdvanced" value="4" version="1" />
+    <string key="btnBackup" value="Архивирай настройките" version="1" />
+    <string key="btnRestore" value="Възстанови архива" version="1" />
+    <string key="grpBackupRestore" value="Архивиране и възстановяване настройките на буутлоудъра" version="1" />
+    <string key="rdoBcdChange" value="Промени зареждащия диск" version="1" />
+    <string key="rdoBcdRepair" value="Пресъздай / ремонтирай файлове за буутване" version="1" />
+    <string key="btnBcdRescue" value="Извърши действие" version="1" />
+    <string key="rdoBcdReset" value="Възстанови BCD конфигурацията" version="1" />
+    <string key="grpDiagnostics" value="BCD Management Options" version="1" />
+    <string key="tabBcdInstall" value="5" version="1" />
+    <string key="btnMakeBootable" value="Инсталирай BCD" version="1" />
+    <string key="lblUsbPartitions" value="Дял:" version="1" />
+    <string key="lblCreateBootable" value="EasyBCD може да автоматизира процеса на създаване на зареждаща медия. Изберете дял долу, за да започне." version="1" />
+    <string key="grpCreateBootableExternal" value="Създаване на зареждащ външен носител" version="1" />
+    <string key="btnMbrWrite" value="Запиши MBR" version="1" />
+    <string key="rdoMbrXP" value="Инсталирай Windows XP NTLDR буутлоудър" version="2" />
+    <string key="rdoMbrVista" value="Инсталирай Vista+ BCD/bootmgr буутлоудър" version="2" />
+    <string key="grpBootloader" value="Настройки на конфигурацията на MBR" version="1" />
+    <string key="tabMbrSetup" value="6" version="1" />
+    <string key="grpUtils" value="Полезни инструменти" version="1" />
+    <string key="tabUtilities" value="7" version="1" />
+    <string key="btnBcdInstall" value="Архив/ремонт на BCD" version="1" />
+    <string key="btnUtilities" value="Полезни инструменти" version="1" />
+    <string key="btnMbrSetup" value="Внедряване na BCD" version="1" />
+    <string key="btnAdvanced" value="Разширени настройки" version="1" />
+    <string key="btnAddEntry" value="Добави нов запис" version="1" />
+    <string key="btnEditMenu" value="Редактирай буут менюто" version="1" />
+    <string key="btnViewSettings" value="Покажи настройките" version="1" />
+    <string key="grpToolbox" value="EasyBCD Toolbox" version="1" />
+    <string key="mnuSelectBcd" value="&amp;Избор на BCD хранилище" version="1" />
+    <string key="mnuLanguage" value="&amp;Избор на език" version="1" />
+    <string key="mnuLoadSystemBcd" value="Зареди С&amp;истемния BCD" version="1" />
+    <string key="mnuRescan" value="Об&amp;нови BCD хранилището" version="1" />
+    <string key="mnuRegister" value="&amp;Регистрирайте" version="1" />
+    <string key="mnuDonate" value="&amp;Дарете" version="1" />
+    <string key="mnuUpdate" value="Провери за об&amp;новления" version="1" />
+    <string key="mnuExit" value="Из&amp;ход" version="1" />
+    <string key="mnuFile" value="&amp;Файл" version="1" />
+    <string key="mnuOptions" value="&amp;Настройки" version="1" />
+    <string key="mnuEditLegacy" value="Редактирай &amp;утвърдените записи" version="1" />
+    <string key="mnuRestart" value="&amp;Рестартирай компютъра" version="1" />
+    <string key="mnuTools" value="&amp;Инструменти" version="1" />
+    <string key="mnuDocumentation" value="Док&amp;ументация" version="1" />
+    <string key="mnuSupport" value="Получете &amp;поддръжка" version="1" />
+    <string key="mnuBug" value="Из&amp;пращане на грешка" version="1" />
+    <string key="mnuDonate2" value="&amp;Дарете" version="1" />
+    <string key="mnuAbout" value="&amp;Относно" version="1" />
+    <string key="mnuHelp" value="&amp;Помощ" version="1" />
+    <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" version="1" />
+    <string key="colName" value="Запис" version="1" />
+    <string key="colDefault" value="По подразбиране" version="1" />
+    <string key="cbxVhdType" value="Microsoft VHD&#xD;&#xA;Raw Hard Disk Image&#xD;&#xA;Raw Partition Image" version="1" />
+    <string key="cbxIsoMode" value="Стартирай от диска&#xD;&#xA;Зареди от паметта" version="1" />
+    <string key="cbxPeType" value="WIM имидж (Рамдиск)&#xD;&#xA;Extracted Filesystem Layout" version="1" />
+    <string key="cbxWinType" value="Windows Vista/7/8/10&#xD;&#xA;Windows NT/2k/XP/2k3&#xD;&#xA;Windows 95/98/ME&#xD;&#xA;MS-DOS 6.x&#xD;&#xA;FreeDOS" version="2" />
+    <string key="cbxLinType" value="GRUB (утвърден)&#xD;&#xA;GRUB 2&#xD;&#xA;LILO/eLILO&#xD;&#xA;FreeBSD/PC-BSD&#xD;&#xA;Wubi&#xD;&#xA;SysLinux" version="1" />
+    <string key="cbxMacType" value="EFI (По подразбиране)&#xD;&#xA;MBR" version="1" />
+    <string key="cbxEntryDep" value="OptIn&#xD;&#xA;OptOut&#xD;&#xA;Always On&#xD;&#xA;Always Off" version="1" />
+    <string key="cbxEntryPae" value="По подразбиране&#xD;&#xA;Enable&#xD;&#xA;Disable" version="1" />
+    <string key="cbxEntrySafe" value="Normal&#xD;&#xA;Safe Mode&#xD;&#xA;Safe Mode w/ Networking&#xD;&#xA;Command Line/Alternate Shell&#xD;&#xA;Basic VGA&#xD;&#xA;Active Directory Repair" version="1" />
+    <string key="emptyList" value="Няма открити записи!" version="1" />
+    <string key="MinimumWidth" value="583" />
+    <string key="MinimumHeight" value="456" />
+    <string key="efiTitle" value="Открит е EFI буутлоудър!" version="1" />
+    <string key="efiMessage" value="EasyBCD е открил, че в момента машината ви е в EFI режим на зареждане. Поради ограничения, определени от Microsoft, много от мултибуут функциите на EasyBCD не може да се използват в режим EFI и са деактивирани.&#xD;&#xA;&#xD;&#xA;Натиснете 'OK', за да продължите или 'Помощ', за да прочетете повече за тези ограничения и възможните решения." version="1" />
+    <string key="lstFreeDos" value="FreeDOS" version="1" />
+    <string key="chkMetroUI" value="Използвай Metro буутлоудър" version="1" />
+  </strings>
+</localization>

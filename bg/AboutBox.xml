@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OKButton" value="&amp;OK" version="1" />
+    <string key="seatsAllowed" value="потребителя/устройства са позволени" version="1" />
+    <string key="unlicensed" value="Нелицензирано копие!" version="1" />
+    <string key="version" value="версия" version="1" />
+    <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - {0}" version="2" />
+    <string key="aboutText1" value="EasyBCD е мощен мениджър за зареждане на операционни системи. Няма гаранция, че EasyBCD ще работи с всички версии на Windows - винаги се уверявайте, че използвате най-новата достъпна версия. &#xD;&#xA;&#xD;&#xA;• Водещ разработчик: Mahmoud H. Al-Qudsi&#xD;&#xA;• Български превод: Павел Беливаков• Активни компоненти: Sweat, blood, and tears&#xD;&#xA;• Разработен на C++, C#, Dr. Pepper, Excedrin и Visine&#xD;&#xA;• Всички ваши стартирания са наши!" version="1" />
+    <string key="thanksFormat" value="Специални благодарности на екипите на Grub4Dos, PLoP,{0} и UltraDefrag!&#xD;&#xA;&#xD;&#xA;Тази дистрибуция на EasyBCD идва със самостоятелни компоненти (Grub4Dos и UltraDefrag) лицензирани при условията на лиценза GPLv2. За повече информация, моля, вижте файла LICENSE в инсталационната директория." version="1" />
+    <string key="title" value="За {0}" version="1" />
+    <string key="MinimumWidth" value="486" />
+    <string key="MinimumHeight" value="376" />
+  </strings>
+</localization>

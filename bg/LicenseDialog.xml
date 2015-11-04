@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linkLabel" value="Това копие на EasyBCD изисква закупуване на търговски лиценз.&#xD;&#xA;&#xD;&#xA;Моля, въведете или имейл адреса или номера на лиценза, свързани с Вашата покупка. Кликнете тук, за да закупите лиценз, или се свържете с Sales@NeoSmart.net за поддръжка." version="1" />
+    <string key="linkClick" value="Кликнете тук" version="1" />
+    <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
+    <string key="btnSkip" value="П&amp;ропусни" version="1" />
+    <string key="btnRegister" value="&amp;Регистрирай" version="1" />
+    <string key="lblTitle" value="EasyBCD търговско издание" version="1" />
+    <string key="lblLicenseKey" value="Имейл или лицензионен ключ:" version="1" />
+    <string key="LicenseDialog" value="EasyBCD търговско издание" version="1" />
+    <string key="email" value="Имейл" version="1" />
+    <string key="licenseKey" value="Лицензионен ключ" version="1" />
+    <string key="seats" value="Места" version="1" />
+    <string key="regFailTitle" value="Неуспешна регистрация!" version="1" />
+    <string key="regFail" value="Грешни електронна поща или лицензионен ключ. Моля, опитайте отново." version="1" />
+    <string key="regException" value="Възникна грешка при получаване на лиценз от отдалечения сървър. Моля, уверете се, че сте свързани към интернет или опитайте по-късно." version="1" />
+    <string key="regExceptionTitle" value="Не може да се регистрира" version="1" />
+    <string key="btnContinue" value="Продължи" version="1" />
+    <string key="regSuccess" value="Регистрацията завърши!" version="1" />
+    <string key="MinimumWidth" value="511" />
+    <string key="MinimumHeight" value="334" />
+  </strings>
+</localization>
