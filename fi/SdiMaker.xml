@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OK_Button" value="OK" version="1" />
+    <string key="Cancel_Button" value="Peruuta" version="1" />
+    <string key="Body" value="Jatkaakseen, EasyBCD tarvitsee Windows Vistan tai 7:n asennus levyn (normaalisti DVD-levy tai levykuva). &#xD;&#xA;&#xD;&#xA;Laita DVD-levy asemaan tai liitä levykuvaan, klikkaa sitten OK jatkaaksesi." version="1" />
+    <string key="SdiMaker" value="Anna Windowsin Asennus Levy" version="1" />
+    <string key="mediaNotFound" value="Hyväksyttävää Windows asennuksen tietoa ei löydy." version="1" />
+    <string key="MinimumWidth" value="381" />
+    <string key="MinimumHeight" value="196" />
+  </strings>
+</localization>

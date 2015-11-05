@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linkLabel" value="Tämä kopio EasyBCD:stä edellyttää julkisen lisenssin ostoa.&#xD;&#xA;&#xD;&#xA;Anna sähköpostiosoite tai lisenssinumero joka on liitettynä ostokseesi. Klikkaa tästä ostaaksesi lisenssin tai ota yhteyttä Sales@NeoSmart.net tuki sivulla." version="1" />
+    <string key="linkClick" value="Klikkaa tästä" version="1" />
+    <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
+    <string key="btnSkip" value="O&amp;hita" version="1" />
+    <string key="btnRegister" value="&amp;Rekisteröi" version="1" />
+    <string key="lblTitle" value="EasyBCD Yhteisöllinen Versio" version="1" />
+    <string key="lblLicenseKey" value="Sähköposti tai Lisenssi avain:" version="1" />
+    <string key="LicenseDialog" value="EasyBCD Yhteisöllinen Versio" version="1" />
+    <string key="email" value="Sähköposti" version="1" />
+    <string key="licenseKey" value="Lisenssi avain" version="1" />
+    <string key="seats" value="Asemat" version="1" />
+    <string key="regFailTitle" value="Rekisteröinti Epätäydellinen!" version="1" />
+    <string key="regFail" value="Virheellinen sähköpostiosoite tai lisenssi avain. Yritä uudelleen." version="1" />
+    <string key="regException" value="Tapahtui Virhe kun hankittiin lisenssiä etä palvelimelta. Varmista että verkkoyhteys toimii tai yritä uudelleen myöhemmin." version="1" />
+    <string key="regExceptionTitle" value="Rekisteröinti ei onnistu" version="1" />
+    <string key="btnContinue" value="Jatka" version="1" />
+    <string key="regSuccess" value="Rekisteröinti Onnistui!" version="1" />
+    <string key="MinimumWidth" value="511" />
+    <string key="MinimumHeight" value="334" />
+  </strings>
+</localization>

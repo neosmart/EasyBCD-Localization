@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OKButton" value="&amp;OK" version="1" />
+    <string key="seatsAllowed" value="käyttäjät/laitteet sallittu" version="1" />
+    <string key="unlicensed" value="Lisensöimätön kopio!" version="1" />
+    <string key="version" value="Versio" version="1" />
+    <string key="copyright" value="Tekijänoikeudet © NeoSmart Technologies 2006 - {0}" version="2" />
+    <string key="aboutText1" value="EasyBCD on paras käynnistysmuokkain &amp; Työkalu käynnistyksen muokkauksen. Ei ole taattua  että EasyBCD toimii kaikissa Windows versioissa - varmista aina että käytät viimeisintä saatavilla olevaa versiota. &#xD;&#xA;&#xD;&#xA;• Johtava kehittäjä: Mahmoud H. Al-Qudsi&#xD;&#xA;• Vaikuttavat Osatekijät: Hikeä, verta, ja kyyneliä&#xD;&#xA;• Kehitetty C++:lla, C#:llä, Dr. Pepperillä, Excedrinillä, ja Visinellä&#xD;&#xA;• Kaikki apusi kuuluvat meille!" version="1" />
+    <string key="thanksFormat" value="Erityis kiitos Grub4Dos:n, PLoP:n,{0} ja UltraDefragin tiimeille!&#xD;&#xA;&#xD;&#xA;Tämä EasyBCD jakelu toimitetaan itsenäisillä osilla (Grub4Dos ja UltraDefrag) GPLv2 lisenssi ehdoin. Lisää tietoja, katso LISENSSI tiedosto, asennus hakemistossa." version="1" />
+    <string key="title" value="Tietoja {0}" version="1" />
+    <string key="MinimumWidth" value="486" />
+    <string key="MinimumHeight" value="376" version="6" />
+  </strings>
+</localization>

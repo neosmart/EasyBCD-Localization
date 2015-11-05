@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linuxAuto" value="Lataa ja sijoita Automaattisesti" version="1" />
+    <string key="communityText" value="EasyBCD:n Yksityis Versio on vapaa yksityiseen käyttöön. &#xD;&#xA;Jos käytät tätä ohjelmistoa yritysympäristössä, klikkaa 'Keskeytä' painikkeesta ostaaksesi yritysversion. Muussa tapauksessa klikkaa 'OK' jatkaaksesi." version="1" />
+    <string key="communityTitle" value="EasyBCD:n Yksityis Versio" version="1" />
+    <string key="bcdInUse" value="Nykyinen tiedosto on käytössä eikä sitä voida avata EasyBCD:ssä. Jos yrität uudelleen valita järjestelmä varastoa, klikkaa 'Ei' painiketta ja sitten käytä &quot;Lataa Järejstelmä Varasto&quot; valintaa Tiedosto valikosta.&#xD;&#xA;&#xD;&#xA;Haluatko valita eri varaston EasyBCD:n käyttöön?" version="1" />
+    <string key="bcdInUseTitle" value=" Virhe Liityntä Oikeuksissa" version="1" />
+    <string key="accessDenied" value="Liityntä Estetty!" version="1" />
+    <string key="uncUnsupported" value="Verkko polut eivät ole tuettuja tässä versiossa. Anna toinen polku ja yritä uudelleen." version="1" />
+    <string key="uncUnsupportedTitle" value="UNC Polut Eivät ole Tuettuja" version="1" />
+    <string key="invalidPath" value="Virheellinen tiedosto tai polku nimi havaitu. Anna kelvollinen polku jatkaaksesi." version="1" />
+    <string key="invalidPathTitle" value="Virheellinen Polku!" version="1" />
+    <string key="updateCheck" value="Tarkistetaan EasyBCD:n päivityksiä..." version="1" />
+    <string key="updateFailed" value="Päivitys tarkistus epäonnistui. Virhe verkko yhteyksissä." version="1" />
+    <string key="updateFailedSB" value="EasyBCD:n päivitys tarkistus epäonnistui: " version="1" />
+    <string key="updateFound" value="Uusi versio EasyBCD:stä löytyy!" version="1" />
+    <string key="updateFoundText" value="Uusi versio EasyBCD:stä löytyy. Haluatko siirtyä EasyBCD:n lataus-sivulle nyt, päivittääksesi viimeisinpään versioon?" version="1" />
+    <string key="updateNone" value="Käytät viimeisintä versiota EasyBCD:stä." version="1" />
+    <string key="install" value="Asenna" version="1" />
+    <string key="remove" value="Poista" version="1" />
+    <string key="adminLine1" value="EasyBCD tarvitsee järjestelmänvalvojan oikeudet toimiakseen kunnolla, et voi jatkaa." version="1" />
+    <string key="adminLine2" value="Kirjaudu tai suorita Järjestelmävalvojan oikeuksin jatkaaksesi." version="1" />
+    <string key="adminTitle" value="Käyttöoikeus Estetty" version="1" />
+    <string key="easybcdBackup" value="EasyBCD Varmuuskopio" version="1" />
+    <string key="yes" value="Kyllä" version="1" />
+    <string key="no" value="Ei" version="1" />
+    <string key="registryFailed" value="Rekisteri asetusten kirjoitus ei onnistu" version="1" />
+    <string key="commercialEdition" value="Yritys Versio" version="1" />
+    <string key="communityEdition" value="Yksityinen Versio" version="1" />
+    <string key="failedAddTitle" value="Merkinnän Lisäys Epäonnistui!" version="1" />
+    <string key="msdosHelp" value="Kun EasyBCD:n järjestyksessä käynnistettän MS-DOS 6.x:ta tai Windows 3.x:a, IO.SYS:n ja MSDOS.SYS:n täytyy olla käynnistettäessä aktiivi osiolla.&#xD;&#xA;&#xD;&#xA;Lisää tietoa kuinka tämä valmistellaan, klikkaa 'Kyllä' avataksesi EasyBCD:n ohjeistus sivu DOS-perustaisiin merkintöihin. Jos et kuitenkaan halua nähdä tätä ohjeistusta nyt, klikkaa 'Ei'." version="1" />
+    <string key="msdosHelpTitle" value="Haluatko lukea EasyBCD:n MS-DOS ohjeistuksen?" version="1" />
+    <string key="addedFormat" value="{0} lisätty käynnistysvalikkoon onnistuneesti!" version="1" />
+    <string key="neogrubBootloader" value="NeoGrub Käynnistys lataus" version="1" />
+    <string key="neogrubRemoved" value="NeoGrub poistettu onnistuneesti!" version="1" />
+    <string key="vhdErrorTitle" value="Virhe lisätessä VHD Kohdetta" version="1" />
+    <string key="errorSpaces" value="Levykuvan polku ei saa sisältää yhtään välilyöntiä. Korjaa tämä ja yritä uudelleen." version="1" />
+    <string key="isoErrorTitle" value="Virhe Lisättäessä ISO Kohdetta" version="1" />
+    <string key="floppyErrorTitle" value="Virhe Lisättäessä Levyke Kohdetta" version="1" />
+    <string key="path" value="Polku:" version="1" />
+    <string key="name" value="Nimi:" version="1" />
+    <string key="drive" value="Asema:" version="1" />
+    <string key="browseFileTitle" value="Selaa Tiedostoja" version="1" />
+    <string key="wimFiles" value="Windows Levykuva Tiedostot" version="1" />
+    <string key="vhdFiles" value="Näennäis Kiintolevy Tiedostot" version="1" />
+    <string key="isoFiles" value="ISO Levykuvat" version="1" />
+    <string key="imgFiles" value="Levykuva Tiedostot" version="1" />
+    <string key="bcdFiles" value="EasyBCD:n Varmuuskopio Tiedostot" version="1" />
+    <string key="safeIntro" value="EasyBCD sallii sinun luoda lisä kohteita käynnistettäväksi samalle käyttöjärjestelmälle, mutta erilaisin valinnoin. Luodessasi uuden kohteen ja antaessasi sille yhden Vikasietotila merkinnän, voit käyttää sitä nopeasti testataksesi järjestelmääsi." version="1" />
+    <string key="safeNormal" value="Normaali: Estää kaikki palautus valinnat, antaa sinun käynnistää normaalilla käyttöjärjestelmällä." version="1" />
+    <string key="safeVga" value="Perus VGA: Lataa perus näytönohjain ajurit, nollaa näytön tarkkuuden." version="1" />
+    <string key="safeNetworking" value="Vikasieto Tila w/ verkkotoiminnot: Käynnistää vikasietotilassa liittyen internettin ja paikallis verkoon." version="1" />
+    <string key="safeMode" value="Vikasieto Tila: Käynnistää vikasietotilassa ilman verkko ominaisuuksia. Käyttökelpoinen jos verkko ajurit ovat vahingoittuneet." version="1" />
+    <string key="safeAD" value="Active Directory Korjaus: Käynnistää Windows Server 2008:n Active Directoryn virheenkorjaus tilassa." version="1" />
+    <string key="safeTitle" value="Tietoja Vikasieto Tila Valinnoista" version="1" />
+    <string key="paeIntro" value="Fyysinen osoite laajennus määrittää kuinka Windows käsittelee yli 4 Gt lisä muisti merkinnän." version="1" />
+    <string key="paeDefault" value="Oletus: Antaa Windowsin päättää kuinka muisti määritetään." version="1" />
+    <string key="paeEnable" value="Pakko Salliminen: Pakollinen muistin määritys." version="1" />
+    <string key="paeDisable" value="Pakko Esto: Estää ylimääräisen muistin määrityksen." version="1" />
+    <string key="paeTitle" value="Tietoja PAE Valinnoista" version="1" />
+    <string key="nxIntro" value="DEP/NoExecute on laitteisto-kerroksen vahingollisen pienoisohjelman tunnistus järjestelmä joka, sisältyy Windows XP SP2:n, se auttaa suojaamaan järjestelmääsi hyökkäyksiltä, mutta sen tiedetään aiheuttaneen joitain yhteensopivuus ongelmia." version="1" />
+    <string key="nxOptIn" value="OptIn: Windows ydin on DEP-suojattu." version="1" />
+    <string key="nxOptOut" value="OptOut: Windows ja sovellukset ovat DEP-suojatut." version="1" />
+    <string key="nxOn" value="AlwaysOn: DEP on pakollinen kaikille sovelluksille." version="1" />
+    <string key="nxOff" value="AlwaysOff: DEP on estettynä Windowsille ja kaikille sovelluksille." version="1" />
+    <string key="nxTitle" value="Tietoja DEP/NoExecute:sta" version="1" />
+    <string key="errorNotPrimary" value="Käynnistys osion täytyy olla ensisijainen osio.&#xD;&#xA;&#xD;&#xA;Valitse toinen asema tai muunna valittu osio ensin ensisijaiseksi, yritä sitten uudelleen." version="1" />
+    <string key="opNotAllowed" value="Tapahtuma Ei ole Sallittu!" version="1" />
+    <string key="errorNotMounted" value="EasyBCD ei voi tehdä liittämättömästä asemasta käynnistyvää. Määritä kirjain valitulle asemalle, käynnistä EasyBCD uudelleen, ja yritä sitten uudelleen." version="1" />
+    <string key="invalidDrive" value="Virheellinen Levy Toiminto" version="1" />
+    <string key="bootableSuccess" value="EasyBCD on onnistuneesti muuntanut valitun levyn käynnistyväksi asemaksi. Määrittäessäsi käynnistys valikko määritteitä valitulle osiolle, sinun täytyy käyttää 'Tiedosto | Valitse BCD Varasto' valintaa ja valita \\boot\\BCD tiedosto osiolta jonka juuri teit." version="1" />
+    <string key="mountBcdNow" value="Haluatko automaattisesti ladata uudelleen luodun BCD varaston EasyBCD:lle nyt?" version="1" />
+    <string key="bootableTitle" value="Käynnistyvä Levy Luotu" version="1" />
+    <string key="accessDeniedText" value="Ei pystytä hankkimaan liityntää BCD:n. Tarkista ja varmista ettei BCD varasto valitulla asemalla ole jo tällä hetkellä käytössä." version="1" />
+    <string key="partitionConverted" value="Osio muunnettu käynnistyväksi asemaksi" version="1" />
+    <string key="bcdRemove1" value="Tämä on edistyksellinen valinta jota käytetään vain jos, olet aivan varma että haluat poistaa Windows Vista:n/7:n Käynnistyslataimen!" version="1" />
+    <string key="bcdRemove2" value="Tämä ominaisuus käynnistyy vain Windows XP:llä jos, asianmukaiset käynnistys tiedostot ovat jo oikeilla paikoillaan!" version="1" />
+    <string key="bcdRemove3" value="Oletko varma että haluat jatkaa?" version="1" />
+    <string key="warning" value="Varoitus!" version="1" />
+    <string key="mbrSuccess" value="MBR kirjoitettu onnistuneesti" version="1" />
+    <string key="bootloaderSuccess" value="Käynnistyslataimen asetukset tallennettu onnistuneesti" version="1" />
+    <string key="bcdReset" value="BCD on onnistuneesti nollattu. Kaikki merkinnät on poistettu!&#xD;&#xA;&#xD;&#xA;Tärkeää: Sinun täytyy lisätä ainakin yksi merkintä tai muuten Tietokoneesi ei käynnisty!" version="1" />
+    <string key="bcdResetTitle" value="BCD Nollaus" version="1" />
+    <string key="selectBootTitle" value="Valitse Uusi Käynnistys Osio" version="1" />
+    <string key="selectBoot" value="EasyBCD uudelleen määrittää järjestelmän käynnistys osion jonka valitsit alta. Tamä tapahtuma asettaa BCD varaston valitulle levylle. Ylikirjoittaa nykyiset BCD merkinnät ja merkitsee valitut osiot, molemmat akriiviksi &amp; käynnistyväksi." version="1" />
+    <string key="errorLogical" value="Yritetty tehdä muutoksia käynnistysosioon loogiselle asemalle, tämä ei ole sallitua. Käynnistysosion täytyy olla ensisijaisella osiolla.&#xD;&#xA;&#xD;&#xA;Valitse toinen asema tai muunna valittu osio ensisijaiseksi ensin, yritä sitten uudelleen." version="1" />
+    <string key="bootChangedFormat" value="EasyBCD on onnistuneesti luonut asemaan {0} uuden käynnistyvän osion ja ladannut uuden BCD varaston muutokset, haluatko tehdä muita mmutoksia. Jos tämä osio on sinun ensimmäinen käynnistyvä levy, sinun ei tarvitse tehdä lisä toimenpiteitä. Jos ei ole, voit nyt sammuttaa Tietokoneesi ja muuttaa BIOS:ssa, käynnistyvän levyn asetukset voimaan." version="1" />
+    <string key="bootChangedTitle" value="Käynnistys Osio Muutettu" version="1" />
+    <string key="unsupportedOS" value="Tämä valinta on mahdollinen vain Windows Vista:ssa, 7:ssa ja 8:ssa." version="1" />
+    <string key="unsupportedOSTitle" value="Ei tuettu Käyttöjärjestelmä!" version="1" />
+    <string key="errorNoRestore" value="Kohtallokas virhe: Ei pystytä palauttamaan valittua varastoa." version="1" />
+    <string key="errorNoRestoreTitle" value="Palautus Virhe" version="1" />
+    <string key="confirmDelete" value="Oletko varma että haluat poistaa tämän merkinnän?" version="1" />
+    <string key="confirmDeleteTitle" value="Vahvista Poisto?" version="1" />
+    <string key="entryDeleted" value="Käynnistys valikko merkintä poistettu" version="1" />
+    <string key="thankYou" value="Tukesi on arvostettavaa!" version="1" />
+    <string key="loadExternal" value="Tässä ominaisuudessa, EasyBCD lataa ja käyttää ulkoista sinun valitsemaasi BCD tietokantaa. Muutokset tehdään tähän BCD varastoon eivätkä ne vaikuta sinun oletus järjestelmän määrityksiin." version="1" />
+    <string key="loadExternalTitle" value="Valitaan Uusi Varasto" version="1" />
+    <string key="easybcdFiles" value="EasyBCD Tiedostot" version="1" />
+    <string key="errorRO1" value="Sinulla ei ole oikeuksia kirjoittaa valittua tiedostoa, tiedosto on asetettu 'vain luku' muotoon tai se on varastoitu 'vain luku' kansioon." version="1" />
+    <string key="errorRO2" value="Jos valitset toiminnon, tehdyt muutokset tähän BCD varastoon eivät tallennu. Klikkaa 'Kyllä' jatkaaksesi ja lataa tämä BCD varasto 'vain luku' tilassa tai 'Ei' jatkaaksesi edellisen BCD varaston käyttöä." version="1" />
+    <string key="errorROTitle" value="Vain luku BCD Varasto Havaittu" version="1" />
+    <string key="bcdLoadedFormat" value="BCD tiedot ladattu kohtesta {0}" version="1" />
+    <string key="noBcd" value="BCD varastoa ei ladattu. EasyBCD toimii rajoitetussa tilassa." version="1" />
+    <string key="confirmRestart" value="Oletko varma että haluat käynnistää Tietokoneesi uudellen?" version="1" />
+    <string key="confirmRestartTitle" value="Vahvista Uudelleenkäynnistys" version="1" />
+    <string key="shutdownStarted" value="Sammutus aloitettu." version="1" />
+    <string key="hiddenBootIni" value="Boot.ini on sijoitettu piilotetulle käynnistys osiolle eikä sitä voida ladata käyttäjän muokattavaksi EasyBCD:llä.&#xD;&#xA;&#xD;&#xA;Ole hyvä ja joko määritä asemakirjain piilotetulta käynnistysosiolta tai käytä Windows XP:n kaksois-käynnistyksen auto-määritys ominaisuutta." version="1" />
+    <string key="errorBootIniTitle" value="Boot.ini lataus ei onnistu!" version="1" />
+    <string key="errorBootIniFormat" value="EasyBCD ei löydä olemassa olevaa boot.ini tiedostoa käynnistys osio {0}.&#xD;&#xA;&#xD;&#xA;Lisää uusi Windows XP tai Windows 2000 merkintä käyttääksesi boot.ini auto-määritys ominaisuutta." version="1" />
+    <string key="errorUtility" value="Kohdattu Virhe Suoritettaessa Apuohjelmaa" version="1" />
+    <string key="sysInfo" value="Järjestelmä Tiedot" version="1" />
+    <string key="sysInfoText" value="Näyttää tiedot jotka luettu nykyisistä laitteisto ja ohjelmisto määritteistä. Käyttökelpoinen jäljitettäessä laitteisto virheitä ja saadaan nopeasti vedos nykyisistä järjestelmä asetuksista." version="1" />
+    <string key="powerConsole" value="EasyBCD Power Konsoli" version="1" />
+    <string key="powerConsoleText" value="Pika liitos Komentokehoite palveluun, täysin järjestelmävalvojan oikeuksin. Käytä tätä suorittaaksesi järjestelmä komentoja tai nopeaa liityntää bcdedit:n ja bootsect.exe:n." version="1" />
+    <string key="sysRestore" value="Järjestelmän Palautus" version="1" />
+    <string key="sysRestoreText" value="Avaa Järjestelmän Palautus näkymän, käytä sitä nopeaan palautukseen/korjaukseen, kaikkien muutosten jälkeen jotka saivat Tietokeneesi vaikeuksiin." version="1" />
+    <string key="restoreCds" value="Windows Vista/7 Järjestelmän Palautus CD:t" version="1" />
+    <string key="restoreCdsText" value="Lataa kopio Windows Vista:n ja 7:n järjestelmän palautus CD:stä pitääksesi sen saatavilla järjestelmäsi kaatuessa. Voit käyttää EasyBCD:ä käynnistymään näiltä palautuslevyiltä USB-tikulta." version="1" />
+    <string key="controlPanel" value="Ohjaus Paneeli" version="1" />
+    <string key="controlPanelText" value="Käynnistä Ohjaus Paneeli ja käytä tehdäksesi mitä haluat." version="1" />
+    <string key="iRebootText" value="NeoSmart Technologies' apu ohjelma EasyBCD:lle. iReboot sijaitsee ilmaisinalueella (käyttää vain 400Kt muistia!) ja antaa sinun valita mikä käyttöjärjestelmä käyynnistyy nopeasti ja helposti." version="1" />
+    <string key="errorNoEntries" value="EasyBCD havaitsi ettei merkintöjä ole vielä asetettu. Jos poistut EasyBCD:stä ja käynnistät tietokoneesi uudelleen, se ei välttämättä käynnisty.&#xD;&#xA;&#xD;&#xA;Oletko varma että haluat poistua ennen kuin lisäät uuden merkinnän?" version="1" />
+    <string key="errorNoEntriesTitle" value="Ei Merkintöjä Asetettuna!" version="1" />
+    <string key="errorPathSave" value="EasyBCD:n epäonnistui tallentaa nykyinen varmuuskopio polku oletus varmuuskopio hakemistona. Vaihtoehto on estetty." version="1" />
+    <string key="errorPathSaveTitle" value="Oletus Varmuuskopio Polku Ongelma" version="1" />
+    <string key="isoHelp1" value="EasyBCD tukee ISO levykuvien latauksia kahdessa eri tilanteessa. Huomioi että kaikki ISO:t eivät toimi kunnolla; usein Linux asennus ISO:t eivät toimi." version="1" />
+    <string key="isoHelp2" value="Suorita Levyltä: Lataa nopeammin käynnistyksessä mutta suoritus hitaampaa. Tarvitsee myös esikäsittelyn EasyBCD:llä, luonnin aikana." version="1" />
+    <string key="isoHelp3" value="Lataa Muistista: Suoritus nopeampaa mutta vie aikaa ladata valintaan käynnistettäessä. Saatta epäonnistua suurilla levyillä tai vanhemmilla Tietokoneilla." version="1" />
+    <string key="isoHelpTitle" value="Tietoja ISO Valinnoista" version="1" />
+    <string key="warnDiffDevice" value="Valitu tiedosto on varastoitu eri asemaan kuin käynnistys tiedostot. Jos haluat käyttää tätä määritettä käynnistyksessä eri Tietokoneelta kuin mitä normaalisti käytät, sinun täytyy kopioida tämä tiedosto ulkoiseen asemaan ja sitten yritää uudelleen.&#xD;&#xA;&#xD;&#xA;Haluatko jatkaa joka tapauksessa?" version="1" />
+    <string key="diffDeviceTitle" value="Ei Siirrettävä Määrite Havaittu!" version="1" />
+    <string key="errorNoBcd" value="BCD rekisterä ei ole ladattu - suoritetaan alennetun toiminnallisuuden tilassa!" version="1" />
+    <string key="bcdExceptionFormat" value="BCD Poikkeus 0x{0:X3}" version="1" />
+    <string key="userCancel" value="Käyttäjä peruuttanut toiminnon." version="1" />
+    <string key="renameSuccess" value="Määrite uudelleen nimetty onnistuneesti" version="1" />
+    <string key="plop" value="EasyBCD BIOS Laajennus" version="1" />
+    <string key="entryRemovedFormat" value="{0} on poistettu" version="1" />
+    <string key="drive2" value="Asema" version="1" />
+    <string key="bcdResetStatus" value="BCD nollattu onnistuneesti. Määritä uudelleen nyt!" version="1" />
+    <string key="bcdRepaired" value="BCD korjattu onnistuneesti" version="1" />
+    <string key="configSaved" value="Määrite kokoonpano tallennettu onnistuneesti" version="1" />
+    <string key="backupSuccess" value="BCD varmuuskopioitu onnistuneesti" version="1" />
+    <string key="restoreSuccess" value="Palautus suoritettu onnistuneesti" version="1" />
+    <string key="bcdRefresh" value="Välimuistin BCD tieto päivitetty onnistuneesti" version="1" />
+    <string key="optionsSaved" value="Valinnat tallennettu onnistuneesti!" version="1" />
+    <string key="orderSaved" value="Määrite määräys tallennettu" version="1" />
+    <string key="easybcdStatus" value="EasyBCD Tila" version="1" />
+    <string key="saveFileTitle" value="Tallennettu nimellä" />
+    <string key="updateFoundText2" value="Uusi versio EasyBCD:stä löytyy. Haluatko että EasyBCD automaattisesti päivittää viimeisimpään versioon?&#xD;&#xA;&#xD;&#xA;Klikkaa 'Kyllä' ladataksesi päivityksen automaattisesti, 'Ei' nähdäksesi listan muutoksista ja päivittääksesi manuaalisesti tai 'Keskeytä' keskeyttääksesi." version="1" />
+  </strings>
+</localization>

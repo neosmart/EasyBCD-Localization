@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnOK" value="OK" version="2" />
+    <string key="btnCancel" value="Keskeytä" version="2" />
+    <string key="chkExpertMode" value="Suorita EasyBCD Edistyneessä Tilassa" version="1" />
+    <string key="chkRememberBackup" value="Muista BCD Varmuuskopio hakemisto poistuttaessa" version="1" />
+    <string key="lblExpertMode" value="Edistyneeseen tilaan ei siirrytä ennen kuin käyttöön otetaan edistyneet toiminnot!" version="1" />
+    <string key="chkLoadDefaultBcd" value="Auto lataa seuraava BCD tiedosto käynnistyksessä:" version="1" />
+    <string key="btnBrowseBcd" value="..." version="1" />
+    <string key="chkAutoUpdate" value="Auto Päivitys kaikkiin " version="1" />
+    <string key="chkRss" value="Sisällytä NeoSmart Technologies Windows RSS Alustaan" version="1" />
+    <string key="numUpdateInterval" value="0" version="1" />
+    <string key="rdoDays" value="Päivä(ä)" version="1" />
+    <string key="rdoWeeks" value="Viikko(a)" version="1" />
+    <string key="rdoMonths" value="Kuukausi(a)" version="1" />
+    <string key="lblLastUpdateCheck" value="Viimeisin automaattinen tarkistus: " version="1" />
+    <string key="tabGeneralSettings" value="Yleiset Asetukset" version="1" />
+    <string key="lblDefaultTab" value="Oletus ryhmä käynnistyksessä: " version="1" />
+    <string key="lblDefaultDisplay" value="Oletus näyttö tila: " version="1" />
+    <string key="lblOverviewFont" value="Näkymä Kirjasin:" version="1" />
+    <string key="lblDetailedFont" value="Eritelty näkymä kirjsin: " version="1" />
+    <string key="lblOverviewSize" value="Koko: " version="1" />
+    <string key="numFontOverview" value="8" version="1" />
+    <string key="lblOverviewPt" value="pt." version="1" />
+    <string key="lblDetailedSize" value="Size: " version="1" />
+    <string key="numFontDetailed" value="8" version="1" />
+    <string key="lblDetailedPt" value="pt." version="1" />
+    <string key="chkWordWrap" value="Rivitys sallittu, oletuksena" version="1" />
+    <string key="chkSaveWindow" value="Tallenna EasyBCD ikkuna koko poistuttaessa" version="1" />
+    <string key="ResetSize" value="Nollaa Näyttö Valinnat" version="1" />
+    <string key="tabDisplayOptions" value="Näyttö Valinnat" version="1" />
+    <string key="OptionsDialog" value="EasyBCD Asetukset" version="1" />
+    <string key="overview" value="Näkymä" version="1" />
+    <string key="detailed" value="Eritelty" version="1" />
+    <string key="locateBcd" value="Liitä voimassa olevaan BCD varastoon" version="1" />
+    <string key="never" value="Ei koskaan" version="1" />
+    <string key="MinimumWidth" value="452" />
+    <string key="MinimumHeight" value="359" />
+  </strings>
+</localization>
