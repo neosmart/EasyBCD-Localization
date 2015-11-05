@@ -11,7 +11,7 @@
     <string key="rdoTimeoutNone" value="Kullanıcının seçimi beklensin" version="1" />
     <string key="rdoTimeoutSkip" value="Önyükleme mönüsünü atla" version="1" />
     <string key="btnSaveBCD" value="Ayarları kaydet" version="1" />
-    <string key="grpTimeout" value="Menü Seçenekleri" version="2" />
+    <string key="grpTimeout" value="Mönü Seçenekleri:" version="2" />
     <string key="btnUp" value="Yukarı" version="1" />
     <string key="btnDown" value="Aşağı" version="1" />
     <string key="btnRenameEntry" value="Adlandır" version="1" />
@@ -93,7 +93,7 @@
     <string key="grpOS" value="İşletim Sistemleri" version="1" />
     <string key="tabAddEntry" value="3" version="1" />
     <string key="btnSaveSettings" value="Ayarları kaydet" version="1" />
-    <string key="lblLocale" value="Yeri:" version="1" />
+    <string key="lblLocale" value="Dili:" version="1" />
     <string key="tabEntryBasic" value="Temel" version="1" />
     <string key="lblSafeMode" value="GüvenliMod:" version="1" />
     <string key="lblPae" value="PAE Desteği: " version="1" />
@@ -173,7 +173,10 @@
     <string key="cbxEntrySafe" value="Normal&#xD;&#xA;Güvenli Mod&#xD;&#xA;Güvenli Mod w/ Ağ&#xD;&#xA;Komut Satırı/Alternatif Arayüz&#xD;&#xA;Temel VGA&#xD;&#xA;Dizin Onarımı Etkin" version="1" />
     <string key="emptyList" value="Algılanan giriş yok!" version="1" />
     <string key="MinimumWidth" value="583" />
-    <string key="MinimumHeight" value="456" version="2" />
-    <string key="lstFreeDos" derive="true" />
+    <string key="MinimumHeight" value="456" />
+    <string key="efiTitle" value="EFI Önyükler algılandı!" version="1" />
+    <string key="efiMessage" value="EasyBCD, aygıtınızda şu anda 'EFI' modunda önyükleme olduğunu algıladı. Microsoftça belirlenen sınırlamalar nedeniyle 'EasyBCD Çoklu Önyükleme Özellikleri' birçok EFI modunda kullanılamaz ve devre dışı bırakılır.&#xD;&#xA;&#xD;&#xA;Devam etmek için 'Tamam'a basın. Bu sınırlamalar ve olası geçici çözümler hakkında daha fazla bilgi için 'Yardım'a basın." version="1" />
+    <string key="lstFreeDos" value="FreeDOS" version="1" />
+    <string key="chkMetroUI" value="Metro Önyükleri kullan" version="1" />
   </strings>
 </localization>
