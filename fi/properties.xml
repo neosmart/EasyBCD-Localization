@@ -2,8 +2,7 @@
 <localization>
   <locale>
     <name>Finnish</name>
-    <rtl>epätosi</rtl>
-    <parentLocale>
-    </parentLocale>
+    <rtl>false</rtl>
+    <parentLocale>en-US</parentLocale>
   </locale>
 </localization>

@@ -3,8 +3,8 @@
   <strings>
     <string key="accessViolationFormat" value="Ei onnistu hankkia yksinomaista liityntää {0}. Jos tämä on poistettava levy, yritä avata ja asettaa uudelleen, sitten yritä uudelleen." version="1" />
     <string key="failedSave" value="Muutosten tallennus Epäonnistui!" version="1" />
-    <string key="accessDeniedTitle" value="Käyttö Estetty" version="1" />
-    <string key="accessDeniedFormat" value="Liityntä {0} on estetty. Tarkista ettei tiedosto ole käyössä ja että sinulla on oikeudet poistaa/muokata tätä sijaintia." version="1" />
+    <string key="accessDeniedTitle" value="Käyttö estetty" version="1" />
+    <string key="accessDeniedFormat" value="Liityntä kohteeseen {0} on estetty. Tarkista ettei tiedosto ole käyössä ja että sinulla on oikeudet poistaa/muokata tätä sijaintia." version="1" />
     <string key="oneEntry" value="Windows käynnistys lataimessa on vain yksi merkintä." version="1" />
     <string key="multiEntriesFormat" value="Yhteensä {0} merkintää listattu käynnistys lataimesta." version="1" />
     <string key="entryNum" value="Merkintä #" version="1" />
@@ -18,22 +18,22 @@
     <string key="none" value="Ei mitään" version="1" />
     <string key="timeoutFormat" value="{0} sekunttia" version="1" />
     <string key="skipped" value="Ohitettu" version="1" />
-    <string key="bootDevice" value="Käynnistys Asema" version="1" />
-    <string key="ebcdBootDevice" value="EasyBCD Käynnistys Laite" version="1" />
-    <string key="bootloaderPath" value="Käynnistys latauksen Polku" version="1" />
-    <string key="bcdError" value="BCD:n Suoritus Virhe!" version="1" />
-    <string key="ntNotFoundTitle" value="Toimivaa NT Asennusta Ei Löydy!" version="1" />
-    <string key="ntNotFound" value="EasyBCD:n ei löytänyt toimivaa Windows NT-2003 asennusta miltään liitetyltä asemilta, ei voida jatkaa." version="1" />
-    <string key="manuallyLoad" value="Haluatko manuaalisesti ladata BCD rekisterin EasyBCD:n muokattavaksi? Huomaa että EasyBCD tarvitsee Windows Vista/7 käynnistys lataimen, ei toimi XP-ympäristössä." version="1" />
-    <string key="errorBcd" value="Virhe Avattaessa BCD Rekisteriä" version="1" />
+    <string key="bootDevice" value="Käynnistys asema" version="1" />
+    <string key="ebcdBootDevice" value="EasyBCD käynnistys laite" version="1" />
+    <string key="bootloaderPath" value="Käynnistys latauksen polku" version="1" />
+    <string key="bcdError" value="BCD:n suoritus Virhe!" version="1" />
+    <string key="ntNotFoundTitle" value="Toimivaa NT asennusta EI löydy!" version="1" />
+    <string key="ntNotFound" value="EasyBCD:n ei löytänyt toimivaa Windows NT tai -2003 asennusta miltään liitetyiltä asemilta, ei voida jatkaa." version="1" />
+    <string key="manuallyLoad" value="Haluatko itse ladata BCD rekisterin EasyBCD:n muokattavaksi? Huomaa että EasyBCD tarvitsee vähintään Windows Vista/-7 käynnistys lataimen, ei toimi XP-ympäristössä." version="1" />
+    <string key="errorBcd" value="Virhe avattaessa BCD rekisteriä" version="1" />
     <string key="locateValid" value="Yhdistä toimivaan BCD varastoon" version="1" />
-    <string key="bcdRegistry" value="BCD Rekisteri" version="1" />
+    <string key="bcdRegistry" value="BCD rekisteri" version="1" />
     <string key="partition" value="Osio" version="1" />
     <string key="unknown" value="Tuntematon" version="1" />
     <string key="gib" value="Gt" version="1" />
     <string key="mib" value="Mt" version="1" />
     <string key="as" value="kuten" version="1" />
     <string key="defragFormat" value="Käynnistetään eheytys tiedostolle {0}" version="1" />
-    <string key="unnamed" value="Nimeämätön Merkintä" version="1" />
+    <string key="unnamed" value="Nimeämätön merkintä" version="1" />
   </strings>
 </localization>

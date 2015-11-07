@@ -4,9 +4,9 @@
     <string key="chkDontRemind" value="Älä muistuta/näytä uudelleen" version="1" />
     <string key="btnCancel" value="Ei &amp;Kiitos" version="1" />
     <string key="btnDonate" value="&amp;Lahjoita" version="1" />
-    <string key="lblDonationIntro" value="EasyBCD:n Yksityinen Versio on 100% vapaa ohjelmisto, ja me haluamme pitää sen sellaisena. Mutta, vaikka se on ilmainen (vapaa) se ei merkitse sitä, etteikö sen kehitys ja testaus maksaisi mitään.&#xD;&#xA;&#xD;&#xA;Tänä päivänä, EasyBCD on ladattu vapaaseen käyttöön yli 25 miljoonaa kertaa, pelastaen lukemattomia tietokoneita tuholta." version="1" />
+    <string key="lblDonationIntro" value="EasyBCD:n yksityinen versio on täysin vapaa ohjelmisto, ja me haluamme pitää sen sellaisena.&#xD;&#xA;Mutta, vaikka se on ilmainen (vapaa) se ei merkitse sitä, etteikö sen kehitys ja testaus maksaisi mitään.&#xD;&#xA;&#xD;&#xA;Tänä päivänä, EasyBCD on ladattu vapaaseen käyttöön yli 25 miljoonaa kertaa, pelastaen lukemattomia tietokoneita tuholta." version="1" />
     <string key="donationTitle" value="Auta EasyBCD:tä, Autat Itseäsi!" version="1" />
-    <string key="lblYouDonate" value="Haluatko lahjoittaa apua EasyBCD:lle, pelastamaan lisää Tietokoneita?" version="1" />
+    <string key="lblYouDonate" value="Haluatko lahjoittaa apua EasyBCD:lle, pelastamaan lisää tietokoneita?" version="1" />
     <string key="DonationDialog" value="Onko EasyBCD auttanut Sinua?" version="1" />
     <string key="MinimumWidth" value="481" />
     <string key="MinimumHeight" value="342" version="5" />

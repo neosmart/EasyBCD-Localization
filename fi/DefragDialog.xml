@@ -2,7 +2,7 @@
 <localization>
   <strings>
     <string key="btnAbort" value="&amp;Poistu" version="1" />
-    <string key="CommandWindow" value="EasyBCD:n Komentokehoite Ikkuna" version="1" />
+    <string key="CommandWindow" value="EasyBCD:n komentokehoite ikkuna" version="1" />
     <string key="MinimumWidth" value="427" />
     <string key="MinimumHeight" value="279" version="6" />
   </strings>

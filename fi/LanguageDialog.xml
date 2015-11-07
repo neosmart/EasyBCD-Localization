@@ -5,6 +5,6 @@
     <string key="btnGo" value="Jatka" version="1" />
     <string key="MinimumWidth" value="317" />
     <string key="MinimumHeight" value="87" version="3" />
-	<string key="lnkTranslate" value="Auta kääntämään EasyBCD sinun kielellesi!" version="1" />
+    <string key="lnkTranslate" value="Auta kääntämään EasyBCD sinun kielellesi!" version="1" />
   </strings>
 </localization>

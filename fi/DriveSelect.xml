@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="lblDriveSelect" value="Uusi Käynnisty Levy:" version="1" />
-    <string key="lblBody" value="EasyBCD määrittää uudelleen järjestelmäsi käynnistymään osiolta jonka valitset alta. Tämä tapahtuma asettaa BCD varaston valitulle levylle, kopioiden nykyiset BCD tiedot yli, ja tehden valitusta osiosta käynnistyksessä &amp; käynnistyvän." version="1" />
+    <string key="lblDriveSelect" value="Uusi käynnistys asema:" version="1" />
+    <string key="lblBody" value="EasyBCD määrittää uudelleen järjestelmäsi käynnistymään osiolta jonka valitset alta. Tämä tapahtuma asettaa BCD varaston valitulle levylle, kopioiden nykyiset BCD tiedot yli ja tehden valitusta osiosta käynnistyksessä &amp; käynnistyvän." version="1" />
     <string key="OK_Button" value="&amp;OK" version="1" />
     <string key="Cancel_Button" value="&amp;Peruuta" version="1" />
-    <string key="DriveSelect" value="Aseman Valinta" version="1" />
+    <string key="DriveSelect" value="Aseman valinta" version="1" />
     <string key="errorAlreadyBoot" value="Asema jonka valitsit, on jo nykyinen käynnistys asema. Valitse toinen asema jatkaaksesi!" version="1" />
     <string key="errorAlreadyBootTitle" value="Valitse toinen asema!" version="1" />
     <string key="MinimumWidth" value="518" />
