@@ -4,7 +4,7 @@
     <string key="accessViolationFormat" value="{0}için özel erişim edinilemedi. Bu çıkarılabilir disk ise çıkarıp-takarak erişimi yeniden deneyin." version="1" />
     <string key="failedSave" value="Değişiklikler kaydedilemedi!" version="1" />
     <string key="accessDeniedTitle" value="Erişim engellendi" version="1" />
-    <string key="accessDeniedFormat" value="{0} 'e erişim reddedildi. Dosya kullanımda mı ve konumunu değiştirmek yada silmek uygun mu denetleyin." version="1" />
+    <string key="accessDeniedFormat" value="{0} 'e erişim reddedildi. Dosya kullanımda mı ve konumunu değiştirmek veya silmek uygun mu denetleyin." version="1" />
     <string key="oneEntry" value="Windows Önyükler'e bir giriş var." version="1" />
     <string key="multiEntriesFormat" value="Toplam   {0}  adet  'Önyükler Girişi'  listelendi." version="1" />
     <string key="entryNum" value="Giriş #" version="1" />
@@ -24,7 +24,7 @@
     <string key="bcdError" value="BCD yürütme hatası!" version="1" />
     <string key="ntNotFoundTitle" value="Geçerli NT kurulumu bulunamadı!" version="1" />
     <string key="ntNotFound" value="Windows NT-2003'e bağlı tüm sürücülerde EasyBCD'in geçerli bir yükleme algılanamadı. İşlem devam edemedi." version="1" />
-    <string key="manuallyLoad" value="EasyBCD'i yönetmek için elle 'BCD Kaydı' yüklemek ister misiniz? Windows Vista veya daha yüksek Önyükler'i 'EasyBCD Kaydı' gerektirdiğini unutmayın. Bu ortamlarda yalnız Xp çalışmaz." version="1" />
+    <string key="manuallyLoad" value="EasyBCD'i yönetmek için elle 'BCD Kaydı' yüklemek ister misiniz? Windows Vista veya daha yüksek Önyükler'i 'EasyBCD Kaydı' gerektirdiğini unutmayın. Bu ortamlarda yalnız Xp çalışmaz." version="2" />
     <string key="errorBcd" value="Kayıtlı BCD açılışı hatası" version="1" />
     <string key="locateValid" value="Geçerli bir 'BCD Düzeni' bulun" version="1" />
     <string key="bcdRegistry" value="BCD kaydı" version="1" />
