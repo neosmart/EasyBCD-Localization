@@ -14,7 +14,7 @@
     <string key="seats" value="Merkezler" version="1" />
     <string key="regFailTitle" value="Kayıt Başarısız!" version="1" />
     <string key="regFail" value="E-posta veya lisans açarı yanlış. Lütfen tekrar deneyin." version="1" />
-    <string key="regException" value="Uzak sunucudan lisans almada hata ile karşılaşıldı. İnternet bağlantınızı denetldikten sonra ya da daha sonra tekrar deneyin.." version="1" />
+    <string key="regException" value="Uzak sunucudan lisans almada hata ile karşılaşıldı. İnternet bağlantınızı denetldikten sonra veya daha sonra tekrar deneyin.." version="1" />
     <string key="regExceptionTitle" value="Kayıt yapılamıyor" version="1" />
     <string key="btnContinue" value="Devam et" version="1" />
     <string key="regSuccess" value="Kayıt tamamlandı!" version="1" />
