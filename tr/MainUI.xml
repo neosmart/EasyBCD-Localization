@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="rdoModeBasic" value="Genel bakış" version="1" />
+    <string key="rdoModeBasic" value="Genel Bakış" version="1" />
     <string key="rdoModeDetailed" value="Ayrıntılar(Düzeltme Modu)" version="1" />
     <string key="chkWordWrap" value="KelimeSarmalı" version="1" />
     <string key="grpDisplayMode" value="Ekran modu" version="1" />
@@ -11,14 +11,14 @@
     <string key="rdoTimeoutNone" value="Kullanıcının seçimi beklensin" version="1" />
     <string key="rdoTimeoutSkip" value="Önyükleme mönüsünü atla" version="1" />
     <string key="btnSaveBCD" value="Ayarları kaydet" version="1" />
-    <string key="grpTimeout" value="Mönü Seçenekleri:" version="2" />
+    <string key="grpTimeout" value="Menü Seçenekleri" version="2" />
     <string key="btnUp" value="Yukarı" version="1" />
     <string key="btnDown" value="Aşağı" version="1" />
     <string key="btnRenameEntry" value="Adlandır" version="1" />
     <string key="btnDelete" value="Sil" version="1" />
     <string key="grpModifyEntries" value="Önyükler mönüsünü düzenle" version="1" />
-    <string key="tabEditMenu" value="2" version="1" />
-    <string key="btnBrowse" value="..." version="1" />
+    <string key="tabEditMenu" value="Menü Düzenleme" version="1" />
+    <string key="btnBrowse" value="Gözat" version="1" />
     <string key="btnVhdBrowse" clone="btnBrowse" />
     <string key="btnPeBrowse" clone="btnBrowse" />
     <string key="btnFloppyBrowse" clone="btnBrowse" />
@@ -93,7 +93,7 @@
     <string key="grpOS" value="İşletim Sistemleri" version="1" />
     <string key="tabAddEntry" value="3" version="1" />
     <string key="btnSaveSettings" value="Ayarları kaydet" version="1" />
-    <string key="lblLocale" value="Dili:" version="1" />
+    <string key="lblLocale" value="Yeri:" version="1" />
     <string key="tabEntryBasic" value="Temel" version="1" />
     <string key="lblSafeMode" value="GüvenliMod:" version="1" />
     <string key="lblPae" value="PAE Desteği: " version="1" />
@@ -126,8 +126,8 @@
     <string key="lblCreateBootable" value="EasyBCD'in 'Önyüklenebilir Media' oluşturma sürecini otomatikleştir. Başlamak için aşağıdan bir Sürücü seçin." version="1" />
     <string key="grpCreateBootableExternal" value="Önyüklenebilir Harici Media oluştur" version="1" />
     <string key="btnMbrWrite" value="MBR yaz" version="1" />
-    <string key="rdoMbrXP" value="Windows XP MBR Önyükleyici ata" version="1" />
-    <string key="rdoMbrVista" value="Windows Vista+ MBR Önyükleyici ata" version="1" />
+    <string key="rdoMbrXP" value="Windows XP MBR Önyükleyici ata" version="2" />
+    <string key="rdoMbrVista" value="Windows Vista+ MBR Önyükleyici ata" version="2" />
     <string key="grpBootloader" value="MBR Yapılandırma Seçenekleri" version="1" />
     <string key="tabMbrSetup" value="6" version="1" />
     <string key="grpUtils" value="Yararlı Hizmetler" version="1" />
@@ -174,9 +174,9 @@
     <string key="emptyList" value="Algılanan giriş yok!" version="1" />
     <string key="MinimumWidth" value="583" />
     <string key="MinimumHeight" value="456" />
-    <string key="efiTitle" value="EFI Önyükler algılandı!" version="1" />
-    <string key="efiMessage" value="EasyBCD, aygıtınızda şu anda 'EFI' modunda önyükleme olduğunu algıladı. Microsoftça belirlenen sınırlamalar nedeniyle 'EasyBCD Çoklu Önyükleme Özellikleri' birçok EFI modunda kullanılamaz ve devre dışı bırakılır.&#xD;&#xA;&#xD;&#xA;Devam etmek için 'Tamam'a basın. Bu sınırlamalar ve olası geçici çözümler hakkında daha fazla bilgi için 'Yardım'a basın." version="1" />
-    <string key="lstFreeDos" value="FreeDOS" version="1" />
-    <string key="chkMetroUI" value="Metro Önyükleri kullan" version="1" />
+    <string key="lstFreeDos" derive="true" />
+    <string key="efiTitle" value="EFI Önyükleyici Tespit Edildi!" version="1" />
+    <string key="efiMessage" value="Makinanızda tespit edilen EasyBCD EFI modun geçerli önyüklemesidir. Microsoft tarafından sınırlandırmalara göre EasyBCD'nin çoklu-önyüklemenin birçok özelliği EFI mod içinde kullanılamayabilnir veya geçersiz yapılmış olabilir.&#xD;&#xA;&#xD;&#xA;Devam için 'Tamam'a tıklayın veya daha fazla sınırlandırmalar ve muhtemel geçici çözümler hakkında bilgi almak için 'Yardım'a tıklayınız." version="1" />
+    <string key="chkMetroUI" value="Metro önyükleyiciyi kullan" version="1" />
   </strings>
 </localization>
