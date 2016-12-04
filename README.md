@@ -26,7 +26,7 @@ These are the languages currently available in this repository, thanks to the se
 * Russian (Русский) - niknikch45 & co.
 * Slovenian (Slovenščina) - Deseti_brat
 * Swedish (Svenska) - Åke Engelbrektson
-* Turkish (Türkçe) - Fara Delisi
+* Turkish (Türkçe) - Fara Delisi, Mehmet Keçeci
 * Ukrainian (Українська) - z_mashine
 
 ###Contribution
