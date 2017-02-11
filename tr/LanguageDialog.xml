@@ -4,6 +4,7 @@
     <string key="title" value="Bir Dil seçin" version="1" />
     <string key="btnGo" value="Git" version="1" />
     <string key="MinimumWidth" value="317" />
-    <string key="MinimumHeight" value="87" version="3" />
+    <string key="MinimumHeight" value="87" />
+    <string key="lnkTranslate" value="EasyBCD'yi lisanınıza çevirmeye yardım!" version="1" />
   </strings>
 </localization>
