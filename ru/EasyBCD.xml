@@ -149,7 +149,7 @@
     <string key="easybcdStatus" value="Статус EasyBCD" version="1" />
     <string key="saveFileTitle" value="Сохранить как" version="1" />
     <string key="updateFoundText2" value="Доступна новая версия. Хотите перейти на последнюю версию автоматически?&#xD;&#xA;&#xD;&#xA;Нажмите 'Да' для автоматической загрузки и установки новой версии, 'Нет' для просмотра списка изменений и обновления вручную или 'Отмена'." version="1" />
-    <string key="help" value="Помощь" version="1" />
+    <string key="help" value="Справка" version="1" />
     <string key="browse" value="Обзор" version="1" />
   </strings>
 </localization>

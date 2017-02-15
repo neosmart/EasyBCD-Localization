@@ -122,7 +122,7 @@
     <string key="mnuBug" value="Сообщить об ошибке" version="1" />
     <string key="mnuDonate2" value="Пожертвовать" version="1" />
     <string key="mnuAbout" value="О программе" version="1" />
-    <string key="mnuHelp" value="Справка" version="1" />
+    <string key="mnuHelp" value="Помощь" version="1" />
     <string key="MainUI" derive="true" />
     <string key="colName" value="Пункты меню" version="1" />
     <string key="colDefault" value="По умолчанию" version="1" />
@@ -139,7 +139,7 @@
     <string key="MinimumWidth" derive="true" />
     <string key="MinimumHeight" derive="true" />
     <string key="efiTitle" value="Обнаружен загрузчик EFI!" version="1" />
-    <string key="efiMessage" value="EasyBCD установил, что ваша машина сейчас загружена в режиме EFI. Из-за ограничений, установленных Mikrosoft, многие функции мультизагрузочных конфигураций EasyBCD не могут работать в режиме EFI, и были отключены.&#xD;&#xA;&#xD;&#xA;Нажмите &quot;ОК&quot; для продолжения или &quot;Помощь&quot;, чтобы прочесть об этих ограничениях и возможных путях их устранения." version="1" />
+    <string key="efiMessage" value="EasyBCD установил, что ваша машина сейчас загружена в режиме EFI. Из-за ограничений, установленных Mikrosoft, многие функции мультизагрузочных конфигураций EasyBCD не могут работать в режиме EFI, и были отключены.&#xD;&#xA;&#xD;&#xA;Нажмите &quot;ОК&quot; для продолжения или &quot;Справка&quot;, чтобы прочесть об этих ограничениях и возможных путях их устранения." version="1" />
     <string key="lstFreeDos" derive="true" />
     <string key="chkMetroUI" value="Использовать загрузчик Metro" version="1" />
   </strings>
