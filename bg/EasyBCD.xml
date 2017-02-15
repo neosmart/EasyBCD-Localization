@@ -23,12 +23,12 @@
     <string key="adminLine2" value="Моля, влезте или изпълните като администратор, за да продължите." version="1" />
     <string key="adminTitle" value="Разрешението е отказано" version="1" />
     <string key="easybcdBackup" value="EasyBCD резервиране" version="1" />
-    <string key="yes" value="Yes" version="1" />
-    <string key="no" value="No" version="1" />
+    <string key="yes" value="Да" version="1" />
+    <string key="no" value="Не" version="1" />
     <string key="registryFailed" value="Не могат да се запишат настройките на регистратурата" version="1" />
     <string key="commercialEdition" value="Търговско издание" version="1" />
     <string key="communityEdition" value="Търговско издание" version="1" />
-    <string key="failedAddTitle" value="Failed to Add Entry!" version="1" />
+    <string key="failedAddTitle" value="Неуспешно добавен запис!" version="1" />
     <string key="msdosHelp" value="За да зареди EasyBCD MS-DOS 6.x или Windows 3.x, IO.SYS и MSDOS.SYS трябва да са в началото на активния дял.&#xD;&#xA;&#xD;&#xA;За повече информация за това как се постига това, натиснете 'Да', за да отворите страницата с документация на EasyBCD за DOS-базирани записи. Ако предпочитате да не видите точно сега документацията, натиснете 'Не'." version="1" />
     <string key="msdosHelpTitle" value="Ще четете ли документацията на EasyBCD за MS-DOS?" version="1" />
     <string key="addedFormat" value="{0} е добавен успешно към менюто за зареждане !" version="1" />

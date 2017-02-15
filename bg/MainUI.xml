@@ -25,7 +25,7 @@
     <string key="btnBackupBrowse" clone="btnBrowse" />
     <string key="btnRestoreBrowse" clone="btnBrowse" />
     <string key="btnIsoBrowse" clone="btnBrowse" />
-    <string key="lblName" value="Name:" version="1" />
+    <string key="lblName" value="Име:" version="1" />
     <string key="lblVhdName" clone="lblName" />
     <string key="lblIsoName" clone="lblName" />
     <string key="lblPeName" clone="lblName" />
@@ -34,12 +34,12 @@
     <string key="lblLinName" clone="lblName" />
     <string key="lblMacName" clone="lblName" />
     <string key="lblNewName" clone="lblName" />
-    <string key="lblType" value="Type:" version="1" />
+    <string key="lblType" value="Тип:" version="1" />
     <string key="lblVhdType" clone="lblType" />
     <string key="lblPeType" clone="lblType" />
     <string key="lblWinType" clone="lblType" />
     <string key="lblLinType" clone="lblType" />
-    <string key="lblPath" value="Path:" version="1" />
+    <string key="lblPath" value="Път:" version="1" />
     <string key="lblVhdPath" clone="lblPath" />
     <string key="lblIsoPath" clone="lblPath" />
     <string key="lblWinPE_Path" clone="lblPath" />
@@ -48,7 +48,7 @@
     <string key="lblWinDrive" clone="lblDrive" />
     <string key="lblLinDrive" clone="lblDrive" />
     <string key="lblNewDrive" clone="lblDrive" />
-    <string key="btnAddNewEntry" value="Add Entry" version="1" />
+    <string key="btnAddNewEntry" value="Добави елемент" version="1" />
     <string key="btnAddLinux" clone="btnAddNewEntry" />
     <string key="btnAddMac" clone="btnAddNewEntry" />
     <string key="btnAddVhd" clone="btnAddNewEntry" />
@@ -59,7 +59,7 @@
     <string key="lblMode" value="Режим:" version="1" />
     <string key="lblMacMode" clone="lblMode" />
     <string key="lblIsoMode" clone="lblMode" />
-    <string key="lblFile" value="File:" version="1" />
+    <string key="lblFile" value="Файл:" version="1" />
     <string key="lblFile1" clone="lblFile" />
     <string key="lblFile2" clone="lblFile" />
     <string key="txtVhdName" value="NeoSmart VHD имидж" version="1" />
