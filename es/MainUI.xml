@@ -76,7 +76,7 @@
     <string key="btnRestore" value="Restauración de copia de seguridad" version="1" />
     <string key="grpBackupRestore" value="Copia y restauración de configuración de bootloader" version="1" />
     <string key="rdoBcdChange" value="Cambiar el disco de arranque" version="1" />
-    <string key="rdoBcdRepair" value="Recrear/arrreglar archivos de arranque" version="1" />
+    <string key="rdoBcdRepair" value="Recrear/arreglar archivos de arranque" version="1" />
     <string key="btnBcdRescue" value="Realizar la acción" version="1" />
     <string key="rdoBcdReset" value="Reiniciar la configuración de BCD" version="1" />
     <string key="grpDiagnostics" value="Opciones de gestión de BCD" version="1" />

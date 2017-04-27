@@ -84,7 +84,7 @@
     <string key="btnRestore" value="Restauració de còpia de seguretat" version="1" />
     <string key="grpBackupRestore" value="Còpia i restauració de configuració de bootloader" version="1" />
     <string key="rdoBcdChange" value="Canviar el disc d'arrencada" version="1" />
-    <string key="rdoBcdRepair" value="Recrear/arrreglar arxius d'arrencada" version="1" />
+    <string key="rdoBcdRepair" value="Recrear/arreglar arxius d'arrencada" version="1" />
     <string key="btnBcdRescue" value="Realitzar l'acció" version="1" />
     <string key="rdoBcdReset" value="Reiniciar la configuració de BCD" version="1" />
     <string key="grpDiagnostics" value="Opcions de gestió de BCD" version="1" />
