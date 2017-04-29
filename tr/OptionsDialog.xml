@@ -3,18 +3,18 @@
   <strings>
     <string key="btnOK" value="Tamam" version="2" />
     <string key="btnCancel" value="İptal" version="2" />
-    <string key="chkExpertMode" value="EasyBCD' Uzman Modunda çalışsın:" version="1" />
+    <string key="chkExpertMode" value="EasyBCD Uzman Modunda çalışsın:" version="1" />
     <string key="chkRememberBackup" value="Çıkış üzerindeki BCD Yedekleme Dizinini hatırla" version="1" />
     <string key="lblExpertMode" value="Uzman modu, gelişmiş işlem yapılmazsa kullanıcı müdahalesi gerektirmez!" version="1" />
     <string key="chkLoadDefaultBcd" value="Aşağıdaki BCD Dosyası Başlangıçta Otomatik Olarak yüklensin:" version="1" />
-    <string key="btnBrowseBcd" value="..." version="1" />
+    <string key="btnBrowseBcd" value="BCD'ye Gözat" version="1" />
     <string key="numUpdateInterval" value="0" version="1" />
     <string key="chkAutoUpdate" value="Otomatik Güncelleme Denetimi Sıklığı: " version="1" />
     <string key="rdoDays" value="Her gün" version="1" />
     <string key="rdoWeeks" value="Haftada bir" version="1" />
     <string key="rdoMonths" value="Ayda bir" version="1" />
     <string key="lblLastUpdateCheck" value="Son Otomatik Denetim:   " version="1" />
-    <string key="chkRss" value="Windows RSS Platformu NeoSMART  Teknolojilerini de içersin" version="1" />
+    <string key="chkRss" value="Windows RSS Platformu NeoSMART Teknolojilerini de içersin" version="1" />
     <string key="tabGeneralSettings" value="Genel Ayarlar" version="1" />
     <string key="tabDisplayOptions" value="Seçenekleri Göster" version="1" />
     <string key="lblDefaultTab" value="Standart Başlangıç Sekmesi: " version="1" />
