@@ -2,35 +2,35 @@
 <localization>
   <strings>
     <string key="linuxAuto" value="Automatycznie zlokalizuj i załaduj" version="1" />
-    <string key="communityText" value="EasyBCD Edycja Społecznościowa jest darmowy do użytku niekomercyjnego.&#xD;&#xA;Jeśli używasz tego oprogramowania w środowisku komercyjnym, &#xD;&#xA;proszę kliknij 'Anuluj' poniżej, by kupić komercyjną licencję. &#xD;&#xA;W innym przypadku kliknij 'OK', by kontynuować." version="1" />
+    <string key="communityText" value="Edycja społecznościowa programu EasyBCD jest darmowa do użytku niekomercyjnego.&#xD;&#xA;Jeśli używasz tego oprogramowania w środowisku komercyjnym, &#xD;&#xA;proszę kliknij 'Anuluj' poniżej, aby kupić komercyjną licencję. &#xD;&#xA;W innym przypadku kliknij 'OK', aby kontynuować." version="1" />
     <string key="communityTitle" value="EasyBCD Edycja Społecznościowa" version="1" />
     <string key="bcdInUse" value="Bieżący plik jest w użyciu i nie może zostać otwarty przez EasyBCD. &#xD;&#xA;Jeśli próbujesz zaznaczyć systemowy skład wciśnij 'Nie' poniżej, &#xD;&#xA;a następnie wskaż &quot;Załaduj skład systemowy&quot; z menu 'Plik'&#xD;&#xA;&#xD;&#xA;Czy chcesz wskazać inny skład dla użycia w EasyBCD?" version="1" />
     <string key="bcdInUseTitle" value="Błąd naruszenia zasad dostępu!" version="1" />
-    <string key="accessDenied" value="Dostęp wzbroniony!" version="1" />
+    <string key="accessDenied" value="Odmowa dostępu!" version="1" />
     <string key="uncUnsupported" value="Ścieżki sieciowe nie są obsługiwane przez tę funkcję. &#xD;&#xA;Proszę, wskaż inną ścieżkę i spróbuj ponownie." version="1" />
-    <string key="uncUnsupportedTitle" value="UNC Ścieżki nie wspierane" version="1" />
+    <string key="uncUnsupportedTitle" value="Ścieżki UNC nie obsługiwane" version="1" />
     <string key="invalidPath" value="Wykryto niewłaściwy plik lub nazwę ścieżki. &#xD;&#xA;Proszę, wprowadź poprawną ścieżkę, by kontynuować." version="1" />
     <string key="invalidPathTitle" value="Niewłaściwa ścieżka!" version="1" />
-    <string key="updateCheck" value="Sprawdzanie dostępności uaktualnień dla EasyBCD..." version="1" />
-    <string key="updateFailed" value="Błąd sprawdzania dostępności uaktualnienia. &#xD;&#xA;Nie można nawiązać połączenia sieciowego." version="1" />
-    <string key="updateFailedSB" value="Niepowodzenie sprawdzenia dostępności uaktualnienia EasyBCD:" version="1" />
+    <string key="updateCheck" value="Sprawdzanie dostępności aktualizacji EasyBCD..." version="1" />
+    <string key="updateFailed" value="Wystąpił błąd podczas sprawdzania aktualizacji. &#xD;&#xA;Nie można nawiązać połączenia sieciowego." version="1" />
+    <string key="updateFailedSB" value="Nie udało się sprawdzić aktualizacji EasyBCD:" version="1" />
     <string key="updateFound" value="Znaleziono nową wersję EasyBCD!" version="1" />
-    <string key="updateFoundText" value="Znaleziono nową wersję EasyBCD. &#xD;&#xA;Czy chcesz przejść do strony pobierania EasyBCD, by uaktualnić do najnowszej wersji?" version="1" />
+    <string key="updateFoundText" value="Znaleziono nową wersję EasyBCD. &#xD;&#xA;Czy chcesz przejść do strony pobierania EasyBCD, aby pobrać najnowszą wersję programu?" version="1" />
     <string key="updateNone" value="Korzystasz z najnowszej wersji EasyBCD." version="1" />
     <string key="install" value="Instaluj" version="1" />
     <string key="remove" value="Usuń" version="1" />
     <string key="adminLine1" value="EasyBCD wymaga uprawnień administracyjnych, by działać poprawnie, &#xD;&#xA;dlatego nie można kontynuować." version="1" />
-    <string key="adminLine2" value="Proszę zaloguj się lub uruchom program jako Administrator, by kontynuować." version="1" />
-    <string key="adminTitle" value="Dostęp Wzbroniony" version="1" />
+    <string key="adminLine2" value="Zaloguj się lub uruchom program jako administrator, aby kontynuować." version="1" />
+    <string key="adminTitle" value="Odmowa dostępu" version="1" />
     <string key="easybcdBackup" value="EasyBCD Backup" version="1" />
     <string key="yes" value="Tak" version="1" />
     <string key="no" value="Nie" version="1" />
     <string key="registryFailed" value="Nie można zapisać ustawień rejestru" version="1" />
-    <string key="commercialEdition" value="Wersja Komercyjna" version="1" />
+    <string key="commercialEdition" value="Wersja komercyjna" version="1" />
     <string key="failedAddTitle" value="Niepowodzenie dodawania wpisu!" version="1" />
-    <string key="communityEdition" value="Wersja Społecznościowa" version="1" />
-    <string key="msdosHelp" value="Aby EasyBCD mogło uruchomić MS-DOS 6.x lub Windows 3.x, pliki IO.SYS oraz MSDOS.SYS muszą znajdować się na początku aktywnej partycji.&#xD;&#xA;&#xD;&#xA;By uzyskać więcej informacji, o tym jak tego dokonać, wciśnij 'Tak'. &#xD;&#xA;Otwarta zostanie dokumentacja EasyBCD dla wpisów bazujacych na DOSie. &#xD;&#xA;Jeśli nie chcesz oglądać teraz tej dokumentacji, wciśnij 'Nie'." version="1" />
-    <string key="msdosHelpTitle" value="Otworzyć dokumentację EasyBCD dla MS-DOS?" version="1" />
+    <string key="communityEdition" value="Wersja społecznościowa" version="1" />
+    <string key="msdosHelp" value="Aby EasyBCD mógł uruchamiać MS-DOS 6.x lub Windows 3.x, pliki IO.SYS oraz MSDOS.SYS muszą znajdować się na początku aktywnej partycji.&#xD;&#xA;&#xD;&#xA;Aby uzyskać więcej informacji, o tym jak tego dokonać, wciśnij 'Tak'. &#xD;&#xA;Otwarta zostanie dokumentacja EasyBCD dla wpisów bazujących na DOSie. &#xD;&#xA;Jeśli nie chcesz otwierać teraz tej dokumentacji, wciśnij 'Nie'." version="1" />
+    <string key="msdosHelpTitle" value="Czy otworzyć dokumentację EasyBCD dla MS-DOS?" version="1" />
     <string key="addedFormat" value="{0} pomyślnie dodano do menu rozruchowego!" version="1" />
     <string key="neogrubBootloader" value="NeoGrub Bootloader" version="1" />
     <string key="neogrubRemoved" value="NeoGrub został pomyślnie usunięty!" version="1" />
@@ -85,15 +85,15 @@
     <string key="bcdResetTitle" value="BCD Reset" version="1" />
     <string key="selectBootTitle" value="Wybierz nową partycję startową" version="1" />
     <string key="selectBoot" value="EasyBCD dokona ponownej konfiguracji Twojego systemu dla startu ze wskazanej partycji. Proces ten utworzy nowy skład BCD na wskazanym dysku, skopiuje bieżące wpisy BCD i ustawi wskazaną partycję jako aktywną i startową." version="1" />
-    <string key="errorLogical" value="Uczyniono próbę zmiany partycji startowej na napęd logiczny, co nie jest dozwolone. Partycja startowa musi być partycją startową.&#xD;&#xA;&#xD;&#xA;Proszę wskazać inny napęd lub skonwertować wybraną partycję na podstawową, potem kontynuować." version="1" />
-    <string key="bootChangedFormat" value="EasyBCD pomyślnie uczyniło napęd {0} nową partycją startową, załadowało także nowy skład BCE dla tej modyfikacji, na wypadek zaprzestania dalszych zmian. Jeśli to partycja na Twoim pierwszym dysku startowym, to nie musisz dokonywać dalszych działań. Jeśli nie, to powinieneś wyłączyć komputer i zmienić napęd startowy z poziomu BIOSu, by zmiany odniosły skutek." version="1" />
+    <string key="errorLogical" value="Wykonano próbę zmiany partycji startowej na napęd logiczny, co nie jest dozwolone. Partycja startowa musi być partycją startową.&#xD;&#xA;&#xD;&#xA;Proszę wskazać inny napęd lub skonwertować wybraną partycję na podstawową, a następnie kontynuować." version="1" />
+    <string key="bootChangedFormat" value="EasyBCD pomyślnie ustawił napęd {0} jako nową partycję startową, załadowało także nowy skład BCE dla tej modyfikacji, na wypadek zaprzestania dalszych zmian. Jeśli to partycja na Twoim pierwszym dysku startowym, to nie musisz dokonywać dalszych działań. Jeśli nie, to powinieneś wyłączyć komputer i zmienić napęd startowy z poziomu BIOSu, by zmiany odniosły skutek." version="1" />
     <string key="bootChangedTitle" value="Partycja rozruchowa zmieniona" version="1" />
-    <string key="unsupportedOS" value="Ta opcja jest dostępna tylko na systemach Windows Vista lub wyżej." version="2" />
+    <string key="unsupportedOS" value="Ta opcja jest dostępna tylko w systemie Windows Vista lub nowszym." version="2" />
     <string key="unsupportedOSTitle" value="Niewspierany system operacyjny!" version="1" />
-    <string key="errorNoRestore" value="Fatalny błąd: Nie można przywrócić wskazanego składu." version="1" />
+    <string key="errorNoRestore" value="Błąd krytyczny: Nie można przywrócić wskazanego składu." version="1" />
     <string key="errorNoRestoreTitle" value="Błąd przywracania" version="1" />
-    <string key="confirmDeleteTitle" value="Potwierdź usunięcie?" version="1" />
-    <string key="entryDeleted" value="Wpis menu startowego usunięty" version="1" />
+    <string key="confirmDeleteTitle" value="Potwierdzenie usunięcia" version="1" />
+    <string key="entryDeleted" value="Usunięto wpis menu startowego" version="1" />
     <string key="thankYou" value="Doceniamy Twoje wsparcie!" version="1" />
     <string key="loadExternal" value="Dzięki tej funkcji EasyBCD załaduje i użyje zewnętrzenej bazy danych BCD, wskazanej przez Ciebie. Zmiany wprowadzone zostaną do tego składu BCD i nie wpłyną na domyślną konfigurację Twojego systemu." version="1" />
     <string key="loadExternalTitle" value="Wskazywanie nowego składu" version="1" />
@@ -115,9 +115,9 @@
     <string key="powerConsole" value="EasyBCD Power Console" version="1" />
     <string key="powerConsoleText" value="Szybki dostęp do wiersza poleceń powłoki z pełnią praw administracyjnych. Użyj tego dla wywoływania funkcji systemowych lub dla szybkiego dostępu do poleceń: bcdedit i bootsect.exe" version="1" />
     <string key="sysRestore" value="Przywracanie systemu" version="1" />
-    <string key="sysRestoreText" value="Otwiera panel Przywracanie Systemu. Użyj go do szybkiego cofania/ naprawiania niekorzystnych zmian." version="1" />
+    <string key="sysRestoreText" value="Otwiera panel Przywracanie systemu. Użyj go do szybkiego cofania/naprawiania niekorzystnych zmian." version="1" />
     <string key="controlPanel" value="Panel sterowania" version="1" />
-    <string key="controlPanelText" value="Uruchom Panel Sterowania i użyj go do czego tylko chcesz." version="1" />
+    <string key="controlPanelText" value="Otwórz Panel sterowania i użyj go do czego tylko chcesz." version="1" />
     <string key="iRebootText" value="Pomocnik NeoSmart Technologies' dla EasyBCD. iReboot rezyduje w pasku zadań (zajmując tylko 400KB pamięci!) i pozwala na wybór systemu, który ma zostać załadowany po restarcie." version="1" />
     <string key="errorNoEntries" value="EasyBCD wykryło, że nie ma wpisów. Jeśli wyjdziesz z EasyBCD i zrestartujesz komputer - nie uruchomi się on.&#xD;&#xA;&#xD;&#xA;Czy jesteś pewny, ze chesz opuścić program przed dodaniem nowego wpisu?" version="1" />
     <string key="errorNoEntriesTitle" value="Brak wpisów startowych!" version="1" />
@@ -146,7 +146,7 @@
     <string key="orderSaved" value="Porządek wpisów zachowany" version="1" />
     <string key="easybcdStatus" value="Status EasyBCD" version="1" />
     <string key="saveFileTitle" value="Zapisz jako..." version="1" />
-    <string key="updateFoundText2" value="Ukazała się nowa wersja EasyBCD. &#xD;&#xA;Czy chcesz, by EasyBCD dokonał automatycznej aktualizacji do najnowszej wersji?&#xD;&#xA;&#xD;&#xA;Naciśnij 'Tak', by automatycznie pobrać i zainstalować nowszą wersję.&#xD;&#xA;Naciśnij 'Nie', by zobaczyć listę zmian i dokonać aktualizacji samodzielnie.&#xD;&#xA;Naciśnij 'Anuluj', by nie aktualizować." version="1" />
+    <string key="updateFoundText2" value="Dostępna jest nowa wersja EasyBCD. &#xD;&#xA;Czy chcesz, aby EasyBCD dokonał automatycznej aktualizacji do najnowszej wersji?&#xD;&#xA;&#xD;&#xA;Naciśnij 'Tak', aby automatycznie pobrać i zainstalować nowszą wersję.&#xD;&#xA;Naciśnij 'Nie', by zobaczyć listę zmian i dokonać aktualizacji samodzielnie.&#xD;&#xA;Naciśnij 'Anuluj', by nie aktualizować." version="1" />
     <string key="help" value="Pomoc" version="1" />
     <string key="browse" value="Przeglądaj" version="1" />
   </strings>
