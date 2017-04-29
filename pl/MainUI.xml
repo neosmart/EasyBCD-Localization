@@ -2,20 +2,20 @@
 <localization>
   <strings>
     <string key="rdoModeBasic" value="Przegląd" version="1" />
-    <string key="rdoModeDetailed" value="Dokładny (Tryb Debugowania)" version="1" />
+    <string key="rdoModeDetailed" value="Dokładny (tryb debugowania)" version="1" />
     <string key="chkWordWrap" value="Zawijaj wiersze" version="1" />
-    <string key="grpDisplayMode" value="Tryb przeglądania" version="1" />
+    <string key="grpDisplayMode" value="Tryb wyświetlania" version="1" />
     <string key="tabViewSettings" value="1" version="1" />
     <string key="rdoTimeoutCount" value="Odliczaj od" version="1" />
     <string key="rdoTimeoutNone" value="Czekaj na wybór użytkownika" version="1" />
-    <string key="rdoTimeoutSkip" value="Pomiń menu startowe" version="1" />
+    <string key="rdoTimeoutSkip" value="Pomijaj menu startowe" version="1" />
     <string key="btnSaveBCD" value="Zapisz ustawienia" version="1" />
-    <string key="grpTimeout" value="Opcje menu" version="2" />
-    <string key="btnUp" value="W górę" version="1" />
-    <string key="btnDown" value="W dół" version="1" />
-    <string key="btnRenameEntry" value="Przemianuj" version="1" />
+    <string key="grpTimeout" value="Ustawienia menu" version="2" />
+    <string key="btnUp" value="Przesuń w górę" version="1" />
+    <string key="btnDown" value="Przesuń w dół" version="1" />
+    <string key="btnRenameEntry" value="Zmień nazwę" version="1" />
     <string key="btnDelete" value="Usuń" version="1" />
-    <string key="grpModifyEntries" value="Zmień Menu wpisów" version="1" />
+    <string key="grpModifyEntries" value="Modyfikowanie menu wpisów" version="1" />
     <string key="tabEditMenu" value="2" version="1" />
     <string key="btnBrowse" value="..." version="1" />
     <string key="lblName" value="Nazwa:" version="1" />
@@ -34,7 +34,7 @@
     <string key="tabPageWinPE" value="WinPE" version="1" />
     <string key="txtFloppyName" value="Obraz dyskietki NeoSmart" version="1" />
     <string key="tabPageFloppy" value="Dyskietka" version="1" />
-    <string key="btnPlopInstall" value="Instaluj PLoP" version="1" />
+    <string key="btnPlopInstall" value="Zainstaluj PLoP" version="1" />
     <string key="btnPlopRemove" value="Usuń PLoP" version="1" />
     <string key="lblBiosExtend" value="Rozszerzenie EasyBCD BIOSu może zostać użyte do startu z sieci, płyty CD lub dysku USB na komputerach, które natywnie nie wspierają takich opcji." version="1" />
     <string key="tabPagePlop" value="Rozszerzenie BIOSu" version="1" />
@@ -45,18 +45,18 @@
     <string key="lblLinAuto" value="Określone automatycznie" version="1" />
     <string key="btnNeoGrub" value="Instaluj" version="1" />
     <string key="btnNeoGrubConfig" value="Konfiguruj" version="1" />
-    <string key="lblNeoGrub" value="NeoGrub bootloader może zostać użyty do startu Linuksa i starszych wersji Windows, a nawet z ukrytych napędów." version="1" />
-    <string key="grpOS" value="Systemy Operacyjne" version="1" />
+    <string key="lblNeoGrub" value="Bootloader NeoGrub może zostać użyty do startu Linuksa i starszych wersji Windows, a nawet z ukrytych napędów." version="1" />
+    <string key="grpOS" value="Systemy operacyjne" version="1" />
     <string key="btnSaveSettings" value="Zapisz ustawienia" version="1" />
-    <string key="lblLocale" value="Lokalizacja:" version="1" />
+    <string key="lblLocale" value="Język:" version="1" />
     <string key="tabEntryBasic" value="Podstawowe" version="1" />
     <string key="lblSafeMode" value="Tryb bezpieczny:" version="1" />
-    <string key="lblPae" value="Wsparcie PAE:" version="1" />
+    <string key="lblPae" value="Obsługa PAE:" version="1" />
     <string key="lblDep" value="NoExecute (DEP):" version="1" />
     <string key="chkEntryUnsigned" value="Zezwól na niepodpisane sterowniki dla 64-bit Windows" version="1" />
     <string key="tabEntryAdvanced" value="Zaawansowane" version="1" />
-    <string key="chkEntryKernelDebug" value="Uruchom Windows w trybie Kernel-Debug" version="1" />
-    <string key="chkEntrySos" value="Uruchom w trybie SOS/komunikatów startu" version="1" />
+    <string key="chkEntryKernelDebug" value="Uruchamiaj Windows w trybie Kernel-Debug" version="1" />
+    <string key="chkEntrySos" value="Uruchamiaj w trybie SOS/komunikatów startu" version="1" />
     <string key="chkEntryMemory" value="Ujmij" version="1" />
     <string key="lblDeduct2" value="Odlicz MB z pamięci fizycznej" version="2" />
     <string key="chkEntryCpu" value="Ogranicz Windows do" version="1" />
@@ -65,14 +65,14 @@
     <string key="lblPickLH" value="Wybierz wpis z listy poniżej do modyfikacji." version="1" />
     <string key="grpChangeSettings" value="Zmień ustawienia" version="1" />
     <string key="grpSelectLH" value="Wybierz system operacyjny" version="1" />
-    <string key="btnBackup" value="Backup ustawień" version="1" />
-    <string key="btnRestore" value="Przywróć Backup" version="1" />
+    <string key="btnBackup" value="Tworzenie kopii ustawień" version="1" />
+    <string key="btnRestore" value="Przywróć kopię" version="1" />
     <string key="grpBackupRestore" value="Kopiuj i przywróć ustawienia bootloadera" version="1" />
     <string key="rdoBcdChange" value="Zmień napęd startowy" version="1" />
     <string key="rdoBcdRepair" value="Odtwórz/napraw pliki startowe" version="1" />
     <string key="btnBcdRescue" value="Wybierz akcję" version="1" />
     <string key="rdoBcdReset" value="Zresetuj konfigurację BCD" version="1" />
-    <string key="grpDiagnostics" value="Opcje zarządzania BCD" version="1" />
+    <string key="grpDiagnostics" value="Zarządzanie konfiguracją BCD" version="1" />
     <string key="btnMakeBootable" value="Zainstaluj BCD" version="1" />
     <string key="lblUsbPartitions" value="Partycja:" version="1" />
     <string key="lblCreateBootable" value="EasyBCD może automazować proces tworzenia starowego nośnika. Wybierz partycję by rozpocząć." version="1" />
@@ -82,33 +82,33 @@
     <string key="rdoMbrVista" value="Zainstaluj bootloader Windows Vista+ do MBR" version="1" />
     <string key="grpBootloader" value="Opcje konfiguracji MBR" version="1" />
     <string key="grpUtils" value="Przydatne narzędzia" version="1" />
-    <string key="btnBcdInstall" value="BCD Backup/Naprawa" version="1" />
+    <string key="btnBcdInstall" value="Tworzenie kopii BCD i naprawa" version="1" />
     <string key="btnUtilities" value="Przydatne narzędzia" version="1" />
     <string key="btnMbrSetup" value="Rozmieszczenie BCD" version="1" />
     <string key="btnAdvanced" value="Ustawienia zaawansowane" version="1" />
     <string key="btnAddEntry" value="Dodaj nowy wpis" version="1" />
     <string key="btnEditMenu" value="Edytuj menu startowe" version="1" />
-    <string key="btnViewSettings" value="Ustawienia widoku" version="1" />
-    <string key="grpToolbox" value="EasyBCD Toolbox" version="1" />
+    <string key="btnViewSettings" value="Obecna konfiguracja" version="1" />
+    <string key="grpToolbox" value="Narzędzia EasyBCD" version="1" />
     <string key="mnuSelectBcd" value="Wybierz &amp;skład BCD" version="1" />
     <string key="mnuLanguage" value="Wybierz język" version="1" />
     <string key="mnuLoadSystemBcd" value="Wczytaj systemowy BCD" version="1" />
     <string key="mnuRescan" value="Odśwież skład BCD" version="1" />
     <string key="mnuRegister" value="Za&amp;rejestruj" version="1" />
     <string key="mnuDonate" value="Wesprzyj" version="1" />
-    <string key="mnuUpdate" value="Sprawdź &amp;uaktualnienia" version="1" />
-    <string key="mnuExit" value="Wyjdź" version="1" />
+    <string key="mnuUpdate" value="Sprawdź &amp;aktualizacje" version="1" />
+    <string key="mnuExit" value="Zamknij" version="1" />
     <string key="mnuFile" value="&amp;Plik" version="1" />
     <string key="mnuOptions" value="Opcje" version="1" />
     <string key="mnuEditLegacy" value="Edytuj starsze wpisy" version="1" />
     <string key="mnuRestart" value="Uruchom ponownie komputer" version="1" />
     <string key="mnuTools" value="Narzędzia" version="1" />
     <string key="mnuDocumentation" value="Dokumentacja" version="1" />
-    <string key="mnuSupport" value="Wsparcie" version="1" />
+    <string key="mnuSupport" value="Pomoc techniczna" version="1" />
     <string key="mnuBug" value="Zgłoś błąd" version="1" />
     <string key="mnuDonate2" value="Wesprzyj" version="1" />
     <string key="mnuHelp" value="Pomoc" version="1" />
-    <string key="mnuAbout" value="O aplikacji" version="1" />
+    <string key="mnuAbout" value="O programie" version="1" />
     <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" version="1" />
     <string key="colName" value="Wpis" version="1" />
     <string key="colDefault" value="Domyślny" version="1" />
