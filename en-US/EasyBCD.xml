@@ -151,5 +151,7 @@
     <string key="updateFoundText2" value="A new version of EasyBCD has been found. Would you like EasyBCD to automatically update to the latest version?&#xD;&#xA;&#xD;&#xA;Press 'Yes' to automatically download and upgrade, 'No' to see the list of changes and upgrade manually, or 'Cancel' to cancel." version="1" />
     <string key="help" value="Help" version="1" />
     <string key="browse" value="Browse" version="1" />
+    <string key="errorPartTooSmall" value="The selected partition is too small or does not have enough free space to become the new boot drive." />
+    <string key="operationAborted" value="Operation Aborted" />
   </strings>
 </localization>
