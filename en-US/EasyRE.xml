@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblTitle" value="Introducing a bootable, automatic EasyBCD" version="1" />
+    <string key="lblIntro" value="From the developers of EasyBCD comes Easy Recovery Essentials for Windows, a bootable repair and recovery CD/USB that can automatically fix over two thousand errors and misconfigurations." version="1" />
+    <string key="lblDetails" value="* Fixes problems preventing Windows from seeing drives or partitions
+* Fixes problems with cloned partitions not booting
+* Fixes partition layout problems caused by bad updates or installs
+* Protects against data loss caused by bad UEFI configurations
+* Recreates the bootloader configuration to make sure you can boot into Windows
+* Synchronizes the GPT and MBR so your PC can boot in both EFI and BIOS modes
+* Fixes PCs stuck in Windows Update reboot loops
+* Fixes blue screens of death during system startup
+* and much, much more" version="1" />
+    <string key="btnDownload" value="Download Now" version="1" />
+    <string key="btnLearnMore" value="Learn More" version="1" />
+    <string key="chkNoShow" value="Don't show this again" version="1" />
+    <string key="MinimumWidth" value="966" />
+    <string key="MinimumHeight" value="613" />
+  </strings>
+</localization>
