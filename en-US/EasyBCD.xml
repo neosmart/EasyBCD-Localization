@@ -153,5 +153,9 @@
     <string key="browse" value="Browse" version="1" />
     <string key="errorPartTooSmall" value="The selected partition is too small or does not have enough free space to become the new boot drive." />
     <string key="operationAborted" value="Operation Aborted" />
+    <string key="commercialUseDetected" value="A product license is required to use EasyBCD in a commercial environment. Would you like to purchase one now? Note that most features will be unavailable without a license." version="1" />
+    <string key="commercialUseDetectedTitle" value="Product License Error!" version="1" />
+    <string key="featureUnavailable" value="This feature is unavailable without a product license. Would you like to purchase a license now?" version="1" />
+    <string key="featureUnavailableTitle" value="Feature Restricted" version="1" />
   </strings>
 </localization>
