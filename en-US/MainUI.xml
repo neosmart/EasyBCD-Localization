@@ -103,6 +103,7 @@
     <string key="tabEntryAdvanced" value="Advanced" version="1" />
     <string key="chkEntryKernelDebug" value="Run Windows in Kernel-Debug Mode" version="1" />
     <string key="chkEntrySos" value="Run in SOS/Verbose-Boot Mode" version="1" />
+    <string key="chkHyperV" value="Enable Hyper-V support" version="1" />
     <string key="numEntryMemory" value="0" version="1" />
     <string key="lblDeduct2" value="MiB deducted from physical memory" version="2" />
     <string key="numEntryCpu" value="0" version="1" />
