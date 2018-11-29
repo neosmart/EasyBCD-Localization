@@ -14,6 +14,7 @@
 * and much, much more" version="1" />
     <string key="btnDownload" value="Download Now" version="1" />
     <string key="btnLearnMore" value="Learn More" version="1" />
+    <string key="btnNotNow" value="Not Now" version="1" />
     <string key="chkNoShow" value="Don't show this again" version="1" />
     <string key="MinimumWidth" value="966" />
     <string key="MinimumHeight" value="613" />
