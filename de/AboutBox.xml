@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="OKButton" derive="true" />
+    <string key="OKButton" value="&amp;OK" version="1" />
     <string key="seatsAllowed" value="Erlaubte Nutzer / Geräte" version="1" />
-    <string key="version" derive="true" />
-    <string key="copyright" derive="true" />
-    <string key="thanksFormat" value="Besonderen Dank an Grub4Dos, PLoP,{0} und UltraDefrag Teams!&#xD;&#xA;&#xD;&#xA;Diese EasyBCD Distribution wird mit eigenständigen Komponenten (Grub4Dos and UltraDefrag) ausgeliefert, lizensiert gemäß den Bedingungen der GPLv2 Lizenz. Für weitere Informationen lesen Sie bitte die LICENSE Datei im Installationsverzeichnis." version="1" />
-    <string key="aboutText1" value="EasyBCD ist der ultimative Boot-Manager und Bootmanager-Werkzeug. Es gibt keine Garantie daß EasyBCD mit allen Windows-Versionen funktioniert - benutzen Sie immer die letztgültige verfügbare Version.&#xD;&#xA;&#xD;&#xA;• Hauptenwickler: Mahmoud H. Al-Qudsi&#xD;&#xA;• Deutsche Übersetzung: Wolfgang Milhard&#xD;&#xA;• Aktive Zutaten: Schweiß, Blut und Tränen&#xD;&#xA;• Unterstützt von C++, C#, Dr. Pepper, Excedrin, und Visine&#xD;&#xA;• Alle Ihre Bootvorgänge gehören uns!" version="1" />
     <string key="unlicensed" value="Nicht lizensierte Kopie!" version="1" />
+    <string key="version" value="Version" version="1" />
+    <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - {0}" version="2" />
+    <string key="aboutText1" value="EasyBCD ist der ultimative Boot-Manager und Bootmanager-Werkzeug. Es gibt keine Garantie daß EasyBCD mit allen Windows-Versionen funktioniert - benutzen Sie immer die letztgültige verfügbare Version.&#xD;&#xA;&#xD;&#xA;• Hauptenwickler: Mahmoud H. Al-Qudsi&#xD;&#xA;• Deutsche Übersetzung: Wolfgang Milhard&#xD;&#xA;• Aktive Zutaten: Schweiß, Blut und Tränen&#xD;&#xA;• Unterstützt von C++, C#, Dr. Pepper, Excedrin, und Visine&#xD;&#xA;• Alle Ihre Bootvorgänge gehören uns!" version="1" />
+    <string key="thanksFormat" value="Besonderen Dank an Grub4Dos, PLoP,{0} und UltraDefrag Teams!&#xD;&#xA;&#xD;&#xA;Diese EasyBCD Distribution wird mit eigenständigen Komponenten (Grub4Dos and UltraDefrag) ausgeliefert, lizensiert gemäß den Bedingungen der GPLv2 Lizenz. Für weitere Informationen lesen Sie bitte die LICENSE Datei im Installationsverzeichnis." version="1" />
     <string key="title" value="Info {0}" version="1" />
-    <string key="MinimumWidth" derive="true" />
-    <string key="MinimumHeight" derive="true" />
+    <string key="MinimumWidth" value="486" />
+    <string key="MinimumHeight" value="376" />
   </strings>
 </localization>
