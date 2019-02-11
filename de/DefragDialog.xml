@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
     <string key="btnAbort" value="&amp;Abbrechen" version="1" />
     <string key="CommandWindow" value="EasyBCD Kommando Fenster" version="1" />
     <string key="MinimumWidth" value="427" />
-    <string key="MinimumHeight" derive="true" />
+    <string key="MinimumHeight" value="279" />
   </strings>
 </localization>
