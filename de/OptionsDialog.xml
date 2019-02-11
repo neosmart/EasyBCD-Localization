@@ -3,16 +3,16 @@
   <strings>
     <string key="btnOK" value="OK" version="2" />
     <string key="btnCancel" value="Verwerfen" version="2" />
-    <string key="chkRememberBackup" value="Beim Verlassen an das BCD Backup erinnern" version="1" />
-    <string key="chkLoadDefaultBcd" value="Beim Start automatisch die folgende BCD-Datei laden:" version="1" />
-    <string key="chkRss" value="NeoSmart Technologies in Windows RSS Platform einschließen" version="1" />
-    <string key="rdoWeeks" value="Woche(n)" version="1" />
-    <string key="numUpdateInterval" value="0" version="1" />
     <string key="chkExpertMode" value="EasyBCD im Expertenmodus starten" version="1" />
+    <string key="chkRememberBackup" value="Beim Verlassen an das BCD Backup erinnern" version="1" />
     <string key="lblExpertMode" value="Expertenmodus warnt nicht vor Durchführung erweiterter Aktionen!" version="1" />
+    <string key="chkLoadDefaultBcd" value="Beim Start automatisch die folgende BCD-Datei laden:" version="1" />
     <string key="btnBrowseBcd" value="..." version="1" />
     <string key="chkAutoUpdate" value="Automatisches Update alle" version="1" />
+    <string key="chkRss" value="NeoSmart Technologies in Windows RSS Platform einschließen" version="1" />
+    <string key="numUpdateInterval" value="0" version="1" />
     <string key="rdoDays" value="Tag(e)" version="1" />
+    <string key="rdoWeeks" value="Woche(n)" version="1" />
     <string key="rdoMonths" value="Monat(e)" version="1" />
     <string key="lblLastUpdateCheck" value="Letzte automatische Update-Prüfung: " version="1" />
     <string key="tabGeneralSettings" value="Allgemeine Einstellungen" version="1" />
