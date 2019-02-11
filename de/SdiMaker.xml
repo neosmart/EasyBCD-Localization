@@ -6,7 +6,7 @@
     <string key="Body" value="Um fortzufahren braucht EasyBCD Zugriff auf das Windows-Medium (Vista oder höhere Windows Version), normalerweise ein DVD- oder ein CD-Image.&#xD;&#xA;&#xD;&#xA;Bitte die DVD in Ihr optisches Laufwerk einlegen oder das Datenträger-Image wählen, danach OK drücken um fortzufahren." version="2" />
     <string key="SdiMaker" value="Windows Installations Medium einlegen" version="1" />
     <string key="mediaNotFound" value="Kein gültiges Windows Installations Medium gefunden." version="1" />
-    <string key="MinimumWidth" derive="true" />
-    <string key="MinimumHeight" derive="true" />
+    <string key="MinimumWidth" value="381" />
+    <string key="MinimumHeight" value="196" />
   </strings>
 </localization>
