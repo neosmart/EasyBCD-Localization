@@ -4,7 +4,7 @@
     <string key="linuxAuto" value="Automatisch finden und laden" version="1" />
     <string key="communityText" value="EasyBCD Community Edition frei lizensiert für den nichtkommerziellen Gebrauch. &#xD;&#xA;Falls Sie diese Software in einer kommerziellen Umgebung nutzen, drücken Sie bitte auf 'Abbrechen' um eine kommerzielle Lizenz zu erwerben. Sonst auf 'OK' klicken um fortzufahren." version="1" />
     <string key="communityTitle" value="EasyBCD Community Version" version="1" />
-    <string key="bcdInUse" value="Die Datei ist in Benutzung und kann von EasyBCD nicht geöffnet werden. Wenn sie gerade versuchen, den System Speicher (wieder)auszuwählen, drücken Sie &quot;Nein&quot; und benützen Sie dann die 'Lade System Speicher' Option aus dem Datei-Menü.&#xD;&#xA;&#xD;&#xA;Wollen Sie einen anderen Speicher für den Gebrauch in EasyBCD wählen?" version="1" />
+    <string key="bcdInUse" value="Die Datei ist in Benutzung und kann von EasyBCD nicht geöffnet werden. Wenn sie gerade versuchen, den System Speicher (wieder)auszuwählen, drücken Sie &quot;Nein&quot; und benutzen Sie dann die 'Lade System Speicher' Option aus dem Datei-Menü.&#xD;&#xA;&#xD;&#xA;Wollen Sie einen anderen Speicher für den Gebrauch in EasyBCD wählen?" version="1" />
     <string key="bcdInUseTitle" value="Zugriffsfehler" version="1" />
     <string key="accessDenied" value="Zugriff verweigert!" version="1" />
     <string key="uncUnsupported" value="Netzwerkpfade werden nicht unterstützt für diese Option. Bitte wählen Sie einen anderen Pfad und versuchen Sie es nochmal." version="1" />
@@ -59,24 +59,6 @@
     <string key="paeEnable" value="Erzwinge Aktivierung: Erzwingt Speicherverwaltung" version="1" />
     <string key="paeDisable" value="Erzwingen Deaktiviert: Deaktiviert die Benutzung von erweitertem Speicher" version="1" />
     <string key="paeTitle" value="Info über PAE Optionen" version="1" />
-    <string key="easybcdStatus" value="EasyBCD Status" version="1" />
-    <string key="orderSaved" value="Eintragsreihenfolge gespeichet" version="1" />
-    <string key="optionsSaved" value="Optionen erfolgreich gespeichert" version="1" />
-    <string key="bcdRefresh" value="Zwischengespeicherte BCD Daten erfolgreich erneuert" version="1" />
-    <string key="restoreSuccess" value="Wiederherstellung erfolgreich ausgeführt" version="1" />
-    <string key="backupSuccess" value="BCD erfolgreich gesichert" version="1" />
-    <string key="configSaved" value="Eintragskonfiguration erfolgreich gespeichert" version="1" />
-    <string key="bcdRepaired" value="BCD erfolgreich repariert" version="1" />
-    <string key="bcdResetStatus" value="BCD wurde erfolgreich zurückgesetzt. Bitte jetzt neu konfigurieren!" version="1" />
-    <string key="drive2" value="Laufwerk" version="1" />
-    <string key="entryRemovedFormat" value="{0} wurde entfernt" version="1" />
-    <string key="plop" value="EasyBCD BIOS Erweiterung" version="1" />
-    <string key="renameSuccess" value="Eintrag erfolgreich umbenannt" version="1" />
-    <string key="userCancel" value="Operation durch Nutzer abgebrochen" version="1" />
-    <string key="bcdExceptionFormat" value="BCD Ausnahmefehler 0x{0:X3}" version="1" />
-    <string key="errorNoBcd" value="Keine BCD-Registierung geladen - läuft im reduzierten Funktionalitäts-Modus!" version="1" />
-    <string key="diffDeviceTitle" value="Nichtportabler Eintrag gefunden!" version="1" />
-    <string key="isoHelpTitle" value="Info über ISO Optionen" version="1" />
     <string key="nxIntro" value="DEP /NoExecute ist die auf Hardwareebene 'Datenausführungsverhinderung', eingeführt ab Windows XP SP2, die helfen kann Ihr System vor Angriffen zu schützen. Jedoch ist bekannt, daß es einige Kompatibilitätsprobleme verursachen kann." version="1" />
     <string key="nxOptIn" value="OptIn: Windows Kern ist DEP-geschützt." version="1" />
     <string key="nxOptOut" value="OptOut: Windows und Anwendungen sind DEP-geschützt." version="1" />
@@ -87,7 +69,7 @@
     <string key="opNotAllowed" value="Operation nicht erlaubt!" version="1" />
     <string key="errorNotMounted" value="EasyBCD kann unbenannte Laufwerke nicht startfähig machen. Bitte weisen Sie dem gewählten Laufwerk einen Laufwerksbuchstaben zu, starten Sie EasyBCD neu und versuchen Sie es nochmal." version="1" />
     <string key="invalidDrive" value="Ungültige Laufwerksoperation" version="1" />
-    <string key="bootableSuccess" value="EasyBCD hat das gewählte Laufwerk erfolgreich in ein startfähiges Laufwerk umgewandelt. Um die Startmenüeinträge zu konfigurieren, müssen Sie 'Datei | BCD Speicher auswählen' benützen und die \Boot\BCD -Datei wählen auf dem Laufwerk, das gerade vorbereitet wurde.." version="1" />
+    <string key="bootableSuccess" value="EasyBCD hat das gewählte Laufwerk erfolgreich in ein startfähiges Laufwerk umgewandelt. Um die Startmenüeinträge zu konfigurieren, müssen Sie 'Datei | BCD Speicher auswählen' benutzen und die \Boot\BCD -Datei wählen auf dem Laufwerk, das gerade vorbereitet wurde.." version="1" />
     <string key="mountBcdNow" value="Möchten Sie automatisch den neuerzeugten BCD Speicher in EasyBCD speichern?" version="1" />
     <string key="bootableTitle" value="Startfähiges Laufwerk erzeugt" version="1" />
     <string key="accessDeniedText" value="Kein Zugriff auf die BCD möglich. Bitte prüfen Sie das und machen Sie sicher, daß der BCD Speicher auf dem gewählten Gerät nicht in Gebrauch ist." version="1" />
@@ -113,7 +95,7 @@
     <string key="confirmDeleteTitle" value="Löschen bestätigen?" version="1" />
     <string key="entryDeleted" value="Startmenü Eintrag wurde gelöscht" version="1" />
     <string key="thankYou" value="Ihre Unterstützung wird sehr geschätzt!" version="1" />
-    <string key="loadExternal" value="Mit dieser Option wird EasyBCD eine externe Datenbasis Ihrer Wahl benützen. Änderungen werden in diesem BCD Speicher gemacht und nicht Ihre voreingestelte Systemkonfiguration nicht beeinflussen." version="1" />
+    <string key="loadExternal" value="Mit dieser Option wird EasyBCD eine externe Datenbasis Ihrer Wahl benutzen. Änderungen werden in diesem BCD Speicher gemacht und nicht Ihre voreingestelte Systemkonfiguration nicht beeinflussen." version="1" />
     <string key="loadExternalTitle" value="Neuen Speicher wählen" version="1" />
     <string key="easybcdFiles" value="EasyBCD Dateien" version="1" />
     <string key="errorRO1" value="Sie haben entweder keine Berechtigung in die gewählte Datei zu schreiben, die Datei ist auf 'Nur Lesen' gesetzt oder ist auf einem 'Nur Lesen'- Medium gespeichert." version="1" />
@@ -128,32 +110,48 @@
     <string key="errorBootIniTitle" value="Kann boot.ini nicht laden!" version="1" />
     <string key="errorBootIniFormat" value="EasyBCD konnte keine boot.ini Datei auf der Startpartition {0} finden .&#xD;&#xA;&#xD;&#xA;Bitte einen neuen Windows XP oder Windows 2000 Eintrag zufügen, um stattdessen die boot.ini Autokonfigurationsoption zu benutzen." version="1" />
     <string key="errorUtility" value="Fehler aufgetreten bei Ausführung des Hilfsprogrammes" version="1" />
-    <string key="sysInfo" value="System Information" version="1" />
-    <string key="sysInfoText" value="Zeigt Informationen bezüglich Ihrer momentanen Hardware und Software-Konfiguration. Nützlich für das Auffinden von Hardwarefehlern und um schnell einen Überblick der momentanen Systemkonfiguration zu erhalten." version="1" />
+    <string key="usbCreatorText" value="Easy USB Creator macht es kinderleicht und schnell,  ISO-Abbilder für die Windows Installation und andere Wiederherstellungswerkzeuge in in ein startfähiges USB Medium umzuwandeln (keine CDs oder DVDs benötigt) mit nur einem einzigen Mausklick." version="1" />
+    <string key="usbCreator" value="Easy USB Creator" version="1" />
     <string key="powerConsole" value="EasyBCD Power Konsole" version="1" />
-    <string key="powerConsoleText" value="Schneller Zugriff auf die Kommandozeilen-Oberfläche mit vollen Administrator-Rechten. Benützen Sie dies um Systemeinstellungen durchzuführen oder schnellen Zugriff auf bcdedit und bootsect.exe zu bekommen." version="1" />
-    <string key="sysRestore" value="Systemwiederherstellung" version="1" />
-    <string key="sysRestoreText" value="Öffnet den Systemwiederherstellungsdialog, benützen Sie dies um schnell Änderungen zurückzunehmen / reparieren, die Ihrem PC Probleme bereiten." version="1" />
+    <string key="powerConsoleText" value="Schneller Zugriff auf die Kommandozeilen-Oberfläche mit vollen Administrator-Rechten. Benutzen Sie dies um Systemeinstellungen durchzuführen oder schnellen Zugriff auf 'bcdedit.exe' und 'bootsect.exe' zu bekommen." version="1" /> 
+    <string key="oemKeyText" value="Benutzen Sie NeoSmart Technologies' kostenloses 'Windows OEM Product Key Werkzeug' unter Windows 8 and Windows 10, um den im System versteckten Windows Produkt Key (Produktschlüssel) zu finden und anzuzeigen." version="1" />
+    <string key="oemKey" value="Windows Product Key Werkzeug" version="1" />
     <string key="restoreCds" value="EasyRE Windows Wiederherstellungs CDs" version="2" />
-    <string key="restoreCdsText" value="'Easy Recovery Essentials for Windows' ist eine startfähige Reparatur &amp; Wiederherstellungs CD/ bzw. ein USB-Medium, das automatisch Ihren PC reparieren kann falls das Betriebssystem nicht startet. EasyRE's 'Ein-Klick-Reparaturprogramm'  sucht nach den meisten Startfehlern und repariert diese, inclusive  BSODs (Blauer Bildschirm), BCD-Fehler, Partitions-Falscheinstellungen und anderes mehr." version="2" />
+    <string key="restoreCdsText" value="'Easy Recovery Essentials für Windows' ist eine startfähige Reparatur &amp; Wiederherstellungs CD/ bzw. ein USB-Medium, das automatisch Ihren PC reparieren kann falls das Betriebssystem nicht startet. EasyRE's 'Ein-Klick-Reparaturprogramm'  sucht nach den meisten Startfehlern und repariert diese, inclusive  BSODs (Blauer Bildschirm), BCD-Fehler, Partitions-Falscheinstellungen und anderes mehr." version="2" />
     <string key="controlPanel" value="Systemsteuerung" version="1" />
-    <string key="controlPanelText" value="Starten Sie die Systemsteuerung und benützen Sie diese für was auch immer Sie wollen." version="1" />
+    <string key="controlPanelText" value="Starten Sie die Systemsteuerung und benutzen Sie diese für was auch immer Sie wollen." version="1" />
     <string key="iRebootText" value="NeoSmart Technologies' Helfer Applikation für EasyBCD. iReboot befindet sich in Ihrem Systemtray (belegt nur 400KB Speicher!) und läßt Sie schnell und leicht wählen, welches Betriebsystem beim Neustart geladen werden soll." version="1" />
     <string key="errorNoEntries" value="EasyBCD hat entdeckt, daß zur Zeit keine Einträge vorhanden sind. Falls Sie EasyBCD jetzt verlassen und den Computer neu starten wollen, wird dieser nicht hochfahren.&#xD;&#xA;&#xD;&#xA;Sind Sie sicher, daß Sie beenden wollen, ohne einen neuen Eintrag zu erstellen?" version="1" />
     <string key="errorNoEntriesTitle" value="Keine Einträge vorhanden!" version="1" />
-    <string key="warnDiffDevice" value="Die gewählte Datei ist auf einem anderen Gerät als die Startdateien gespeichert. Falls Sie beabsichtigen, diesen Starteintrag auf einem anderen PC als dem momentan benutzten zu nützen, sollten Sie diese Datei auf das externe Laufwerk kopieren und es dann nochmal versuchen.&#xD;&#xA;&#xD;&#xA;Möchten Sie trotzdem fortfahren?" version="1" />
-    <string key="isoHelp1" value="EasyBCD unterstützt das Laden von ISO Abbildern in zwei verschiedenen Modi. Bitte berücksichtigen Sie, daß nicht alle ISOs korrekt arbeiten; normalerweise werden Linux Konfigurations- ISOs nicht funktionieren." version="1" />
-    <string key="errorPathSaveTitle" value="Problem mit der Voreinstellung des Backup Pfades!" version="1" />
     <string key="errorPathSave" value="EasyBCD konnte den momentanen Backup-Pfad nicht als das Standard Backup-Verzeichnis erstellen. Die Option wurde deaktiviert." version="1" />
+    <string key="errorPathSaveTitle" value="Problem mit der Voreinstellung des Backup Pfades!" version="1" />
+    <string key="isoHelp1" value="EasyBCD unterstützt das Laden von ISO Abbildern in zwei verschiedenen Modi. Bitte berücksichtigen Sie, daß nicht alle ISOs korrekt arbeiten; normalerweise werden Linux Konfigurations- ISOs nicht funktionieren." version="1" />
     <string key="isoHelp2" value="Von Datenträger starten: Lädt schneller beim Start, aber läuft langsamer. Benötigt auch Vorbearbeitung mit EasyBCD während der Erstellung." version="1" />
     <string key="isoHelp3" value="Lade aus dem Speicher: Läuft schneller, aber braucht mehr Zeit entsprechend der Auswahl während des Startens. Könnte nicht funktionieren für größere Platten oder ältere Betriebssysteme." version="1" />
+    <string key="isoHelpTitle" value="Info über ISO Optionen" version="1" />
+    <string key="warnDiffDevice" value="Die gewählte Datei ist auf einem anderen Gerät als die Startdateien gespeichert. Falls Sie beabsichtigen, diesen Starteintrag auf einem anderen PC als dem momentan zu benutzen, sollten Sie diese Datei auf das externe Laufwerk kopieren und es dann nochmal versuchen.&#xD;&#xA;&#xD;&#xA;Möchten Sie trotzdem fortfahren?" version="1" />
+    <string key="diffDeviceTitle" value="Nichtportabler Eintrag gefunden!" version="1" />
+    <string key="errorNoBcd" value="Keine BCD-Registierung geladen - läuft im reduzierten Funktionalitäts-Modus!" version="1" />
+    <string key="bcdExceptionFormat" value="BCD Ausnahmefehler 0x{0:X3}" version="1" />
+    <string key="userCancel" value="Operation durch Nutzer abgebrochen" version="1" />
+    <string key="renameSuccess" value="Eintrag erfolgreich umbenannt" version="1" />
+    <string key="plop" value="EasyBCD BIOS Erweiterung" version="1" />
+    <string key="entryRemovedFormat" value="{0} wurde entfernt" version="1" />
+    <string key="drive2" value="Laufwerk" version="1" />
+    <string key="bcdResetStatus" value="BCD wurde erfolgreich zurückgesetzt. Bitte jetzt neu konfigurieren!" version="1" />
+    <string key="bcdRepaired" value="BCD erfolgreich repariert" version="1" />
+    <string key="configSaved" value="Eintragskonfiguration erfolgreich gespeichert" version="1" />
+    <string key="backupSuccess" value="BCD erfolgreich gesichert" version="1" />
+    <string key="restoreSuccess" value="Wiederherstellung erfolgreich ausgeführt" version="1" />
+    <string key="bcdRefresh" value="Zwischengespeicherte BCD Daten erfolgreich erneuert" version="1" />
+    <string key="optionsSaved" value="Optionen erfolgreich gespeichert" version="1" />
+    <string key="orderSaved" value="Eintragsreihenfolge gespeichet" version="1" />
+    <string key="easybcdStatus" value="EasyBCD Status" version="1" />
     <string key="saveFileTitle" value="Speichern als" version="1" />
     <string key="updateFoundText2" value="Eine neuere Version von EasyBCD wurde gefunden. Möchten Sie EasyBCD automatisch auf die neueste Version updaten?&#xD;&#xA;&#xD;&#xA;Drücken Sie 'Ja' für automatischen Download und Update, 'Nein' um die Liste der Änderungen zu sehen und das Update manuell durchzuführen, 'Abbrechen' um keine Änderungen durchzuführen." version="1" />
-    <string key="usbCreatorText" value="Easy USB Creator macht es kinderleicht und schnell,  ISO-Abbilder für die Windows Installation und andere Wiederherstellungswerkzeuge in in ein startfähiges USB Medium umzuwandeln (keine CDs oder DVDs benötigt) mit mur einem einzigen Mausklick." version="1" />
-    <string key="usbCreator" value="Easy USB Creator" version="1" />
-    <string key="oemKeyText" value="Benützen Sie NeoSmart Technologies' kostenloses &quot;Windows OEM Product Key Werkzeug&quot;  unter Windows 8 and Windows 10, um den im System versteckten Windows Produkt Key (Produktschlüssel) zu finden und anzuzeigen." version="1" />
-    <string key="oemKey" value="Windows Product Key Werkzeug" version="1" />
     <string key="help" value="Hilfe" version="1" />
     <string key="browse" value="Durchsuchen" version="1" />
+    <string key="errorPartTooSmall" value="Die gewählte Partition ist zu klein oder hat nicht genügend freien Speicherplatz, um das neue Startlaufwerk zu werden." />
+    <string key="operationAborted" value="Operation abgebrochen" />
   </strings>
 </localization>
