@@ -156,5 +156,6 @@
     <string key="cbxWinType" derive="true" />
     <string key="cbxLinType" derive="true" />
     <string key="lstFreeDos" value="FreeDOS" />
+    <string key="chkMetroUI" value="Użyj programu rozruchowego Metro" version="1" />
   </strings>
 </localization>
