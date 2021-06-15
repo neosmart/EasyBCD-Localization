@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="accessViolationFormat" value="Tidak dapat memperoleh akses eksklusif ke {0}. Jika ini adalah disk yang dapat dilepas, coba keluarkan dan masukkan kembali, lalu coba lagi." />
+    <string key="failedSave" value="Gagal untuk menyimpan perubahan!" />
+    <string key="accessDeniedTitle" value="Akses Ditolak" />
+    <string key="accessDeniedFormat" value="Akses ke {0} ditolak. Harap periksa apakah file tidak sedang digunakan dan Anda memiliki izin untuk menghapus/memodifikasi lokasi ini." />
+    <string key="oneEntry" value="Ada satu entri di bootloader Windows." />
+    <string key="multiEntriesFormat" value="Ada {0} total entri yang terdaftar di bootloader." />
+    <string key="entryNum" value="Entri #" />
+    <string key="name" value="Nama" />
+    <string key="bcdId" derive="true" />
+    <string key="drive" derive="true" />
+    <string key="device" value="Perangkat" />
+    <string key="path" value="Jalur" />
+    <string key="default" derive="true" />
+    <string key="timeout" value="Batas Waktu" />
+    <string key="none" value="Tidak Ada" />
+    <string key="timeoutFormat" derive="true" />
+    <string key="skipped" value="Dilewati" />
+    <string key="bootDevice" value="Drive Boot" />
+    <string key="ebcdBootDevice" value="Perangkat Boot EasyBCD" />
+    <string key="bootloaderPath" value="Jalur Bootloader" />
+    <string key="bcdError" value="Kesalahan Eksekusi BCD!" />
+    <string key="ntNotFoundTitle" value="Instalasi NT yang Valid Tidak Ditemukan!" />
+    <string key="ntNotFound" value="EasyBCD gagal mendeteksi penginstalan Windows NT-2003 yang valid pada semua drive yang terpasang dan tidak dapat melanjutkan." />
+    <string key="manuallyLoad" value="Apakah Anda ingin memuat registri BCD secara manual untuk dikelola oleh EasyBCD? Harap dicatat bahwa EasyBCD memerlukan bootloader BCD (diinstal secara default pada Windows Vista dan lebih tinggi), dan tidak akan bekerja di Windows XP dan sejenisnya." />
+    <string key="errorBcd" value="Kesalahan Dalam Membuka Registri BCD" />
+    <string key="locateValid" value="Temukan BCD yang valid" />
+    <string key="bcdRegistry" value="Registri BCD" />
+    <string key="partition" value="Partisi" />
+    <string key="unknown" value="Tidak Diketahui" />
+    <string key="gib" derive="true" />
+    <string key="mib" derive="true" />
+    <string key="as" value="sebagai" />
+    <string key="defragFormat" value="Memulai defragmentasi file {0}" />
+    <string key="unnamed" value="Entri Tidak Bernama" />
+  </strings>
+</localization>

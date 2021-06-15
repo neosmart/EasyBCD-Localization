@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linuxAuto" value="Cari dan muat secara otomatis" />
+    <string key="communityText" value="EasyBCD Edisi Komunitas dilisensikan secara bebas untuk penggunaan non-komersial.&#xD;&#xA;Jika Anda menggunakan perangkat lunak ini dalam lingkungan komersial, silakan klik 'Batal' di bawah ini untuk membeli lisensi komersial. Jika tidak, klik 'OK' untuk melanjutkan." />
+    <string key="communityTitle" value="EasyBCD Edisi Komunitas" />
+    <string key="bcdInUse" value="File saat ini sedang digunakan dan tidak dapat dibuka oleh EasyBCD. Jika Anda mencoba untuk (kembali) memilih penyimpanan sistem, tekan Tidak di bawah, lalu gunakan opsi &quot;Muat Penyimpanan Sistem&quot; dari menu Berkas.&#xD;&#xA;&#xD;&#xA;Apakah Anda ingin memilih toko lain untuk digunakan di EasyBCD?" />
+    <string key="bcdInUseTitle" value="Kesalahan Pelanggaran Akses" />
+    <string key="accessDenied" value="Akses Ditolak!" />
+    <string key="uncUnsupported" value="Jalur jaringan tidak didukung untuk fitur ini. Harap masukkan jalur lain dan coba lagi." />
+    <string key="uncUnsupportedTitle" value="Jalur UNC Tidak Didukung" />
+    <string key="invalidPathTitle" value="Jalur Tidak Valid!" />
+    <string key="invalidPath" value="File atau nama jalur yang tidak valid terdeteksi. Harap masukkan jalur yang valid untuk melanjutkan." />
+    <string key="updateCheck" value="Memeriksa pembaruan EasyBCD..." />
+    <string key="updateFailedSB" value="Pemeriksaan pembaruan EasyBCD gagal:" />
+    <string key="updateFailed" value="Pemeriksaan pembaruan gagal. Terjadi kesalahan saat membuat koneksi jaringan." />
+    <string key="updateFound" value="Versi baru EasyBCD ditemukan!" />
+    <string key="updateFoundText" value="Versi baru EasyBCD telah ditemukan. Apakah Anda ingin membuka halaman unduh EasyBCD sekarang untuk meningkatkan ke versi terbaru?" />
+    <string key="updateNone" value="Anda memiliki EasyBCD versi terbaru." />
+    <string key="install" value="Instal" />
+    <string key="remove" value="Hapus" />
+    <string key="adminLine1" value="EasyBCD memerlukan hak administrator untuk berjalan dengan benar, dan tidak dapat melanjutkan." />
+    <string key="adminLine2" value="Silakan masuk atau jalankan sebagai Administrator untuk melanjutkan." />
+    <string key="adminTitle" value="Izin Ditolak" />
+    <string key="easybcdBackup" value="Cadangan EasyBCD" />
+    <string key="yes" value="Ya" />
+    <string key="no" value="Tidak" />
+    <string key="registryFailed" value="Tidak dapat menulis pengaturan registri" />
+    <string key="commercialEdition" value="Edisi Komersil" />
+    <string key="communityEdition" value="Edisi Komunitas" />
+    <string key="failedAddTitle" value="Gagal Menambahkan Entri!" />
+    <string key="msdosHelp" value="Agar EasyBCD dapat boot ke MS-DOS 6.x atau Windows 3.x, IO.SYS dan MSDOS.SYS harus berada di awal partisi aktif.&#xD;&#xA;&#xD;&#xA;Untuk informasi lebih lanjut tentang bagaimana hal ini dilakukan, tekan 'Ya' untuk membuka halaman dokumentasi EasyBCD untuk entri berbasis DOS. Jika Anda tidak ingin melihat dokumentasi, tekan 'Tidak'." />
+    <string key="msdosHelpTitle" value="Baca Dokumentasi MS-DOS EasyBCD?" />
+    <string key="addedFormat" value="{0} berhasil ditambahkan ke menu boot!" />
+    <string key="neogrubBootloader" value="Bootloader NeoGrub" />
+    <string key="neogrubRemoved" value="NeoGrub berhasil dihapus!" />
+    <string key="vhdErrorTitle" value="Kesalahan Dalam Menambahkan Entri VHD" />
+    <string key="errorSpaces" value="Jalur gambar tidak boleh mengandung spasi. Harap perbaiki dan coba lagi." />
+    <string key="isoErrorTitle" value="Kesalahan Dalam Menambahkan Entri ISO" />
+    <string key="floppyErrorTitle" value="Kesalahan Dalam Menambahkan Entri Floppy" />
+    <string key="path" value="Jalur:" />
+    <string key="name" value="Nama:" />
+    <string key="drive" derive="true" />
+    <string key="browseFileTitle" value="Cari File" />
+    <string key="wimFiles" value="File Citra Windows" />
+    <string key="vhdFiles" value="File Virtual Hard Disk" />
+    <string key="isoFiles" value="File ISO" />
+    <string key="imgFiles" value="File IMG" />
+    <string key="bcdFiles" value="File Cadangan EasyBCD" />
+    <string key="safeIntro" value="EasyBCD memungkinkan Anda membuat entri tambahan untuk boot ke OS yang sama, tetapi dengan opsi yang berbeda. Dengan membuat entri baru dan memberi tanda Safe Mode/Mode Aman, Anda dapat menggunakannya untuk men-debug sistem Anda dengan cepat." />
+    <string key="safeNormal" value="Normal: Menonaktifkan semua opsi pemulihan, memungkinkan Anda boot ke OS secara normal." />
+    <string key="safeVga" value="Basic VGA: Memuat driver tampilan dasar, mengatur ulang resolusi layar." />
+    <string key="safeNetworking" value="Safe Mode w/ Networking: Boot ke mode aman dengan akses ke internet dan jaringan lokal." />
+    <string key="safeMode" value="Safe Mode: Boot ke mode aman tanpa akses jaringan. Berguna jika driver jaringan yang telah rusak." />
+    <string key="safeAD" value="Active Directory Repair: Boot Windows Server 2008 ke mode perbaikan Direktori Aktif." />
+    <string key="safeTitle" value="Tentang Opsi Mode Aman" />
+    <string key="paeIntro" value="Physical address extension/Ekstensi alamat fisik menentukan bagaimana Windows akan memetakan memori ekstra diatas 4 GiB." />
+    <string key="paeDefault" value="Default: Biarkan Windows menentukan bagaimana memori akan dipetakan." />
+    <string key="paeEnable" value="Force Enable: Memaksa pemetaan memori." />
+    <string key="paeDisable" value="Force Disable: Menonaktifkan pemetaan memori ekstra." />
+    <string key="paeTitle" value="Tentang Opsi PAE" />
+    <string key="nxIntro" value="DEP/NoExecute adalah sistem deteksi skrip berbahaya lapisan perangkat keras yang diperkenalkan di Windows XP SP2 yang dapat membantu melindungi sistem Anda dari serangan, tetapi diketahui menyebabkan beberapa masalah kompatibilitas." />
+    <string key="nxOptIn" value="OptIn: Windows dilindungi oleh DEP." />
+    <string key="nxOptOut" value="OptOut: Windows dan aplikasi dilindungi oleh DEP." />
+    <string key="commercialUseDetectedTitle" value="Kesalahan Lisensi Produk!" />
+    <string key="operationAborted" value="Operasi dibatalkan" />
+    <string key="browse" value="Cari" />
+    <string key="updateFoundText2" value="Versi baru EasyBCD telah ditemukan. Apakah Anda ingin EasyBCD secara otomatis memperbarui ke versi terbaru?&#xD;&#xA;&#xD;&#xA;Tekan 'Ya' untuk mengunduh dan meningkatkan versi secara otomatis, 'Tidak' untuk melihat daftar perubahan dan meningkatkan versi secara manual, atau 'Batal' untuk membatalkan." />
+    <string key="nxOn" value="AlwaysOn: DEP dipaksa untuk semua aplikasi." />
+    <string key="nxOff" value="AlwaysOff: DEP dinonaktifkan untuk Windows dan semua aplikasi." />
+    <string key="nxTitle" value="Tentang DEP/NoExecute" />
+    <string key="errorNotPrimary" value="Partisi boot harus menjadi partisi primer.&#xD;&#xA;&#xD;&#xA;Silakan pilih drive yang berbeda atau ubah partisi yang dipilih menjadi primer terlebih dahulu, lalu coba lagi." />
+    <string key="opNotAllowed" value="Operasi Tidak Diizinkan!" />
+    <string key="errorNotMounted" value="EasyBCD tidak dapat membuat drive yang tidak di-mount dapat di-boot. Harap tetapkan huruf ke drive yang dipilih, mulai ulang EasyBCD, dan coba lagi." />
+    <string key="invalidDrive" value="Operasi Drive Tidak Valid" />
+    <string key="bootableSuccess" value="EasyBCD telah berhasil mengubah disk yang dipilih menjadi drive yang dapat di-boot. Untuk mengkonfigurasi entri menu boot pada partisi yang dipilih, Anda harus menggunakan 'File | Pilih BCD' dan pilih file \Boot\BCD pada partisi yang baru saja Anda siapkan." />
+    <string key="mountBcdNow" value="Apakah Anda ingin memuat BCD yang baru dibuat secara otomatis di EasyBCD sekarang?" />
+    <string key="bootableTitle" value="Disk yang Dapat Di-boot Dibuat" />
+    <string key="accessDeniedText" value="Tidak dapat memperoleh akses ke BCD. Harap periksa dan pastikan bahwa penyimpanan BCD pada perangkat yang dipilih sedang tidak digunakan." />
+    <string key="partitionConverted" value="Partisi dikonversi ke drive yang dapat di-boot" />
+    <string key="bcdRemove1" value="Ini adalah opsi lanjutan yang hanya boleh digunakan jika Anda benar-benar yakin ingin menghapus bootloader BCD/BOOTMGR! Versi bootloader ini diperlukan untuk boot ke Windows Vista atau lebih tinggi!" />
+    <string key="bcdRemove2" value="Fitur ini hanya akan boot ke Windows XP jika file boot yang tepat sudah ada!" />
+    <string key="bcdRemove3" value="Apakah Anda yakin ingin melanjutkan?" />
+    <string key="warning" value="Peringatan!" />
+    <string key="mbrSuccess" value="MBR berhasil ditulis" />
+    <string key="bootloaderSuccess" value="Pengaturan bootloader berhasil disimpan" />
+    <string key="bcdReset" value="BCD telah berhasil direset. Semua entri telah dihapus!&#xD;&#xA;&#xD;&#xA;Penting: Anda harus menambahkan setidaknya satu entri atau PC Anda tidak akan bisa boot!" />
+    <string key="bcdResetTitle" value="Reset BCD" />
+    <string key="selectBootTitle" value="Pilih Partisi Boot Baru" />
+    <string key="selectBoot" value="EasyBCD akan mengkonfigurasi ulang sistem Anda untuk boot dari partisi yang Anda pilih di bawah ini. Proses ini akan menyiapkan penyimpanan BCD pada disk yang dipilih, menyalin entri BCD saat ini, dan membuat partisi yang dipilih aktif &amp; dapat di-boot." />
+    <string key="errorLogical" value="Upaya telah dilakukan untuk mengubah partisi boot ke drive logis, yang tidak diperbolehkan. Partisi boot harus menjadi partisi primer.&#xD;&#xA;&#xD;&#xA;Silakan pilih drive yang berbeda atau ubah partisi yang dipilih menjadi primer terlebih dahulu, lalu coba lagi." />
+    <string key="bootChangedTitle" value="Partisi Boot Berubah" />
+    <string key="unsupportedOS" value="Opsi ini hanya tersedia di Windows Vista dan lebih tinggi." />
+    <string key="unsupportedOSTitle" value="Sistem Operasi Tidak Didukung!" />
+    <string key="errorNoRestore" value="Kesalahan fatal: Tidak dapat memulihkan BCD yang dipilih." />
+    <string key="errorNoRestoreTitle" value="Kesalahan Pemulihan" />
+    <string key="confirmDelete" value="Anda yakin ingin menghapus entri ini?" />
+    <string key="confirmDeleteTitle" value="Konfirmasi Hapus?" />
+    <string key="entryDeleted" value="Entri menu boot dihapus" />
+    <string key="thankYou" value="Dukungan Anda dihargai!" />
+    <string key="loadExternal" value="Dengan fitur ini, EasyBCD akan memuat dan menggunakan database BCD eksternal pilihan Anda. Perubahan akan dilakukan pada penyimpanan BCD ini dan tidak akan mempengaruhi konfigurasi sistem default Anda." />
+    <string key="loadExternalTitle" value="Memilih BCD Baru" />
+    <string key="easybcdFiles" value="File EasyBCD" />
+    <string key="errorRO1" value="Anda tidak memiliki izin untuk menulis ke file yang dipilih, file diatur ke hanya-baca, atau disimpan di media hanya-baca." />
+    <string key="errorRO2" value="Jika Anda memilih untuk melanjutkan, perubahan yang dilakukan pada penyimpanan BCD ini tidak akan disimpan. Tekan 'Ya' untuk melanjutkan dan memuat penyimpanan BCD ini dalam mode hanya-baca atau 'Tidak' untuk melanjutkan menggunakan penyimpanan BCD sebelumnya." />
+    <string key="errorROTitle" value="BCD Hanya-Baca Terdeteksi" />
+    <string key="bcdLoadedFormat" value="Informasi BCD dimuat dari {0}" />
+    <string key="noBcd" value="Tidak ada BCD yang dimuat. EasyBCD berjalan dalam mode terbatas." />
+    <string key="confirmRestart" value="Apakah Anda yakin ingin me-restart komputer Anda?" />
+    <string key="confirmRestartTitle" value="Konfirmasi Mulai Ulang" />
+    <string key="shutdownStarted" value="Shutdown dimulai." />
+    <string key="hiddenBootIni" value="Boot.ini terletak di partisi boot tersembunyi dan tidak dapat dimuat untuk pengeditan pengguna oleh EasyBCD.&#xD;&#xA;&#xD;&#xA;Harap tetapkan huruf drive ke partisi boot tersembunyi atau gunakan fitur konfigurasi otomatis boot ganda Windows XP." />
+    <string key="errorBootIniTitle" value="Tidak dapat memuat boot.ini!" />
+    <string key="errorBootIniFormat" value="EasyBCD tidak dapat mendeteksi file boot.ini yang ada pada partisi boot {0}.&#xD;&#xA;&#xD;&#xA;Harap tambahkan entri Windows XP atau Windows 2000 baru untuk menggunakan fitur konfigurasi otomatis boot.ini." />
+    <string key="errorUtility" value="Terjadi Kesalahan Saat Menjalankan Utilitas" />
+    <string key="usbCreatorText" value="Easy USB Creator membuatnya sangat cepat dan mudah untuk mengonversi gambar ISO untuk Pengaturan Windows dan alat pemulihan lainnya menjadi USB yang dapat di-boot (tidak memerlukan CD atau DVD) hanya dengan satu klik." />
+    <string key="usbCreator" derive="true" />
+    <string key="powerConsole" derive="true" />
+    <string key="powerConsoleText" value="Akses cepat ke shell baris perintah dengan hak administratif penuh. Gunakan untuk menjalankan fungsi sistem atau akses cepat ke bcdedit dan bootsect.exe." />
+    <string key="oemKeyText" value="Gunakan Alat Kunci Produk OEM Windows NeoSmart Technologies gratis untuk mencari dan mengambil kunci produk Windows yang tertanam di PC atau laptop Anda untuk Windows 8 dan Windows 10." />
+    <string key="oemKey" derive="true" />
+    <string key="restoreCds" derive="true" />
+    <string key="restoreCdsText" value="Easy Recovery Essentials untuk Windows adalah CD/USB perbaikan dan pemulihan yang dapat di-boot yang dapat secara otomatis memperbaiki PC Anda saat berikutnya tidak dapat boot. Perbaikan satu klik EasyRE akan mencari dan memperbaiki hampir semua kesalahan boot, termasuk BSOD, kesalahan BCD, kesalahan konfigurasi partisi, dan banyak lagi." />
+    <string key="controlPanel" derive="true" />
+    <string key="controlPanelText" value="Luncurkan Control Panel, dan gunakan untuk melakukan apa pun yang Anda suka." />
+    <string key="iRebootText" value="Aplikasi pembantu NeoSmart Technologies untuk EasyBCD. iReboot berada di taskbar Anda (hanya menghabiskan 400KB memori!) dan memungkinkan Anda memilih sistem operasi mana yang akan di-boot ulang dengan cepat dan mudah." />
+    <string key="errorNoEntries" value="EasyBCD telah mendeteksi bahwa tidak ada entri yang terpasang. Jika Anda keluar dari EasyBCD dan me-restart komputer Anda, komputer tidak akan bisa boot.&#xD;&#xA;&#xD;&#xA;Apakah Anda yakin ingin keluar sebelum menambahkan entri baru?" />
+    <string key="errorNoEntriesTitle" value="Tidak Ada Entri yang Dipasang!" />
+    <string key="errorPathSave" value="EasyBCD gagal menyimpan jalur pencadangan saat ini sebagai direktori pencadangan default. Opsi telah dinonaktifkan." />
+    <string key="errorPathSaveTitle" value="Masalah Jalur Cadangan Default" />
+    <string key="isoHelp1" value="EasyBCD mendukung pemuatan gambar ISO dalam dua mode berbeda. Harap dicatat bahwa tidak semua ISO akan berfungsi dengan benar; biasanya ISO Linux tidak akan berfungsi." />
+    <string key="isoHelp2" value="Jalankan dari Disk: Memuat lebih cepat saat boot, tetapi berjalan lebih lambat. Juga memerlukan pra-pemrosesan oleh EasyBCD selama pembuatan." />
+    <string key="isoHelp3" value="Muat dari Memori: Berjalan lebih cepat, tetapi membutuhkan waktu untuk memuat saat pemilihan saat boot. Mungkin gagal untuk disk yang lebih besar atau PC yang lebih lama." />
+    <string key="isoHelpTitle" value="Tentang Opsi ISO" />
+    <string key="warnDiffDevice" value="File yang dipilih disimpan pada perangkat yang berbeda dari file boot. Jika Anda bermaksud menggunakan entri ini untuk boot pada PC yang berbeda dari yang Anda gunakan saat ini, Anda harus menyalin file ini ke drive eksternal lalu coba lagi.&#xD;&#xA;&#xD;&#xA;Tetap ingin melanjutkan?" />
+    <string key="diffDeviceTitle" value="Entri Non-Portabel Terdeteksi!" />
+    <string key="errorNoBcd" value="Tidak ada registri BCD yang dimuat - berjalan dalam mode fungsionalitas yang dikurangi!" />
+    <string key="bcdExceptionFormat" derive="true" />
+    <string key="userCancel" value="Operasi dibatalkan oleh pengguna." />
+    <string key="renameSuccess" value="Entri berhasil diganti namanya" />
+    <string key="plop" value="BIOS Extender EasyBCD" />
+    <string key="entryRemovedFormat" value="{0} telah dihapus" />
+    <string key="drive2" derive="true" />
+    <string key="bcdResetStatus" value="Reset BCD berhasil. Harap konfigurasi ulang sekarang!" />
+    <string key="bcdRepaired" value="BCD berhasil diperbaiki" />
+    <string key="configSaved" value="Konfigurasi entri berhasil disimpan" />
+    <string key="backupSuccess" value="BCD berhasil dicadangkan" />
+    <string key="restoreSuccess" value="Pemulihan berhasil diselesaikan" />
+    <string key="bcdRefresh" value="Data Cache BCD telah berhasil di-segarkan" />
+    <string key="optionsSaved" value="Opsi berhasil disimpan!" />
+    <string key="orderSaved" value="Urutan entri disimpan" />
+    <string key="easybcdStatus" value="Status EasyBCD" />
+    <string key="saveFileTitle" value="Simpan Sebagai" />
+    <string key="help" value="Bantuan" />
+    <string key="errorPartTooSmall" value="Partisi yang dipilih terlalu kecil atau tidak memiliki cukup ruang kosong untuk menjadi drive boot baru." />
+    <string key="commercialUseDetected" value="Lisensi produk diperlukan untuk menggunakan EasyBCD secara komersial. Apakah Anda ingin membeli satu sekarang? Perhatikan bahwa sebagian besar fitur tidak akan tersedia tanpa lisensi." />
+    <string key="featureUnavailable" value="Fitur ini tidak tersedia tanpa lisensi produk. Apakah Anda ingin membeli lisensi sekarang?" />
+    <string key="featureUnavailableTitle" value="Fitur Dibatasi" />
+  </strings>
+</localization>

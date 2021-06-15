@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linkLabel" value="Salinan EasyBCD ini memerlukan pembelian lisensi komersial.&#xD;&#xA;&#xD;&#xA;Harap masukkan alamat email atau nomor lisensi yang terkait dengan pembelian Anda. Klik di sini untuk membeli lisensi, atau hubungi Sales@NeoSmart.net untuk mendapatkan dukungan." />
+    <string key="linkClick" value="Klik Disini" />
+    <string key="linkEmail" derive="true" />
+    <string key="btnSkip" value="S&amp;Lewati" />
+    <string key="btnRegister" value="&amp;Daftar" />
+    <string key="lblTitle" value="EasyBCD Edisi Komersil" />
+    <string key="lblLicenseKey" value="Email atau Kunci Lisensi:" />
+    <string key="LicenseDialog" value="EasyBCD Edisi Komersil&#xD;&#xA;" />
+    <string key="email" derive="true" />
+    <string key="licenseKey" value="Kunci Lisensi" />
+    <string key="seats" value="Tempat Duduk" />
+    <string key="regFailTitle" value="Pendaftaran Gagal!" />
+    <string key="regFail" value="Email atau kunci lisensi salah. Silakan coba lagi." />
+    <string key="regException" value="Terjadi kesalahan saat mendapatkan lisensi dari server. Pastikan Anda terhubung ke internet atau coba lagi nanti." />
+    <string key="regExceptionTitle" value="Tidak Dapat Mendaftar" />
+    <string key="btnContinue" value="Lanjut" />
+    <string key="regSuccess" value="Pendaftaran Berhasil" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+  </strings>
+</localization>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblDriveSelect" value="Drive Boot Baru:" />
+    <string key="lblBody" value="EasyBCD akan mengatur ulang sistem Anda untuk boot dari partisi yang Anda pilih di bawah ini. Proses ini akan menyiapkan penyimpanan BCD pada disk yang dipilih, menyalin entri BCD saat ini, dan membuat partisi yang dipilih aktif &amp; dapat di-boot." />
+    <string key="OK_Button" derive="true" />
+    <string key="Cancel_Button" value="&amp;Batal" />
+    <string key="DriveSelect" value="PilihDrive" />
+    <string key="errorAlreadyBoot" value="Drive yang Anda pilih sudah menjadi drive boot saat ini. Pilih drive lain untuk melanjutkan!" />
+    <string key="errorAlreadyBootTitle" value="Silakan pilih drive lain!" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" value="199" />
+  </strings>
+</localization>
