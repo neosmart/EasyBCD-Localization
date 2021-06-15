@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OKButton" derive="true" />
+    <string key="seatsAllowed" value="pengguna/perangkat diizinkan" />
+    <string key="unlicensed" value="Salinan tidak berlisensi!" />
+    <string key="version" value="Versi" />
+    <string key="copyright" derive="true" />
+    <string key="aboutText1" value="EasyBCD adalah alat manajemen bootloader terbaik. EasyBCD tidak akan menjamin akan bekerja dengan semua versi Windows - selalu pastikan Anda menggunakan versi terbaru yang tersedia.&#xD;&#xA;&#xD;&#xA;• Pengembang utama: Mahmoud H. Al-Qudsi&#xD;&#xA;• Terjemahan ke Bahasa Indonesia: RZ.K a.k.a Rizky&#xD;&#xA;• Bahan Aktif: Keringat, darah, dan air mata&#xD;&#xA;• Didukung oleh C++, C#, Dr. Pepper, Excedrin, dan Visine&#xD;&#xA;• Semua boot Anda adalah milik kami!" />
+    <string key="thanksFormat" value="Terima kasih khusus kepada tim Grub4Dos, PLoP,{0} dan UltraDefrag!&#xD;&#xA;&#xD;&#xA;Distribusi EasyBCD ini datang dengan komponen (Grub4Dos dan UltraDefrag) yang dilisensikan di bawah persyaratan lisensi GPLv2. Untuk informasi lebih lanjut, silakan lihat file LISENSE di direktori instalasi." />
+    <string key="title" value="Tentang {0}" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+  </strings>
+</localization>
