@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="lblApplyingActions" value="O EasyBCD está aplicando a ação selecionada." version="1" />
+    <string key="lblApplyingActions" value="O EasyBCD está a aplicar a ação selecionada.." version="1" />
     <string key="ProgressDialog" value="Aguarde..." version="1" />
     <string key="MinimumWidth" value="371" />
-    <string key="MinimumHeight" value="110" version="1" />
+    <string key="MinimumHeight" value="110" />
   </strings>
 </localization>
