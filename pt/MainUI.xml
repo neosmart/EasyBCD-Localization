@@ -93,7 +93,7 @@
     <string key="grpOS" value="Sistemas operativos" version="1" />
     <string key="tabAddEntry" value="3" version="1" />
     <string key="btnSaveSettings" value="Gravar definições" version="1" />
-    <string key="lblLocale" value="Local:" version="1" />
+    <string key="lblLocale" value="Localização:" version="1" />
     <string key="lblMenuLocale" clone="lblLocale" />
     <string key="tabEntryBasic" value="Básico" version="1" />
     <string key="lblSafeMode" value="Modo Segurança:" version="1" />
@@ -169,7 +169,7 @@
     <string key="cbxWinType" derive="true" />
     <string key="cbxLinType" derive="true" />
     <string key="cbxMacType" value="EFI (Padrão)&#xD;&#xA;MBR" version="1" />
-    <string key="cbxEntryDep" value="OptIn&#xD;&#xA;OptOut&#xD;&#xA;Sempre Ligado&#xD;&#xA;Sempre Desligado" version="1" />
+    <string key="cbxEntryDep" value="OptIn&#xD;&#xA;OptOut&#xD;&#xA;AlwaysOn&#xD;&#xA;AlwaysOff" version="1" />
     <string key="cbxEntryPae" value="Padrão&#xD;&#xA;Ativar&#xD;&#xA;Desativar" version="1" />
     <string key="cbxEntrySafe" value="Normal&#xD;&#xA;Modo Segurança&#xD;&#xA;Modo Segurança com Rede&#xD;&#xA;Linha de Comandos/Shell Alternativa&#xD;&#xA;VGA Básica&#xD;&#xA;Reparação do Active Directory" version="1" />
     <string key="emptyList" value="Nenhuma entrada detectada!" version="1" />

@@ -12,7 +12,7 @@
     <string key="bcdId" value="ID BCD" version="1" />
     <string key="drive" value="Unidade" version="1" />
     <string key="device" value="Dispositivo" version="1" />
-    <string key="path" value="Local" version="1" />
+    <string key="path" value="Localização" version="1" />
     <string key="default" value="Predefinido" version="1" />
     <string key="timeout" value="Tempo limite" version="1" />
     <string key="none" value="Nenhum" version="1" />
@@ -20,7 +20,7 @@
     <string key="skipped" value="Ignorado" version="1" />
     <string key="bootDevice" value="Unidade de arranque" version="1" />
     <string key="ebcdBootDevice" value="Disp. de Boot EasyBCD" version="1" />
-    <string key="bootloaderPath" value="Local do carregador de arranque" version="1" />
+    <string key="bootloaderPath" value="Localização do carregador de arranque" version="1" />
     <string key="bcdError" value="Erro de execução do BCD!" version="1" />
     <string key="ntNotFoundTitle" value="Instalação NT Válida não encontrada!" version="1" />
     <string key="ntNotFound" value="O EasyBCD falhou ao detectar uma instalação válida do Windows NT-2003 em todos as unidades montadas e não pôde continuar." version="1" />

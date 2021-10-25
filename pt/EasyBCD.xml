@@ -38,7 +38,7 @@
     <string key="errorSpaces" value="O local da imagem não pode conter espaços. Corrija isto e tente novamente." version="1" />
     <string key="isoErrorTitle" value="Erro ao adicionar entrada ISO" version="1" />
     <string key="floppyErrorTitle" value="Erro ao adicionar entrada de disquete" version="1" />
-    <string key="path" value="Local:" version="1" />
+    <string key="path" value="Localização:" version="1" />
     <string key="name" value="Nome:" version="1" />
     <string key="drive" value="Unidade:" version="1" />
     <string key="browseFileTitle" value="Localizar ficheiro" version="1" />
@@ -61,9 +61,9 @@
     <string key="paeTitle" value="Sobre as opções do PAE" version="1" />
     <string key="nxIntro" value="DEP/NoExecute é um sistema de detecção de scripts maliciosos a nível de hardware introduzido no Windows XP SP2 que pode ajudar a proteger o sistema, mas que pode causar alguns problemas de compatibilidade." version="1" />
     <string key="nxOptIn" value="OptIn: Núcleo do Windows protegido por DEP" version="1" />
-    <string key="nxOptOut" value="OptOut: o Windows e aplicações são protegidos por DEP" version="1" />
+    <string key="nxOptOut" value="OptOut: O Windows e aplicações são protegidos por DEP" version="1" />
     <string key="nxOn" value="AlwaysOn: DEP forçado para todos as aplicações." version="1" />
-    <string key="nxOff" value="AlwaysOff: o DEP está desativado para o Windows e todos as aplicações." version="1" />
+    <string key="nxOff" value="AlwaysOff: DEP desativado para o Windows e todos as aplicações." version="1" />
     <string key="nxTitle" value="Sobre DEP/NoExecute" version="1" />
     <string key="errorNotPrimary" value="A partição de arranque deve ser uma partição primária.&#xD;&#xA;&#xD;&#xA;Selecione uma unidade diferente ou converta a partição selecionada para primária primeiro, depois tente novamente." version="1" />
     <string key="opNotAllowed" value="Operação não nermitida!" version="1" />
