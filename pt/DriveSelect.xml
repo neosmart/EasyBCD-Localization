@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblDriveSelect" value="Nova unidade de arranque:" version="1" />
+    <string key="lblBody" value="O EasyBCD vai reconfigurar o sistema para iniciar a partir da partição que selecionar abaixo. Este processo irá criar um registo BCD no disco selecionado, copiar as entradas BCD atuais e tornar a partição selecionada ativa e de arranque." version="1" />
+    <string key="OK_Button" value="&amp;OK" version="1" />
+    <string key="Cancel_Button" value="&amp;Cancelar" version="1" />
+    <string key="DriveSelect" value="SeleçãoUnidade" version="1" />
+    <string key="errorAlreadyBoot" value="A unidade selecionada já é o disco de arranque atual. Selecione uma unidade diferente para continuar!" version="1" />
+    <string key="errorAlreadyBootTitle" value="Selecione outra unidade!" version="1" />
+    <string key="MinimumWidth" value="518" />
+    <string key="MinimumHeight" value="199" />
+  </strings>
+</localization>

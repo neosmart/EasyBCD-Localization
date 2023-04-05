@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OK_Button" value="OK" version="1" />
+    <string key="Cancel_Button" value="Cancelar" version="1" />
+    <string key="Body" value="Para poder continuar, o EasyBCD necessita de aceder ao suporte de instalação do Windows Vista ou superior (normalmente um DVD ou uma imagem de disco). &#xD;&#xA;&#xD;&#xA;Insira o DVD no leitor ou monte a imagem e depois prima OK para continuar." version="2" />
+    <string key="SdiMaker" value="Inserir suporte de instalação do Windows" version="1" />
+    <string key="mediaNotFound" value="Suporte válido de instalação do Windows não detectado." version="1" />
+    <string key="MinimumWidth" value="381" />
+    <string key="MinimumHeight" value="196" />
+  </strings>
+</localization>

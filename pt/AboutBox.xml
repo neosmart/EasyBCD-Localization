@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OKButton" derive="true" />
+    <string key="seatsAllowed" value="utilizadores/dispositivos permitidos" version="1" />
+    <string key="unlicensed" value="Cópia não licenciada!" version="1" />
+    <string key="version" value="Versão" version="1" />
+    <string key="copyright" derive="true" />
+    <string key="aboutText1" value="O EasyBCD é derradeira ferramenta de gestão de arranque. Não há garantia que o EasyBCD irá funcionar com todas as versões do Windows - certifique-se sempre que está a usar a última versão disponível. &#xD;&#xA;&#xD;&#xA;• Programador principal: Mahmoud H. Al-Qudsi&#xD;&#xA;• Tradução do Português: Hugo Carvalho&#xD;&#xA;• Ingredientes ativos: Sangue, suor e lágrimas&#xD;&#xA;• Alimentado por C++, C#, Dr. Pepper, Excedrin, e Visine&#xD;&#xA;• Todo o seu arranque pertence-nos!" version="1" />
+    <string key="thanksFormat" value="Agradecimento especial às equipas do Grub4Dos, PLoP,{0} e UltraDefrag!&#xD;&#xA;&#xD;&#xA;Esta distribuição EasyBCD chega com componentes independentes (Grub4Dos e UltraDefrag) licenciados sob os termos da licença GPLv2. Para mais informações, veja o ficheiro LICENSE na pasta de instalação." version="1" />
+    <string key="title" value="Sobre o {0}" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+  </strings>
+</localization>
