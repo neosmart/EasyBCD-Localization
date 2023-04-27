@@ -3,7 +3,7 @@ EasyBCD Localizations
 
 This git repository contains the official localizations of [EasyBCD](http://neosmart.net/EasyBCD/), including both user-contributed and NeoSmart Technologies localizations. EasyBCD localizations take the form of XML files created and deployed via the open source (MIT-licensed) [NeoSmart Localization Toolkit](https://github.com/NeoSmart/Localization).
 
-###Languages and Acknowledgements
+### Languages and Acknowledgements
 
 These are the languages currently available in this repository, thanks to the selfless work of these contributors:
 
@@ -29,11 +29,11 @@ These are the languages currently available in this repository, thanks to the se
 * Turkish (Türkçe) - Fara Delisi
 * Ukrainian (Українська) - z_mashine
 
-###Contribution
+### Contribution
 
 If you would like to contribute a new or improved localization of EasyBCD, please follow the instructions listed [on this page](http://neosmart.net/forums/showthread.php?t=696).
 
-###Links
+### Links
 * [EasyBCD](http://neosmart.net/EasyBCD/)
 * [NeoSmart Localization Toolkit](https://github.com/NeoSmart/Localization)
 * [Contribution Guide](http://neosmart.net/forums/showthread.php?t=696)
