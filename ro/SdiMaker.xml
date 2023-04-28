@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OK_Button" value="OK" />
+    <string key="Cancel_Button" value="Renunță" />
+    <string key="Body" value="Pentru a continua, EasyBCD trebuie să acceseze Windows Vista sau suportul de instalare superior (de obicei un DVD sau o imagine de disc).&#xD;&#xA;&#xD;&#xA;Vă rugăm să introduceți DVD-ul în unitatea optică sau să montați imaginea discului, apoi apăsați OK pentru a continua." />
+    <string key="SdiMaker" value="Introduceți (suportul) mediul de instalare Windows" />
+    <string key="mediaNotFound" value="Nu a fost detectat mediul (suportul) de instalare Windows" />
+    <string key="MinimumWidth" value="381" />
+    <string key="MinimumHeight" value="196" />
+  </strings>
+</localization>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnOK" value="Ok" />
+    <string key="btnCancel" value="Renunță" />
+    <string key="chkExpertMode" value="Rulează EasyBCD în modul expert" />
+    <string key="chkRememberBackup" value="Ține minte directorul de backup BCD la ieșire" />
+    <string key="lblExpertMode" value="Modul Expert nu avertizează utilizatorul înainte de a aplica modificări avansate!" />
+    <string key="chkLoadDefaultBcd" value="Încărcați automat următorul fișier BCD la pornire:" />
+    <string key="btnBrowseBcd" value="..." />
+    <string key="chkAutoUpdate" value="Auto-salvare la fiecare" />
+    <string key="chkRss" value="Include NeoSmart Technologies în Platforma Windows RSS" />
+    <string key="numUpdateInterval" value="0" />
+    <string key="rdoDays" value="zi(le)" />
+    <string key="rdoWeeks" value="săptămână(i)" />
+    <string key="rdoMonths" value="lună(i)" />
+    <string key="lblLastUpdateCheck" value="Ultima verificare automată:" />
+    <string key="tabGeneralSettings" value="Setari generale" />
+    <string key="lblDefaultTab" value="Tab-ul implicit la lansare" />
+    <string key="lblDefaultDisplay" value="Modul de afișare implicit:" />
+    <string key="lblOverviewFont" value="Fontul general:" />
+    <string key="lblDetailedFont" value="Fontul pentru detalii:" />
+    <string key="lblOverviewSize" value="Mărime:" />
+    <string key="numFontOverview" value="8" />
+    <string key="lblOverviewPt" value="pct." />
+    <string key="lblDetailedSize" value="Mărime:" />
+    <string key="numFontDetailed" value="8" />
+    <string key="lblDetailedPt" value="pct." />
+    <string key="chkWordWrap" value="Modul încardat activat implicit" />
+    <string key="chkSaveWindow" value="Salvarea mărimii ferestrei EasyBCD la ieșire" />
+    <string key="ResetSize" value="Resetarea opțiunilor de afișare" />
+    <string key="tabDisplayOptions" value="Opțiuni de afișare" />
+    <string key="OptionsDialog" value="Setări EasyBCD" />
+    <string key="overview" value="Global" />
+    <string key="detailed" value="Detaliat" />
+    <string key="locateBcd" value="Căutați o locație BCD validă" />
+    <string key="never" value="Niciodată" />
+    <string key="MinimumWidth" value="452" />
+    <string key="MinimumHeight" value="359" />
+  </strings>
+</localization>

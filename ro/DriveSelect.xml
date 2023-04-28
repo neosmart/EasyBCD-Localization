@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblDriveSelect" value="Unitate de boot nouă:" />
+    <string key="lblBody" value="EasyBCD va reconfigura sistemul pentru a porni din partiția pe care o selectați mai jos. Acest proces va configura un sector BCD pe discul selectat, va copia înregistrările BCD curente și va face ca partiția selectată să fie activă și bootabilă." />
+    <string key="OK_Button" value="&amp;Ok" />
+    <string key="Cancel_Button" value="Renunță" />
+    <string key="DriveSelect" value="DriveSelect" />
+    <string key="errorAlreadyBoot" value="Unitatea selectată este deja unitatea de bootare curentă. Vă rugăm să selectați o unitate diferită pentru a continua!" />
+    <string key="errorAlreadyBootTitle" value="Vă rugăm să selectați o altă unitate!" />
+    <string key="MinimumWidth" value="518" />
+    <string key="MinimumHeight" value="199" />
+  </strings>
+</localization>

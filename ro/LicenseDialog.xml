@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linkLabel" value="Această copie a EasyBCD necesită achiziționarea unei licențe comerciale.&#xD;&#xA;&#xD;&#xA;Vă rugăm să introduceți fie adresa de e-mail, fie numărul de licență asociat achiziției dumneavoastră. Faceți clic aici pentru a achiziționa o licență sau contactați Sales@NeoSmart.net pentru asistență." />
+    <string key="linkClick" value="Clic aici" />
+    <string key="linkEmail" value="Sales@NeoSmart.net" />
+    <string key="btnSkip" value="Sari" />
+    <string key="btnRegister" value="În&amp;registrare" />
+    <string key="lblTitle" value="EasyBCD Ediția comercială" />
+    <string key="lblLicenseKey" value="Email sau cheia de licență:" />
+    <string key="LicenseDialog" value="EasyBCD Ediția comercială" />
+    <string key="email" value="Email" />
+    <string key="licenseKey" value="Cheia de licență" />
+    <string key="regFailTitle" value="Înregistrare nereușită!" />
+    <string key="regFail" value="Email sau cheie de licență incorecte. Vă rugăm reîncercați." />
+    <string key="regException" value="A apărut o eroare la obținerea licenței de la serverul nostru. Vă rugăm să vă asigurați că sunteți conectat la internet sau încercați din nou mai târziu." />
+    <string key="regExceptionTitle" value="Înregistrare eșuată" />
+    <string key="btnContinue" value="Continuă" />
+    <string key="regSuccess" value="Înregistrare reușită!" />
+    <string key="MinimumWidth" value="511" />
+    <string key="MinimumHeight" value="334" />
+  </strings>
+</localization>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="chkDontRemind" value="Nu-mi mai reaminti" />
+    <string key="btnCancel" value="Nu, mulțumesc!" />
+    <string key="btnDonate" value="&amp;Donează" />
+    <string key="lblDonationIntro" value="Ediția comunitară a EasyBCD  este un software 100% gratuit și intenționăm să îl menținem așa. Dar doar pentru că este gratuit nu înseamnă că costă mai puțin dezvoltarea și testarea.&#xD;&#xA;&#xD;&#xA;Până în prezent, EasyBCD a fost descărcat gratuit de peste 25 de milioane de ori, salvând nenumărate computere din pragul distrugerii." />
+    <string key="donationTitle" value="Ajută EasyBCD ca să te ajuți!" />
+    <string key="lblYouDonate" value="Donează pentru a ajuta EasyBCD să salveze mai multe PC-uri?" />
+    <string key="DonationDialog" value="Te-a ajutat EasyBCD?" />
+    <string key="MinimumWidth" value="481" />
+    <string key="MinimumHeight" value="342" />
+  </strings>
+</localization>

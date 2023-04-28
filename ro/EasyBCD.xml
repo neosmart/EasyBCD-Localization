@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linuxAuto" value="Localizează și încarcă automat" />
+    <string key="communityText" value="Ediția comunitară EasyBCD este licențiată în modul liber pentru utilizare non-comercială.&#xD;&#xA;Dacă utilizați această aplicație într-un mediu comercial, faceți clic mai jos pe „Anulați” pentru a achiziționa o licență comercială. În caz contrar, faceți clic pe „OK” pentru a continua." />
+    <string key="communityTitle" value="Ediția comunitară EasyBCD" />
+    <string key="bcdInUse" value="Fișierul curent este în uz și nu poate fi deschis de EasyBCD. Dacă doriți să (re) selectați locația sistemului de operare, apăsați „Nu” mai jos și apoi folosiți opțiunea „Încarcă BCD sistem” din meniul Fișier.&#xD;&#xA;&#xD;&#xA;Doriți să selectați o altă locație pentru a fi utilizată în EasyBCD?" />
+    <string key="bcdInUseTitle" value="Eroare de încălcare a accesului" />
+    <string key="accessDenied" value="Acces interzis!" />
+    <string key="uncUnsupported" value="Căile de rețea nu sunt acceptate pentru această caracteristică. Vă rugăm să introduceți o altă cale și să încercați din nou." />
+    <string key="uncUnsupportedTitle" value="Căile UNC nu sunt acceptate" />
+    <string key="invalidPath" value="Fișier sau nume de cale invalide detectate. Vă rugăm să introduceți o cale validă pentru a continua." />
+    <string key="invalidPathTitle" value="Cale invalidă!" />
+    <string key="updateCheck" value="Se verifică dacă sunt actualizări la EasyBCD ..." />
+    <string key="updateFailed" value="Verificarea actualizării nu a reușit. Eroare la stabilirea conexiunii la rețea." />
+    <string key="updateFailedSB" value="Verificarea actualizării EasyBCD a eșuat:" />
+    <string key="updateFound" value="Am găsit o versiune nouă EasyBCD!" />
+    <string key="updateFoundText" value="A fost găsită o nouă versiune a EasyBCD. Doriți să accesați acum pagina de descărcare EasyBCD pentru a face upgrade la cea mai recentă versiune?" />
+    <string key="updateNone" value="Aveți cea mai recentă versiune a EasyBCD." />
+    <string key="install" value="Instalare" />
+    <string key="remove" value="Șterge" />
+    <string key="adminLine1" value="EasyBCD necesită privilegii de administrator pentru a rula corect și nu poate continua." />
+    <string key="adminLine2" value="Vă rugăm să vă autentificați sau să rulați aplicația ca administrator pentru a continua." />
+    <string key="adminTitle" value="Acces refuzat" />
+    <string key="easybcdBackup" value="Backup EasyBCD" />
+    <string key="yes" value="Da" />
+    <string key="no" value="Nu" />
+    <string key="registryFailed" value="Imposibil de scris setările în regiștrii" />
+    <string key="commercialEdition" value="Ediția comercială" />
+    <string key="communityEdition" value="Ediția comunitară" />
+    <string key="failedAddTitle" value="Eroare la adăugarea intrării!" />
+    <string key="msdosHelp" value="Pentru ca EasyBCD să se poată porni în MS-DOS 6.x sau Windows 3.x, IO.SYS și MSDOS.SYS trebuie să fie la începutul partiției active.&#xD;&#xA;&#xD;&#xA;Pentru mai multe informații despre cum se realizează acest lucru, apăsați „Da” pentru a deschide pagina de documentare EasyBCD pentru intrările bazate pe DOS. În schimb, dacă nu doriți să vedeți documentația acum, apăsați „Nu”." />
+    <string key="msdosHelpTitle" value="Citiți documentația MS-DOS a EasyBCD?" />
+    <string key="addedFormat" value="{0} adăugat cu succes la meniul de pornire!" />
+    <string key="neogrubBootloader" value="Bootloaderul NeoGrub" />
+    <string key="neogrubRemoved" value="NeoGrub șters cu succes!" />
+    <string key="vhdErrorTitle" value="Eroare la adăugarea intrării VHD" />
+    <string key="errorSpaces" value="Calea imaginii nu trebuie să conțină spații. Vă rugăm să corectați acest lucru și să încercați din nou." />
+    <string key="isoErrorTitle" value="Eroare la adăugarea intrării ISO" />
+    <string key="floppyErrorTitle" value="Eroare la adăugarea intrării floppy" />
+    <string key="path" value="Cale:" />
+    <string key="name" value="Nume:" />
+    <string key="drive" value="Unitate:" />
+    <string key="browseFileTitle" value="Căutare fișier:" />
+    <string key="wimFiles" value="Fișiere imagine Windows" />
+    <string key="vhdFiles" value="Fișiere hard disk virtual" />
+    <string key="isoFiles" value="Imagini ISO" />
+    <string key="imgFiles" value="Fișiere IMG" />
+    <string key="bcdFiles" value="Fișiere backup EasyBCD" />
+    <string key="safeIntro" value="EasyBCD vă permite să creați intrări suplimentare pentru a porni în același sistem de operare, dar cu opțiuni diferite. Prin crearea unei noi intrări și oferindu-i un indicator de „mod sigur” (Safe Mode flags), vă puteți depana rapid sistemul." />
+    <string key="safeNormal" value="Normal: Dezactivează toate opțiunile de recuperare acest lucru permițându-vă să vă porniți sistemul de operare normal." />
+    <string key="safeVga" value="Basic VGA: Încarcă driverele de afișare de bază, resetând rezoluția ecranului." />
+    <string key="safeNetworking" value="Safe Mode, cu rețea: Butare în modul sigur, cu acces la internet și la rețeaua locală" />
+    <string key="safeMode" value="Safe Mode: porniți în modul sigur fără acces la rețea. Este util dacă driverele de rețea au fost corupte." />
+    <string key="safeAD" value="Reparare Active Directory: pornește Windows Server 2008 în modul de reparare Active Directory." />
+    <string key="safeTitle" value="Despre opțiunile Safe Mode (modului sigur)" />
+    <string key="paeIntro" value="Extensia de adresă fizică determină modul în care Windows va mapa o memorie suplimentară dincolo de marcatorul de memorie de 4 GiB." />
+    <string key="paeDefault" value="Implicit: Permite Windows-ului să determine modul în care va fi mapată memoria." />
+    <string key="paeEnable" value="Force Enable: Forțează maparea memoriei." />
+    <string key="paeDisable" value="Dezactivat forțat: dezactivează maparea memoriei suplimentare." />
+    <string key="paeTitle" value="Despre opțiunile PAE" />
+    <string key="nxIntro" value="DEP / NoExecute este un sistem de detecție de scripturi malițioase în strat hardware introdus în Windows XP SP2, care vă poate ajuta să vă protejați sistemul împotriva atacurilor, dar cu probleme de compatibilitate cunoscute." />
+    <string key="nxOptIn" value="OptIn: Nucleul Windows este protejat de DEP." />
+    <string key="nxOptOut" value="OptOut: Windows și aplicațiile sunt protejate de DEP." />
+    <string key="nxOn" value="AlwaysOn: DEP este forțat pentru toate aplicațiile." />
+    <string key="nxOff" value="AlwaysOff: DEP este dezactivat pentru Windows și toate aplicațiile." />
+    <string key="nxTitle" value="Despre DEP/NoExecute" />
+    <string key="errorNotPrimary" value="Partiția de pornire trebuie să fie o partiție primară.&#xD;&#xA;&#xD;&#xA;Vă rugăm să selectați o unitate diferită sau să transformați mai întâi partiția selectată în primară, apoi să încercați din nou." />
+    <string key="opNotAllowed" value="Operațiunea nu este permisă!" />
+    <string key="errorNotMounted" value="EasyBCD nu poate face unitățile nemontate să fie bootabile. Vă rugăm să alocați o literă unității selectate, să reporniți EasyBCD și să încercați din nou." />
+    <string key="invalidDrive" value="Funcționare invalidă a unității" />
+    <string key="bootableSuccess" value="EasyBCD a convertit cu succes discul selectat într-o unitate bootabilă. Pentru a configura intrările din meniul de pornire spre partiția selectată, trebuie să alegeți din meniu „Fișier | Selectare mediu BCD”și apoi să alegeți fișierul \ Boot \ BCD din partiția pe care tocmai ați pregătit-o." />
+    <string key="mountBcdNow" value="Doriți să încărcați automat partiția BCD nou creată în EasyBCD?" />
+    <string key="bootableTitle" value="Disc bootabil creat" />
+    <string key="accessDeniedText" value="Imposibil de obținut acces la BCD. Vă rugăm să verificați și să vă asigurați că partiția BCD de pe dispozitivul selectat nu este momentan în uz." />
+    <string key="partitionConverted" value="Partiție convertită în unitate de bootare" />
+    <string key="bcdRemove1" value="Aceasta este o opțiune avansată care ar trebui să fie utilizată numai dacă sunteți absolut sigur că doriți să dezinstalați programul de încărcare BCD / BOOTMGR! Această versiune a bootloader-ului este necesară pentru a porni în Windows Vista sau o versiune mai nouă de Windows!" />
+    <string key="bcdRemove2" value="Această caracteristică va porni doar în Windows XP și numai dacă fișierele de pornire corespunzătoare sunt deja la locul lor!" />
+    <string key="bcdRemove3" value="Ești sigur că vrei să continui?" />
+    <string key="warning" value="Atenție!" />
+    <string key="mbrSuccess" value="MBR rescris cu succes" />
+    <string key="bootloaderSuccess" value="Setările bootloaderului au fost salvate cu succes" />
+    <string key="bcdReset" value="BCD-ul a fost resetat cu succes. Toate intrările au fost șterse!&#xD;&#xA;&#xD;&#xA;Important: trebuie să adăugați cel puțin o intrare altfel computerul nu va mai porni!" />
+    <string key="bcdResetTitle" value="Resetare BCD" />
+    <string key="selectBootTitle" value="Selectare partiție nouă de boot" />
+    <string key="selectBoot" value="EasyBCD va reconfigura sistemul pentru a porni din partiția pe care o selectați mai jos. Acest proces va configura un sector BCD pe discul selectat, va copia actualele înregistrări BCD și va face ca partiția selectată să fie activă și bootabilă." />
+    <string key="errorLogical" value="S-a încercat schimbarea partiției de pornire spre o unitate logică, lucru care nu este permis. Partiția de pornire trebuie să fie o partiție primară.&#xD;&#xA;&#xD;&#xA;Vă rugăm să selectați o unitate diferită sau să transformați mai întâi partiția selectată în primară, apoi să încercați din nou." />
+    <string key="noBcd" value="Nu a fost încărcat un sector BCD. EasyBCD rulează în modul limitat." />
+    <string key="thankYou" value="Îți mulțumim pentru sprijin!" />
+    <string key="bootChangedTitle" value="Partiția de boot a fost schimbată" />
+    <string key="bootChangedFormat" value="EasyBCD a făcut cu succes unitatea {0} noua partiție de pornire și a încărcat noul sector BCD pentru modificare, dacă doriți să faceți alte modificări. Dacă această partiție se află pe primul disc de boot, nu sunt necesare acțiuni suplimentare. În caz contrar, ar trebui să opriți calculatorul și să schimbați unitatea de boot din BIOS pentru ca modificările să aibă efect." />
+    <string key="unsupportedOS" value="Această opțiune este disponibilă doar pentru Windows Vista și versiuni ulterioare de Windows." />
+    <string key="unsupportedOSTitle" value="Sistem de operare nesuportat" />
+    <string key="errorNoRestore" value="Eroare fatală: Sectorul selectat nu poate fi restaurat" />
+    <string key="errorNoRestoreTitle" value="Eroare la restaurare" />
+    <string key="confirmDelete" value="Ești sigur că vrei să ștergi această intrare?" />
+    <string key="confirmDeleteTitle" value="Confirmi ștergerea?" />
+    <string key="entryDeleted" value="Intrarea din meniul de boot a fost ștearsă" />
+    <string key="loadExternal" value="Cu această caracteristică, EasyBCD va încărca și utiliza o bază de date BCD externă la alegere. Modificările vor fi făcute în acest sector BCD și nu vor afecta configurația dumneavoastră implicită a sistemului." />
+    <string key="loadExternalTitle" value="Selectare sector nou" />
+    <string key="easybcdFiles" value="Fișiere EasyBCD" />
+    <string key="errorRO1" value="Fie nu aveți permisiunea de a scrie în fișierul selectat, fișierul fiind setat doar în citire, fie acesta este stocat pe un suport la care aveți doar drepturi de citire." />
+    <string key="errorRO2" value="Dacă alegeți să continuați, modificările aduse acestui sector BCD nu vor fi salvate. Apăsați „Da” pentru a continua și încărcați acest sector BCD în modul numai de citire sau „Nu” pentru a continua să utilizați sectorul BCD anterior." />
+    <string key="errorROTitle" value="S-a detectat sector BCD în modul „doar citire”" />
+    <string key="bcdLoadedFormat" value="Informațiile BCD au fost încărcate din {0}" />
+    <string key="confirmRestart" value="Ești sigur că dorești repornirea computerului?" />
+    <string key="confirmRestartTitle" value="Confirmi repornirea?" />
+    <string key="shutdownStarted" value="S-a inițiat procesul de orpire" />
+    <string key="hiddenBootIni" value="Boot.ini este localizat pe o partiție de pornire ascunsă și nu poate fi încărcat pentru a fi editat de utilizator, cu EasyBCD.&#xD;&#xA;&#xD;&#xA;Vă rugăm să alocați o literă acestei unități de boot ascunse sau să utilizați funcția de auto-configurare de bootare a Windows-ului XP." />
+    <string key="errorBootIniTitle" value="Nu se poate încărca boot.ini!" />
+    <string key="errorBootIniFormat" value="EasyBCD nu a putut detecta un fișier boot.ini existent pe partiția de boot {0}.&#xD;&#xA;&#xD;&#xA;Vă rugăm să adăugați o nouă intrare Windows XP sau Windows 2000 pentru a utiliza funcția de auto-configurare a fișierului boot.ini." />
+    <string key="errorUtility" value="Am întâlnit o eroare la rularea utilitarului" />
+    <string key="usbCreatorText" value="Easy USB Creator face convertirea rapidă și ușoară a imaginilor ISO pentru Windows Setup și a altor instrumente de recuperare într-un stick USB de pornire (fără a fi necesare CD-uri sau DVD-uri) cu un singur clic." />
+    <string key="oemKeyText" value="Folosiți utilitarul de la NeoSmart Technologies gratuit pentru chei Windows OEM pentru a căuta și a prelua cheia de produs Windows încorporată în computer sau laptop, pentru Windows 8 și Windows 10." />
+    <string key="powerConsoleText" value="Acces rapid la un shell de linie de comandă cu privilegii administrative complete. Folosiți-o pentru a gestiona funcții de sistem sau pentru acces rapid la bcdedit și bootsect.exe." />
+    <string key="powerConsole" value="Consolă (terminal) EasyBCD" />
+    <string key="usbCreator" value="Creator Easy USB" />
+    <string key="oemKey" value="Utilitarul „Windows Product Key” " />
+    <string key="restoreCds" value="EasyRE Windows Recovery CDs" />
+    <string key="restoreCdsText" value="Easy Recovery Essentials pentru Windows este un CD / USB de reparare și recuperare, care poate repara automat computerul la următoarea lansare. Reparația cu un singur clic a EasyRE va căuta și va repara aproape toate erorile de pornire, inclusiv BSOD-uri, erori BCD, erori de configurare greșite ale partiției și multe altele." />
+    <string key="controlPanel" value="Panoul de Control" />
+    <string key="controlPanelText" value="Lansați panoul de control și folosiți-l pentru a face orice doriți." />
+    <string key="iRebootText" value="Aplicație conexă NeoSmart Technologies pentru EasyBCD. iReboot se află în bara de activități (folosind doar 400KB de memorie!) și vă permite să alegeți în ce sistem de operare să reporniți rapid și ușor." />
+    <string key="errorNoEntries" value="EasyBCD a detectat că nu există înregistrări instalate în prezent. Dacă ieșiți din EasyBCD și reporniți computerul, acesta nu va mai porni.&#xD;&#xA;&#xD;&#xA;Sigur doriți să ieșiți înainte de a adăuga o intrare nouă?" />
+    <string key="errorNoEntriesTitle" value="Nu este instalată nicio intrare" />
+    <string key="errorPathSave" value="EasyBCD nu a reușit să salveze calea de backup actuală ca director de backup implicit. Opțiunea a fost dezactivată." />
+    <string key="errorPathSaveTitle" value="Problemă la calea implicită de backup" />
+    <string key="isoHelp1" value="EasyBCD acceptă încărcarea imaginilor ISO în două moduri diferite. Vă rugăm să rețineți că nu toate ISO-urile vor funcționa corect; de obicei, setările ISO de configurare Linux nu vor funcționa." />
+    <string key="isoHelp2" value="Run from Disk: se încarcă mai repede la pornire, dar rulează mai lent. De asemenea, necesită pre-procesare de către EasyBCD în timpul creării." />
+    <string key="isoHelp3" value="Încărcare din memorie: se execută mai repede, dar necesită timp pentru încărcare la selecție în timpul bootării. Poate să eșueze pentru discuri mai mari sau computere mai vechi" />
+    <string key="isoHelpTitle" value="Despre opțiunile ISO" />
+    <string key="warnDiffDevice" value="Fișierul selectat este stocat pe un dispozitiv diferit de fișierele de boot. Dacă intenționați să utilizați această intrare pentru a porni un computer diferit de cel pe care îl utilizați în prezent, ar trebui să copiați acest fișier pe unitatea externă, apoi să încercați din nou.&#xD;&#xA;&#xD;&#xA;Doriți să continuați oricum?" />
+    <string key="diffDeviceTitle" value="S-a o detectat intrare ne-portabilă" />
+    <string key="errorNoBcd" value="Nu s-au încărcat regiștrii BCD - rulează în modul de funcționalitate redusă" />
+    <string key="bcdExceptionFormat" value="Excepție BCD 0x{0:X3}" />
+    <string key="userCancel" value="Operațiune anulată de utilizator." />
+    <string key="renameSuccess" value="Intrare redenumită cu succes" />
+    <string key="plop" value="EasyBCD BIOS Extender" />
+    <string key="entryRemovedFormat" value="{0} a fost ștearsă" />
+    <string key="drive2" value="Unitatea" />
+    <string key="bcdResetStatus" value="BCD resetat cu succes. Vă rog reconfigurați-l acum!" />
+    <string key="bcdRepaired" value="BCD reparat cu succes" />
+    <string key="configSaved" value="Configurarea intrării a fost salvată cu succes" />
+    <string key="backupSuccess" value="BCD a făcut o copie de backup cu succes" />
+    <string key="restoreSuccess" value="Restaurare terminată cu succes" />
+    <string key="bcdRefresh" value="Datele BCD din cache au fost actualizate cu succes" />
+    <string key="optionsSaved" value="Opțiunile au fost salvate cu succes!" />
+    <string key="orderSaved" value="Comanda de intrare a fost salvată" />
+    <string key="easybcdStatus" value="EasyBCD Status" />
+    <string key="saveFileTitle" value="Salvare ca..." />
+    <string key="updateFoundText2" value="A fost găsită o nouă versiune a EasyBCD. Doriți ca EasyBCD să se actualizeze automat la cea mai recentă versiune?&#xD;&#xA;&#xD;&#xA;Apăsați „Da” pentru a descărca și actualiza automat, „Nu” pentru a vedea lista modificărilor și a actualiza manual, sau „Anulare” pentru a anula." />
+    <string key="help" value="Ajutor" />
+    <string key="browse" value="Răsfoire" />
+    <string key="errorPartTooSmall" value="Partiția selectată este prea mică sau nu dispune de suficient spațiu liber pentru a deveni noua unitate de boot." />
+    <string key="operationAborted" value="Operațiune anulată" />
+  </strings>
+</localization>

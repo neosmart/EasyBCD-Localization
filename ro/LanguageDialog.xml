@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="title" value="Alegeți-vă o limbă..." />
+    <string key="btnGo" value="Ok" />
+    <string key="lnkTranslate" value="Ajută la traducerea aplicației EasyBCD" />
+    <string key="MinimumWidth" value="317" />
+    <string key="MinimumHeight" value="87" />
+  </strings>
+</localization>

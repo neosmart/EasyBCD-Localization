@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OKButton" value="&amp;OK" />
+    <string key="seatsAllowed" value="utilizatori/dispozitive permise" />
+    <string key="title" value="Despre {0}" />
+    <string key="unlicensed" value="Aplicație neînregistrată!" />
+    <string key="version" value="Versiune" />
+    <string key="copyright" value="Copyright © NeoSmart Technologies 2006 - {0}" />
+    <string key="aboutText1" value="EasyBCD este cea mai bună aplicație pentru gestionarea încărcării sistemului de operare (bootloader). Nu există nicio garanție că EasyBCD va funcționa cu toate versiunile de Windows - asigurați-vă întotdeauna că utilizați cea mai recentă versiune disponibilă.&#xD;&#xA;&#xD;&#xA;• Dezvoltator principal: Mahmoud H. Al-Qudsi&#xD;&#xA;• Traducerea în limba română: Don Pedro. Sesizați greșelile de traducere la adresa: internauthicus@gmail.com&#xD;&#xA;• Ingrediente active: transpirație, sânge și lacrimi&#xD;&#xA;• Alimentat de C ++, C #, Dr. Pepper, Excedrin și Visine&#xD;&#xA;• Toate pornirile calculatorului tău provin de la noi!&#xD;&#xA;" />
+    <string key="thanksFormat" value="Mulțumiri speciale echipelor Grub4Dos, PLoP, {0} și UltraDefrag!&#xD;&#xA;&#xD;&#xA;Această distribuție EasyBCD este livrată cu componente independente (Grub4Dos și UltraDefrag) sub licență GPLv2. Pentru mai multe informații, consultați fișierul „License” din directorul de instalare." />
+  </strings>
+</localization>

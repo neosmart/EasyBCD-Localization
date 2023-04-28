@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="rdoModeBasic" value="Global" />
+    <string key="rdoModeDetailed" value="Detaliat (Modul Debug)" />
+    <string key="chkWordWrap" value="Încadrat" />
+    <string key="grpDisplayMode" value="Moduri de afișare..." />
+    <string key="rdoTimeoutCount" value="Descrescător de la" />
+    <string key="rdoTimeoutNone" value="Așteaptă selecția utilizatorului" />
+    <string key="rdoTimeoutSkip" value="Sari peste meniul de pornire (boot menu)" />
+    <string key="btnSaveBCD" value="Salvare setări" />
+    <string key="grpTimeout" value="Opțiuni de meniu..." />
+    <string key="btnUp" value="Sus" />
+    <string key="btnDown" value="Jos" />
+    <string key="btnRenameEntry" value="Redenumire" />
+    <string key="btnDelete" value="Șterge" />
+    <string key="grpModifyEntries" value="Modifică intrările din meniu..." />
+    <string key="btnBrowse" value="..." />
+    <string key="lblName" value="Nume:" />
+    <string key="lblType" value="Tip:" />
+    <string key="lblPath" value="Cale:" />
+    <string key="lblDrive" value="Unitate:" />
+    <string key="btnAddNewEntry" value="Adaugă intrare" />
+    <string key="lblMode" value="Mod:" />
+    <string key="lblFile" value="Fișier:" />
+    <string key="txtVhdName" value="Imagine NeoSmart VHD" />
+    <string key="tabPageVhd" value="Imagine de disc" />
+    <string key="txtIsoName" value="Intrare NeoSmart ISO" />
+    <string key="tabPageIso" value="ISO" />
+    <string key="txtPeName" value="Imagine NST WinPE" />
+    <string key="chkEms" value="Activat EMS" />
+    <string key="tabPageWinPE" value="WinPE" />
+    <string key="txtFloppyName" value="Imagine Floppy NeoSmart " />
+    <string key="tabPageFloppy" value="Floppy " />
+    <string key="btnPlopInstall" value="Instalare PLoP" />
+    <string key="btnPlopRemove" value="Ștergere PLoP" />
+    <string key="lblBiosExtend" value="Extenderul de BIOS al EasyBCD poate fi folosit pentru a porni sistemul de operare din rețea, de pe CD sau USB, pe computere care nu  acceptă nativ aceste tipuri de porniri." />
+    <string key="tabPagePlop" value="Extender de BIOS " />
+    <string key="grpPortable" value="Portabil/Mediu extern" />
+    <string key="lblWindowsAuto" value="Determinare automată" />
+    <string key="chkAutoXp" value="Detectează automat unitatea corectă" />
+    <string key="txtWinName" value="Microsoft Windows" />
+    <string key="tabPageWin" value="Windows" />
+    <string key="chkGrub" value="Folosește copia de GRUB din EasyBCD" />
+    <string key="txtLinName" value="Linux NeoSmart " />
+    <string key="lblLinAuto" value="Determinare automată" />
+    <string key="tabPageLinux" value="Linux/BSD" />
+    <string key="txtMacName" value="NST Mac OS X" />
+    <string key="tabPageMac" value="Mac" />
+    <string key="btnNeoGrub" value="Instalare" />
+    <string key="btnNeoGrubConfig" value="Configurare" />
+    <string key="lblNeoGrub" value="Bootloader-ul NeoGrub poate fi folosit pentru a porni în Linux și versiunile vechi ale Windows-ului sau chiar pentru a ascunde unitățile." />
+    <string key="tabPageNeoGrub" value="NeoGrub   " />
+    <string key="grpOS" value="Sistemul de operare" />
+    <string key="btnSaveSettings" value="Salvare setări" />
+    <string key="lblLocale" value="Limba:" />
+    <string key="tabEntryBasic" value="De bază" />
+    <string key="lblSafeMode" value="Mod Safe:" />
+    <string key="lblPae" value="Suport PAE" />
+    <string key="chkEntryUnsigned" value="Permiteți utilizarea de drivere nesemnate în Windows x64" />
+    <string key="tabEntryAdvanced" value="Avansat" />
+    <string key="chkEntryKernelDebug" value="Rulează Windows în modul Kernel-Debug" />
+    <string key="chkEntrySos" value="Rulează în modul SOS/Boot Mod vorbăreț (Verbose)" />
+    <string key="lblDeduct2" value="MiB folosiți din memoria fizică" />
+    <string key="lblLimit2" value="Limită Windows CPU/core" />
+    <string key="tabEntryDeveloper" value="Dezvoltator" />
+    <string key="lblAdvancedSettings" value="Rețineți că unele setări pot fi indisponibile în funcție de intrarea modificată." />
+    <string key="grpChangeSettings" value="Schimbare setări..." />
+    <string key="lblPickLH" value="Alegeți o intrare din lista de mai jos pentru a o modifica..." />
+    <string key="grpSelectLH" value="Selectați un sistem de operare..." />
+    <string key="tabViewSettings" value="1" />
+    <string key="numTimeout" value="0" />
+    <string key="tabEditMenu" value="2" />
+    <string key="tabAddEntry" value="3" />
+    <string key="lblDep" value="NoExecute: " />
+    <string key="numEntryMemory" value="0" />
+    <string key="numEntryCpu" value="0" />
+    <string key="tabAdvanced" value="4" />
+    <string key="btnBackup" value="Backup Setări" />
+    <string key="btnRestore" value="Restaurare Backup" />
+    <string key="grpBackupRestore" value="Backup și restaurare setări Bootloader" />
+    <string key="rdoBcdChange" value="Schimbă unitatea de boot" />
+    <string key="rdoBcdRepair" value="Re-creează/repară fișierele de boot" />
+    <string key="btnBcdRescue" value="Execută" />
+    <string key="rdoBcdReset" value="Resetare configurație BCD" />
+    <string key="grpDiagnostics" value="Administrarea opțiunilor BCD..." />
+    <string key="tabBcdInstall" value="5" />
+    <string key="btnMakeBootable" value="Instalare BCD" />
+    <string key="lblUsbPartitions" value="Partiția:" />
+    <string key="lblCreateBootable" value="EasyBCD poate automatiza procesul de creare a mediilor de pornire (bootare). Selectați o partiție de mai jos pentru a începe." />
+    <string key="grpCreateBootableExternal" value="Creați un (mediu) suport extern de bootare" />
+    <string key="btnMbrWrite" value="Scrie MBR" />
+    <string key="rdoMbrXP" value="Instalează Windows XP NTLDR bootloader" />
+    <string key="rdoMbrVista" value="Instalează Vista+ BCD/bootmgr bootloader" />
+    <string key="grpBootloader" value="Opțiuni de configurare MBR (Master Boot Record)" />
+    <string key="tabMbrSetup" value="6" />
+    <string key="grpUtils" value="Utilitare folositoare" />
+    <string key="tabUtilities" value="7" />
+    <string key="btnBcdInstall" value="Backup/Reparare BCD" />
+    <string key="btnUtilities" value="Utilitare folositoare" />
+    <string key="btnMbrSetup" value="Implementare BCD" />
+    <string key="btnAdvanced" value="Setări avansate" />
+    <string key="btnAddEntry" value="Adăugare intrare" />
+    <string key="btnEditMenu" value="Editare meniu boot" />
+    <string key="btnViewSettings" value="Vezi setări" />
+    <string key="grpToolbox" value="Setul de unelte EasyBCD" />
+    <string key="mnuSelectBcd" value="&amp;Selectare mediu BCD" />
+    <string key="mnuLanguage" value="&amp;Selectare limbă" />
+    <string key="mnuLoadSystemBcd" value="Încarcă BCD sistem" />
+    <string key="mnuRescan" value="Re&amp;împrospătează mediul BCD" />
+    <string key="mnuRegister" value="În&amp;Registrare" />
+    <string key="mnuDonate" value="&amp;Donează" />
+    <string key="mnuUpdate" value="Verifică pentru act&amp;Ualizări" />
+    <string key="mnuExit" value="E&amp;xit" />
+    <string key="mnuFile" value="&amp;Fișier" />
+    <string key="mnuOptions" value="O&amp;pțiuni" />
+    <string key="mnuEditLegacy" value="Editre intrări existente" />
+    <string key="mnuRestart" value="&amp;Repornire calculator" />
+    <string key="mnuTools" value="Unel&amp;te" />
+    <string key="mnuDocumentation" value="Doc&amp;umentație" />
+    <string key="mnuSupport" value="Obțineți a&amp;sistență" />
+    <string key="mnuBug" value="Tri&amp;miteți o eroare" />
+    <string key="mnuDonate2" value="&amp;Donați" />
+    <string key="mnuAbout" value="Despre..." />
+    <string key="mnuHelp" value="Ajutor" />
+    <string key="MainUI" value="EasyBCD 2.0 - NeoSmart Technologies" />
+    <string key="colName" value="Intră" />
+    <string key="colDefault" value="Implicit" />
+    <string key="cbxVhdType" value="Microsoft VHD&#xD;&#xA;Imagine Hard Disk Raw&#xD;&#xA;Imagine partiție Raw" />
+    <string key="cbxIsoMode" value="Rulează de pe disc&#xD;&#xA;Încarcă din memorie" />
+    <string key="cbxPeType" value="WIM Image (Ramdisk)&#xD;&#xA;Extracted Filesystem Layout" />
+    <string key="cbxWinType" value="Windows Vista/7/8/10&#xD;&#xA;Windows NT/2k/XP/2k3&#xD;&#xA;Windows 95/98/ME&#xD;&#xA;MS-DOS 6.x&#xD;&#xA;FreeDOS" />
+    <string key="cbxLinType" value="GRUB (Clasic)&#xD;&#xA;GRUB 2&#xD;&#xA;LILO/eLILO&#xD;&#xA;FreeBSD/PC-BSD&#xD;&#xA;Wubi&#xD;&#xA;SysLinux" />
+    <string key="cbxMacType" value="EFI (Default)&#xD;&#xA;MBR" />
+    <string key="cbxEntryDep" value="OptIn&#xD;&#xA;OptOut&#xD;&#xA;Totdeauna On&#xD;&#xA;Totdeauna Off" />
+    <string key="cbxEntryPae" value="Implicit&#xD;&#xA;Activat&#xD;&#xA;Dezactivat" />
+    <string key="cbxEntrySafe" value="Normal&#xD;&#xA;Modul Safe&#xD;&#xA;Modul Safe cu rețea&#xD;&#xA;Linie de comandă/Shell alternativ&#xD;&#xA;Basic VGA&#xD;&#xA;Active Directory Repair" />
+    <string key="emptyList" value="Nu s-au detectat intrări!" />
+    <string key="MinimumWidth" value="583" />
+    <string key="MinimumHeight" value="456" />
+    <string key="efiTitle" value="S-a detectat EFI bootloader!" />
+    <string key="efiMessage" value="EasyBCD a detectat că sistemul dumneavoastră pornește în acest moment în modul EFI. Datorită limitărilor impuse de Microsoft, multe dintre funcțiile EasyBCD multi-booting nu pot fi utilizate în modul EFI și au fost dezactivate.&#xD;&#xA;&#xD;&#xA;Apăsați „OK” pentru a continua sau „Ajutor” pentru a citi mai multe despre aceste limitări și soluțiile posibile." />
+    <string key="lstFreeDos" value="FreeDOS" />
+    <string key="chkMetroUI" value="Utilizați bootloader-ul Metro" />
+  </strings>
+</localization>

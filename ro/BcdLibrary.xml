@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="multiEntriesFormat" value="Există în total {0} intrări listate în bootloader." />
+    <string key="accessViolationFormat" value="Nu se poate obține acces exclusiv la {0}. Dacă acesta este un disc detașabil, încercați să îl expulzați și să îl reinserați, apoi încercați din nou." />
+    <string key="failedSave" value="Eșec la salvarea modificărilor!" />
+    <string key="accessDeniedTitle" value="Acces interzis" />
+    <string key="accessDeniedFormat" value="Accesul la {0} a fost refuzat. Vă rugăm să verificați dacă fișierul nu este utilizat și că aveți permisiunea de a șterge / modifica această locație." />
+    <string key="oneEntry" value="Există o intrare în bootloader-ul Windows." />
+    <string key="name" value="Nume" />
+    <string key="entryNum" value="Intrarea nr." />
+    <string key="bcdId" value="ID BCD" />
+    <string key="drive" value="Unitatea" />
+    <string key="device" value="Dispozitivul" />
+    <string key="path" value="Calea" />
+    <string key="timeout" value="Timp de așteptare" />
+    <string key="default" value="Implicit" />
+    <string key="none" value="Nici unul" />
+    <string key="timeoutFormat" value="{0} secunde" />
+    <string key="skipped" value="Sărit" />
+    <string key="bootDevice" value="Unitatea de boot" />
+    <string key="ebcdBootDevice" value="Unitatea de boot EasyBCD" />
+    <string key="bootloaderPath" value="Calea boot-loaderului" />
+    <string key="bcdError" value="Eroare de execuție BCD" />
+    <string key="ntNotFoundTitle" value="Nu a fost găsită o instalare NT validă" />
+    <string key="ntNotFound" value="EasyBCD nu a reușit să detecteze o instalare validă a Windows NT-2003 pe toate unitățile montate și nu a putut continua." />
+    <string key="manuallyLoad" value="Doriți să încărcați manual un registru BCD pentru a fi gestionat cu EasyBCD? Rețineți că EasyBCD necesită botloaderul BCD (instalat în mod implicit pe Windows Vista și versiunile superioare de Windows) și nu va funcționa în medii numai pentru XP." />
+    <string key="errorBcd" value="Eroare la deschiderea regiștrilor BCD" />
+    <string key="locateValid" value="Localizați un sector BCD valid" />
+    <string key="bcdRegistry" value="Regiștrii BCD" />
+    <string key="partition" value="Partiția" />
+    <string key="unknown" value="Necunoscut" />
+    <string key="gib" value="GiB" />
+    <string key="mib" value="MiB" />
+    <string key="as" value="ca" />
+    <string key="defragFormat" value="Pornește defragmentarea fișierului {0}" />
+    <string key="unnamed" value="Intrare fără nume" />
+  </strings>
+</localization>
