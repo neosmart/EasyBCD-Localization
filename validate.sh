@@ -1,5 +1,6 @@
 #!/bin/sh
 
+set exit_code=0
 xmlvalidate() {
 	schema=$1
 	file=$2
@@ -8,6 +9,9 @@ xmlvalidate() {
 	status=$?
 	if test $status -ne 0; then
 		echo $result 1>&2
+		exit_code=$status
+	else
+		echo $result
 	fi
 }
 
@@ -18,3 +22,5 @@ done
 for file in $(find -iname "properties.xml"); do
 	xmlvalidate ./schema/properties.xsd $file
 done
+
+exit $exit_code
