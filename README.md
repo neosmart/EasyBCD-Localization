@@ -37,4 +37,4 @@ If you would like to contribute a new or improved localization of EasyBCD, pleas
 * [EasyBCD](http://neosmart.net/EasyBCD/)
 * [NeoSmart Localization Toolkit](https://github.com/NeoSmart/Localization)
 * [Contribution Guide](http://neosmart.net/forums/showthread.php?t=696)
-* [ISO Language Identifiers](http://msdn.microsoft.com/en-us/library/system.globalization.cultureinfo%28v=vs.71%29.aspx)
+* [ISO Language Identifiers](https://web.archive.org/web/20170728214340/http://msdn.microsoft.com/en-us/library/system.globalization.cultureinfo(v=vs.71).aspx#:~:text=Language%2DCountry/Region)
