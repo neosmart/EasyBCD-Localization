@@ -9,6 +9,7 @@ These are the languages currently available in this repository, thanks to the se
 
 * Arabic (العربية) - Azal Tammu
 * Catalan (Català) - Manel Fernàndez
+* Brazilian Portuguese (Português do Brasil) - igorruckert
 * Chinese (Simplified) (简体字) - Dancing Zhao
 * Chinese (Taiwanese) (繁體中文) - fei
 * Czech (Čeština) - Tomanek1
@@ -22,7 +23,7 @@ These are the languages currently available in this repository, thanks to the se
 * Italian (Italiano) - Paolo Viappiani
 * Korean (한국어) - Youngju Yun
 * Polish (Polski) - Kili
-* Portuguese (Português) - igorruckert
+* Portuguese (Português) - Hugo Carvalho
 * Russian (Русский) - niknikch45 & co.
 * Slovenian (Slovenščina) - Deseti_brat
 * Swedish (Svenska) - Åke Engelbrektson
