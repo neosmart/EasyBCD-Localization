@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="title" value="Pilih Bahasa" />
+    <string key="btnGo" value="Mulai" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+    <string key="lnkTranslate" value="Bantu terjemahkan EasyBCD ke bahasa Anda!" />
+  </strings>
+</localization>

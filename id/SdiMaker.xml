@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OK_Button" derive="true" />
+    <string key="Cancel_Button" value="Batal" />
+    <string key="Body" value="Untuk melanjutkan, EasyBCD perlu mengakses Windows Vista atau media instalasi yang lebih tinggi (biasanya DVD atau gambar disk).&#xD;&#xA;&#xD;&#xA;Silakan masukkan DVD ke drive optik Anda atau pasang gambar disk, lalu tekan OK untuk melanjutkan." />
+    <string key="SdiMaker" value="Masukkan Media Instalasi Windows" />
+    <string key="mediaNotFound" value="Media instalasi Windows yang valid tidak terdeteksi." />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" value="196" />
+  </strings>
+</localization>

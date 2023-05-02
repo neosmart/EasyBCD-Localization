@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblTitle" value="Memperkenalkan EasyBCD otomatis yang dapat di-boot" />
+    <string key="lblIntro" value="Dari pengembang EasyBCD hadir Easy Recovery Essentials untuk Windows, perbaikan dan pemulihan CD/USB yang dapat di-boot yang dapat secara otomatis memperbaiki lebih dari dua ribu kesalahan dan kesalahan konfigurasi." />
+    <string key="lblDetails" value="* Memperbaiki masalah yang mencegah Windows melihat drive atau partisi&#xD;&#xA;* Memperbaiki masalah dengan partisi kloning tidak bisa boot&#xD;&#xA;* Memperbaiki masalah tata letak partisi yang disebabkan oleh pembaruan atau pemasangan yang buruk&#xD;&#xA;* Melindungi dari kehilangan data yang disebabkan oleh konfigurasi UEFI yang buruk&#xD;&#xA;* Membuat ulang konfigurasi bootloader untuk memastikan Anda dapat boot ke Windows&#xD;&#xA;* Menyinkronkan GPT dan MBR sehingga PC Anda dapat melakukan booting dalam mode EFI dan BIOS&#xD;&#xA;* Memperbaiki PC yang macet di loop reboot Pembaruan Windows&#xD;&#xA;* Memperbaiki BSOD selama startup sistem&#xD;&#xA;* dan masih banyak lagi" />
+    <string key="btnDownload" value="Unduh Sekarang" />
+    <string key="btnLearnMore" value="Pelajari Lebih Lanjut" />
+    <string key="btnNotNow" value="Tidak Sekarang" />
+    <string key="chkNoShow" value="Jangan Tampilkan Lagi" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" value="613" />
+  </strings>
+</localization>

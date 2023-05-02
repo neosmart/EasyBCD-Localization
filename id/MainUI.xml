@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="rdoModeBasic" value="Ringkasan" />
+    <string key="rdoModeDetailed" value="Detail (Mode Debug)" />
+    <string key="chkWordWrap" value="WordWrap" />
+    <string key="grpDisplayMode" value="Mode tampilan" />
+    <string key="tabViewSettings" derive="true" />
+    <string key="rdoTimeoutCount" value="Hitung mundur dari" />
+    <string key="numTimeout" derive="true" />
+    <string key="rdoTimeoutNone" value="Tunggu pemilihan pengguna" />
+    <string key="btnSaveBCD" value="Simpan Pengaturan" />
+    <string key="rdoTimeoutSkip" value="Lewati menu boot" />
+    <string key="grpTimeout" value="Pilihan Menu" />
+    <string key="btnUp" value="Atas" />
+    <string key="btnDown" value="Bawah" />
+    <string key="btnRenameEntry" value="Ubah Nama" />
+    <string key="btnDelete" value="Hapus" />
+    <string key="grpModifyEntries" value="Ubah Entri Menu" />
+    <string key="tabEditMenu" derive="true" />
+    <string key="btnBrowse" derive="true" />
+    <string key="lblName" value="Nama:" />
+    <string key="lblType" value="Tipe" />
+    <string key="lblPath" value="Jalur:" />
+    <string key="lblDrive" value="Drive:" />
+    <string key="btnAddNewEntry" value="Tambah Entri" />
+    <string key="lblMode" derive="true" />
+    <string key="lblFile" derive="true" />
+    <string key="txtVhdName" value="Gambar VHD NeoSmart" />
+    <string key="tabPageVhd" value="Gambar Disk" />
+    <string key="txtIsoName" value="Entri ISO NeoSmart" />
+    <string key="tabPageIso" derive="true" />
+    <string key="txtPeName" value="Gambar WinPE NST" />
+    <string key="chkEms" value="EMS Diaktifkan" />
+    <string key="tabPageWinPE" derive="true" />
+    <string key="txtFloppyName" value="Gambar Floppy NeoSmart" />
+    <string key="tabPageFloppy" derive="true" />
+    <string key="btnPlopInstall" value="Instal PLoP&#xD;&#xA;" />
+    <string key="btnPlopRemove" value="Hapus PLoP&#xD;&#xA;" />
+    <string key="lblBiosExtend" value="EasyBCD BIOS extender dapat digunakan untuk boot dari jaringan, CD, atau USB pada komputer yang tidak mendukungnya." />
+    <string key="tabPagePlop" derive="true" />
+    <string key="grpPortable" value="Media Portabel/Eksternal" />
+    <string key="lblWindowsAuto" value="Ditentukan secara otomatis" />
+    <string key="chkAutoXp" value="Secara otomatis mendeteksi drive yang benar" />
+    <string key="txtWinName" derive="true" />
+    <string key="tabPageWin" derive="true" />
+    <string key="chkGrub" value="Gunakan salinan GRUB EasyBCD" />
+    <string key="txtLinName" derive="true" />
+    <string key="lblLinAuto" value="Ditentukan secara otomatis" />
+    <string key="tabPageLinux" derive="true" />
+    <string key="txtMacName" derive="true" />
+    <string key="tabPageMac" derive="true" />
+    <string key="btnNeoGrub" value="Instal" />
+    <string key="btnNeoGrubConfig" value="Konfigurasikan" />
+    <string key="lblNeoGrub" value="Bootloader NeoGrub dapat digunakan untuk boot ke Linux dan versi lama Windows atau bahkan menyembunyikan drive." />
+    <string key="tabPageNeoGrub" derive="true" />
+    <string key="grpOS" value="Sistem Operasi" />
+    <string key="tabAddEntry" derive="true" />
+    <string key="btnSaveSettings" value="Simpan Pengaturan" />
+    <string key="lblLocale" value="Lokal:" />
+    <string key="tabEntryBasic" value="Dasar" />
+    <string key="lblSafeMode" value="Mode Aman:" />
+    <string key="lblPae" value="Dukungan PAE:" />
+    <string key="lblDep" derive="true" />
+    <string key="chkEntryUnsigned" value="Izinkan penggunaan driver yang tidak ditandatangani pada Windows 64-Bit" />
+    <string key="tabEntryAdvanced" value="Lanjutan" />
+    <string key="chkEntryKernelDebug" value="Jalankan Windows dalam Mode Kernel-Debug" />
+    <string key="chkEntrySos" value="Jalankan dalam Mode SOS/Verbose-Boot" />
+    <string key="chkHyperV" value="Aktifkan dukungan Hyper-V" />
+    <string key="numEntryMemory" derive="true" />
+    <string key="lblDeduct2" value="MiB dipotong dari memori fisik" />
+    <string key="numEntryCpu" derive="true" />
+    <string key="lblLimit2" value="Batas CPU/inti Windows" />
+    <string key="tabEntryDeveloper" value="Pengembang" />
+    <string key="lblAdvancedSettings" value="Perhatikan bahwa beberapa pengaturan mungkin tidak tersedia tergantung pada entri yang sedang diubah." />
+    <string key="grpChangeSettings" value="Ubah pengaturan" />
+    <string key="lblPickLH" value="Pilih entri dari daftar di bawah ini untuk diubah." />
+    <string key="grpSelectLH" value="Pilih OS" />
+    <string key="tabAdvanced" derive="true" />
+    <string key="btnBackup" value="Pengaturan Cadangan" />
+    <string key="btnRestore" value="Pulihkan Cadangan" />
+    <string key="grpBackupRestore" value="Cadangkan and Pulihkan Pengaturan Bootloader&#xD;&#xA;" />
+    <string key="rdoBcdChange" value="Ubah drive boot" />
+    <string key="rdoBcdRepair" value="Buat ulang/perbaiki file boot" />
+    <string key="btnBcdRescue" value="Lakukan Tindakan" />
+    <string key="rdoBcdReset" value="Setel ulang konfigurasi BCD" />
+    <string key="grpDiagnostics" value="Opsi Manajemen BCD" />
+    <string key="tabBcdInstall" derive="true" />
+    <string key="btnMakeBootable" value="Instal BCD" />
+    <string key="lblUsbPartitions" value="Partisi:" />
+    <string key="lblCreateBootable" value="EasyBCD dapat mengotomatiskan proses pembuatan media yang dapat di-boot. Pilih partisi di bawah ini untuk memulai." />
+    <string key="grpCreateBootableExternal" value="Buat Media Eksternal yang Dapat Di-boot" />
+    <string key="btnMbrWrite" value="Tulis MBR" />
+    <string key="rdoMbrXP" value="Instal bootloader Windows XP NTLDR" />
+    <string key="rdoMbrVista" value="Instal bootloader Vista+ BCD/bootmgr" />
+    <string key="grpBootloader" value="Opsi Konfigurasi MBR" />
+    <string key="tabMbrSetup" derive="true" />
+    <string key="grpUtils" value="Utilitas Berguna" />
+    <string key="tabUtilities" derive="true" />
+    <string key="btnBcdInstall" value="Pencadangan/Perbaikan BCD" />
+    <string key="btnUtilities" value="Utilitas Berguna&#xD;&#xA;" />
+    <string key="btnMbrSetup" value="Penerapan BCD" />
+    <string key="btnAdvanced" value="Pengaturan Lanjutan" />
+    <string key="btnAddEntry" value="Tambah Entri Baru" />
+    <string key="btnEditMenu" value="Edit Menu Boot" />
+    <string key="btnViewSettings" value="Lihat Pengaturan" />
+    <string key="grpToolbox" value="Kotak Alat EasyBCD" />
+    <string key="mnuSelectBcd" value="&amp;Pilih BCD" />
+    <string key="mnuLanguage" value="&amp;Pilih Bahasa" />
+    <string key="mnuLoadSystemBcd" value="Muat S&amp;istem BCD" />
+    <string key="mnuRescan" value="Segarkan Toko CBD" />
+    <string key="mnuRegister" value="&amp;Daftar" />
+    <string key="mnuDonate" value="&amp;Donasi" />
+    <string key="mnuUpdate" value="Periksa &amp;Pembaruan" />
+    <string key="mnuExit" value="K&amp;eluar" />
+    <string key="mnuFile" derive="true" />
+    <string key="mnuOptions" value="O&amp;psi" />
+    <string key="mnuEditLegacy" value="Edit &amp;Entri Lama" />
+    <string key="mnuRestart" value="&amp;Restart Komputer" />
+    <string key="mnuTools" value="&amp;Alat" />
+    <string key="mnuDocumentation" value="Dok&amp;umentasi" />
+    <string key="mnuSupport" value="Dapatkan &amp;Dukungan" />
+    <string key="mnuBug" value="Ki&amp;rim Bug" />
+    <string key="mnuDonate2" value="&amp;Donasi&#xD;&#xA;" />
+    <string key="mnuAbout" value="T&amp;entang" />
+    <string key="mnuHelp" value="&amp;Bantuan" />
+    <string key="MainUI" derive="true" />
+    <string key="colName" value="Entri" />
+    <string key="colDefault" derive="true" />
+    <string key="cbxVhdType" value="Microsoft VHD&#xD;&#xA;Gambar Hard Disk Mentah&#xD;&#xA;Gambar Partisi Mentah" />
+    <string key="cbxIsoMode" value="Jalankan dari Disk&#xD;&#xA;Muat dari Memori" />
+    <string key="cbxPeType" value="Gambar WIM (Ramdisk)&#xD;&#xA;Tata Letak Sistem File yang Diekstrak" />
+    <string key="cbxWinType" derive="true" />
+    <string key="cbxLinType" derive="true" />
+    <string key="cbxMacType" derive="true" />
+    <string key="cbxEntryDep" derive="true" />
+    <string key="cbxEntryPae" derive="true" />
+    <string key="cbxEntrySafe" derive="true" />
+    <string key="emptyList" value="Tidak ada entri yang terdeteksi!" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+    <string key="efiTitle" value="Bootloader EFI Terdeteksi!" />
+    <string key="efiMessage" value="EasyBCD telah mendeteksi bahwa mesin Anda sedang boot dalam mode EFI. Karena batasan yang ditetapkan oleh Microsoft, banyak fitur multi-boot EasyBCD tidak dapat digunakan dalam mode EFI dan telah dinonaktifkan.&#xD;&#xA;&#xD;&#xA;Tekan 'OK' untuk melanjutkan atau 'Bantuan' untuk membaca lebih lanjut tentang batasan ini dan kemungkinan penyelesaiannya." />
+    <string key="lstFreeDos" derive="true" />
+    <string key="chkMetroUI" value="Gunakan Metro bootloader" />
+  </strings>
+</localization>

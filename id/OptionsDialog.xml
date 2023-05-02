@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnOK" derive="true" />
+    <string key="btnCancel" value="Batal" />
+    <string key="chkExpertMode" value="Jalankan EasyBCD dalam Mode Pakar" />
+    <string key="chkRememberBackup" value="Ingat direktori Cadangan BCD saat keluar" />
+    <string key="lblExpertMode" value="Mode ahli tidak meminta persetujuan pengguna sebelum mengambil tindakan lanjutan!" />
+    <string key="chkLoadDefaultBcd" value="Secara otomatis memuat file BCD berikut saat mulai:" />
+    <string key="btnBrowseBcd" derive="true" />
+    <string key="chkAutoUpdate" value="Update Otomatis setiap" />
+    <string key="chkRss" value="Sertakan NeoSmart Technologies di Platform RSS Windows" />
+    <string key="numUpdateInterval" derive="true" />
+    <string key="rdoDays" value="Hari" />
+    <string key="rdoWeeks" value="Minggu" />
+    <string key="rdoMonths" value="Bulan" />
+    <string key="lblLastUpdateCheck" value="Pemeriksaan otomatis terakhir:" />
+    <string key="tabGeneralSettings" value="Pengaturan Umum" />
+    <string key="lblDefaultTab" value="Tab default saat startup:" />
+    <string key="lblDefaultDisplay" value="Modus tampilan default:" />
+    <string key="lblOverviewFont" value="Ringkasan font:" />
+    <string key="lblDetailedFont" value="Font tampilan detail:" />
+    <string key="lblOverviewSize" value="Ukuran" />
+    <string key="numFontOverview" derive="true" />
+    <string key="lblOverviewPt" derive="true" />
+    <string key="lblDetailedSize" value="Ukuran:" />
+    <string key="numFontDetailed" derive="true" />
+    <string key="lblDetailedPt" derive="true" />
+    <string key="chkWordWrap" value="WordWrap/Bungkus Kata diaktifkan secara default" />
+    <string key="chkSaveWindow" value="Simpan ukuran jendela EasyBCD saat keluar" />
+    <string key="ResetSize" value="Atur Ulang Opsi Tampilan" />
+    <string key="tabDisplayOptions" value="Opsi Tampilan" />
+    <string key="OptionsDialog" value="Pengaturan EasyBCD" />
+    <string key="overview" value="Ringkasan" />
+    <string key="detailed" value="Detail" />
+    <string key="locateBcd" value="Temukan BCD yang valid" />
+    <string key="never" value="Tidak Pernah" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" value="359" />
+  </strings>
+</localization>

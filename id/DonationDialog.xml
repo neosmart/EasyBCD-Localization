@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="chkDontRemind" value="Jangan ingatkan saya lagi" />
+    <string key="btnCancel" value="Tidak &amp;Terimakasih" />
+    <string key="btnDonate" value="&amp;Donasi" />
+    <string key="lblDonationIntro" value="EasyBCD Edisi Komunitas adalah perangkat lunak gratis dan kami bermaksud untuk tetap seperti itu. Tetapi hanya karena gratis tidak berarti biaya pengembangan dan pengujiannya lebih murah.&#xD;&#xA;&#xD;&#xA;Hingga saat ini, EasyBCD telah diunduh secara gratis lebih dari 25 juta kali, menyelamatkan banyak komputer dari ambang kehancuran." />
+    <string key="donationTitle" value="Bantuan EasyBCD Membantu Anda!" />
+    <string key="lblYouDonate" value="Maukah Anda menyumbang untuk membantu EasyBCD menyelamatkan lebih banyak PC?" />
+    <string key="DonationDialog" value="Apakah EasyBCD Membantu Anda?" />
+  </strings>
+</localization>
