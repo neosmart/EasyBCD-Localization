@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <localization>
   <strings>
-    <string key="linkLabel" value="Esta cópia do EasyBCD necessita da compra de uma licença comercial.&#xD;&#xA;&#xD;&#xA;Por favor, insira o e-mail ou o número de licença asssociado com a compra. Clique aqui para comprar uma licença, ou contate o suporte via Sales@NeoSmart.net" version="1" />
+    <string key="linkLabel" value="Esta cópia do EasyBCD necessita da compra de uma licença comercial.&#xD;&#xA;&#xD;&#xA;Insira o e-mail ou o número de licença asssociado com a compra. Clique aqui para comprar uma licença, ou contacte o suporte via Sales@NeoSmart.net" version="1" />
     <string key="linkClick" value="Clique aqui" version="1" />
     <string key="linkEmail" value="Sales@NeoSmart.net" version="1" />
     <string key="btnSkip" value="&amp;Ignorar" version="1" />
-    <string key="btnRegister" value="&amp;Registrar" version="1" />
-    <string key="lblTitle" value="EasyBCD Commercial Edition" version="1" />
+    <string key="btnRegister" value="&amp;Registar" version="1" />
+    <string key="lblTitle" value="Edição comercial do EasyBCD" version="1" />
     <string key="lblLicenseKey" value="E-mail ou Chave de Licença:" version="1" />
-    <string key="LicenseDialog" value="EasyBCD Commercial Edition" version="1" />
+    <string key="LicenseDialog" value="Edição comercial do EasyBCD" version="1" />
     <string key="email" value="E-mail" version="1" />
     <string key="licenseKey" value="Chave de Licença" version="1" />
     <string key="seats" value="Seats" version="1" />
-    <string key="regFailTitle" value="Falha no Registro!" version="1" />
+    <string key="regFailTitle" value="Falha no Registo!" version="1" />
     <string key="regFail" value="E-mail ou chave de licença incorreta. Tente novamente." version="1" />
-    <string key="regException" value="Erro encontrado ao obter licença do servidor remoto. Certifique-se que está conectado a Internet ou tente de novo mais tarde." version="1" />
-    <string key="regExceptionTitle" value="Não é possível Registrar" version="1" />
+    <string key="regException" value="Erro encontrado ao obter licença do servidor remoto. Certifique-se que está ligado à Internet ou tente novamente mais tarde." version="1" />
+    <string key="regExceptionTitle" value="Não foi possível registar" version="1" />
     <string key="btnContinue" value="Continuar" version="1" />
-    <string key="regSuccess" value="Registro Completado!" version="1" />
+    <string key="regSuccess" value="Registo concluído!" version="1" />
     <string key="MinimumWidth" value="511" />
     <string key="MinimumHeight" value="334" />
   </strings>

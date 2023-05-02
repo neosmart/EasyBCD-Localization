@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OK_Button" value="OK" version="1" />
+    <string key="Cancel_Button" value="Cancelar" version="1" />
+    <string key="Body" value="Para poder continuar, o EasyBCD necessita acessar a mídia de instalação do Windows Vista ou superior (geralmente um DVD ou uma imagem de disco). &#xD;&#xA;&#xD;&#xA;Por favor, insira o DVD no leitor ou monte a imagem, então pressione OK para continuar." version="2" />
+    <string key="SdiMaker" value="Inserir Mídia de Instalação do Windows" version="1" />
+    <string key="mediaNotFound" value="Mídia válida de instalação do Windows não encontrada." version="1" />
+    <string key="MinimumWidth" value="381" />
+    <string key="MinimumHeight" value="196" />
+  </strings>
+</localization>

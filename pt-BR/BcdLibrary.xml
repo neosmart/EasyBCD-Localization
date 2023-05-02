@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="accessViolationFormat" value="Não foi possível obter acesso exclusivo a {0}. Se este disco for removível, tente ejetá-lo e depois reinsira-o e tente novamente." version="1" />
+    <string key="failedSave" value="Falha ao salvar alterações!" version="1" />
+    <string key="accessDeniedTitle" value="Acesso Negado" version="1" />
+    <string key="accessDeniedFormat" value="O acessa a  {0} foi negado. Por favor, verifique se o arquivo não está em uso e que você possui permissão para apagar/modificar este local." version="1" />
+    <string key="oneEntry" value="Há somente uma entrada no gerenciador de boot do Windows." version="1" />
+    <string key="multiEntriesFormat" value="Há um total de {0} entradas listadas no gerenciador de boot." version="1" />
+    <string key="entryNum" value="Entrada #" version="1" />
+    <string key="name" value="Nome" version="1" />
+    <string key="bcdId" value="ID BCD" version="1" />
+    <string key="drive" value="Drive" version="1" />
+    <string key="device" value="Dispositivo" version="1" />
+    <string key="path" value="Caminho" version="1" />
+    <string key="default" value="Padrão" version="1" />
+    <string key="timeout" value="Tempo limite" version="1" />
+    <string key="none" value="Nenhum" version="1" />
+    <string key="timeoutFormat" value="{0} segundos" version="1" />
+    <string key="skipped" value="Ignorado" version="1" />
+    <string key="bootDevice" value="Drive de Boot" version="1" />
+    <string key="ebcdBootDevice" value="Disp. de Boot EasyBCD" version="1" />
+    <string key="bootloaderPath" value="Caminho do bootloader" version="1" />
+    <string key="bcdError" value="Erro de Execução do BCD!" version="1" />
+    <string key="ntNotFoundTitle" value="Instalação NT Válida não encontrada!" version="1" />
+    <string key="ntNotFound" value="O EasyBCD falhou ao detectar uma instalação válida do Windows NT-2003 em todos os drives montados e não pôde continuar." version="1" />
+    <string key="manuallyLoad" value="Gostaria de manualmente carregar um registro BCD para o EasyBCD gerenciar? Por favor, note que o EasyBCD necessita do bootloader (instalado por padrão no Windows Vista e superior), e não funcionará em sistemas somente XP." version="2" />
+    <string key="errorBcd" value="Erro ao Abrir Registro BCD" version="1" />
+    <string key="locateValid" value="Localize um registro BCD válido" version="1" />
+    <string key="bcdRegistry" value="Registro BCD" version="1" />
+    <string key="partition" value="Partição" version="1" />
+    <string key="unknown" value="Desconhecido" version="1" />
+    <string key="gib" value="GB" version="1" />
+    <string key="mib" value="MB" version="1" />
+    <string key="as" value="como" version="1" />
+    <string key="defragFormat" value="Iniciando defragmentação do arquivo {0}" version="1" />
+    <string key="unnamed" value="Entrada sem nome" version="1" />
+  </strings>
+</localization>

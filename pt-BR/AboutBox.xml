@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OKButton" derive="true" />
+    <string key="seatsAllowed" value="usuários/dispositivos permitidos" version="1" />
+    <string key="unlicensed" value="Cópia não licenciada!" version="1" />
+    <string key="version" value="Versão" version="1" />
+    <string key="copyright" derive="true" />
+    <string key="aboutText1" value="O EasyBCD é a última ferramenta de gereciamento de boot. Não há garantia que o EasyBCD irá funcionar com todas as versões do Windows - sempre certifique-se que você está usando a última versão disponível. &#xD;&#xA;&#xD;&#xA;• Desenvolvedor chefe: Mahmoud H. Al-Qudsi&#xD;&#xA;• Ingredientes ativos: Sweat, blood, and tears&#xD;&#xA;• Desenvolvido por C++, C#, Dr. Pepper, Excedrin, and Visine&#xD;&#xA;• Todo seu boot nos pertence!" version="1" />
+    <string key="thanksFormat" value="Agradecimentod especiais para os times Grub4Dos, PLoP,{0} e UltraDefrag!&#xD;&#xA;&#xD;&#xA;Esta distribuição EasyBCD chega com componentes independentes (Grub4Dos e UltraDefrag) licenciados sobre os termos da licença GPLv2. Para mais informações, veja o arquivo LICENSE na pasta de instalação." version="1" />
+    <string key="title" value="Sobre o {0}" version="1" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+  </strings>
+</localization>

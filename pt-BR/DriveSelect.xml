@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblDriveSelect" value="Novo Drive de Boot:" version="1" />
+    <string key="lblBody" value="EasyBCD vai reconfigurar o seu sistema para iniciar a partir da partição que você selecionar abaixo. Este processo irá criar um registro BCD no disco selecionado, copiar as entradas BCD atuais, e tornar a partição selecionada ativa e inicializável." version="1" />
+    <string key="OK_Button" value="&amp;OK" version="1" />
+    <string key="Cancel_Button" value="&amp;Cancelar" version="1" />
+    <string key="DriveSelect" value="SeleçãoDrive" version="1" />
+    <string key="errorAlreadyBoot" value="A unidade selecionada já é o disco de inicialização atual. Por favor, selecione uma unidade diferente para continuar!" version="1" />
+    <string key="errorAlreadyBootTitle" value="Por favor, selecione outra unidade!" version="1" />
+    <string key="MinimumWidth" value="518" />
+    <string key="MinimumHeight" value="199" />
+  </strings>
+</localization>

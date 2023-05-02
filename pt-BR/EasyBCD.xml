@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linuxAuto" value="Localizar e carregar automaticamente" version="1" />
+    <string key="communityText" value="O EasyBCD Community Edition é livremente licenciado para uso não-comercial.&#xD;&#xA;Se você estiver usando este software em um ambiente comercial, por favor clique em &quot;Cancelar&quot; abaixo para comprar uma licença comercial. Caso contrário, clique em 'OK' para continuar." version="1" />
+    <string key="communityTitle" value="EasyBCD Community Edition" version="1" />
+    <string key="bcdInUse" value="O arquivo atual está em uso e não pode ser aberto pelo EasyBCD. Se você está tentando (re)selecionar o registro do sistema, pressione Não abaixo e, em seguida, usar a opção &quot;Carregar Registro do Sistema&quot; no menu Arquivo.&#xD;&#xA;&#xD;&#xA;Gostaria de selecionar um registro diferente para usar no EasyBCD?" version="1" />
+    <string key="bcdInUseTitle" value="Erro de Violação de Acesso" version="1" />
+    <string key="accessDenied" value="Acesso Negado!" version="1" />
+    <string key="uncUnsupported" value="Locais de rede não são suportadas por este recurso. Por favor insira um caminho diferente e tente novamente." version="1" />
+    <string key="uncUnsupportedTitle" value="Caminhos UNC Não Suportados" version="1" />
+    <string key="invalidPath" value="Nome inválido de arquivo ou caminho detectado. Por favor, insira um caminho válido para continuar." version="1" />
+    <string key="invalidPathTitle" value="Caminho Inválido!" version="1" />
+    <string key="updateCheck" value="Verificando atualizações do EasyBCD..." version="1" />
+    <string key="updateFailed" value="Falha ao verificar atualizações. Erro ao estabelecer conexão com a rede." version="1" />
+    <string key="updateFailedSB" value="Falha ao verificar atualizações do EasyBCD: " version="1" />
+    <string key="updateFound" value="Nova versão do EasyBCD encontrada!" version="1" />
+    <string key="updateFoundText" value="Uma nova versão do EasyBCD foi encontrada. Você gostaria de ir para a página de download do EasyBCD agora para atualizar para a versão mais recente?" version="1" />
+    <string key="updateNone" value="Você possui a última versão do EasyBCD." version="1" />
+    <string key="install" value="Instalar" version="1" />
+    <string key="remove" value="Remover" version="1" />
+    <string key="adminLine1" value="O EasyBCD requer privilégios de administrador para funcionar corretamente, e não pode continuar." version="1" />
+    <string key="adminLine2" value="Por favor, faça login como Administrador para poder continuar." version="1" />
+    <string key="adminTitle" value="Permissão Negada" version="1" />
+    <string key="easybcdBackup" value="Backup do EasyBCD" version="1" />
+    <string key="yes" value="Sim" version="1" />
+    <string key="no" value="Não" version="1" />
+    <string key="registryFailed" value="Não foi possível salvar configurações no registro" version="1" />
+    <string key="commercialEdition" value="Commercial Edition" version="1" />
+    <string key="communityEdition" value="Community Edition" version="1" />
+    <string key="failedAddTitle" value="Falha ao Adicionar Entrada!" version="1" />
+    <string key="msdosHelp" value="Para que EasyBCD possa inicializar no MS-DOS 6.x ou Windows 3.x, os arquivos IO.SYS e MSDOS.SYS devem estar no início da partição ativa.&#xD;&#xA;&#xD;&#xA;Para mais informações sobre como isso é feito, pressione &quot;Sim&quot; para abrir a página de documentação do EasyBCD para entradas baseadas em DOS. Se você prefere não ver a documentação agora, pressione &quot;Não&quot;." version="1" />
+    <string key="msdosHelpTitle" value="Ler Documentação sobre MS-DOS do EasyBCD?" version="1" />
+    <string key="addedFormat" value="{0} adicionado ao menu de inicialização com sucesso!" version="1" />
+    <string key="neogrubBootloader" value="Bootloader NeoGrub" version="1" />
+    <string key="neogrubRemoved" value="NeoGrub removido com sucesso!" version="1" />
+    <string key="vhdErrorTitle" value="Erro ao Adicionar Entrada VHD" version="1" />
+    <string key="errorSpaces" value="O caminho da imagem não pode conter espaços. Por favor, corrija isso e tente novamente." version="1" />
+    <string key="isoErrorTitle" value="Erro ao Adicionar Entrada ISO" version="1" />
+    <string key="floppyErrorTitle" value="Erro ao Adicionar Entrada de Disquete" version="1" />
+    <string key="path" value="Caminho:" version="1" />
+    <string key="name" value="Nome:" version="1" />
+    <string key="drive" value="Drive:" version="1" />
+    <string key="browseFileTitle" value="Localizar Arquivo" version="1" />
+    <string key="wimFiles" value="Arquivos de Imagem do Windows" version="1" />
+    <string key="vhdFiles" value="Arquivos de Disco Virtual" version="1" />
+    <string key="isoFiles" value="Imagens ISO" version="1" />
+    <string key="imgFiles" value="Arquivos IMG" version="1" />
+    <string key="bcdFiles" value="Arquivos de Backup do EasyBCD" version="1" />
+    <string key="safeIntro" value="O EasyBCD permite criar entradas extras para inicializar no mesmo SO, mas com opções diferentes. Ao criar uma nova entrada e definindo-a para o modo de segurança, você pode usá-la para depurar rapidamente o seu sistema." version="1" />
+    <string key="safeNormal" value="Normal: Desativa todas as opções de recuperação, permitindo que você inicie seu sistema normalmente." version="1" />
+    <string key="safeVga" value="VGA básico: Carrega os drivers de vídeo básicos, redefinindo a resolução da tela." version="1" />
+    <string key="safeNetworking" value="Modo Seguro c/ Rede: Boot em modo de segurança com acesso à Internet e rede local." version="1" />
+    <string key="safeMode" value="Modo Seguro: Boot em modo seguro sem acesso a rede. Útil se os drivers de rede foram corrompidos." version="1" />
+    <string key="safeAD" value="Reparação do Active Directory: Faz boot do Windows Server 2008 modo de reparação do Active Directory." version="1" />
+    <string key="safeTitle" value="Sobre as Opções do Modo Seguro" version="1" />
+    <string key="paeIntro" value="A extensão de endereço fíco determina como o Windows irá mapear a memória extra além da marca de 4 GB." version="1" />
+    <string key="paeDefault" value="Padrão: Deixa o Windows determinar quanta memória será mapeada." version="1" />
+    <string key="paeEnable" value="Forçar Ativado: Força o mapeamento da memória." version="1" />
+    <string key="paeDisable" value="Forçar Desativado: Desativa o mapeamento de memória extra." version="1" />
+    <string key="paeTitle" value="Sobre as Opções do PAE" version="1" />
+    <string key="nxIntro" value="DEP/NoExecute é um sistema de detecção de scripts maliciosos a nível de hardware introduzido no Windows XP SP2 que pode ajudar a proteger seu sistema, mas que pode causar alguns problemas de compatibilidade." version="1" />
+    <string key="nxOptIn" value="OptIn: Núcleo do Windows protegido por DEP" version="1" />
+    <string key="nxOptOut" value="OptOut: o Windows e aplicativos são protegidos por DEP" version="1" />
+    <string key="nxOn" value="AlwaysOn: DEP forçado para todos os aplicativos." version="1" />
+    <string key="nxOff" value="AlwaysOff: o DEP está desativado para o Windows e todos os aplicativos." version="1" />
+    <string key="nxTitle" value="Sobre DEP/NoExecute" version="1" />
+    <string key="errorNotPrimary" value="A partição de boot deve ser uma partição primária.&#xD;&#xA;&#xD;&#xA;Por favor, selecione um drive diferente ou converta a partição selecionada para primária primeiro, então tente novamente." version="1" />
+    <string key="opNotAllowed" value="Operação Não Permitida!" version="1" />
+    <string key="errorNotMounted" value="O EasyBCD pode tornar inicializáveis drives não montados. Por favor, atribua uma letra ao drive selecionado, reinicie o EasyBCD, e tente novamente." version="1" />
+    <string key="invalidDrive" value="Operação de Drive Inválido" version="1" />
+    <string key="bootableSuccess" value="O EasyBCD converteu com suceso o disco selecionado em um drive inicializável. Para poer configurar as entradas de menu do boo na partição selecionada, você deve usar 'Arquivo | Selecionar Registro BCD' e escolher o arquivo \Boot\BCD na partição preparada." version="1" />
+    <string key="mountBcdNow" value="Gostaria de carregar automaticamente o registro BCD recém criado no EasyBCD agora?" version="1" />
+    <string key="bootableTitle" value="Disco Inicializável Criado" version="1" />
+    <string key="accessDeniedText" value="Não foi possível obter acesso ao BCD. Por favor, verifique e certifique-se que o registro BCD no dispositivo selecionado não está atualmente em uso." version="1" />
+    <string key="partitionConverted" value="Partção convertida para drive inicializável" version="1" />
+    <string key="bcdRemove1" value="Esta é uma opção avançada que deve somente ser usada caso você tenha certeza absoluta que deseja desinstalar o bootloader BCD/BOOTMGR! Esta versão do bootloader é necessária para inicializar o Windows Vista ou superior!" version="2" />
+    <string key="bcdRemove2" value="Este recurso irá somente dar boot no Windows XP se os arquivos de boot corretos estiverem em seus lugare!" version="1" />
+    <string key="bcdRemove3" value="Tem certeza que deseja continuar?" version="1" />
+    <string key="warning" value="Aviso!" version="1" />
+    <string key="mbrSuccess" value="MBR escrito com sucesso" version="1" />
+    <string key="bootloaderSuccess" value="Configurações do bootloader salvas com sucesso" version="1" />
+    <string key="bcdReset" value="O BCD foi restaurado com sucesso. Todas as entradas foram apagadas!&#xD;&#xA;&#xD;&#xA;Importante: Você deve adicionar pelo menos uma entrada ou seu PC não irá iniciar!" version="1" />
+    <string key="bcdResetTitle" value="Restaurar BCD" version="1" />
+    <string key="selectBootTitle" value="Selecionar Nova Partição de Boot" version="1" />
+    <string key="selectBoot" value="EasyBCD vai reconfigurar o seu sistema para iniciar a partir da partição que você selecionar abaixo. Este processo irá criar um registro BCD no disco selecionado, copiar as entradas BCD atuais, e tornar a partição selecionada tanto ativa e inicializável." version="1" />
+    <string key="errorLogical" value="Foi feita uma tentativa de alterar a partição de boot para uma unidade lógica, o que não é permitido. A partição de boot deve ser uma partição primária.&#xD;&#xA;&#xD;&#xA;Por favor, selecione uma unidade diferente ou converta a partição selecionada para a primeira primária, em seguida, tente novamente." version="1" />
+    <string key="bootChangedFormat" value="O EasyBCD tornou com sucesso a unidade {0} a nova partição de boot, e carregou o novo registro BCD para modificação, caso você deve deseje fazer quaisquer alterações. Se esta partição está em seu primeiro disco de inicialização, você não precisa tomar nenhuma providência. Se não é, você agora deve desligar o seu PC e alterar a unidade de inicialização no BIOS para que as alterações tenham efeito." version="1" />
+    <string key="bootChangedTitle" value="Partição de Boot Alterada" version="1" />
+    <string key="unsupportedOS" value="Esta opção está disponível somente no Windows Vista ou superior." version="2" />
+    <string key="unsupportedOSTitle" value="Sistema Operacional Não Suportado!" version="1" />
+    <string key="errorNoRestore" value="Erro fatal: Não foi possível restaurar o registro selecionado." version="1" />
+    <string key="errorNoRestoreTitle" value="Erro ao Restaurar" version="1" />
+    <string key="confirmDelete" value="Tem certeza que deseja apagar esta entrada?" version="1" />
+    <string key="confirmDeleteTitle" value="Confirmar Apagar?" version="1" />
+    <string key="entryDeleted" value="Entrada no menu de boot apagada" version="1" />
+    <string key="thankYou" value="Seu apoio é apreciado!" version="1" />
+    <string key="loadExternal" value="Com esse recurso, o EasyBCD vai carregar e usar um banco de dados BCD externo de sua escolha. As mudanças serão feitas para este registro BCD e não afetará a configuração padrão do sistema." version="1" />
+    <string key="loadExternalTitle" value="Selecionando Novo Registro" version="1" />
+    <string key="easybcdFiles" value="Arquivos EasyBCD" version="1" />
+    <string key="errorRO1" value="Ou você não tem permissão para gravar o arquivo selecionado, ou o arquivo está definido como somente leitura, ou está armazenado em uma mídia somente leitura." version="1" />
+    <string key="errorRO2" value="Se você optar por continuar, as alterações feitas para este registro BCD não será salvo. Pressione &quot;Sim&quot; para continuar e carregar este arquivo BCD no modo somente leitura ou 'Não' para continuar usando o registro BCD anterior." version="1" />
+    <string key="errorROTitle" value="Registro BCD Somente Leitura Detectado" version="1" />
+    <string key="bcdLoadedFormat" value="Informação BCD carregado a partir de {0}" version="1" />
+    <string key="noBcd" value="Nenhum registro BCD carregado. EasyBCD sendo executado no modo limitado." version="1" />
+    <string key="confirmRestart" value="Tem certeza que deseja reiniciar o computador?" version="1" />
+    <string key="confirmRestartTitle" value="Confirmar Reiniciar" version="1" />
+    <string key="shutdownStarted" value="Desligamento iniciado." version="1" />
+    <string key="hiddenBootIni" value="O Boot.ini está localizado na partição de boot oculta e não pode ser carregado para edição do usuário pelo EasyBCD.&#xD;&#xA;&#xD;&#xA;Por favor, atribua uma letra de unidade para a partição de boot oculta ou use a auto-configuração de dual boot do Windows XP em vez disso." version="1" />
+    <string key="errorBootIniTitle" value="Não foi possível carregar boot.ini!" version="1" />
+    <string key="errorBootIniFormat" value="EasyBCD não conseguiu detectar um arquivo boot.ini existente na partição de inicialização {0}.&#xD;&#xA;&#xD;&#xA;Por favor, adicione uma nova entrada Windows XP ou Windows 2000 para usar o recurso de auto configuração boot.ini em vez disso." version="1" />
+    <string key="errorUtility" value="Erro Encontrado ao Executar Utilitário" version="1" />
+    <string key="sysInfo" value="Informações do Sistema" version="1" />
+    <string key="sysInfoText" value="Exibe informações sobre o seu hardware e configuração do software. Útil para corrigir falhas de hardware e para a rápida obtenção de um despejo da configuração do sistema atual." version="1" />
+    <string key="powerConsole" value="Console Power do EasyBCD" version="1" />
+    <string key="powerConsoleText" value="Acesso rápido a um shell de linha de comando com privilégios administrativos totais. Use-o para desempenhar funções de sistema ou acesso rápido ao bcdedit e bootsect.exe." version="1" />
+    <string key="sysRestore" value="Restauração do Sistema" version="1" />
+    <string key="sysRestoreText" value="Abre o painel de Restauração do Sistema, use-o para reverter/corigir rapidamente quaisquer mudanças que deixaram seu PC com problemas." version="1" />
+    <string key="restoreCds" value="CDs EasyRE de Recuperação do Windows" version="2" />
+    <string key="restoreCdsText" value="Easy Recovery Essentials para Windows é um CD/USB inicializável para reparo e recuperação que pode corrigir automaticamente seu PC da próxima vez que ele não inicializar. A reparação em um clique EasyRE irá procurar e corrigir praticamente todos os erros de inicialização, incluindo Telas Azuis, erros BCD, erro de configuração de partição, e mais." version="2" />
+    <string key="controlPanel" value="Painel de Controle" version="1" />
+    <string key="controlPanelText" value="Inicia o Painel de Controle, e use-o para fazer o que quiser." version="1" />
+    <string key="iRebootText" value="Apilcativo auxiliar da NeoSmart Technologies para o EasyBCD. O iReboot fica na barra de tarefas (ocupando somente 400KB da memória!) e lhe permite escolher qual sistema operacional iniciar de maneira rápida e fácil." version="1" />
+    <string key="errorNoEntries" value="O EasyBCD detectou que não há nenhuma entrada atualmente instalada. Se você sair do EasyBCD e reiniciar seu computador, ele não iniciará.&#xD;&#xA;&#xD;&#xA;Tem certeza que deseja sair antes de adicionar uma nova entrada?" version="1" />
+    <string key="errorNoEntriesTitle" value="Nenhuma Entrada Instalada!" version="1" />
+    <string key="errorPathSave" value="O EasyBCD falhou ao salvar o caminho do backup atual como a pasta de backup padrão. A opção foi desativada." version="1" />
+    <string key="errorPathSaveTitle" value="Problema no Caminho de Backup Padrão" version="1" />
+    <string key="isoHelp1" value="O EasyBCD suporta carregar imagens ISO em dois modos diferentes. Por favor, note que nem todos as ISOs não funcionarão corretamente; geralmente ISOs de instalação Linux não irão funcionar." version="1" />
+    <string key="isoHelp2" value="- Executar do Disco: Carrega rápido no boot, mas roda mais devagar. Necessita também pré-processamento pelo EasyBCD durante a criação." version="1" />
+    <string key="isoHelp3" value="- Carregar da Memória: Roda mais rápido, mas leva mais tempo para carregar até selecionar durante o boot. Pode falhar para discos grandes ou PCs antigos." version="1" />
+    <string key="isoHelpTitle" value="Sobre Opções ISO" version="1" />
+    <string key="warnDiffDevice" value="O arquivo selecionado está armazenado num dispositivo diferente que os arquivos de boot. Se você planeja usar esta entrada para dar boot num PC diferente deste que você está usando, você deve copiar este arquivo para o drive externo, então tente novamente.&#xD;&#xA;&#xD;&#xA;Deseja continuar assim mesmo?" version="1" />
+    <string key="diffDeviceTitle" value="Entrada Não-Portátil Detectada!" version="1" />
+    <string key="errorNoBcd" value="Nenhum registro BCD carregado - executando no modo de funcionabilidade reduzida!" version="1" />
+    <string key="bcdExceptionFormat" value="Exceção BCD 0x{0:X3}" version="1" />
+    <string key="userCancel" value="Operação cancelada pelo usuário." version="1" />
+    <string key="renameSuccess" value="Entrada renomeada com sucesso" version="1" />
+    <string key="plop" value="Extensor de BIOS EasyBCD" version="1" />
+    <string key="entryRemovedFormat" value="{0} foi removido" version="1" />
+    <string key="drive2" value="Drive" version="1" />
+    <string key="bcdResetStatus" value="BCD restaurado com sucessp. Por favor, reconfigure agora!" version="1" />
+    <string key="bcdRepaired" value="BCD reparado com sucesso" version="1" />
+    <string key="configSaved" value="Configuração da entrada salva com sucesso" version="1" />
+    <string key="backupSuccess" value="Backup do BCD realizado com sucesso" version="1" />
+    <string key="restoreSuccess" value="Restauração completada com sucesso" version="1" />
+    <string key="bcdRefresh" value="Dados BCD em cache atualizados com sucesso" version="1" />
+    <string key="optionsSaved" value="Opções salvas com sucesso!" version="1" />
+    <string key="orderSaved" value="Ordem da entrada salva" version="1" />
+    <string key="easybcdStatus" value="Estado do EasyBCD" version="1" />
+    <string key="saveFileTitle" value="Salvar Como" version="1" />
+    <string key="updateFoundText2" value="Uma nova versão do EasyBCD foi encontrada. Gostaria de atualizar automaticamente o EasyBCD  para a última versão?&#xD;&#xA;&#xD;&#xA;Pressione 'Sim' para baixar automaticamente e atualizar, 'Não' para ver a lista de alterações e atualizar manualmente, ou 'Cancelar' para cancelar." version="1" />
+    <string key="usbCreatorText" value="O Easy BCD Creator torna muito fácil e rápido converter imagens ISO para Instalação do Windows e outras ferramentas de recuperação em um USB inicializável (sem necessidade de CDs ou DVDs) em apenas um clique." version="1" />
+    <string key="usbCreator" derive="true" />
+    <string key="oemKeyText" value="Use o Windows OEM Product Key Tool da NeoSmart Technologies para exibir e recuperar a chave  de produto do WIndows inserida em seu PC ou notebook, para Windows 8 e Windows 10." version="1" />
+    <string key="oemKey" derive="true" />
+    <string key="help" value="Ajuda" version="1" />
+    <string key="browse" value="Procurar" version="1" />
+  </strings>
+</localization>

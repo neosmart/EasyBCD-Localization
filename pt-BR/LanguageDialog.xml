@@ -5,6 +5,6 @@
     <string key="btnGo" value="OK" version="1" />
     <string key="MinimumWidth" value="317" />
     <string key="MinimumHeight" value="87" version="3" />
-    <string key="lnkTranslate" value="Ajude a traduzir o EasyBCD para o seu idioma!" version="1" />
+    <string key="lnkTranslate" value="Ajude a traduzir EasyBCD para o seu idioma!" version="1" />
   </strings>
 </localization>
