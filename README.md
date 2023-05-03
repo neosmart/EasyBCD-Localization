@@ -22,6 +22,7 @@ These are the languages currently available in this repository, thanks to the se
 * Hebrew (עִבְרִית) - xman2012
 * Hungarian (Magyar) - Jé Em
 * Italian (Italiano) - Paolo Viappiani
+* Indonesian (Bahasa Indonesia) - rz.k
 * Korean (한국어) - Youngju Yun
 * Polish (Polski) - Kili
 * Portuguese (Português) - Hugo Carvalho
