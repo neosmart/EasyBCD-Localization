@@ -26,6 +26,7 @@ These are the languages currently available in this repository, thanks to the se
 * Korean (한국어) - Youngju Yun
 * Polish (Polski) - Kili
 * Portuguese (Português) - Hugo Carvalho
+* Romanian (Română) - Don.Pedro
 * Russian (Русский) - niknikch45 & co.
 * Slovenian (Slovenščina) - Deseti_brat
 * Swedish (Svenska) - Åke Engelbrektson
