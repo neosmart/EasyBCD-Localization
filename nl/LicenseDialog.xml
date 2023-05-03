@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linkLabel" value="Deze uitgave van EasyBCD vereist een professionele licentie.&#xD;&#xA;&#xD;&#xA;Geef a.u.b het email adres of de licentie sleutel op die hoort bij uw aankoop. Klik hier om een licentie aan te kopen of neem contact met Sales@NeoSmart.net voor hulp." />
+    <string key="MinimumHeight" derive="true" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="regSuccess" value="Registratie geslaagd!" />
+    <string key="btnContinue" value="Verder" />
+    <string key="regExceptionTitle" value="Kan niet registreren" />
+    <string key="regException" value="Fout bij het verkrijgen van een licentie van de server. Controleer a.u.b uw internet verbinding of probeer later." />
+    <string key="regFail" value="email of licentie sleutel fout. Probeer a.u.b opnieuw." />
+    <string key="regFailTitle" value="Registratie mislukt!" />
+    <string key="seats" value="Werkplekken" />
+    <string key="licenseKey" value="Licentie sleutel" />
+    <string key="email" value="Email" />
+    <string key="LicenseDialog" value="EasyBCD Professionele Editie" />
+    <string key="lblLicenseKey" value="Email of Licentie sleutel:" />
+    <string key="lblTitle" value="EasyBCD Professionele Editie" />
+    <string key="btnRegister" value="&amp;Registreer" />
+    <string key="btnSkip" value="O&amp;verslaan" />
+    <string key="linkEmail" derive="true" />
+    <string key="linkClick" value="Kilk hier" />
+  </strings>
+</localization>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OKButton" value="&amp;OK" />
+    <string key="seatsAllowed" value="gebruikers/Pc's toegestaan" />
+    <string key="unlicensed" value="Licentie ontbreekt!" />
+    <string key="version" value="Versie" />
+    <string key="copyright" derive="true" />
+    <string key="aboutText1" value="EasyBCD is het beste bootloader &amp; bootloader beheers gereedschap.Er is geen garantie dat EasyBCD zal werken met alle Windows versies  - zorg altijd dat U de laatste versie gebruikt. &#xD;&#xA;&#xD;&#xA;• Hoofd ontwikkelaar: Mahmoud H. Al-Qudsi&#xD;&#xA;• Ingredients: Bloed,Zweet  en tranen&#xD;&#xA;• Met hulp van: C++, C#, Dr. Pepper, Excedrin, and Visine&#xD;&#xA;• Wij beheren all Uw boots!" />
+    <string key="thanksFormat" value="LMet speciale dank aan Grub4Dos, PLoP,{0} en de UltraDefrag teams!&#xD;&#xA;&#xD;&#xA;Deze EasyBCD uitgave bevat standalone componenten (Grub4Dos en UltraDefrag) onder GPLv2 licentie.&#xD;&#xA;Zie voor meer info het LICENSE Bestand in de installatie map." />
+    <string key="title" value="Over {0}&#xD;&#xA;" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+  </strings>
+</localization>

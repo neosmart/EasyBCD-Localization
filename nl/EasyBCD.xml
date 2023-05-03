@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linuxAuto" value="Automatisch zoeken en laden" version="1" />
+    <string key="communityText" value="EasyBCD Community Edition is gratis voor privé gebruik. &#xD;&#xA;wannneer U het gebruikt in een zakelijke omgeving, Klik a.u.b op 'Cancel' hieronder om een professionele licentie aan te schaffen. anders klik 'OK' om door te gaan." version="1" />
+    <string key="communityTitle" value="EasyBCD Community Editie" version="1" />
+    <string key="bcdInUse" value="Het huidig bestand is in gebruik en kan niet door EasyBCD geopend worden. Als U probeert het systeem  register te (re)selecteren,klik op 'Nee' hieronder en gebruik dan de optie &quot;Laad Systeem  Register &quot; in het bestands menu&#xD;&#xA;&#xD;&#xA;Wilt U een ander register selecteren voor EasyBCD?" version="1" />
+    <string key="bcdInUseTitle" value="Fout in toegangs rechten" version="1" />
+    <string key="accessDenied" value="Geen toegang!" version="1" />
+    <string key="uncUnsupported" value="Netwerk paden worden hier niet ondersteund. Voer a.u.b een ander pad in en probeer opniuew." version="1" />
+    <string key="uncUnsupportedTitle" value="UNC Paden niet ondersteund" version="1" />
+    <string key="invalidPath" value="Ongeldig bestand of path naam gedetecteerd. Geef a.u.b een geldig path om door te gaan." version="1" />
+    <string key="invalidPathTitle" value="Ongeldig Path!" version="1" />
+    <string key="updateCheck" value="Zoek updates voor EasyBCD..." version="1" />
+    <string key="updateFailed" value="Update controle mislukt. Fout bij het maken van de netwerk verbinding." version="1" />
+    <string key="updateFailedSB" value="EasyBCD update controle mislukt: " version="1" />
+    <string key="updateFound" value="Nieuwe versie van EasyBCD gevonden!" version="1" />
+    <string key="updateFoundText" value="Nieuwe versie van EasyBCD gevonden!. Wilt U naar de EasyBCD download pagina gaan om bij te werken naar de laatste versie?" version="1" />
+    <string key="updateNone" value="U hebt de laatste versie van EasyBCD." version="1" />
+    <string key="install" value="Installeer" version="1" />
+    <string key="remove" value="Verwijder" version="1" />
+    <string key="adminLine1" value="EasyBCD vereist administrator rechten enkan niet doorgaan." version="1" />
+    <string key="adminLine2" value="Log in of voer uit als Administrator om door te gaan." version="1" />
+    <string key="adminTitle" value="Geen toegang" version="1" />
+    <string key="easybcdBackup" derive="true" />
+    <string key="yes" value="Ja" version="1" />
+    <string key="no" value="Nee" version="1" />
+    <string key="registryFailed" value="Kan de register instellingen niet bewaren" version="1" />
+    <string key="commercialEdition" value="Professionele Editie" version="1" />
+    <string key="communityEdition" value="Openbare Editie" version="1" />
+    <string key="failedAddTitle" value="Boot item toevoegen mislukt!" version="1" />
+    <string key="msdosHelp" value="Om met EasyBCD MS-DOS 6.x of Windows 3.x te booten,moeten IO.SYS en MSDOS.SYS aan het begin van de actieve partitie staan.&#xD;&#xA;&#xD;&#xA;Voor meer info hoe dat te regelen, kies 'Ja' om de EasyBCD documentatie over regels voor DOS te openen. Kies 'Nee' als U die nu niet wilt bilt bekijken." version="1" />
+    <string key="msdosHelpTitle" value="Wilt U de EasyBCD's MS-DOS Documentatie lezen?" version="1" />
+    <string key="addedFormat" value="{0} voegen aan het boot menu gelukt!" version="1" />
+    <string key="neogrubBootloader" derive="true" />
+    <string key="neogrubRemoved" value="NeoGrub verwijderd!" version="1" />
+    <string key="vhdErrorTitle" value="Fout bij het toevoegen van een VHD boot item" version="1" />
+    <string key="errorSpaces" value="Het path naar het image mag geen spaties bevatten. Verbeter dit a.u.b en probeer nog eens." version="1" />
+    <string key="isoErrorTitle" value="Fout bij het toevoegen van een ISO boot item" version="1" />
+    <string key="floppyErrorTitle" value="Fout bij het toevoegen van een Floppy boot item" version="1" />
+    <string key="path" value="Path:" version="1" />
+    <string key="name" value="Naam:" version="1" />
+    <string key="drive" value="Disk:" version="1" />
+    <string key="browseFileTitle" value="Blader naar bestand" version="1" />
+    <string key="wimFiles" value=".wim Windows Image bestanden" version="1" />
+    <string key="vhdFiles" value=".vhd Virtuele Hard Disk bestanden" version="1" />
+    <string key="isoFiles" value="ISO Image bestanden" version="1" />
+    <string key="imgFiles" value="IMG bestanden" version="1" />
+    <string key="bcdFiles" value=".bcd EasyBCD Backup bestanden" version="1" />
+    <string key="safeIntro" value="EasyBCD geeft u de mogelijkheid extra boot items te maken om hetzelfde OS te booten, maar met verschillende opties. Door een boot item te dupliceren en een van de 'Veilige modus' opties aan te vinken, kunt U snel uw systeem &quot;debuggen&quot;." version="1" />
+    <string key="safeNormal" value="Normal: Standaard boot van Uw OS zet alle herstel opties uit." version="1" />
+    <string key="safeVga" value="Basis VGA: Laad de eenvoudigste scherm drivers, met de minste resolutie." version="1" />
+    <string key="safeNetworking" value="Veilige Modus met Netwerk: Boot in 'Veilige Modus' met toegang tot internet en het lokale netwerk." version="1" />
+    <string key="safeMode" value="Veilige Modus met Netwerk: Boot in 'Veilige Modus' zonder toegang tot het netwerk. Nuttige wanneer de netwerk drivers beschadigd zijn." version="1" />
+    <string key="safeAD" value="Active Directory Reparatie: Boot Windows Server 2008 in Active Directory reparatie modus." version="1" />
+    <string key="safeTitle" value="Over de 'Veilige Modus' Opties" version="1" />
+    <string key="paeIntro" value="Fysieke adres uitbreiding bepaalt hoe Windows het extra geheugen boven de 4 GiB markering zal indelen." version="1" />
+    <string key="paeDefault" value="Default: Laat Windows bepalen hoe het geheugen wordt ingedeeld." version="1" />
+    <string key="paeEnable" value="Forceer Ingeschakeld: Forceert de geheugen indeling." version="1" />
+    <string key="paeDisable" value="Forceer Ingeschakeld: Schakelt de extra geheugen indeling uit." version="1" />
+    <string key="paeTitle" value="Over de PAE Opties" version="1" />
+    <string key="nxIntro" value="DEP/NoExecute is a hardware-layer malicious script detection system introduced in Windows XP SP2 that can help protect your system from attack, but it is known cause some compatibility problems." version="1" />
+    <string key="nxOptIn" value="OptAan: alleen Windows core wordt door DEP beschermd." version="1" />
+    <string key="nxOptOut" value="OptUit: Windows en applicaties worden door DEP beschermd." version="1" />
+    <string key="nxOn" value="AltijdAan: DEP word geforceerd voor alle applicaties." version="1" />
+    <string key="nxOff" value="AltijdUit: DEP wordt uitgeschakeld voor Windows en alle applicaties." version="1" />
+    <string key="nxTitle" value="Over DEP/NoExecute" version="1" />
+    <string key="errorNotPrimary" value="De boot partitie moet een primaire partitie zijn.&#xD;&#xA;&#xD;&#xA;Kies ofwel een andere disk of converteer de geselecteerde partitie eerst naar primair en probeer opnieuw." version="1" />
+    <string key="opNotAllowed" value="Niet Toegestane actie!" version="1" />
+    <string key="errorNotMounted" value="EasyBCD kan niet verbonden disks niet bootbaar maken. Ken een disk letter toe aan de geselecteerde disk, herstart EasyBCD, en probeer opnieuw." version="1" />
+    <string key="invalidDrive" value="Ongeldige disk actie" version="1" />
+    <string key="bootableSuccess" value="EasyBCD heeft de geselecteerde disk geconverteerd tot een bootbare disk. Om de boot menu boot items op de geselecteerde partitie te configureren, U gebruikt 'Bestand | Selecteer BCD Register' en kies het \Boot\BCD bestand op de partitie die U juist heeft voorbereid." version="1" />
+    <string key="mountBcdNow" value="Wilt U nu automatisch het nieuw gecreërde BCD register in EasyBCD laden?" version="1" />
+    <string key="bootableTitle" value="Bootbare Disk Gecreërd" version="1" />
+    <string key="accessDeniedText" value="Geen toegang tot de  BCD verkregen. Controleer a.u.b of het BCD register op het geselecteerde apparaat niet in gebruik is." version="1" />
+    <string key="partitionConverted" value="Partitie geconverteerd tot bootbare disk" version="1" />
+    <string key="bcdRemove1" value="Dit is een geavanceerde optie die U alleen moet gebruiken indien U er absoluut zeker van bent dat U de  BCD/BOOTMGR bootlader wilt verwijderen! Deze versie van de bootlader is vereisd om Windows Vista of hoger te booten!" version="2" />
+    <string key="bcdRemove2" value="Deze mogelijkheid zal alleen Windows XP booten indien de juiste boot bestanden al aanwezig zijn!" version="1" />
+    <string key="bcdRemove3" value="Weet U zeker dat U wilt doorgaan?" version="1" />
+    <string key="warning" value="Waarschuwing!" version="1" />
+    <string key="mbrSuccess" value="MBR opslaan gelukt" version="1" />
+    <string key="bootloaderSuccess" value="Bootlader instellingen opslaan is gelukt" version="1" />
+    <string key="bcdReset" value="De BCD is in beginstaat teruggezet. Alle regels zijn gewist!&#xD;&#xA;&#xD;&#xA;Belangrijk: U moet minstens 1 boot item toevoegen anders zal Uw PC niet booten!" version="1" />
+    <string key="bcdResetTitle" value="BCD Terugzetten" version="1" />
+    <string key="selectBootTitle" value="Selecteer Nieuwe Boot Partitie" version="1" />
+    <string key="selectBoot" value="EasyBCD zal Uw systeem her-configureren om van de  partitie die U hieronder selecteert te booten. Hierdoor wordt op de geselecteerde disk een BCD register aangemaakt, de huidige BCD boot items er naar  gekopiërd en de geselecteerde partitie op actief &amp; bootbaar gezet." version="1" />
+    <string key="errorLogical" value="U heeft geprobeerd een logische partitie tot boot partitie te maken, dit is niet toegestaan. De boot partitie moet een primaire partitie zijn.&#xD;&#xA;&#xD;&#xA;Kies a.u.b een andere disk of converteer eerst de geselecteerde partitie naar primaire en probeer opbnieuw." version="1" />
+    <string key="bootChangedFormat" value="EasyBCD heeft disk {0} de nieuwe boot partitie gemaakt,en heeft het nieuwe BCD register geladen om aan te passen, als U verdere wijzigingen wilt maken. Als deze partitie op Uw eerste boot disk staat ,hoeft U geen verdere actie te ondernemen. Is dat niet het geval, dan moet U de PC afsluiten en in de BIOS de boot disk wijzigen om de aanopassingen effectief te maken." version="1" />
+    <string key="bootChangedTitle" value="Boot Partitie Gewijzigd" version="1" />
+    <string key="unsupportedOS" value="Deze optie werkt alleen in Windows Vista en hoger." version="2" />
+    <string key="unsupportedOSTitle" value="Operating Systeem wordt niet ondersteund!" version="1" />
+    <string key="errorNoRestore" value="Ernstige fout: Kan het gekozen register niet terugzetten." version="1" />
+    <string key="errorNoRestoreTitle" value="Fout bij terugzetten" version="1" />
+    <string key="confirmDelete" value="Weet U zeker dat u dit boot item wilt verwijderen?" version="1" />
+    <string key="confirmDeleteTitle" value="Bevestig de verwijdering?" version="1" />
+    <string key="entryDeleted" value="Boot menu item verwijderd" version="1" />
+    <string key="thankYou" value="Uw ondersteuning wordt gewaardeerd!" version="1" />
+    <string key="loadExternal" value="Hiermee laadt en gebruikt EasyBCD een externe BCD database naar keuze. Wijzigingen zullen op dit BCD  register worden aangebracht en zullen uw standaard systeem configuratie niet beïnvloeden." version="1" />
+    <string key="loadExternalTitle" value="Selecteren van een Nieuw register&#xD;&#xA;" version="1" />
+    <string key="easybcdFiles" value="EasyBCD Bestanden" version="1" />
+    <string key="errorRO1" value="U heeft ofwel geen rechten om het geselecteerde bestand te schrijven, het is een 'alleen-lezen' bestand, of staat op een 'alleen-lezen' medium." version="1" />
+    <string key="errorRO2" value="Als U doorgaat ,worden wijzigingen in dit BCD  register  niet bewaard. Klik 'Ja' om door te gaan en laad deze BCD register in 'alleen-lezen'-modus of 'Nee' om door te gaan met de vorige BCD register." version="1" />
+    <string key="errorROTitle" value="Allen-lezen BCD register gedetecteerd" version="1" />
+    <string key="bcdLoadedFormat" value="BCD informatie geladen van {0}" version="1" />
+    <string key="noBcd" value="Geen BCD  register geladen. EasyBCD werkt gelimiteerd." version="1" />
+    <string key="confirmRestart" value="Weet U zeker dat U uw computer wilt herstrarten?" version="1" />
+    <string key="confirmRestartTitle" value="Bevestig herstart" version="1" />
+    <string key="shutdownStarted" value="Afsluiten begonnen." version="1" />
+    <string key="hiddenBootIni" value="Boot.ini staat op de verborgen boot partitie en kan niet door de gebruiker geladen voor bewerking met EasyBCD.&#xD;&#xA;&#xD;&#xA;Ken a.u.b een disk letter toe aan de verborgen boot partitie of gebruik het Windows XP dual-boot auto-configuratie systeem." version="1" />
+    <string key="errorBootIniTitle" value="Kan boot.ini niet laden!" version="1" />
+    <string key="errorBootIniFormat" value="EasyBCD kon geen boot.ini bestand vinden op de boot partitie {0}.&#xD;&#xA;&#xD;&#xA;Voeg a.u.b een nieuwe Windows XP of Windows 2000 regel toe om het boot.ini auto-configuratie mogelijkheid te gebruiken." version="1" />
+    <string key="errorUtility" value="Fout gevonden tijdens de uitvoering van het hulpprogramma" version="1" />
+    <string key="usbCreatorText" value="Easy USB Creator maakt het belachelijk snel en eenvoudig om ISO images voor Windows Setup en andere herstel gereedschappen tot een bootbare USB te maken (geen CDs of DVDs vereist) met een simpele klik." version="1" />
+    <string key="usbCreator" derive="true" />
+    <string key="powerConsole" derive="true" />
+    <string key="powerConsoleText" value="Snelle toegang tot een commando-regel shell met volle administrator rechte. Gebruik deze om systeem functies uit te voeren of voor snelle toegang tot bcdedit en bootsect.exe." version="1" />
+    <string key="oemKeyText" value="Gebruik NeoSmart Technologies' gratis Windows OEM Product sleutel gereedschap om de Windows product sleutel die in Uw PC of laptop voor Windows 8 en Windows 10 is opgeslagen te vinden en opslaan." version="1" />
+    <string key="oemKey" value="Windows Product sleutel gereedschap" version="1" />
+    <string key="restoreCds" value="EasyRE Windows herstel CDs" version="2" />
+    <string key="restoreCdsText" value="Easy Recovery Essentials voor Windows is een bootbare reparatie en herstel CD/USB die automatisch Uw PC herstelt de volgende keer dat die niet boot. EasyRE's een-klik reparatie zal bijna alle boot fouten vinden en repareren, inclusief BSODs, BCD fouten, partitie misconfiguratie fouten en meer." version="2" />
+    <string key="controlPanel" value="Controle Paneel" version="1" />
+    <string key="controlPanelText" value="Start het Controle Paneel, en gebruik het hoe U wilt." version="1" />
+    <string key="iRebootText" value="NeoSmart Technologies' hulp app voor EasyBCD. iReboot leeft in Uw taakbalk (gebruikt slechts 400KB geheugen!) en laat U kiezen welk operating systeem snel en eenvoudig te booten." version="1" />
+    <string key="errorNoEntries" value="EasyBCD heeft dedetecteerd dat er geen huidige boot items geïnstalleerd zijn. Als U EasyBCD verlaat en uw  computer herstart,zal deze niet booten.&#xD;&#xA;&#xD;&#xA;Weet U zeker dat U wilt stoppen zonder een nieuwe regel te maken?" version="1" />
+    <string key="errorNoEntriesTitle" value="Geen boot items geïnstalleerd!" version="1" />
+    <string key="errorPathSave" value="EasyBCD heeft het huidige backup path niet kunnen opslaan als de standaard backup map. De optie is uitgeschakeld." version="1" />
+    <string key="errorPathSaveTitle" value=" Probleem met het standaard Backup Path" version="1" />
+    <string key="isoHelp1" value="EasyBCD ondersteunt laden van ISO images op 2 manieren. N.B niet alle ISOs zullen correct functioneren correctly; meestal werken Linux installatie ISOs niet." version="1" />
+    <string key="isoHelp2" value="Werk van Disk: Laad sneller bij boot,maar loopt langzamer. Vereist ook voorbereiding door EasyBCD gedurende het aanmaken." version="1" />
+    <string key="isoHelp3" value="Laad uit Geheugen: Gaat sneller, maar duurt langer om te laden bij selectie tydens de boot. Kan mislukken op grotere disks of oudere PC's." version="1" />
+    <string key="isoHelpTitle" value="Over ISO Opties" version="1" />
+    <string key="warnDiffDevice" value="Het geselecteerde bestand is opgeslagen op een ander apparaat dan waar de boot bestanden staan. Indien U deze regel wilt gebruiken om op een andere PC te booten , dan moet U dit bestand naar de externe disk kopieren en dan opnieuw proberen.&#xD;&#xA;&#xD;&#xA;Wilt U toch doorgaan?" version="1" />
+    <string key="diffDeviceTitle" value="Niet draagbare boot item Gedetecteeerd!" version="1" />
+    <string key="errorNoBcd" value="Geen  BCD register geladen - werkt met beperkte functionaliteit!" version="1" />
+    <string key="bcdExceptionFormat" value="BCD Fout 0x{0:X3}" version="1" />
+    <string key="userCancel" value="Operatie geannuleerd door de gebruiker." version="1" />
+    <string key="renameSuccess" value="boot item naam aangepast" version="1" />
+    <string key="plop" derive="true" />
+    <string key="entryRemovedFormat" value="{0} verwijderd" version="1" />
+    <string key="drive2" value="Disk" version="1" />
+    <string key="bcdResetStatus" value="BCD teruggezet. Herconfigureer nu a.u.b!" version="1" />
+    <string key="bcdRepaired" value="BCD gerepareerd" version="1" />
+    <string key="configSaved" value="Boot item configuratie opgeslagen!" version="1" />
+    <string key="backupSuccess" value="BCD backup gelukt" version="1" />
+    <string key="restoreSuccess" value="Terugzetten gelukt" version="1" />
+    <string key="bcdRefresh" value="BCD data cache is herladen" version="1" />
+    <string key="optionsSaved" value="Opties bewaard!" version="1" />
+    <string key="orderSaved" value="Volgorde boot items bewaard" version="1" />
+    <string key="easybcdStatus" derive="true" />
+    <string key="saveFileTitle" value="Bewaar als" version="1" />
+    <string key="updateFoundText2" value="Er is een nieuwe versie van EasyBCD. Wilt U dat EasyBCD automatisch update naar de laatste versie?&#xD;&#xA;&#xD;&#xA;Klik 'Ja' om te downloaden en bijwerken, 'Nee' om de lijst van wijzigingen te zien en handmatig bij te werken of 'Anuleer' om te annuleren." version="1" />
+    <string key="help" value="Help" version="1" />
+    <string key="browse" value="Bladeren" version="1" />
+  </strings>
+</localization>

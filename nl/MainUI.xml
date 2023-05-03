@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="chkMetroUI" value="Gebruik de Metro Bootlader" />
+    <string key="lstFreeDos" derive="true" />
+    <string key="efiMessage" value="EasyBCD detecteerde dat Uw computer nu in EFI modus boot. Limiteringen door Microsoft, verhinderen vele van EasyBCD's multi-booting mogelijkheden in EFI modus en zijn uitgeschakeld.&#xD;&#xA;&#xD;&#xA;Klik 'OK' om door te gaan of 'Help' om meer over deze limiteringen en mogelijke oplossingen te lezen." />
+    <string key="efiTitle" value="EFI Bootlader Gedetecteerd!" />
+    <string key="MinimumHeight" derive="true" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="emptyList" value="Geen boot items gevonden!" />
+    <string key="cbxEntrySafe" value="Normaal&#xD;&#xA;Veilige Modus&#xD;&#xA;Veilige Modus met Netwerk&#xD;&#xA;Commando Regel/Alternative Shell&#xD;&#xA;Basis VGA&#xD;&#xA;Active Directory Reparatie" />
+    <string key="cbxEntryPae" value="Standaard&#xD;&#xA;Ingeschakeld&#xD;&#xA;Uitgeschakeld" />
+    <string key="cbxEntryDep" value="OptAan&#xD;&#xA;OptUit&#xD;&#xA;Altijd Aan&#xD;&#xA;Altijd Uit" />
+    <string key="cbxMacType" value="EFI (Standaard)&#xD;&#xA;MBR" />
+    <string key="cbxLinType" derive="true" />
+    <string key="cbxWinType" derive="true" />
+    <string key="cbxPeType" derive="true" />
+    <string key="cbxIsoMode" value="Uitvoeren van Disk&#xD;&#xA;Laad van Memory" />
+    <string key="cbxVhdType" derive="true" />
+    <string key="colDefault" value="Standaard" />
+    <string key="colName" value="Boot item" />
+    <string key="MainUI" derive="true" />
+    <string key="mnuHelp" derive="true" />
+    <string key="mnuAbout" value="&amp;Over" />
+    <string key="mnuDonate2" value="&amp;Doneer" />
+    <string key="mnuBug" value="een Bug &amp;meedelen" />
+    <string key="mnuSupport" value="Onder&amp;steuning" />
+    <string key="mnuDocumentation" value="Doc&amp;umentatie" />
+    <string key="mnuTools" value="&amp;Gereedschap" />
+    <string key="mnuRestart" value="He&amp;rstart de Computer" />
+    <string key="mnuEditLegacy" value="Bewerk Boot i&amp;tems van oude systemen" />
+    <string key="mnuOptions" value="O&amp;pties" />
+    <string key="mnuFile" value="&amp;Bestand" />
+    <string key="mnuExit" derive="true" />
+    <string key="mnuUpdate" value="Controleer op &amp;Updates" />
+    <string key="mnuDonate" value="&amp;Doneer" />
+    <string key="mnuRegister" value="&amp;Registreer" />
+    <string key="mnuRescan" value="Ver&amp;fris de BCD Register" />
+    <string key="mnuLoadSystemBcd" value="Laad S&amp;ysteem BCD" />
+    <string key="mnuLanguage" value="&amp;Selecteer Taal" />
+    <string key="mnuSelectBcd" value="&amp;Selecteer BCD Register&#xD;&#xA;" />
+    <string key="grpToolbox" value="EasyBCD Gereedschappen" />
+    <string key="btnViewSettings" value="Bekijk instellingen" />
+    <string key="btnEditMenu" value="Bewerk Boot Menu" />
+    <string key="btnAddEntry" value="Nieuw boot item" />
+    <string key="btnAdvanced" value="Geavanceerde Instellingen" />
+    <string key="btnMbrSetup" value="BCD Installeren" />
+    <string key="btnUtilities" value="Nuttige Extra's" />
+    <string key="tabUtilities" derive="true" />
+    <string key="grpUtils" value="Nuttige Extra's" />
+    <string key="tabMbrSetup" derive="true" />
+    <string key="grpBootloader" value="MBR Configuratie Opties" />
+    <string key="rdoMbrVista" value="Installeer de Vista+ BCD/bootmgr bootlader" />
+    <string key="rdoMbrXP" value="Installeer de XP NTLDR bootloader" />
+    <string key="btnMbrWrite" value="Schrijf MBR" />
+    <string key="grpCreateBootableExternal" value="Maak Bootbaar Extern Medium" />
+    <string key="lblCreateBootable" value="EasyBCD kan automatisch bootbare media maken. Selecteer een partitie hieronder om te beginnen." />
+    <string key="lblUsbPartitions" value="Partitie:" />
+    <string key="btnMakeBootable" value="Installeer BCD" />
+    <string key="tabBcdInstall" derive="true" />
+    <string key="grpDiagnostics" value="BCD beheers opties" />
+    <string key="rdoBcdReset" value="Zet BCD configuratie terug" />
+    <string key="btnBcdRescue" value="Actie uitvoeren" />
+    <string key="rdoBcdRepair" value="Re-creër/repareer boot bestanden" />
+    <string key="rdoBcdChange" value="Verander van boot disk" />
+    <string key="grpBackupRestore" value="Backup en Herstel Bootlader instellingen" />
+    <string key="btnRestore" value="Backup terugzetten" />
+    <string key="btnBackup" value="Backup instellingen" />
+    <string key="tabAdvanced" derive="true" />
+    <string key="grpSelectLH" value="Selecteer een OS" />
+    <string key="lblPickLH" value="Kies een boot item van de lijst om te bewerken." />
+    <string key="grpChangeSettings" value="Wijzig instellingen" />
+    <string key="lblAdvancedSettings" value="N.B. sommige instellingen kunnen afwezig zijn afhankelijk van het boot item&#xD;&#xA;dat gewijzigd wordt." />
+    <string key="tabEntryDeveloper" value="Ontwikkelaar" />
+    <string key="lblLimit2" value="Windows CPU/core limiet" />
+    <string key="numEntryCpu" derive="true" />
+    <string key="lblDeduct2" value="MiB verminderd van fysiek geheugen" />
+    <string key="numEntryMemory" derive="true" />
+    <string key="chkEntrySos" value="Uitvoeren in SOS/Rapporterende-Boot Modus" />
+    <string key="chkEntryKernelDebug" value="Uitvoeren in Kernel-Debug Modus" />
+    <string key="tabEntryAdvanced" value="Geavanceerd" />
+    <string key="chkEntryUnsigned" value="Toestaan ungesigneerde drivers bij 64-Bit Windows" />
+    <string key="lblDep" derive="true" />
+    <string key="lblPae" derive="true" />
+    <string key="lblSafeMode" value="Veilige Modus" />
+    <string key="tabEntryBasic" value="Basis" />
+    <string key="lblLocale" derive="true" />
+    <string key="btnSaveSettings" value="Bewaar instellingen" />
+    <string key="tabAddEntry" derive="true" />
+    <string key="grpOS" value="Operating Systemen" />
+    <string key="tabPageNeoGrub" derive="true" />
+    <string key="lblNeoGrub" value="De NeoGrub bootloader kan Linux en oudere versies van Windows  booten en zelfs disks verbergen." />
+    <string key="btnNeoGrubConfig" value="Configureer" />
+    <string key="btnNeoGrub" value="Installeer" />
+    <string key="tabPageMac" derive="true" />
+    <string key="txtMacName" derive="true" />
+    <string key="tabPageLinux" derive="true" />
+    <string key="lblLinAuto" value="Automatisch vastgesteld" />
+    <string key="txtLinName" derive="true" />
+    <string key="chkGrub" value="Gebruik EasyBCD's kopie van GRUB" />
+    <string key="tabPageWin" derive="true" />
+    <string key="txtWinName" derive="true" />
+    <string key="chkAutoXp" value="Automatisch de juiste disk detecteren" />
+    <string key="lblWindowsAuto" value="Automatisch vastgesteld" />
+    <string key="grpPortable" value="Externe Media" />
+    <string key="tabPagePlop" derive="true" />
+    <string key="lblBiosExtend" value="EasyBCD's BIOS extender kan booten van netwerk, CD, of USB op computers die dat normaal niet kunnen." />
+    <string key="btnPlopRemove" value="Verwijder PLoP" />
+    <string key="btnPlopInstall" value="Installeer PLoP" />
+    <string key="tabPageFloppy" derive="true" />
+    <string key="txtFloppyName" derive="true" />
+    <string key="tabPageWinPE" derive="true" />
+    <string key="chkEms" value="EMS Ingeschakeld" />
+    <string key="txtPeName" derive="true" />
+    <string key="tabPageIso" derive="true" />
+    <string key="txtIsoName" value="NeoSmart ISO boot item" />
+    <string key="tabPageVhd" value="Virtueel Disk Image" />
+    <string key="txtVhdName" derive="true" />
+    <string key="lblFile" value="Bestand:" />
+    <string key="lblMode" value="Modus:" />
+    <string key="btnAddNewEntry" value="Boot  item toevoegen" />
+    <string key="lblDrive" value="Disk:" />
+    <string key="lblPath" derive="true" />
+    <string key="lblType" derive="true" />
+    <string key="lblName" value="Naam:" />
+    <string key="btnBrowse" derive="true" />
+    <string key="tabEditMenu" derive="true" />
+    <string key="grpModifyEntries" value="Verander Menu Regels" />
+    <string key="btnDelete" value="Verwijder" />
+    <string key="btnRenameEntry" value="Hernoem" />
+    <string key="btnDown" value="Naar beneden" />
+    <string key="btnUp" value="Naar boven" />
+    <string key="grpTimeout" value="Menu Opties" />
+    <string key="btnSaveBCD" value="Bewaar instellingen" />
+    <string key="rdoTimeoutSkip" value="Sla het Bootmenu over" />
+    <string key="rdoTimeoutNone" value="Wacht op keuze" />
+    <string key="numTimeout" derive="true" />
+    <string key="rdoTimeoutCount" value="Tel af van" />
+    <string key="tabViewSettings" derive="true" />
+    <string key="grpDisplayMode" value="Scherm modus" />
+    <string key="chkWordWrap" value="Regelomloop" />
+    <string key="rdoModeDetailed" value="Gedetaileerd (Debug Modus)" />
+    <string key="rdoModeBasic" value="Overzicht" />
+    <string key="btnBcdInstall" value="BCD Backup/Herstel" />
+  </strings>
+</localization>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblDriveSelect" value="Nieuwe boot disk:" />
+    <string key="lblBody" value="EasyBCD zal Uw systeem aanpassen om te booten van de partitie die U hieronder kiest. Hierbij wordt een BCD store ingericht op de geselecteerde disk, de huidige BCD keuzes worden daarheen gekopieerd, en de geselecteerde partitie wordt actief &amp; boot-baar gemaakt.&#xD;&#xA;&#xD;&#xA;" />
+    <string key="OK_Button" value="&amp;OK" />
+    <string key="Cancel_Button" value="&amp;Annuleer" />
+    <string key="DriveSelect" value="Selecteer disk" />
+    <string key="errorAlreadyBoot" value="De geselecteerde disk  is al de huidige boot disk. Kies een andere om verder the gaan!" />
+    <string key="errorAlreadyBootTitle" value="Kies a.u.b een andere om verder the gaan!&#xD;&#xA;" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+  </strings>
+</localization>

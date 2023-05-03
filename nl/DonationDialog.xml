@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="chkDontRemind" value="Herinner me niet opnieuw" />
+    <string key="btnCancel" value="Nee &amp;Dank U" />
+    <string key="btnDonate" value="&amp;Doneer" />
+    <string key="lblDonationIntro" value="De EasyBCD Community Edition is 100% gratis software, en we willen dat zo houden. Maar dat het gratis is, betekent niet dat het minder kost om te ontwikkelen en te testen.&#xD;&#xA;&#xD;&#xA;Tot nu toe is EasyBcd 25 miljoen keer gratis gedownload,waarmee talloze computers van de schroothoop gered zijn." />
+    <string key="donationTitle" value="Help EasyBCD U te helpen!" />
+    <string key="lblYouDonate" value="Willt U een donatie geven om EasyBCD te helpen meer PCs te redden?" />
+    <string key="MinimumHeight" derive="true" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="DonationDialog" value="Heeft EasyBCD U geholpen?" />
+  </strings>
+</localization>

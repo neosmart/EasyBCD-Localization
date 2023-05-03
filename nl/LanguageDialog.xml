@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="title" value="Kies taal" />
+    <string key="btnGo" value="Ga!" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+    <string key="lnkTranslate" value="Help EasyBCD naar Uw taal te vertalen!" />
+  </strings>
+</localization>

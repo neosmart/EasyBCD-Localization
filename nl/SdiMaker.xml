@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OK_Button" value="OK" />
+    <string key="Cancel_Button" value="Annuleer" />
+    <string key="Body" value="Om door te gaan, heeft EasyBCD toegang nodig tot Windows Vista of hogere installatie media (meestal een  DVD of een disk image). &#xD;&#xA;&#xD;&#xA;Plaats a.u.b de DVD in Uw DVD speler of verbind het disk image, klik dan op OK om door te gaan." />
+    <string key="MinimumHeight" derive="true" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="mediaNotFound" value="Geen geldig Windows installatie medium gevonden." />
+    <string key="SdiMaker" value="Plaats een Windows Instalatie medium" />
+  </strings>
+</localization>

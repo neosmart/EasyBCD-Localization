@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="unnamed" value="Naamloos boot item" />
+    <string key="defragFormat" value="Begin de defragmentatie van {0}" />
+    <string key="as" value="als" />
+    <string key="mib" derive="true" />
+    <string key="gib" derive="true" />
+    <string key="unknown" value="Onbekend" />
+    <string key="partition" value="Partitie" />
+    <string key="locateValid" value="Zoek een geldig BCD register&#xD;&#xA;" />
+    <string key="bcdRegistry" value="BCD Register" />
+    <string key="errorBcd" value="Een fout bij het openen van BCD Register" />
+    <string key="manuallyLoad" value="Wilt u zelf een BCD register laden om met EasyBCD tte beheren? Houdt er a.u.b rekening mee dat EasyBCD alleen wekrt met de BCD bootlader (standaard voor Windows Vista en hoger), dus niet met uitsluitend XP omgevingen." />
+    <string key="ntNotFound" value="EasyBCD vond geen geldige installatie van Windows NT-2003 op de aanwezige disks en kon niet doorgaan." />
+    <string key="ntNotFoundTitle" value="Geen geldige NT installatie gevonden!" />
+    <string key="bcdError" value="Fout bij BCD uitvoering!" />
+    <string key="bootloaderPath" value="Path van Bootlader" />
+    <string key="ebcdBootDevice" value="EasyBCD Boot Apparaat" />
+    <string key="bootDevice" value="Boot Disk" />
+    <string key="skipped" value="Onvergeslagen" />
+    <string key="timeoutFormat" value="{0} seconden" />
+    <string key="none" value="Geen" />
+    <string key="timeout" value="Tijd verlopen" />
+    <string key="default" value="Standaard" />
+    <string key="path" derive="true" />
+    <string key="device" value="Apparaat" />
+    <string key="drive" value="Disk" />
+    <string key="bcdId" derive="true" />
+    <string key="name" value="Naam" />
+    <string key="entryNum" value="boot item #" />
+    <string key="multiEntriesFormat" value="Er zijn totaal {0} boot items in de bootloader lijst." />
+    <string key="oneEntry" value="Er is 1 boot item in de bootloader lijst." />
+    <string key="accessDeniedFormat" value="Toegang tot  {0} geweigerd. Controleer a.u.b of het bestand niet in gebruik is en dat U rechten heeft deze te wijzigen of te verwijderen." />
+    <string key="accessDeniedTitle" value="Geen toegang" />
+    <string key="failedSave" value="Wijzigingen niet opgeslagen!" />
+    <string key="accessViolationFormat" value="Geen exclusive toegang tot {0} verkregen. als dit een extern medium betreft , probeer die opnieuw te verbinden en probeer opnieuw." />
+  </strings>
+</localization>

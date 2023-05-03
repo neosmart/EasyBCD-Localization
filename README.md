@@ -13,6 +13,7 @@ These are the languages currently available in this repository, thanks to the se
 * Chinese (Simplified) (简体字) - Dancing Zhao
 * Chinese (Taiwanese) (繁體中文) - fei
 * Czech (Čeština) - Tomanek1
+* Dutch (Nederlands) - Bart Koens
 * German (Deutsch) - Wolfgang Milhard
 * English - NeoSmart Technologies
 * Spanish (Español) - Manel Fernàndez

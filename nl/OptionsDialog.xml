@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnOK" value="OK" />
+    <string key="btnCancel" value="Annuleer" />
+    <string key="chkExpertMode" value="EasyBCD in Expert Modus uitvoeren" />
+    <string key="chkRememberBackup" value="De BCD Backup map onthouden bij afsluiten" />
+    <string key="lblExpertMode" value="Expert modus voert geavanceerde acties uit zonder waarschuwing!" />
+    <string key="chkLoadDefaultBcd" value="Het volgende BCD bestand bij de start automatisch laden:" />
+    <string key="btnBrowseBcd" derive="true" />
+    <string key="chkAutoUpdate" value="AutoUpdate elke " />
+    <string key="chkRss" value="NeoSmart Technologiën in Windows RSS Platform opnemen" />
+    <string key="numUpdateInterval" derive="true" />
+    <string key="rdoDays" value="Dag(en)" />
+    <string key="rdoWeeks" value="Weken" />
+    <string key="rdoMonths" value="Maand(en)" />
+    <string key="lblLastUpdateCheck" value="Laatste automatische controle:" />
+    <string key="tabGeneralSettings" value="Algemene instellingen" />
+    <string key="lblDefaultTab" value="Standaard tab bij het starten:" />
+    <string key="lblDefaultDisplay" value="Standaard scherm modus:" />
+    <string key="lblOverviewFont" value="Lettertype overzicht:" />
+    <string key="lblDetailedFont" value="Lettertype gedetailleerd overzicht:" />
+    <string key="lblOverviewSize" value="Grootte:" />
+    <string key="numFontOverview" derive="true" />
+    <string key="lblOverviewPt" derive="true" />
+    <string key="lblDetailedSize" value="Grootte:" />
+    <string key="numFontDetailed" derive="true" />
+    <string key="lblDetailedPt" derive="true" />
+    <string key="chkWordWrap" value="Regelomloop standaard actief" />
+    <string key="chkSaveWindow" value="Bewaar de EasyBCD venster grootte bij afsluiten" />
+    <string key="ResetSize" value="Zet de scherm opties terug" />
+    <string key="tabDisplayOptions" value="Scherm Opties" />
+    <string key="OptionsDialog" value="EasyBCD instellingen" />
+    <string key="overview" value="Overzicht" />
+    <string key="detailed" value="Gedetaileerd" />
+    <string key="locateBcd" value="Zoek een geldig BCD register" />
+    <string key="never" value="Nooit" />
+    <string key="MinimumWidth" derive="true" />
+    <string key="MinimumHeight" derive="true" />
+  </strings>
+</localization>
