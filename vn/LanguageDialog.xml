@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="title" value="Chọn một ngôn ngữ" version="1" />
+    <string key="btnGo" value="Bắt đầu" version="1" />
+    <string key="lnkTranslate" value="Hãy giúp dịch EasyBCD sang ngôn ngữ của bạn!" version="1" />
+  </strings>
+</localization>

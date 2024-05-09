@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="lblDriveSelect" value="Ổ đĩa khởi động mới:" version="1" />
+    <string key="lblBody" value="EasyBCD sẽ cấu hình lại hệ thống của bạn để khởi động từ phân vùng bạn chọn bên dưới. Quá trình này sẽ thiết lập một kho lưu trữ BCD trên đĩa đã chọn, sao chép các mục BCD hiện tại và làm cho phân vùng đã chọn vừa hoạt động vừa có khả năng khởi động." version="1" />
+    <string key="OK_Button" derive="true" />
+    <string key="Cancel_Button" value="&amp;Hủy" version="1" />
+    <string key="DriveSelect" value="Chọn ổ đĩa" version="1" />
+    <string key="errorAlreadyBoot" value="Ổ đĩa bạn chọn đã là ổ đĩa khởi động hiện tại. Vui lòng chọn ổ đĩa khác để tiếp tục!" version="1" />
+    <string key="errorAlreadyBootTitle" value="Vui lòng chọn ổ đĩa khác!" version="2" />
+  </strings>
+</localization>

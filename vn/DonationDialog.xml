@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="chkDontRemind" value="Đừng nhắc tôi nữa" version="1" />
+    <string key="btnCancel" value="Không &amp;Cám ơn" version="1" />
+    <string key="btnDonate" value="&amp;Quyên góp" version="1" />
+    <string key="lblDonationIntro" value="EasyBCD Community Edition là phần mềm miễn phí 100% và chúng tôi dự định sẽ duy trì điều đó. Nhưng chỉ vì nó miễn phí không có nghĩa là chi phí phát triển và thử nghiệm sẽ ít hơn.&#xD;&#xA;&#xD;&#xA;Đến nay, EasyBCD đã được tải xuống miễn phí hơn 25 triệu lần, cứu vô số máy tính khỏi bờ vực bị hủy diệt." version="1" />
+    <string key="donationTitle" value="Giúp EasyBCD nhé!~" version="1" />
+    <string key="lblYouDonate" value="Bạn sẽ quyên góp để giúp EasyBCD giải cứu nhiều PC hơn chứ?" version="1" />
+    <string key="DonationDialog" value="EasyBCD có giúp được bạn không?" version="1" />
+  </strings>
+</localization>

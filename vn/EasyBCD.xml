@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linuxAuto" value="Tự động định vị và tải" version="1" />
+    <string key="communityText" value="EasyBCD Community Edition được cấp phép miễn phí cho mục đích sử dụng phi thương mại.&#xD;&#xA;Nếu bạn đang sử dụng phần mềm này trong môi trường thương mại, vui lòng nhấp vào 'Hủy' bên dưới để mua giấy phép thương mại. Nếu không, hãy nhấp vào 'OK' để tiếp tục." version="1" />
+    <string key="communityTitle" value="Phiên bản cộng đồng EasyBCD" version="1" />
+    <string key="bcdInUse" value="Tệp hiện tại đang được sử dụng và EasyBCD không thể mở được. Nếu bạn đang cố gắng chọn (lại) cửa hàng hệ thống, hãy nhấn &quot;Không&quot; bên dưới rồi sử dụng tùy chọn &quot;Tải hệ thống lưu trữ&quot; từ menu Tệp.&#xD;&#xA;&#xD;&#xA;Bạn có muốn chọn một cửa hàng khác để sử dụng trong EasyBCD không?" version="1" />
+    <string key="bcdInUseTitle" value="Lỗi vi phạm quyền truy cập" version="1" />
+    <string key="accessDenied" value="Truy cập bị từ chối!" version="1" />
+    <string key="uncUnsupported" value="Đường dẫn mạng không được hỗ trợ cho tính năng này. Vui lòng nhập đường dẫn khác và thử lại." version="1" />
+    <string key="uncUnsupportedTitle" value="Đường dẫn UNC không được hỗ trợ" version="1" />
+    <string key="invalidPath" value="Đã phát hiện thấy tên tệp hoặc đường dẫn không hợp lệ. Vui lòng nhập đường dẫn hợp lệ để tiếp tục." version="1" />
+    <string key="invalidPathTitle" value="Đường dẫn không hợp lệ!" version="1" />
+    <string key="updateCheck" value="Đang kiểm tra các bản cập nhật cho EasyBCD..." version="1" />
+    <string key="updateFailed" value="Kiểm tra cập nhật không thành công. Lỗi thiết lập kết nối mạng." version="1" />
+    <string key="updateFailedSB" value="Kiểm tra cập nhật EasyBCD không thành công: " version="1" />
+    <string key="updateFound" value="Đã tìm thấy phiên bản mới của EasyBCD!" version="1" />
+    <string key="updateFoundText" value="Một phiên bản mới của EasyBCD đã được tìm thấy. Bạn có muốn vào trang tải EasyBCD ngay bây giờ để nâng cấp lên phiên bản mới nhất không? (có đi :&gt;)" version="1" />
+    <string key="updateNone" value="Bạn có phiên bản EasyBCD mới nhất." version="1" />
+    <string key="install" value="Cài đặt" version="1" />
+    <string key="remove" value="Loại bỏ" version="1" />
+    <string key="adminLine1" value="EasyBCD yêu cầu đặc quyền của quản trị viên để chạy chính xác và không thể tiếp tục." version="1" />
+    <string key="adminLine2" value="Vui lòng đăng nhập hoặc chạy với tư cách Quản trị viên để tiếp tục." version="1" />
+    <string key="adminTitle" value="Quyền bị từ chối" version="1" />
+    <string key="easybcdBackup" value="Sao lưu EasyBCD" version="1" />
+    <string key="yes" value="Có" version="1" />
+    <string key="no" value="Không" version="1" />
+    <string key="registryFailed" value="Không thể ghi cài đặt đăng ký" version="1" />
+    <string key="commercialEdition" value="Phiên bản thương mại" version="1" />
+    <string key="communityEdition" value="Phiên bản cộng đồng" version="1" />
+    <string key="failedAddTitle" value="Không thể thêm mục nhập!" version="1" />
+    <string key="msdosHelp" value="Để EasyBCD khởi động vào MS-DOS 6.x hoặc Windows 3.x, IO.SYS và MSDOS.SYS phải ở đầu phân vùng hoạt động.&#xD;&#xA;&#xD;&#xA;Để biết thêm thông tin về cách thực hiện việc này, hãy nhấn 'Có' để mở trang tài liệu EasyBCD cho các mục nhập dựa trên DOS. Nếu bạn không muốn xem tài liệu ngay bây giờ, hãy nhấn 'Không'." version="1" />
+    <string key="msdosHelpTitle" value="Đọc tài liệu MS-DOS của EasyBCD?" version="1" />
+    <string key="addedFormat" value="{0} đã được thêm vào menu khởi động thành công!" version="1" />
+    <string key="neogrubBootloader" value="Bộ tải khởi động NeoGrub" version="1" />
+    <string key="neogrubRemoved" value="NeoGrub đã được gỡ bỏ thành công!" version="1" />
+    <string key="vhdErrorTitle" value="Lỗi khi thêm mục nhập VHD" version="1" />
+    <string key="errorSpaces" value="Đường dẫn hình ảnh không được chứa bất kỳ khoảng trắng nào. Vui lòng sửa lỗi này và thử lại." version="1" />
+    <string key="isoErrorTitle" value="Lỗi khi thêm mục nhập ISO" version="1" />
+    <string key="floppyErrorTitle" value="Lỗi khi thêm mục nhập đĩa mềm" version="1" />
+    <string key="path" value="Đường dẫn:" version="1" />
+    <string key="name" value="Tên:" version="1" />
+    <string key="drive" value="Ổ đĩa:" version="1" />
+    <string key="browseFileTitle" value="Duyệt tìm tập tin" version="1" />
+    <string key="wimFiles" derive="true" />
+    <string key="vhdFiles" derive="true" />
+    <string key="isoFiles" derive="true" />
+    <string key="imgFiles" derive="true" />
+    <string key="bcdFiles" value="Tệp sao lưu EasyBCD" version="1" />
+    <string key="safeIntro" value="EasyBCD cho phép bạn tạo các mục bổ sung để khởi động vào cùng một hệ điều hành nhưng với các tùy chọn khác nhau. Bằng cách tạo một mục mới và đặt cho nó một trong các cờ Chế độ an toàn, bạn có thể sử dụng mục đó để nhanh chóng gỡ lỗi hệ thống của mình." version="1" />
+    <string key="safeNormal" value="Bình thường: Vô hiệu hóa tất cả các tùy chọn khôi phục, cho phép bạn khởi động vào hệ điều hành của mình một cách bình thường." version="1" />
+    <string key="safeVga" value="VGA cơ bản: Tải driver hiển thị cơ bản, cài đặt lại độ phân giải màn hình." version="1" />
+    <string key="safeNetworking" value="Chế độ an toàn với mạng: Khởi động vào chế độ an toàn với quyền truy cập vào internet và mạng cục bộ." version="1" />
+    <string key="safeMode" value="Chế độ an toàn: Khởi động vào chế độ an toàn mà không cần truy cập mạng. Hữu ích nếu trình điều khiển mạng bị hỏng." version="1" />
+    <string key="safeAD" value="Active Directory Repair: Khởi động Windows Server 2008 vào chế độ sửa chữa thư mục hoạt động." version="1" />
+    <string key="safeTitle" value="Giới thiệu về Tùy chọn Chế độ An toàn" version="1" />
+    <string key="paeIntro" value="Phần mở rộng địa chỉ vật lý xác định cách Windows sẽ ánh xạ bộ nhớ bổ sung ngoài điểm đánh dấu bộ nhớ 4 GiB." version="1" />
+    <string key="paeDefault" value="Mặc định: Cho phép Windows xác định cách ánh xạ bộ nhớ." version="1" />
+    <string key="paeEnable" value="Buộc kích hoạt: Buộc ánh xạ bộ nhớ." version="1" />
+    <string key="paeDisable" value="Buộc vô hiệu hóa: Vô hiệu hóa ánh xạ bộ nhớ bổ sung." version="1" />
+    <string key="paeTitle" value="Giới thiệu về Tùy chọn PAE" version="1" />
+    <string key="nxIntro" value="DEP/NoExecute là một hệ thống phát hiện tập lệnh độc hại ở lớp phần cứng được giới thiệu trong Windows XP SP2, có thể giúp bảo vệ hệ thống của bạn khỏi bị tấn công nhưng được biết là gây ra một số vấn đề về tương thích." version="1" />
+    <string key="nxOptIn" value="OptIn: Lõi Windows được bảo vệ bằng DEP." version="1" />
+    <string key="nxOptOut" value="OptOut: Windows và các ứng dụng được bảo vệ bằng DEP." version="1" />
+    <string key="nxOn" value="Luôn Bật: DEP buộc phải có cho tất cả các ứng dụng." version="1" />
+    <string key="nxOff" value="Luôn Tắt: DEP bị tắt đối với Windows và tất cả các ứng dụng." version="1" />
+    <string key="nxTitle" value="Giới thiệu về DEP/NoExecute" version="1" />
+    <string key="errorNotPrimary" value="Phân vùng khởi động phải là phân vùng chính.&#xD;&#xA;&#xD;&#xA;Vui lòng chọn một ổ đĩa khác hoặc chuyển đổi phân vùng đã chọn thành phân vùng chính trước, sau đó thử lại." version="1" />
+    <string key="opNotAllowed" value="Hoạt động không được phép!" version="1" />
+    <string key="errorNotMounted" value="EasyBCD không thể làm cho các ổ đĩa chưa được gắn kết có khả năng khởi động được. Vui lòng gán một ký tự cho ổ đĩa đã chọn, khởi động lại EasyBCD và thử lại." version="1" />
+    <string key="invalidDrive" value="Thao tác ổ đĩa không hợp lệ" version="1" />
+    <string key="bootableSuccess" value="EasyBCD đã chuyển đổi thành công đĩa đã chọn thành ổ đĩa có khả năng khởi động. Để định cấu hình các mục menu khởi động trên phân vùng đã chọn, bạn phải sử dụng 'File | Chọn BCD Store' và chọn tệp \Boot\BCD trên phân vùng bạn vừa chuẩn bị trước." version="1" />
+    <string key="mountBcdNow" value="Bạn có muốn tự động tải kho BCD mới tạo trong EasyBCD ngay bây giờ không?" version="1" />
+    <string key="bootableTitle" value="Đã tạo đĩa khởi động được" version="1" />
+    <string key="accessDeniedText" value="Không thể truy cập vào BCD. Vui lòng kiểm tra và đảm bảo rằng kho BCD trên thiết bị đã chọn hiện không được sử dụng." version="1" />
+    <string key="partitionConverted" value="Phân vùng được chuyển đổi thành ổ đĩa có khả năng khởi động" version="1" />
+    <string key="bcdRemove1" value="Đây là một tùy chọn nâng cao chỉ nên sử dụng nếu bạn hoàn toàn chắc chắn muốn gỡ cài đặt bộ tải khởi động BCD/BOOTMGR! Cần có phiên bản bootloader này để khởi động vào Windows Vista trở lên!" version="2" />
+    <string key="bcdRemove2" value="Tính năng này sẽ chỉ khởi động vào Windows XP nếu đã có sẵn các tệp khởi động thích hợp!" version="1" />
+    <string key="bcdRemove3" value="Bạn có chắc muốn tiếp tục không?" version="1" />
+    <string key="warning" value="Cảnh báo!" version="1" />
+    <string key="mbrSuccess" value="MBR được viết thành công" version="1" />
+    <string key="bootloaderSuccess" value="Cài đặt bootloader đã được lưu thành công" version="1" />
+    <string key="bcdReset" value="BCD đã được thiết lập lại thành công. Tất cả các mục đã bị xóa!&#xD;&#xA;&#xD;&#xA;Quan trọng: Bạn phải thêm ít nhất một mục nếu không PC của bạn sẽ không khởi động được!" version="1" />
+    <string key="selectBootTitle" value="Chọn phân vùng khởi động mới" version="1" />
+    <string key="bcdResetTitle" value="Đặt lại BCD" version="1" />
+    <string key="selectBoot" value="EasyBCD sẽ cấu hình lại hệ thống của bạn để khởi động từ phân vùng bạn chọn bên dưới. Quá trình này sẽ thiết lập một kho lưu trữ BCD trên đĩa đã chọn, sao chép các mục BCD hiện tại và làm cho phân vùng đã chọn vừa hoạt động vừa có khả năng khởi động." version="1" />
+    <string key="errorLogical" value="Đã cố gắng thay đổi phân vùng khởi động thành ổ đĩa logic nhưng điều này không được phép. Phân vùng khởi động phải là phân vùng chính.&#xD;&#xA;&#xD;&#xA;Vui lòng chọn một ổ đĩa khác hoặc chuyển đổi phân vùng đã chọn thành phân vùng chính trước, sau đó thử lại." version="1" />
+    <string key="bootChangedFormat" value="EasyBCD đã tạo thành công ổ đĩa {0} phân vùng khởi động mới và đã tải kho lưu trữ BCD mới để sửa đổi, nếu bạn muốn thực hiện thêm bất kỳ thay đổi nào. Nếu phân vùng này nằm trên đĩa khởi động đầu tiên của bạn, bạn không cần thực hiện thêm bất kỳ hành động nào. Nếu không, bây giờ bạn nên tắt PC và thay đổi ổ đĩa khởi động từ BIOS để những thay đổi có hiệu lực." version="1" />
+    <string key="bootChangedTitle" value="Phân vùng khởi động đã thay đổi" version="1" />
+    <string key="unsupportedOS" value="Tùy chọn này chỉ khả dụng trên Windows Vista trở lên." version="2" />
+    <string key="unsupportedOSTitle" value="Hệ điều hành không được hỗ trợ!" version="1" />
+    <string key="errorNoRestore" value="Lỗi nghiêm trọng: Không thể khôi phục cửa hàng đã chọn." version="1" />
+    <string key="errorNoRestoreTitle" value="Lỗi khôi phục" version="1" />
+    <string key="confirmDelete" value="Bạn có chắc chắn muốn xóa mục này?" version="1" />
+    <string key="confirmDeleteTitle" value="Xác nhận Xóa?" version="1" />
+    <string key="entryDeleted" value="Mục menu khởi động đã bị xóa" version="1" />
+    <string key="thankYou" value="Hỗ trợ của bạn được đánh giá cao! (thanks :D)" version="1" />
+    <string key="loadExternal" value="Với tính năng này, EasyBCD sẽ tải và sử dụng cơ sở dữ liệu BCD bên ngoài mà bạn chọn. Các thay đổi sẽ được thực hiện đối với kho BCD này và sẽ không ảnh hưởng đến cấu hình hệ thống mặc định của bạn." version="1" />
+    <string key="loadExternalTitle" value="Đang chọn một cửa hàng mới" version="1" />
+    <string key="easybcdFiles" value="Tệp EasyBCD" version="1" />
+    <string key="errorRO1" value="Bạn không có quyền ghi vào tệp đã chọn, tệp được đặt ở chế độ chỉ đọc hoặc được lưu trữ trên phương tiện chỉ đọc." version="1" />
+    <string key="errorRO2" value="Nếu bạn chọn tiếp tục, những thay đổi được thực hiện đối với cửa hàng BCD này sẽ không được lưu. Nhấn 'Có' để tiếp tục và tải kho BCD này ở chế độ chỉ đọc hoặc 'Không' để tiếp tục sử dụng kho BCD trước đó." version="1" />
+    <string key="errorROTitle" value="Đã phát hiện cửa hàng BCD chỉ đọc" version="1" />
+    <string key="bcdLoadedFormat" value="Thông tin BCD được tải từ {0}" version="1" />
+    <string key="noBcd" value="Không có cửa hàng BCD nào được tải. EasyBCD chạy ở chế độ giới hạn." version="1" />
+    <string key="confirmRestart" value="Bạn có chắc chắn muốn khởi động lại máy tính của mình không?" version="1" />
+    <string key="confirmRestartTitle" value="Xác nhận khởi động lại" version="1" />
+    <string key="shutdownStarted" value="Tắt máy đã bắt đầu." version="1" />
+    <string key="hiddenBootIni" value="Boot.ini nằm trên phân vùng khởi động ẩn và không thể tải để người dùng chỉnh sửa bằng EasyBCD.&#xD;&#xA;&#xD;&#xA;Vui lòng gán ký tự ổ đĩa cho phân vùng khởi động ẩn hoặc thay vào đó hãy sử dụng tính năng tự động cấu hình khởi động kép của Windows XP." version="1" />
+    <string key="errorBootIniTitle" value="Không thể tải boot.ini!" version="1" />
+    <string key="errorBootIniFormat" value="EasyBCD không thể phát hiện tệp boot.ini hiện có trên phân vùng khởi động {0}.&#xD;&#xA;&#xD;&#xA;Vui lòng thêm mục nhập Windows XP hoặc Windows 2000 mới để sử dụng tính năng tự động cấu hình boot.ini." version="1" />
+    <string key="usbCreatorText" value="Easy USB Creator giúp chuyển đổi ảnh ISO cho Windows Setup và các công cụ khôi phục khác thành USB có thể khởi động nhanh chóng và dễ dàng (không cần CD hoặc DVD) chỉ bằng một cú nhấp chuột." version="1" />
+    <string key="errorUtility" value="Gặp Lỗi Đang Chạy Tiện Ích" version="1" />
+    <string key="usbCreator" value="Trình tạo USB dễ dàng" version="1" />
+    <string key="powerConsole" value="Bảng điều khiển nguồn EasyBCD" version="1" />
+    <string key="oemKeyText" value="Sử dụng Công cụ khóa sản phẩm OEM Windows miễn phí của NeoSmart Technologies để tra cứu và truy xuất khóa sản phẩm Windows được nhúng trong PC hoặc máy tính xách tay dành cho Windows 8 và Windows 10 của bạn." version="1" />
+    <string key="powerConsoleText" value="Truy cập nhanh vào shell dòng lệnh với đầy đủ đặc quyền quản trị. Sử dụng nó để thực hiện các chức năng hệ thống hoặc truy cập nhanh vào bcdedit và bootect.exe." version="1" />
+    <string key="oemKey" value="Công cụ mã sản phẩm Windows" version="1" />
+    <string key="restoreCds" derive="true" />
+    <string key="restoreCdsText" value="Easy Recovery Essentials cho Windows là một đĩa CD/USB phục hồi và sửa chữa có khả năng khởi động, có thể tự động sửa lỗi PC của bạn vào lần tiếp theo khi nó không khởi động được. Tính năng sửa chữa bằng một cú nhấp chuột của EasyRE sẽ tìm kiếm và sửa hầu hết tất cả các lỗi khởi động, bao gồm lỗi BSOD, lỗi BCD, lỗi cấu hình sai phân vùng, v.v." version="2" />
+    <string key="controlPanel" value="Bảng điều khiển" version="1" />
+    <string key="controlPanelText" value="Khởi chạy Control Panel và sử dụng nó để làm bất cứ điều gì bạn thích." version="1" />
+    <string key="iRebootText" value="Ứng dụng trợ giúp của NeoSmart Technologies dành cho EasyBCD. iReboot nằm trên thanh tác vụ của bạn (chỉ chiếm 400KB bộ nhớ!) và cho phép bạn chọn hệ điều hành nào để khởi động lại một cách nhanh chóng và dễ dàng." version="1" />
+    <string key="errorNoEntries" value="EasyBCD đã phát hiện rằng hiện không có mục nào được cài đặt. Nếu bạn thoát EasyBCD và khởi động lại máy tính, nó sẽ không khởi động được.&#xD;&#xA;&#xD;&#xA;Bạn có chắc chắn muốn thoát trước khi thêm mục mới không?&#xD;&#xA;(không đi nếu không muốn làm hỏng máy :&gt;)" version="1" />
+    <string key="errorNoEntriesTitle" value="Không có mục nào được cài đặt!" version="1" />
+    <string key="errorPathSave" value="EasyBCD không lưu được đường dẫn sao lưu hiện tại làm thư mục sao lưu mặc định. Tùy chọn đã bị vô hiệu hóa." version="1" />
+    <string key="errorPathSaveTitle" value="Sự cố đường dẫn sao lưu mặc định" version="1" />
+    <string key="isoHelp1" value="EasyBCD hỗ trợ tải ảnh ISO ở hai chế độ khác nhau. Xin lưu ý rằng không phải tất cả ISO đều hoạt động chính xác; thông thường ISO thiết lập Linux sẽ không hoạt động." version="1" />
+    <string key="isoHelp2" value="Chạy từ đĩa: Tải nhanh hơn khi khởi động nhưng chạy chậm hơn. Cũng yêu cầu EasyBCD xử lý trước trong quá trình tạo." version="1" />
+    <string key="isoHelp3" value="Tải từ bộ nhớ: Chạy nhanh hơn nhưng mất thời gian tải &quot;upon selection&quot; trong khi khởi động. Có thể bị lỗi đối với các đĩa lớn hơn hoặc các PC cũ hơn." version="1" />
+    <string key="isoHelpTitle" value="Giới thiệu về các tùy chọn ISO" version="1" />
+    <string key="warnDiffDevice" value="Tệp đã chọn được lưu trữ trên một thiết bị khác với tệp khởi động. Nếu bạn định sử dụng mục này để khởi động trên một PC khác với PC bạn đang sử dụng, bạn nên sao chép tệp này vào ổ đĩa ngoài rồi thử lại.&#xD;&#xA;&#xD;&#xA;Bạn có muốn tiếp tục không?" version="1" />
+    <string key="diffDeviceTitle" value="Đã phát hiện mục nhập không di động!" version="1" />
+    <string key="errorNoBcd" value="Không có sổ đăng ký BCD nào được tải - chạy ở chế độ chức năng bị giảm!" version="1" />
+    <string key="bcdExceptionFormat" value="Ngoại lệ BCD 0x{0:X3}" version="1" />
+    <string key="userCancel" value="Người dùng đã hủy thao tác." version="1" />
+    <string key="renameSuccess" value="Đã đổi tên mục nhập thành công" version="1" />
+    <string key="plop" value="Bộ mở rộng BIOS của EasyBCD" version="1" />
+    <string key="entryRemovedFormat" value="{0} đã bị xóa" version="1" />
+    <string key="drive2" value="Ở đĩa" version="1" />
+    <string key="bcdRepaired" value="BCD đã được sửa thành công" version="1" />
+    <string key="configSaved" value="Đã lưu cấu hình mục nhập thành công" version="1" />
+    <string key="backupSuccess" value="BCD đã sao lưu thành công" version="1" />
+    <string key="restoreSuccess" value="Khôi phục đã hoàn tất và thành công" version="1" />
+    <string key="bcdRefresh" value="Dữ liệu BCD được lưu trong bộ nhớ đệm đã được làm mới thành công" version="1" />
+    <string key="optionsSaved" value="Tùy chọn đã được lưu thành công!" version="1" />
+    <string key="orderSaved" value="Đã lưu thứ tự nhập" version="1" />
+    <string key="saveFileTitle" value="Lưu như" version="1" />
+    <string key="easybcdStatus" value="Trạng thái EasyBCD" version="1" />
+    <string key="updateFoundText2" value="Một phiên bản mới của EasyBCD đã được tìm thấy. Bạn có muốn EasyBCD tự động cập nhật lên phiên bản mới nhất không?&#xD;&#xA;&#xD;&#xA;Bấm 'Có' để tự động tải xuống và nâng cấp, 'Không' để xem danh sách thay đổi và nâng cấp thủ công hoặc 'Hủy' để hủy." version="1" />
+    <string key="help" value="Giúp đỡ" version="1" />
+    <string key="browse" value="Duyệt" version="1" />
+    <string key="errorPartTooSmall" value="Phân vùng được chọn quá nhỏ hoặc không có đủ dung lượng trống để trở thành ổ đĩa khởi động mới." version="1" />
+    <string key="operationAborted" value="Hoạt động bị hủy bỏ" version="1" />
+  </strings>
+</localization>
