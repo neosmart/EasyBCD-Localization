@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnAbort" value="&amp;Huỷ bỏ" version="1" />
+    <string key="CommandWindow" value="Cửa sổ lệnh EasyBCD" version="1" />
+  </strings>
+</localization>

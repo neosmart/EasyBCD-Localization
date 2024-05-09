@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="btnOK" derive="true" />
+    <string key="btnCancel" value="Hủy" version="1" />
+    <string key="chkExpertMode" value="Chạy EasyBCD ở chế độ chuyên gia" version="1" />
+    <string key="chkRememberBackup" value="Ghi nhớ thư mục BCD Backup trước khi thoát" version="1" />
+    <string key="lblExpertMode" value="Chế độ chuyên gia không nhắc người dùng trước khi thực hiện các hành động nâng cao!" version="1" />
+    <string key="chkLoadDefaultBcd" value="Tự động tải tệp BCD sau đây khi bắt đầu:" version="1" />
+    <string key="btnBrowseBcd" derive="true" />
+    <string key="chkAutoUpdate" value="Tự động cập nhật mỗi" version="1" />
+    <string key="chkRss" value="Đưa NeoSmart Technologies vào Nền tảng RSS của Windows" version="1" />
+    <string key="numUpdateInterval" derive="true" />
+    <string key="rdoDays" value="Ngày" version="1" />
+    <string key="rdoWeeks" value="Tuần" version="1" />
+    <string key="rdoMonths" value="Tháng" version="1" />
+    <string key="lblLastUpdateCheck" value="Kiểm tra tự động lần cuối: " version="1" />
+    <string key="tabGeneralSettings" value="Cài đặt chung" version="1" />
+    <string key="lblDefaultTab" value="Tab mặc định khi khởi động: " version="1" />
+    <string key="lblDefaultDisplay" value="Chế độ hiển thị mặc định: " version="1" />
+    <string key="lblOverviewFont" value="Phông chữ tổng quan:" version="1" />
+    <string key="lblDetailedFont" value="Phông chữ xem chi tiết: " version="1" />
+    <string key="lblOverviewSize" value="Kích thước: " version="1" />
+    <string key="numFontOverview" derive="true" />
+    <string key="lblOverviewPt" derive="true" />
+    <string key="lblDetailedSize" value="Kích thước: " version="1" />
+    <string key="numFontDetailed" derive="true" />
+    <string key="lblDetailedPt" derive="true" />
+    <string key="chkWordWrap" value="WordWrap được bật theo mặc định" version="1" />
+    <string key="chkSaveWindow" value="Lưu kích thước cửa sổ EasyBCD khi thoát" version="1" />
+    <string key="ResetSize" value="Đặt lại tùy chọn hiển thị" version="1" />
+    <string key="tabDisplayOptions" value="Tùy chọn hiển thị" version="1" />
+    <string key="OptionsDialog" value="Cài đặt EasyBCD" version="1" />
+    <string key="detailed" value="Chi tiết" version="1" />
+    <string key="overview" value="Tổng quan" version="1" />
+    <string key="locateBcd" value="Xác định vị trí cửa hàng BCD hợp lệ" version="1" />
+    <string key="never" value="Không bao giờ" version="1" />
+  </strings>
+</localization>

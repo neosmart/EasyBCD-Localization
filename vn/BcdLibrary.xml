@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="accessViolationFormat" value="Không thể có được quyền truy cập độc quyền vào {0}. Nếu đây là ổ đĩa di động, hãy thử đẩy nó ra và lắp lại rồi thử lại." version="1" />
+    <string key="bcdError" value="Lỗi thực thi BCD!" version="1" />
+    <string key="failedSave" value="Lưu các thay đổi đã thất bại!" version="1" />
+    <string key="accessDeniedTitle" value="Truy cập đã bị từ chối" version="1" />
+    <string key="accessDeniedFormat" value="Quyền truy cập vào {0} đã bị từ chối. Vui lòng kiểm tra xem tệp này không được sử dụng và bạn có quyền xóa/sửa đổi vị trí này hay không." version="1" />
+    <string key="oneEntry" value="Có một mục trong bộ tải khởi động Windows." version="1" />
+    <string key="multiEntriesFormat" value="Có tổng cộng {0} mục được liệt kê trong bộ nạp khởi động." version="1" />
+    <string key="entryNum" derive="true" />
+    <string key="name" value="Tên" version="1" />
+    <string key="bcdId" derive="true" />
+    <string key="drive" value="Ổ đĩa" version="1" />
+    <string key="device" value="Thiết bị" version="1" />
+    <string key="path" value="Đường" version="1" />
+    <string key="default" value="Mặc định" version="1" />
+    <string key="timeout" value="Hết thời gian" version="1" />
+    <string key="none" value="Không có" version="1" />
+    <string key="timeoutFormat" value="{0} giây" version="1" />
+    <string key="skipped" value="Đã bỏ qua" version="1" />
+    <string key="bootDevice" value="Ổ đĩa khởi động" version="1" />
+    <string key="ebcdBootDevice" value="Ổ đĩa khởi động EasyBCD" version="1" />
+    <string key="bootloaderPath" value="Đường dẫn bộ nạp khởi động" version="1" />
+    <string key="ntNotFoundTitle" value="Không tìm thấy cài đặt NT hợp lệ!" version="1" />
+    <string key="ntNotFound" value="EasyBCD không phát hiện được cài đặt hợp lệ của Windows NT-2003 trên tất cả các ổ đĩa được gắn và không thể tiếp tục." version="1" />
+    <string key="manuallyLoad" value="Bạn có muốn tải sổ đăng ký BCD theo cách thủ công để EasyBCD quản lý không? Xin lưu ý rằng EasyBCD yêu cầu bộ tải khởi động BCD (được cài đặt mặc định trên Windows Vista trở lên) và sẽ không hoạt động trong môi trường chỉ có XP." version="1" />
+    <string key="errorBcd" value="Lỗi mở sổ đăng ký BCD" version="1" />
+    <string key="locateValid" value="Xác định vị trí cửa hàng BCD hợp lệ" version="1" />
+    <string key="bcdRegistry" value="Cơ quan đăng ký BCD" version="1" />
+    <string key="partition" value="Vách ngăn" version="1" />
+    <string key="unknown" value="Không xác định" version="1" />
+    <string key="gib" value="Gib" version="1" />
+    <string key="mib" derive="true" />
+    <string key="as" derive="true" />
+    <string key="defragFormat" value="Bắt đầu chống phân mảnh tệp {0}" version="1" />
+    <string key="unnamed" value="Mục nhập không tên" version="1" />
+  </strings>
+</localization>

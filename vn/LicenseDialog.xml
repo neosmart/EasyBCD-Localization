@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="linkLabel" value="Bản sao EasyBCD này yêu cầu mua giấy phép thương mại.&#xD;&#xA;&#xD;&#xA;Vui lòng nhập địa chỉ email hoặc số giấy phép liên quan đến giao dịch mua hàng của bạn. Nhấp vào đây để mua giấy phép hoặc liên hệ với Sales@NeoSmart.net để được hỗ trợ." version="1" />
+    <string key="linkClick" value="Bấm vào đây" version="1" />
+    <string key="linkEmail" derive="true" />
+    <string key="btnSkip" derive="true" />
+    <string key="btnRegister" value="&amp;Đăng ký" version="1" />
+    <string key="lblTitle" value="Phiên bản thương mại EasyBCD" version="1" />
+    <string key="lblLicenseKey" value="Email hoặc Mã bản quyền: " version="1" />
+    <string key="LicenseDialog" value="Phiên bản thương mại EasyBCD" version="1" />
+    <string key="email" derive="true" />
+    <string key="licenseKey" value="Mã bản quyền" version="1" />
+    <string key="seats" derive="true" />
+    <string key="regFailTitle" value="Đăng ký không thành công!" version="1" />
+    <string key="regFail" value="Email hoặc mã cấp phép không chính xác. Vui lòng thử lại." version="1" />
+    <string key="regException" value="Đã xảy ra lỗi khi lấy giấy phép từ máy chủ từ xa. Hãy đảm bảo bạn đã kết nối với Internet hoặc thử lại sau." version="1" />
+    <string key="regExceptionTitle" value="Không thể đăng ký" version="1" />
+    <string key="btnContinue" value="TIếp tục" version="1" />
+    <string key="regSuccess" value="Đăng ký hoàn tất! (yay :D)" version="1" />
+  </strings>
+</localization>

@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="rdoModeBasic" value="Tổng quan" version="1" />
+    <string key="rdoModeDetailed" value="Chi tiết (Chế độ gỡ lỗi)" version="1" />
+    <string key="chkWordWrap" derive="true" />
+    <string key="grpDisplayMode" value="Chế độ hiển thị" version="1" />
+    <string key="tabViewSettings" derive="true" />
+    <string key="numTimeout" derive="true" />
+    <string key="rdoTimeoutNone" value="Chờ người dùng lựa chọn" version="1" />
+    <string key="btnSaveBCD" value="Lưu các thiết lập" version="1" />
+    <string key="grpTimeout" value="Tùy chọn menu" version="2" />
+    <string key="btnDown" value="Xuống" version="1" />
+    <string key="btnRenameEntry" value="Đổi tên" version="1" />
+    <string key="btnDelete" value="Xóa" version="1" />
+    <string key="grpModifyEntries" value="Sửa đổi mục menu" version="1" />
+    <string key="btnBrowse" derive="true" />
+    <string key="rdoTimeoutCount" value="Đếm ngược từ" version="1" />
+    <string key="rdoTimeoutSkip" value="Bỏ qua menu khởi động" version="1" />
+    <string key="btnUp" value="Lên" version="1" />
+    <string key="tabEditMenu" derive="true" />
+    <string key="lblName" value="Tên:" version="1" />
+    <string key="lblPath" value="Đường dẫn:" version="1" />
+    <string key="lblType" value="Loại:" version="1" />
+    <string key="lblDrive" value="Ổ đĩa:" version="1" />
+    <string key="btnAddNewEntry" value="Thêm mục nhập" version="1" />
+    <string key="lblMode" value="Chế độ:" version="1" />
+    <string key="lblFile" value="Tệp:" version="1" />
+    <string key="txtVhdName" derive="true" />
+    <string key="tabPageVhd" value="Ảnh đĩa" version="1" />
+    <string key="txtIsoName" value="Mục NeoSmart ISO" version="1" />
+    <string key="tabPageIso" derive="true" />
+    <string key="txtPeName" value="Ảnh NST WinPE" version="1" />
+    <string key="chkEms" value="EMS đã Kích hoạt" version="1" />
+    <string key="tabPageWinPE" derive="true" />
+    <string key="txtFloppyName" value="Ảnh đĩa mềm NeoSmart" version="1" />
+    <string key="tabPageFloppy" value="Đĩa mềm" version="1" />
+    <string key="btnPlopInstall" value="Cài đặt PLoP" version="1" />
+    <string key="btnPlopRemove" value="Loại bỏ PLoP" version="1" />
+    <string key="lblBiosExtend" value="Bộ mở rộng BIOS của EasyBCD có thể được sử dụng để khởi động từ mạng, CD hoặc USB trên các máy tính không hỗ trợ nó." version="1" />
+    <string key="tabPagePlop" value="Bộ mở rộng BIOS" version="1" />
+    <string key="grpPortable" value="Phương tiện Di động/Bên ngoài" version="1" />
+    <string key="lblWindowsAuto" value="Tự động xác định" version="1" />
+    <string key="chkAutoXp" value="Tự động phát hiện ổ đĩa chính xác" version="1" />
+    <string key="txtWinName" derive="true" />
+    <string key="tabPageWin" derive="true" />
+    <string key="chkGrub" value="Sử dụng bản sao GRUB của EasyBCD" version="1" />
+    <string key="txtLinName" derive="true" />
+    <string key="lblLinAuto" value="Tự động xác định" version="1" />
+    <string key="tabPageLinux" derive="true" />
+    <string key="txtMacName" derive="true" />
+    <string key="tabPageMac" derive="true" />
+    <string key="btnNeoGrub" value="Cài đặt" version="1" />
+    <string key="btnNeoGrubConfig" value="Cấu hình" version="1" />
+    <string key="lblNeoGrub" value="Bộ tải khởi động NeoGrub có thể được sử dụng để khởi động vào Linux và các phiên bản Windows cũ hoặc thậm chí ổ đĩa ẩn." version="1" />
+    <string key="tabPageNeoGrub" derive="true" />
+    <string key="grpOS" value="Các hệ điều hành" version="1" />
+    <string key="tabAddEntry" derive="true" />
+    <string key="btnSaveSettings" value="Lưu các thiết lập" version="1" />
+    <string key="lblLocale" value="Ngôn ngữ:" version="1" />
+    <string key="tabEntryBasic" value="Nền tảng" version="1" />
+    <string key="lblSafeMode" value="Chế độ an toàn:" version="1" />
+    <string key="lblPae" value="Hỗ trợ PAE: " version="1" />
+    <string key="chkEntryUnsigned" value="Cho phép sử dụng trình điều khiển chưa đánh dấu trên Windows 64-bit" version="1" />
+    <string key="lblDep" value="KhôngThựcHiện: " version="1" />
+    <string key="tabEntryAdvanced" value="Trình độ cao" version="1" />
+    <string key="chkEntryKernelDebug" value="Chạy Windows ở chế độ Kernel-Debug" version="1" />
+    <string key="chkEntrySos" value="Chạy ở chế độ SOS/Verbose-Boot" version="1" />
+    <string key="numEntryMemory" derive="true" />
+    <string key="lblDeduct2" value="MiB được khấu trừ khỏi bộ nhớ vật lý" version="2" />
+    <string key="numEntryCpu" derive="true" />
+    <string key="lblLimit2" value="Giới hạn CPU/lõi Windows" version="2" />
+    <string key="tabEntryDeveloper" value="Nhà phát triển" version="1" />
+    <string key="lblAdvancedSettings" value="Lưu ý rằng một số cài đặt có thể không khả dụng tùy thuộc vào mục đang được sửa đổi." version="1" />
+    <string key="grpChangeSettings" value="Thay đổi cài đặt" version="1" />
+    <string key="lblPickLH" value="Chọn một mục từ danh sách bên dưới để điều chỉnh." version="1" />
+    <string key="grpSelectLH" value="Chọn một hệ điều hành" version="1" />
+    <string key="tabAdvanced" derive="true" />
+    <string key="btnBackup" value="Cài đặt sao lưu" version="1" />
+    <string key="btnRestore" value="Khôi phục lại bản sao lưu" version="1" />
+    <string key="grpBackupRestore" value="Sao lưu và khôi phục cài đặt Bootloader" version="1" />
+    <string key="rdoBcdChange" value="Thay đổi ổ đĩa khởi động" version="1" />
+    <string key="rdoBcdRepair" value="Tạo lại/sửa chữa các tập tin khởi động" version="1" />
+    <string key="btnBcdRescue" value="Thực hiện hành động" version="1" />
+    <string key="rdoBcdReset" value="Đặt lại cấu hình BCD" version="1" />
+    <string key="grpDiagnostics" value="Tùy chọn quản lý BCD" version="1" />
+    <string key="tabBcdInstall" derive="true" />
+    <string key="btnMakeBootable" value="Cài đặt BCD" version="1" />
+    <string key="lblUsbPartitions" value="Phân vùng:" version="1" />
+    <string key="lblCreateBootable" value="EasyBCD có thể tự động hóa quá trình tạo phương tiện có thể khởi động. Chọn một phân vùng bên dưới để bắt đầu." version="1" />
+    <string key="grpCreateBootableExternal" value="Tạo phương tiện bên ngoài có khả năng khởi động" version="1" />
+    <string key="btnMbrWrite" value="Viết MBR" version="1" />
+    <string key="rdoMbrXP" value="Cài đặt bộ tải khởi động Windows XP NTLDR" version="2" />
+    <string key="grpBootloader" value="Tùy chọn cấu hình MBR" version="1" />
+    <string key="rdoMbrVista" value="Cài đặt bộ tải khởi động Vista+ BCD/bootmgr" version="1" />
+    <string key="tabMbrSetup" derive="true" />
+    <string key="grpUtils" value="Tiện ích hữu ích" version="1" />
+    <string key="tabUtilities" derive="true" />
+    <string key="btnBcdInstall" value="Sao lưu/Sửa chữa BCD" version="1" />
+    <string key="btnUtilities" value="Tiện ích hữu ích" version="1" />
+    <string key="btnMbrSetup" value="Triển khai BCD" version="1" />
+    <string key="btnAdvanced" value="Cài đặt nâng cao" version="1" />
+    <string key="btnAddEntry" value="Thêm mục nhập mới" version="1" />
+    <string key="btnEditMenu" value="Chỉnh sửa menu khởi động" version="1" />
+    <string key="btnViewSettings" value="Xem các cài đặt" version="1" />
+    <string key="grpToolbox" value="Hộp công cụ EasyBCD" version="1" />
+    <string key="mnuSelectBcd" value="&amp;Chọn cửa hàng BCD" version="1" />
+    <string key="mnuLanguage" value="&amp;Chọn ngôn ngữ" version="1" />
+    <string key="mnuLoadSystemBcd" value="Tải S&amp;ystem BCD" version="1" />
+    <string key="mnuRescan" value="&amp;Làm mới cửa hàng BCD" version="1" />
+    <string key="mnuRegister" value="&amp;Đăng ký" version="1" />
+    <string key="mnuDonate" value="&amp;Quyên góp" version="1" />
+    <string key="mnuUpdate" value="Kiểm tra &amp;Cập nhật" version="1" />
+    <string key="mnuFile" value="&amp;Tệp" version="1" />
+    <string key="mnuExit" value="&amp;Thoát" version="1" />
+    <string key="mnuOptions" value="&amp;Lựa chọn" version="1" />
+    <string key="mnuEditLegacy" value="Chỉnh sửa &amp;Mục kế thừa" version="1" />
+    <string key="mnuRestart" value="&amp;Khởi động lại máy tính" version="1" />
+    <string key="mnuTools" value="&amp;Công cụ" version="1" />
+    <string key="mnuDocumentation" value="&amp;Tài liệu" version="1" />
+    <string key="mnuSupport" value="Nhận &amp;Hỗ trợ" version="1" />
+    <string key="mnuBug" value="&amp;Gửi một lỗi" version="1" />
+    <string key="mnuDonate2" value="&amp;Quyên góp" version="1" />
+    <string key="mnuAbout" value="&amp;Về" version="1" />
+    <string key="mnuHelp" value="&amp;Giúp đỡ" version="1" />
+    <string key="MainUI" derive="true" />
+    <string key="colName" value="Mục" version="1" />
+    <string key="colDefault" value="Mặc định" version="1" />
+    <string key="cbxVhdType" value="Microsoft VHD&#xD;&#xA;Ảnh đĩa cứng thô&#xD;&#xA;Ảnh phân vùng thô" version="1" />
+    <string key="cbxIsoMode" value="Chạy từ đĩa&#xD;&#xA;Tải từ bộ nhớ" version="1" />
+    <string key="cbxPeType" value="Hình ảnh WIM (Đĩa Ram)&#xD;&#xA;Bố cục hệ thống tập tin được trích xuất" version="1" />
+    <string key="cbxWinType" derive="true" />
+    <string key="cbxLinType" value="GRUB (Kế thừa)&#xD;&#xA;GRUB 2&#xD;&#xA;LILO/eLILO&#xD;&#xA;FreeBSD/PC-BSD&#xD;&#xA;Wubi&#xD;&#xA;SysLinux" version="1" />
+    <string key="cbxMacType" value="EFI (Mặc định)&#xD;&#xA;MBR" version="1" />
+    <string key="cbxEntryDep" value="OptIn&#xD;&#xA;OptOut&#xD;&#xA;Luôn bật&#xD;&#xA;Luôn tắt" version="1" />
+    <string key="cbxEntryPae" value="Mặc định&#xD;&#xA;Kích hoạt&#xD;&#xA;Không kích hoạt" version="1" />
+    <string key="cbxEntrySafe" value="Bình thường&#xD;&#xA;Chế độ an toàn&#xD;&#xA;Chế độ an toàn với mạng&#xD;&#xA;VGA cơ bản&#xD;&#xA;Sửa chữa thư mục hoạt động" version="1" />
+    <string key="emptyList" value="Không có mục nào được phát hiện!" version="1" />
+    <string key="efiTitle" value="Đã phát hiện bộ tải khởi động EFI!" version="1" />
+    <string key="efiMessage" value="EasyBCD đã phát hiện rằng máy của bạn hiện đang khởi động ở chế độ EFI. Do những hạn chế do Microsoft đặt ra, nhiều tính năng đa khởi động của EasyBCD không thể sử dụng được ở chế độ EFI và đã bị vô hiệu hóa.&#xD;&#xA;&#xD;&#xA;Nhấn 'OK' để tiếp tục hoặc 'Trợ giúp' để đọc thêm về những hạn chế này và các cách giải quyết có thể có." version="1" />
+    <string key="lstFreeDos" derive="true" />
+    <string key="chkMetroUI" value="Sử dụng bộ tải khởi động Metro" version="1" />
+  </strings>
+</localization>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <strings>
+    <string key="OKButton" derive="true" />
+    <string key="seatsAllowed" value="người dùng/thiết bị đã được phép" version="1" />
+    <string key="unlicensed" value="Bản sao không có giấy phép!" version="1" />
+    <string key="version" value="Phiên bản" version="1" />
+    <string key="copyright" value="Bản quyền © NeoSmart Technologies 2006 - {0}" version="2" />
+    <string key="aboutText1" value="EasyBCD là công cụ quản lý bootloader và bootloader tối ưu. Không có gì đảm bảo rằng EasyBCD sẽ hoạt động với tất cả các phiên bản Windows - hãy luôn đảm bảo rằng bạn đang sử dụng phiên bản mới nhất hiện có.&#xD;&#xA;&#xD;&#xA;• Trưởng nhóm phát triển: Mahmoud H. Al-Qudsi&#xD;&#xA;• Thành phần hoạt chất: Mồ hôi, máu và nước mắt&#xD;&#xA;• Dịch thuật: Nguyễn Đăng Dương (thực ra mình mới 14 tuổi thôi :3, Roblox username: phamthihongtuoi8)&#xD;&#xA;• Được hỗ trợ bởi C++, C#, Dr. Pepper, Excedrin và Visine&#xD;&#xA;• Tất cả giày của bạn đều thuộc về chúng tôi!" version="1" />
+    <string key="thanksFormat" value="Xin gửi lời cảm ơn đặc biệt tới nhóm Grub4Dos, PLoP{0} và UltraDefrag!&#xD;&#xA;&#xD;&#xA;Bản phân phối EasyBCD này đi kèm với các thành phần độc lập (Grub4Dos và UltraDefrag) được cấp phép theo các điều khoản của giấy phép GPLv2. Để biết thêm thông tin, vui lòng xem tệp LICENSE trong thư mục cài đặt." version="1" />
+    <string key="title" value="Về chúng tôi {0}" version="1" />
+  </strings>
+</localization>
